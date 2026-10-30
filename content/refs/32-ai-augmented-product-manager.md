@@ -1,0 +1,24 @@
+- Segal, N. and Rachitsky, L. AI tools are overdelivering. Lenny's Newsletter, 2025. <https://www.lennysnewsletter.com/p/ai-tools-are-overdelivering-results> Survey of 1,750 tech workers on PM AI use cases, time saved and demand gaps.
+- Cagan, M. The AI Productivity Paradox. SVPG, 2026. <https://www.svpg.com/the-ai-productivity-paradox/> Faster output without better outcomes; build to learn versus build to earn.
+- Cagan, M. Product Coaching and AI. SVPG, 2026. <https://www.svpg.com/product-coaching-and-ai/> Using a configured model as a product coach and its limits.
+- Cagan, M. Experimentation, AI and the Product Model. SVPG, 2026. <https://www.svpg.com/experimentation-ai-and-the-product-model/> Deciding what to build as the hard part; evals versus A/B tests.
+- Rachitsky, L. All of the Lenny and Friends Summit talks are now online. Lenny's Newsletter, 2026. <https://www.lennysnewsletter.com/p/all-of-the-lenny-and-friends-summit> Practitioner views on judgment, taste and the expanding PM role.
+- Matthews, C. A guide to AI prototyping for product managers. Lenny's Newsletter, 2025. <https://www.lennysnewsletter.com/p/a-guide-to-ai-prototyping-for-product> Prototyping tool classes and workflow for the workflow map.
+- Atlassian. The State of Teams 2026. Atlassian, 2026. <https://www.atlassian.com/blog/state-of-teams-2026> Speed versus ROI and use versus embedded adoption data.
+- METR. Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity. METR, 2025. <https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/> Measured slowdown versus perceived speedup.
+- Mollick, E. Centaurs and Cyborgs on the Jagged Frontier. One Useful Thing, 2023. <https://www.oneusefulthing.org/p/centaurs-and-cyborgs-on-the-jagged> BCG field experiment results and the jagged frontier idea.
+- Mollick, E. Making AI Work: Leadership, Lab, and Crowd. One Useful Thing, 2025. <https://www.oneusefulthing.org/p/making-ai-work-leadership-lab-and> Team adoption model and secret cyborgs.
+- Rajasekaran, P., Dixon, E., Ryan, C. and Hadfield, J. Effective context engineering for AI agents. Anthropic, 2025. <https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents> Context engineering principles behind the context pack.
+- Willison, S. Context engineering. simonwillison.net, 2025. <https://simonwillison.net/2025/Jun/27/context-engineering/> Origin and spread of the term context engineering.
+- Anthropic. Introducing Agent Skills. Claude blog, 2025. <https://claude.com/blog/skills> Skills as packaged procedures and the open standard.
+- Schluntz, E. and Zhang, B. Building effective agents. Anthropic, 2024. <https://www.anthropic.com/engineering/building-effective-agents> Workflows versus agents and the automation ladder.
+- Anthropic. Best practices for Claude Code. Claude Code docs, 2026. <https://code.claude.com/docs/en/best-practices> Interview-me briefs, short memory files, checks to run and review against a spec.
+- Anthropic. Prompt engineering overview. Claude Platform docs, 2026. <https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/overview> Success criteria and tests before prompt work.
+- Anthropic. What are projects. Claude Help Center, 2026. <https://support.claude.com/en/articles/9517075-what-are-projects> Projects, knowledge and shared instructions for context packs.
+- Anthropic. Cowork. Claude, 2026. <https://claude.com/blog/cowork-research-preview> Knowledge-work agent capabilities, scheduled tasks and admin controls.
+- Anthropic. How Anthropic teams use Claude Code. Claude blog, 2025. <https://claude.com/blog/how-anthropic-teams-use-claude-code> Non-engineering team uses including edge-case mapping.
+- Model Context Protocol. What is the Model Context Protocol. modelcontextprotocol.io, 2026. <https://modelcontextprotocol.io/docs/getting-started/intro> What connectors are and how harnesses reach PM systems.
+- Microsoft WorkLab. 2025: The Year the Frontier Firm Is Born. Microsoft, 2025. <https://www.microsoft.com/en-us/worklab/work-trend-index/2025-the-year-the-frontier-firm-is-born> Agent boss and human-agent ratio concepts.
+- NIST. AI Risk Management Framework: Generative Artificial Intelligence Profile (NIST AI 600-1). NIST, 2024. <https://www.nist.gov/publications/artificial-intelligence-risk-management-framework-generative-artificial-intelligence> Generative AI risk list for the usage policy.
+- OWASP GenAI Security Project. OWASP Top 10 for LLM Applications 2025. OWASP, 2025. <https://genai.owasp.org/llm-top-10/> Prompt injection, disclosure and excessive agency risks for PM harnesses.
+- European Union. EU AI Act Article 4: AI literacy. artificialintelligenceact.eu, 2024. <https://artificialintelligenceact.eu/article/4/> AI literacy duty that a team usage policy helps meet.

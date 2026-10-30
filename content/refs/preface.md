@@ -1,0 +1,1 @@
+- eCornell. Product Management 360 certificate program page. Cornell University, accessed 2026-10-30. <https://ecornell.cornell.edu/certificates/engineering/product-management-360/> Course list used for the course map. The handbook is independent of Cornell and eCornell.

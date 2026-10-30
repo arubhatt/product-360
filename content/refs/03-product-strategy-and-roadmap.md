@@ -1,0 +1,30 @@
+- Rumelt, Richard P. *Good Strategy/Bad Strategy*. Crown Business, 2011. Kernel of strategy and hallmarks of bad strategy (read via secondary summaries).
+- Rekhi, Sachin. Good Strategy, Bad Strategy by Richard Rumelt. sachinrekhi.com, n.d. <https://sachinrekhi.com/good-strategy-bad-strategy-richard-rumelt> Secondary check of the kernel definitions.
+- Lafley, A. G. and Martin, Roger L. *Playing to Win*. Harvard Business Review Press, 2013. Strategy choice cascade (five questions).
+- Farnam Street. Playing to Win: How Strategy Really Works. fs.blog, 2013. <https://fs.blog/2013/03/playing-to-win-how-strategy-really-works/> Secondary summary of the cascade.
+- Martin, Roger L. The Big Lie of Strategic Planning. *Harvard Business Review*, 2014. <https://hbr.org/2014/01/the-big-lie-of-strategic-planning> Planning versus strategy.
+- Biddle, Gibson. Ask Gib: How do all your product strategy frameworks fit together? Ask Gib (Substack), 2025. <https://askgib.substack.com/p/ask-gib-how-do-all-your-product-strategy> DHM, GEM, GLEe, SMT and roadmap sequence.
+- McBride, Sean. RICE: Simple prioritization for product managers. Intercom blog, 2018. <https://www.intercom.com/blog/rice-simple-prioritization-for-product-managers/> RICE formula, scales and caveats.
+- Gilad, Itamar. The tool that will help you choose better product ideas. itamargilad.com, n.d. <https://itamargilad.com/the-tool-that-will-help-you-choose-better-product-ideas/> ICE attribution to Sean Ellis and the Confidence Meter.
+- Agile Business Consortium. MoSCoW Prioritisation. DSDM Agile Project Framework, n.d. <https://www.agilebusiness.org/?p=1907> MoSCoW categories and 60 percent Must guidance.
+- Zacarias, Daniel. The Complete Guide to the Kano Model. Folding Burritos, n.d. <https://foldingburritos.com/blog/kano-model/> Kano categories, question pair and category decay.
+- Kano, Noriaki et al. Attractive Quality and Must-be Quality. Japanese Society for Quality Control, 1984. Original Kano paper (cited via Zacarias).
+- Reinertsen, Donald G. *The Principles of Product Development Flow*. Celeritas, 2009. Cost of delay and CD3.
+- Scaled Agile. WSJF. SAFe Framework, n.d. <https://framework.scaledagile.com/wsjf> WSJF definition and cost of delay components.
+- Black Swan Farming. Cost of Delay. blackswanfarming.com, n.d. <https://blackswanfarming.com/cost-of-delay/> Cost of delay and CD3 definitions.
+- Ulwick, Anthony. *What Customers Want*. McGraw-Hill, 2005. Opportunity scoring.
+- Bastow, Janna. I invented the Now-Next-Later roadmap. ProdPad blog, 2022. <https://www.prodpad.com/blog/invented-now-next-later-roadmap/> Now, Next, Later definitions and origin.
+- Lombardo, C. Todd, McCarthy, Bruce, Ryan, Evan and Connors, Michael. *Product Roadmaps Relaunched*. O'Reilly Media, 2017. Theme-based roadmap components (to verify against the book).
+- Cagan, Marty. The Inconvenient Truth About Product. SVPG, 2013. <https://www.svpg.com/the-inconvenient-truth-about-product/> Why feature roadmaps fail.
+- Cagan, Marty. The Alternative to Roadmaps. SVPG, 2015. <https://www.svpg.com/the-alternative-to-roadmaps/> Outcomes and high-integrity commitments.
+- Cagan, Marty. Predictability vs Outcomes. SVPG, 2026. <https://www.svpg.com/predictability-vs-outcomes/> Commitments versus bets in 2026.
+- Cagan, Marty. Experimentation, AI and the Product Model. SVPG, 2026. <https://www.svpg.com/experimentation-ai-and-the-product-model/> AI shifts the bottleneck to deciding what to build.
+- Cagan, Marty. The AI Productivity Paradox. SVPG, 2026. <https://www.svpg.com/the-ai-productivity-paradox/> AI speeds output, not outcomes.
+- Schwaber, Ken and Sutherland, Jeff. The Scrum Guide. scrumguides.org, 2020. <https://scrumguides.org/scrum-guide.html> Product Backlog, Product Goal and refinement.
+- Pichler, Roman. Make the Product Backlog DEEP. romanpichler.com, 2010 (updated 2024). <https://www.romanpichler.com/blog/make-the-product-backlog-deep/> Backlog hygiene attributes.
+- Singer, Ryan. Bets, Not Backlogs. *Shape Up*, 37signals, 2019. <https://basecamp.com/shapeup/2.1-chapter-07> Betting table and the case against backlogs.
+- Torres, Teresa. Opportunity Solution Trees. Product Talk, 2023. <https://www.producttalk.org/opportunity-solution-tree/> Linking outcomes to opportunities and backlog bets.
+- METR. Measuring AI Ability to Complete Long Tasks. metr.org, 2025. <https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/> Pace of agent capability growth.
+- Anthropic. Model deprecations. Claude Platform Docs, 2026. <https://platform.claude.com/docs/en/about-claude/model-deprecations> Model retirement notice and cadence.
+- Anthropic. Newsroom. anthropic.com, 2026. <https://www.anthropic.com/news> 2026 model release dates.
+- European Commission. AI Act: Regulatory framework for AI. digital-strategy.ec.europa.eu, 2026. <https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai> AI Act timeline and Omnibus delays.

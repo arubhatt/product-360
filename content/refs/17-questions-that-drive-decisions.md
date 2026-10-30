@@ -1,0 +1,32 @@
+- Ries, Eric. Vanity Metrics vs. Actionable Metrics. The Tim Ferriss Show blog, 2009. <https://tim.blog/2009/05/19/vanity-metrics-vs-actionable-metrics/> Vanity versus actionable metrics, cohorts and per-customer measures.
+- Ries, Eric. Why Vanity Metrics Are Dangerous. Startup Lessons Learned, 2009. <http://www.startuplessonslearned.com/2009/12/why-vanity-metrics-are-dangerous.html> Questions that totals cannot answer.
+- Ries, Eric. The Lean Startup. Crown Business, 2011. <https://theleanstartup.com/book> Chapter 7 on innovation accounting and the three tests for reports: actionable, accessible and auditable.
+- Ries, Eric. The Lean Startup Principles. The Lean Startup, 2011. <https://theleanstartup.com/principles> Build-Measure-Learn, innovation accounting and actionable metrics.
+- Bezos, Jeff. 2015 Letter to Shareholders. Amazon.com via SEC EDGAR, 2016. <https://www.sec.gov/Archives/edgar/data/1018724/000119312516530910/d168744dex991.htm> Type 1 and Type 2 decisions.
+- Bezos, Jeff. 2016 Letter to Shareholders. Amazon.com via SEC EDGAR, 2017. <https://www.sec.gov/Archives/edgar/data/1018724/000119312517120198/d373368dex991.htm> Deciding with about 70 percent of information, disagree and commit, resisting proxies.
+- Bezos, Jeff. 2017 Letter to Shareholders. Amazon.com via SEC EDGAR, 2018. <https://www.sec.gov/Archives/edgar/data/1018724/000119312518121161/d456916dex991.htm> Narrative memos instead of slides.
+- Kahneman, Daniel, Dan Lovallo and Olivier Sibony. Before You Make That Big Decision. Harvard Business Review, 2011. <https://hbr.org/2011/06/the-big-idea-before-you-make-that-big-decision> Bias checklist for reviewing a team's recommendation.
+- Duke, Annie. Thinking in Bets. Portfolio, 2018. <https://www.penguinrandomhouse.com/books/552885/thinking-in-bets-by-annie-duke/> Decision quality versus outcome quality.
+- Duke, Annie. Books. AnnieDuke.com, 2026. <https://www.annieduke.com/books/> Quit and How to Decide tools such as premortems and kill criteria.
+- Spetzler, Carl, Hannah Winter and Jennifer Meyer. Decision Quality. Wiley, 2016. <https://www.wiley.com/en-us/Decision+Quality%3A+Value+Creation+from+Better+Business+Decisions-p-9781119144670> Six-step decision quality framework.
+- Wikipedia contributors. Decision Quality. Wikipedia, 2026. <https://en.wikipedia.org/wiki/Decision_quality> Six elements and weakest-link principle.
+- Wikipedia contributors. Goodhart's Law. Wikipedia, 2026. <https://en.wikipedia.org/wiki/Goodhart%27s_law> Goodhart 1975 and Strathern 1997 wording.
+- Hubbard, Douglas W. How to Measure Anything. Wiley, 2014. <https://www.wiley.com/en-us/How+to+Measure+Anything%3A+Finding+the+Value+of+Intangibles+in+Business%2C+3rd+Edition-p-9781118539279> Measuring intangibles to support decisions.
+- Rodden, Kerry, Hilary Hutchinson and Xin Fu. Measuring the User Experience on a Large Scale. CHI 2010 via Google Research, 2010. <https://research.google/pubs/measuring-the-user-experience-on-a-large-scale-user-centered-metrics-for-web-applications/> HEART framework and mapping goals to metrics.
+- Torres, Teresa. Opportunity Solution Trees. Product Talk, 2023. <https://www.producttalk.org/opportunity-solution-trees/> Outcome, opportunity, solution and assumption test layers.
+- Cagan, Marty. The Four Big Risks. SVPG, 2017. <https://www.svpg.com/four-big-risks/> Value, usability, feasibility and viability questions for the build stage.
+- Andreessen, Marc. The Only Thing That Matters. Pmarchive, 2007. <https://pmarchive.com/guide_to_startups_part4.html> Product/market fit definition.
+- Ellis, Sean and GoPractice. Product/Market Fit Survey. PMF Survey, 2026. <https://pmfsurvey.com/> Attribution of the product/market fit survey.
+- Wikipedia contributors. Van Westendorp's Price Sensitivity Meter. Wikipedia, 2026. <https://en.wikipedia.org/wiki/Van_Westendorp%27s_Price_Sensitivity_Meter> Four price perception questions.
+- Brynjolfsson, Erik and Kristina McElheran. The Rapid Adoption of Data-Driven Decision-Making. American Economic Review, 2016. <https://www.aeaweb.org/articles?id=10.1257/aer.p20161016> Adoption of data-driven decision making in US plants.
+- Kohavi, Ron, Diane Tang and Ya Xu. Trustworthy Online Controlled Experiments. Cambridge University Press, 2020. <https://experimentguide.com/> Overall evaluation criterion for launch decisions.
+- Heath, Chip and Dan Heath. Decisive. Heath Brothers, 2013. <https://heathbrothers.com/books/decisive/> Four-step process to counter decision biases.
+- Croll, Alistair and Ben Yoskovitz. Lean Analytics. Lean Analytics Book, 2013. <https://leananalyticsbook.com/> One Metric That Matters.
+- Anthropic. Introducing the Model Context Protocol. Anthropic, 2024. <https://www.anthropic.com/news/model-context-protocol> MCP as an open standard for connecting AI to data.
+- Anthropic. Donating the Model Context Protocol and Establishing the Agentic AI Foundation. Anthropic, 2025. <https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation> MCP governance and adoption figures.
+- Anthropic. Prompting Best Practices. Claude Platform Docs, 2026. <https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices> Giving the model context and purpose when framing questions.
+- dbt Labs. dbt Semantic Layer. dbt Docs, 2026. <https://docs.getdbt.com/docs/use-dbt-semantic-layer/dbt-sl> Governed metric definitions available to AI tools through MCP.
+- Snowflake. Cortex Analyst. Snowflake Docs, 2026. <https://docs.snowflake.com/en/user-guide/snowflake-cortex/cortex-analyst> Why natural-language analytics needs semantic models.
+- Mixpanel. MCP Server. Mixpanel Docs, 2026. <https://docs.mixpanel.com/docs/features/mcp> Funnels, retention and flows requested in natural language.
+- Amplitude. AI Agents. Amplitude, 2026. <https://amplitude.com/ai-agents> Agents that monitor metrics and propose analyses.
+- BIRD Team. BIRD Text-to-SQL Benchmark. BIRD Bench, 2026. <https://bird-bench.github.io/> Human versus model accuracy on natural-language data questions.

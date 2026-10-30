@@ -1,0 +1,33 @@
+- Ramanujam, Madhavan and Tacke, Georg. Monetizing Innovation: How Smart Companies Design the Product Around the Price. Wiley, 2016. <https://www.wiley.com/en-us/Monetizing+Innovation%3A+How+Smart+Companies+Design+the+Product+Around+the+Price-p-9781119240860> Core thesis, four failure types and nine rules from the contents and chapter 1 excerpt.
+- Simon-Kucher. Monetizing Innovation book page. Simon-Kucher, 2016. <https://www.simon-kucher.com/en/insights/monetizing-innovation> Authorship and framing of the book.
+- Poyar, Kyle. The State of B2B Monetization in 2026. Growth Unhinged, 2026. <https://www.growthunhinged.com/p/the-state-of-b2b-monetization-in-2026> Hybrid 37 percent, credits 29 percent, investor preferences and AI margin targets.
+- Poyar, Kyle. The AI Monetization Debate Shifts Again. Growth Unhinged, 2026. <https://www.growthunhinged.com/p/usage-based-pricing-for-ai> Share of AI-native companies on variable or hybrid pricing.
+- Poyar, Kyle. Pricing Used to Last 18 Months. Now It's Down to 6. Growth Unhinged, 2026. <https://www.growthunhinged.com/p/saas-pricing-out-of-date> Pricing review questions and lost-deal heuristic.
+- Poyar, Kyle. A New Vision for AI Pricing. Growth Unhinged, 2026. <https://www.growthunhinged.com/p/a-new-vision-for-ai-pricing> Credits mixing value and cost logic and the Figma credit example.
+- Litterst, Rob. 2025 State of SaaS Pricing Changes. Growth Unhinged, 2026. <https://www.growthunhinged.com/p/2025-state-of-saas-pricing-changes> Growth in credit offerings and AI add-ons folded into core tiers.
+- Poyar, Kyle. Why Everyone's Switching to AI Credits. Growth Unhinged, 2025. <https://www.growthunhinged.com/p/ai-credit-pricing> Definition, pros and cons of credit pricing.
+- Medina, Manny. A New Framework for AI Agent Pricing. Growth Unhinged, 2025. <https://www.growthunhinged.com/p/ai-agent-pricing-framework> Per agent, action, workflow and outcome models and outcome prerequisites.
+- Poyar, Kyle. What's Changing with AI Monetization. Growth Unhinged, 2025. <https://www.growthunhinged.com/p/whats-changing-with-ai-monetization> Earlier AI pricing mix for trend context.
+- Poyar, Kyle. Your Guide to PLG Pricing 201. Growth Unhinged, 2023. <https://www.growthunhinged.com/p/your-guide-to-plg-pricing-201> Packaging team and org capabilities into higher tiers.
+- Poyar, Kyle. How to Run a Pricing Project. Growth Unhinged, 2021. <https://www.growthunhinged.com/p/how-to-run-a-pricing-project> Phases of a pricing project and account migration modeling.
+- Poyar, Kyle. Usage-Based Pricing 2.0. Growth Unhinged, 2021. <https://www.growthunhinged.com/p/usage-based-pricing-20> Five criteria for a value metric.
+- Poyar, Kyle. The State of B2B Contracts. Growth Unhinged, 2024. <https://www.growthunhinged.com/p/the-state-of-b2b-contracts> Give-get concessions for discounts and renewal terms.
+- Intercom. Pricing. Intercom, 2026. <https://www.intercom.com/pricing> Fin price per outcome and the outcome definition.
+- Salesforce. Salesforce Announces New Flexible Agentforce Pricing. Salesforce Newsroom, 2025. <https://www.salesforce.com/news/press-releases/2025/05/15/agentforce-flexible-pricing-news/> Flex Credits at 0.10 dollars per action after 2 dollars per conversation.
+- Cursor. Clarifying Our Pricing. Cursor, 2025. <https://cursor.com/blog/june-2025-pricing> Pricing change backlash, apology and refunds.
+- Zendesk. Zendesk Introduces Outcome-Based Pricing for AI Agents. Zendesk, 2024. <https://www.zendesk.com/newsroom/articles/zendesk-outcome-based-pricing/> Outcome-based pricing launch for AI agents.
+- Zendesk. About Automated Resolutions. Zendesk Help Center, 2026. <https://support.zendesk.com/hc/en-us/articles/5352026794010> Operational outcome definition with verification and time windows.
+- Zendesk. Automated Resolutions for AI Agents. Zendesk Help Center, 2026. <https://support.zendesk.com/hc/en-us/articles/6970583409690> Escalation exclusion and plan allowances.
+- Metronome. Pricing Model Spotlight: Inside HubSpot's Move to Outcome-Based AI Credits. Metronome, 2026. <https://metronome.com/blog/pricing-model-spotlight-inside-hubspots-move-to-outcome-based-ai-credits> Resolved-conversation rules and micro-outcome lesson.
+- Watters, Will. 2026 Trends From Cataloging 50+ AI Pricing Models. Metronome, 2026. <https://metronome.com/blog/2026-trends-from-cataloging-50-ai-pricing-models> Taxonomy of AI pricing models and three roles of credits.
+- Keep, Stephanie. Beyond the Seat: Architecting Hybrid AI Pricing Without the Chaos. Metronome, 2026. <https://metronome.com/blog/beyond-the-seat-architecting-hybrid-ai-pricing-without-the-chaos> Hybrid architecture, spend controls and pre-launch checklist.
+- Metronome. Our Next Chapter: Metronome Is Now Part of Stripe. Metronome, 2026. <https://metronome.com/blog/our-next-chapter-metronome-is-now-part-of-stripe> Stripe acquisition of a usage billing provider.
+- GitHub. Requests in GitHub Copilot. GitHub Docs, 2026. <https://docs.github.com/en/copilot/concepts/billing/copilot-requests> Allowances, overage budgets and fallback as spend controls.
+- Microsoft. Copilot for All: Introducing Microsoft 365 Copilot Chat. Microsoft, 2025. <https://www.microsoft.com/en-us/microsoft-365/blog/2025/01/15/copilot-for-all-introducing-microsoft-365-copilot-chat/> Metered agent pricing in 2025.
+- Sawtooth Software. Van Westendorp Pricing Sensitivity Meter. Sawtooth Software, 2026. <https://sawtoothsoftware.com/resources/blog/posts/van-westendorp-pricing-sensitivity-meter> Four questions, price points and limitations.
+- Sawtooth Software. Gabor-Granger Pricing Method. Sawtooth Software, 2026. <https://sawtoothsoftware.com/resources/blog/posts/gabor-granger-pricing-method> Sequential price questions and revenue curve.
+- Sawtooth Software. Conjoint Analysis. Sawtooth Software, 2026. <https://sawtoothsoftware.com/conjoint-analysis> Choice-based conjoint outputs and willingness to pay.
+- Sawtooth Software. MaxDiff. Sawtooth Software, 2026. <https://sawtoothsoftware.com/maxdiff> Best-worst scaling for feature ranking.
+- Marn, Michael V. and Rosiello, Robert L. Managing Price, Gaining Profit. Harvard Business Review, 1992. <https://hbr.org/1992/09/managing-price-gaining-profit> Origin of the pocket price concept for discount governance.
+- Wikipedia contributors. Price Elasticity of Demand. Wikipedia, 2026. <https://en.wikipedia.org/wiki/Price_elasticity_of_demand> Elasticity definition and link to revenue.
+- eCornell. Pricing Strategy. Cornell University, 2026. <https://ecornell.cornell.edu/courses/product-management/pricing-strategy/> Course outcomes the chapter maps to.

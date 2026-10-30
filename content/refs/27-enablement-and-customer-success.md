@@ -1,0 +1,36 @@
+- Murphy, Lincoln. Customer Success Definition. Sixteen Ventures, 2023. <https://sixteenventures.com/customer-success-definition> Definition of customer success and the Goal plus Appropriate Experience formula.
+- Murphy, Lincoln. Desired Outcome. Sixteen Ventures, 2015. <https://sixteenventures.com/desired-outcome> Required Outcome and Appropriate Experience.
+- Murphy, Lincoln. Quarterly Business Review. Gainsight, 2014. <https://www.gainsight.com/blog/quarterly-business-review/> QBR attendees, structure and anti-patterns.
+- Gainsight. Net Revenue Retention. Gainsight, 2026. <https://www.gainsight.com/blog/net-revenue-retention/> NRR and GRR formulas and secondary benchmarks.
+- Gainsight. Customer Health Score. Gainsight, 2022. <https://www.gainsight.com/blog/customer-health-score/> Six health score categories and when to revisit the score.
+- Gainsight. Customer Onboarding. Gainsight, 2025. <https://www.gainsight.com/blog/customer-onboarding/> Onboarding phases, handoffs and metrics.
+- Gainsight. Customer Success: The Essential Guide. Gainsight, n.d. <https://www.gainsight.com/essential-guide/customer-success/> Post-sale lifecycle phases.
+- John, Ramli and Bush, Wes. Time to Value. ProductLed, 2024. <https://productled.com/blog/time-to-value> Time to value and the straight-line onboarding method.
+- Huthwaite International. SPIN Selling. Huthwaite International, n.d. <https://www.huthwaiteinternational.com/spin-selling> Origin and research basis of SPIN.
+- Wikipedia contributors. Neil Rackham. Wikipedia, n.d. <https://en.wikipedia.org/wiki/Neil_Rackham> SPIN publication year, study size and question types.
+- Wikipedia contributors. The Challenger Sale. Wikipedia, n.d. <https://en.wikipedia.org/wiki/The_Challenger_Sale> Authors, year and the five seller profiles.
+- Mercer, Kimberly. Sales Battlecards. Klue, 2016. <https://klue.com/blog/sales-battlecards> What a battlecard is for and what it should contain.
+- Crayon. The 2026 State of Competitive Intelligence. Crayon, 2026. <https://www.crayon.co/state-of-competitive-intelligence> Compete content cadence and AI use by CI teams.
+- Clozd. The Ultimate Guide to Win-Loss Analysis. Clozd, n.d. <https://www.clozd.com/guides/win-loss-analysis> Win-loss interview method.
+- Clozd. 2025 State of Win-Loss Analysis. Clozd, 2025. <https://www.clozd.com/state-of-win-loss> Win-loss program practices and timing.
+- Clozd. Clozd homepage. Clozd, n.d. <https://www.clozd.com/> Short quote on win-loss.
+- Pragmatic Institute. The Pragmatic Framework. Pragmatic Institute, n.d. <https://www.pragmaticinstitute.com/framework/> Placement of sales tools, channel training and win-loss.
+- Great Demo. Great Demo. Great Demo, n.d. <https://greatdemo.com/> Discovery before demo and reverse chronology demos.
+- Seismic. Sales Enablement. Seismic, n.d. <https://seismic.com/glossary/sales-enablement/> Working definition of sales enablement.
+- Salesforce. State of Sales Report 2026. Salesforce, 2026. <https://www.salesforce.com/news/stories/state-of-sales-report-announcement-2026/> Seller adoption of AI agents and time spent selling.
+- Morgese, Dan. Data Shows Top Reps Don't Just Sell, They Orchestrate. Gong, 2025. <https://www.gong.io/blog/data-shows-top-reps-dont-just-sell-they-orchestrate-with-ai> Multithreading and team selling data.
+- Morgese, Dan. The Best Sales Insights of 2025. Gong, 2026. <https://www.gong.io/blog/the-best-sales-insights-of-2025> Number of buyer contacts in enterprise deals.
+- Bain and Company. History of Net Promoter. Net Promoter System, n.d. <https://www.netpromotersystem.com/about/history-of-net-promoter/> Origin of NPS.
+- Bain and Company. Inner Loop. Net Promoter System, n.d. <https://www.netpromotersystem.com/about/net-promoter-system-framework/inner-loop/> Front-line closed-loop feedback.
+- Bain and Company. Outer Loop. Net Promoter System, n.d. <https://www.netpromotersystem.com/about/net-promoter-system-framework/outer-loop/> Central dedupe, triage and routing of feedback.
+- Torres, Teresa. Opportunity Solution Trees. Product Talk, 2023. <https://www.producttalk.org/opportunity-solution-trees/> Treating feature requests as solutions rather than opportunities.
+- Farland Group. Expert Guide to Customer Advisory Boards. Farland Group, n.d. <https://www.farlandgroup.com/customer-advisory-boards> CAB characteristics and charter elements.
+- Farland Group. Customer Advisory Board FAQ. Farland Group, n.d. <https://www.farlandgroup.com/customer-advisory-board-faq> CAB cadence, membership and rules.
+- Wikipedia contributors. Managed Services. Wikipedia, n.d. <https://en.wikipedia.org/wiki/Managed_services> MSP definition and business model.
+- Wikipedia contributors. Customer Success. Wikipedia, n.d. <https://en.wikipedia.org/wiki/Customer_success> Framing of customer success as a function.
+- Amazon Web Services. AWS Partner Programs. AWS, n.d. <https://aws.amazon.com/partners/programs/> Example of partner programs segmented by partner type.
+- Intercom. Fin AI Agent Resolutions. Intercom, n.d. <https://www.intercom.com/help/en/articles/8205718-fin-ai-agent-resolutions> Definition of a resolution and per-resolution pricing.
+- Intercom. Fin. Fin.ai, n.d. <https://fin.ai/> Claimed AI agent resolution rate.
+- Klarna. Klarna AI Assistant Handles Two-Thirds of Customer Service Chats in Its First Month. Klarna, 2024. <https://www.klarna.com/international/press/klarna-ai-assistant-handles-two-thirds-of-customer-service-chats-in-its-first-month/> Company claims on AI support deflection.
+- Zendesk. CX Trends 2026. Zendesk, 2026. <https://cxtrends.zendesk.com/> Customer expectations of AI explanations and handoffs.
+- Model Context Protocol. What Is the Model Context Protocol. Model Context Protocol, n.d. <https://modelcontextprotocol.io/docs/getting-started/intro> Definition of MCP for connector-based feedback analysis.

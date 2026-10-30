@@ -1,0 +1,28 @@
+- Wikipedia contributors. Open innovation. Wikipedia, 2026. <https://en.wikipedia.org/wiki/Open_innovation> Chesbrough's definition, inbound and outbound modes and known risks.
+- Christensen, Clayton, Alton, Richard, Rising, Curtis and Waldeck, Andrew. The Big Idea: The New M&A Playbook. Harvard Business Review, 2011. <https://hbr.org/2011/03/the-big-idea-the-new-ma-playbook> Claimed 70 to 90 percent M&A failure range.
+- Capron, Laurence and Mitchell, Will. Finding the Right Path. Harvard Business Review, 2010. <https://hbr.org/2010/07/finding-the-right-path> Premise of the build, borrow or buy resource pathways framework.
+- Nagji, Bansi and Tuff, Geoff. Managing Your Innovation Portfolio. Harvard Business Review, 2012. <https://hbr.org/2012/05/managing-your-innovation-portfolio> Innovation ambition matrix authorship.
+- O'Reilly, Charles and Tushman, Michael. The Ambidextrous Organization. Harvard Business Review, 2004. <https://hbr.org/2004/04/the-ambidextrous-organization> Ambidexterity concept and attribution.
+- Blank, Steve. Lean Innovation Management: Making Corporate Innovation Work. steveblank.com, 2015. <https://steveblank.com/2015/06/26/lean-innovation-management-making-corporate-innovation-work/> Innovation theater, Lean Three Horizons and how to organize corporate innovation.
+- Affia-Jomants, Abasi-amefon, Gama, Kiev, Herbsleb, James and Nolte, Alexander. How to organize an in-person, online or hybrid hackathon: A revised planning kit. arXiv, 2025. <https://arxiv.org/abs/2008.08025> The 12 hackathon planning decisions and continuity planning.
+- Atlassian. ShipIt. atlassian.com, 2026. <https://www.atlassian.com/company/shipit> 24-hour internal hackathon format and the Jira Service Desk origin.
+- BMW Group. BMW Startup Garage. bmwstartupgarage.com, 2026. <https://www.bmwstartupgarage.com/> Venture client process steps and self-reported pilot numbers.
+- Wikipedia contributors. Venture client. Wikipedia, 2026. <https://en.wikipedia.org/wiki/Venture_client> Venture client definition and contrast with corporate venture capital.
+- Wikipedia contributors. Corporate venture capital. Wikipedia, 2026. <https://en.wikipedia.org/wiki/Corporate_venture_capital> CVC objectives, survey mix and 2024 US exit data.
+- Wikipedia contributors. Intrapreneurship. Wikipedia, 2026. <https://en.wikipedia.org/wiki/Intrapreneurship> Pinchot origin of the term and classic intrapreneurship cases.
+- Wikipedia contributors. Area 120. Wikipedia, 2026. <https://en.wikipedia.org/wiki/Area_120> Google internal incubator history, graduates and 2023 cuts.
+- Wikipedia contributors. PARC (company). Wikipedia, 2026. <https://en.wikipedia.org/wiki/PARC_(company)> Xerox PARC commercialization failure, spin-outs and 2023 donation.
+- Wikipedia contributors. Arm Holdings. Wikipedia, 2026. <https://en.wikipedia.org/wiki/Arm_Holdings> Licensing and royalty business model example.
+- Wikipedia contributors. Netflix Prize. Wikipedia, 2026. <https://en.wikipedia.org/wiki/Netflix_Prize> Prize competition dates, amount and result.
+- MIT-IBM Computing Research Lab. About. mitibm.mit.edu, 2026. <https://mitibm.mit.edu/about/> University and industry research partnership founded in 2017.
+- Wikipedia contributors. Inflection AI. Wikipedia, 2026. <https://en.wikipedia.org/wiki/Inflection_AI> Microsoft licence-and-hire deal and UK CMA review.
+- Wikipedia contributors. Character.ai. Wikipedia, 2026. <https://en.wikipedia.org/wiki/Character.ai> Google licence-and-hire deal in 2024.
+- Wikipedia contributors. Scale AI. Wikipedia, 2026. <https://en.wikipedia.org/wiki/Scale_AI> Meta minority stake and CEO move in 2025.
+- Wikipedia contributors. Cognition AI. Wikipedia, 2026. <https://en.wikipedia.org/wiki/Cognition_AI> Google licence-and-hire of Windsurf leaders and its amount.
+- Cognition. Cognition to acquire Windsurf. Cognition blog, 2025. <https://cognition.com/blog/windsurf> Acquisition of the remaining Windsurf business and employee terms.
+- Federal Trade Commission. FTC Launches Inquiry into Generative AI Investments and Partnerships. ftc.gov, 2024. <https://www.ftc.gov/news-events/news/press-releases/2024/01/ftc-launches-inquiry-generative-ai-investments-partnerships> Regulatory scrutiny of model provider and cloud partnerships.
+- Federal Trade Commission. FTC Issues Staff Report on AI Partnerships and Investments Study. ftc.gov, 2025. <https://www.ftc.gov/news-events/news/press-releases/2025/01/ftc-issues-staff-report-ai-partnerships-investments-study> Partnership risks such as switching costs and exclusivity.
+- Estrada, Sheryl. MIT report: 95% of generative AI pilots at companies are failing. Fortune, 2025. <https://fortune.com/2025/08/18/mit-report-95-percent-generative-ai-pilots-at-companies-failing-cfo/> Reported partner versus internal build success rates, flagged as contested.
+- Anthropic. Introducing the Model Context Protocol. anthropic.com, 2024. <https://www.anthropic.com/news/model-context-protocol> MCP launch date and purpose for connector-based prototypes.
+- Schluntz, Erik and Zhang, Barry. Building Effective Agents. Anthropic, 2024. <https://www.anthropic.com/engineering/building-effective-agents> Workflow versus agent distinction and start-simple rule for agent prototypes.
+- Anthropic. Claude Frontier Academy. anthropic.com, 2026. <https://www.anthropic.com/news/claude-frontier-academy> AI-era innovation training built around a residency on a real project.

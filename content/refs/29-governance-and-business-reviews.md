@@ -1,0 +1,26 @@
+- Bryar, C. and Carr, B. Working Backwards: Insights, Stories, and Secrets from Inside Amazon. St. Martin's Press, 2021. <https://workingbackwards.com/> Core source for the WBR, input metrics, OP1/OP2 and narratives
+- Working Backwards LLC. Operating Planning and Cadence. workingbackwards.com, 2026. <https://workingbackwards.com/concepts/amazon-operating-cadence/> OP1/OP2 calendar, plan structure and S-Team goals
+- Working Backwards LLC. Quarterly and Monthly Business Reviews. workingbackwards.com, 2026. <https://workingbackwards.com/concepts/quarterly-monthly-business-reviews/> Narrative MBR and QBR format and contents
+- Working Backwards LLC. Input Metrics. workingbackwards.com, 2026. <https://workingbackwards.com/concepts/input-metrics/> Controllable input versus output metrics and metric owners
+- Working Backwards LLC. Narratives and Decision Making. workingbackwards.com, 2026. <https://workingbackwards.com/concepts/narratives-decision-making/> Six-pager length, reading time and meeting flow
+- Chin, C. The Amazon Weekly Business Review. Commoncog, 2024. <https://commoncog.com/the-amazon-weekly-business-review/> WBR cadence, 6-12 charts and exception-driven variance explanation
+- Chin, C. Becoming Data Driven, From First Principles. Commoncog, 2024. <https://commoncog.com/becoming-data-driven-first-principles/> Routine versus exceptional variation after Donald Wheeler
+- Bezos, J. 2009 Letter to Shareholders. Amazon, 2010. <https://www.sec.gov/Archives/edgar/data/1018724/000119312510082914/dex991.htm> 452 annual goals and focus on controllable inputs
+- Bezos, J. 2015 Letter to Shareholders. Amazon, 2016. <https://www.sec.gov/Archives/edgar/data/1018724/000119312516530910/d168744dex991.htm> Type 1 and Type 2 decisions
+- Bezos, J. 2016 Letter to Shareholders. Amazon, 2017. <https://www.aboutamazon.com/news/company-news/2016-letter-to-shareholders> Process as proxy, disagree and commit, early escalation
+- Bezos, J. 2017 Letter to Shareholders. Amazon, 2018. <https://www.aboutamazon.com/news/company-news/2017-letter-to-shareholders> Six-page memos instead of slides
+- Atlassian. DACI: A Decision-Making Framework. Atlassian Team Playbook, 2026. <https://www.atlassian.com/team-playbook/plays/daci> DACI roles, play steps and template fields
+- Atlassian. DACI Decision Documentation Template. Atlassian Confluence, 2026. <https://www.atlassian.com/software/confluence/templates/decision> Decision log fields
+- Bain and Company. RAPID: Bain's Tool to Clarify Decision Accountability. Bain, 2023. <https://www.bain.com/insights/rapid-tool-to-clarify-decision-accountability/> Comparison decision-rights framework
+- Boston Consulting Group. The Growth-Share Matrix. BCG, 2026. <https://www.bcg.com/about/overview/our-history/growth-share-matrix> Origin and quadrants for portfolio reviews
+- National Institute of Standards and Technology. AI Risk Management Framework. NIST, 2026. <https://www.nist.gov/itl/ai-risk-management-framework> AI risk categories for the risk register
+- HM Treasury. The Orange Book: Management of Risk. GOV.UK, 2026. <https://www.gov.uk/government/publications/orange-book> Public reference point for risk management practice
+- European Commission. AI Act Regulatory Framework. European Commission, 2026. <https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai> AI Act and AI Omnibus dates for the risk register
+- Beyer, B., Jones, C., Petoff, J. and Murphy, N. Managing Incidents, in Site Reliability Engineering. O'Reilly and Google, 2016. <https://sre.google/sre-book/managing-incidents/> Objective declaration triggers and handoffs for escalation policy
+- Anthropic. Introducing the Model Context Protocol. Anthropic, 2024. <https://www.anthropic.com/news/model-context-protocol> Connectors that feed AI-generated review packs
+- Anthropic. Introducing Agent Skills. Claude blog, 2025. <https://claude.com/blog/skills> Packaging a repeatable review-pack recipe
+- Anthropic. Citations. Claude Platform docs, 2026. <https://platform.claude.com/docs/en/build-with-claude/citations> Grounded citations for verifying review packs
+- Microsoft WorkLab. 2025 Work Trend Index: The Year the Frontier Firm Is Born. Microsoft, 2025. <https://www.microsoft.com/en-us/worklab/work-trend-index/2025-the-year-the-frontier-firm-is-born> Agent adoption data and disclosed human review of AI drafting
+- Fortune. Deloitte to Partially Refund Australian Government for Report with AI Hallucinations. Fortune, 2025. <https://fortune.com/2025/10/07/deloitte-ai-australia-government-report-hallucinations-technology-290000-refund/> Cautionary case for unverified AI-generated reports
+- Vectara. Hallucination Leaderboard. GitHub, 2026. <https://github.com/vectara/hallucination-leaderboard> Evidence that grounded summarization still errs
+- Hamel, G. and Zanini, M. What We Learned About Bureaucracy from 7,000 HBR Readers. Harvard Business Review, 2017. <https://hbr.org/2017/08/what-we-learned-about-bureaucracy-from-7000-hbr-readers> Background on bureaucratic drag; no figures used

@@ -1,0 +1,35 @@
+- Ries, Eric. The Lean Startup Principles. The Lean Startup, n.d. <https://theleanstartup.com/principles> Five principles, build-measure-learn, MVP, innovation accounting and pivot definitions.
+- Ries, Eric. Pivot, Don't Jump to a New Vision. Startup Lessons Learned, 2009. <https://www.startuplessonslearned.com/2009/06/pivot-dont-jump-to-new-vision.html> Early pivot types, one foot in the past and the regular pivot review meeting.
+- Ries, Eric. Minimum Viable Product: A Guide. Startup Lessons Learned, 2009. <https://www.startuplessonslearned.com/2009/08/minimum-viable-product-guide.html> MVP definition, smoke tests and cautions about minimal products.
+- Ries, Eric. The Startup Way. The Startup Way, 2017. <https://www.thestartupway.com/> Lean startup inside established companies and the GE FastWorks partnership.
+- Wikipedia contributors. Lean Startup. Wikipedia, 2026. <https://en.wikipedia.org/wiki/Lean_startup> Publication dates, the Zappos origin story, vanity versus actionable metrics and the Horowitz, Felin and colleagues and Levinthal criticisms.
+- Wikipedia contributors. Pivot (Business). Wikipedia, 2026. <https://en.wikipedia.org/wiki/Pivot_(business)> Ries and Blank pivot definitions and the Groupon example.
+- Blank, Steve. Why the Lean Start-Up Changes Everything. Harvard Business Review, 2013. <https://hbr.org/2013/05/why-the-lean-start-up-changes-everything> Lean versus business plan approach and application inside large corporations.
+- Wikipedia contributors. Customer Development. Wikipedia, 2026. <https://en.wikipedia.org/wiki/Customer_development> Blank's four steps, get out of the building and the I-Corps adoption.
+- Brown, Tim. Design Thinking. Harvard Business Review, 2008. <https://hbr.org/2008/06/design-thinking> Foundational IDEO framing of design thinking for business.
+- IDEO. Design Thinking. IDEO, n.d. <https://designthinking.ideo.com/> Definition and the desirability, feasibility and viability lenses.
+- IDEO. History of Design Thinking. IDEO, n.d. <https://designthinking.ideo.com/history> Origins, key people and the d.school link.
+- Stanford d.school. Design Thinking Bootleg. Hasso Plattner Institute of Design at Stanford, 2018. <https://dschool.stanford.edu/resources/design-thinking-bootleg> The five modes of design thinking.
+- Gibbons, Sarah. Design Thinking 101. Nielsen Norman Group, 2016. <https://www.nngroup.com/articles/design-thinking/> Six-phase variant and non-linear iteration.
+- Design Council. The Double Diamond. Design Council, 2023. <https://www.designcouncil.org.uk/our-resources/the-double-diamond/> Four phases, 2003 origin and non-linear use.
+- Design Council. Framework for Innovation. Design Council, n.d. <https://www.designcouncil.org.uk/our-resources/framework-for-innovation/> Four design principles, methods bank, leadership and engagement.
+- Ackermann, Rebecca. Design Thinking Was Supposed to Fix the World. Where Did It Go Wrong? MIT Technology Review, 2023. <https://www.technologyreview.com/2023/02/09/1067821/design-thinking-retrospective-what-went-wrong/> Critiques of design thinking (innovation theater, Irani, Aye, Diva Centres, SFUSD cafeterias) and the d.school and Tim Brown responses.
+- Strategyzer. Testing Business Ideas. Strategyzer, n.d. <https://www.strategyzer.com/library/testing-business-ideas-book> Bland and Osterwalder experiment library scope and structure.
+- Strategyzer. Validate Your Ideas with the Test Card. Strategyzer, n.d. <https://www.strategyzer.com/library/validate-your-ideas-with-the-test-card> The four elements of a Test Card.
+- Strategyzer. How to Test Your Idea: Start with the Most Critical Hypotheses. Strategyzer, n.d. <https://www.strategyzer.com/library/how-to-test-your-idea-start-with-the-most-critical-hypotheses> Desirability, feasibility and viability risk lenses for assumptions.
+- Bland, David J. Assumptions Mapping. Precoil, n.d. <https://www.precoil.com/assumptions-mapping> Lineage of the assumptions mapping 2x2.
+- GV. The Design Sprint. GV, n.d. <https://www.gv.com/sprint/> Five-day sprint schedule and origin at Google and GV.
+- Knapp, Jake and Zeratsky, John. Sprint. Character, n.d. <https://www.character.vc/sprint> Sprint book date and newer Foundation Sprint and Click formats.
+- Thomke, Stefan. Building a Culture of Experimentation. Harvard Business Review, 2020. <https://hbr.org/2020/03/building-a-culture-of-experimentation> Large-scale experimentation example from Booking.com.
+- Wikipedia contributors. Maker Culture. Wikipedia, 2026. <https://en.wikipedia.org/wiki/Maker_culture> Make magazine, Maker Faire and makerspace history.
+- Wikipedia contributors. Vibe Coding. Wikipedia, 2026. <https://en.wikipedia.org/wiki/Vibe_coding> Origin of the term and reported risks of AI-built software.
+- METR. Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity. METR, 2025. <https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/> Measured versus perceived AI speedup.
+- Mehta, Ivan. A Quarter of Startups in YC's Current Cohort Have Codebases That Are Almost Entirely AI-Generated. TechCrunch, 2025. <https://techcrunch.com/2025/03/06/a-quarter-of-startups-in-ycs-current-cohort-have-codebases-that-are-almost-entirely-ai-generated/> AI-generated code share in YC W25.
+- Figma. Introducing Figma Make. Figma, 2025. <https://www.figma.com/blog/introducing-figma-make/> Prompt-to-prototype tooling for product teams.
+- Anthropic. Claude 3.5 Sonnet. Anthropic, 2024. <https://www.anthropic.com/news/claude-3-5-sonnet> Launch of Artifacts for in-chat prototypes.
+- Anthropic. How Anthropic Teams Use Claude Code. Claude, 2025. <https://claude.com/blog/how-anthropic-teams-use-claude-code> Non-engineers building working prototypes with an AI harness.
+- Banawa, Rachel. Synthetic Users vs Human Respondents. Nielsen Norman Group, 2026. <https://www.nngroup.com/articles/synthetic-users-vs-human-respondents/> Mode collapse in synthetic respondents and limits as evidence.
+- Ries, Eric. *The Lean Startup*. Crown Business, 2011. MVP, innovation accounting milestones, actionable and vanity metrics, the ten pivot types and the Dropbox explainer video story.
+- Blank, Steve. *The Four Steps to the Epiphany*. Self-published, 2005; and Blank, Steve and Dorf, Bob. *The Startup Owner's Manual*. K&S Ranch, 2012. Customer development's four steps.
+- Bland, David J. and Osterwalder, Alexander. *Testing Business Ideas*. Wiley, 2019. Experiment library, Test Card and Learning Card, evidence strength.
+- Knapp, Jake, Zeratsky, John and Kowitz, Braden. *Sprint*. Simon and Schuster, 2016. Decider and Facilitator roles, team of about seven and five Friday interviews.

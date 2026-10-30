@@ -1,0 +1,34 @@
+- Buffett, Warren. Berkshire Hathaway 2007 Shareholder Letter. Berkshire Hathaway, 2008. <https://www.berkshirehathaway.com/letters/2007ltr.pdf> Origin of the enduring moat test and the annual widened or narrowed check.
+- Helmer, Hamilton. 7 Powers: The Foundations of Business Strategy. Deep Strategy, 2017 [S]. Power definition, Benefit and Barrier, and the seven Powers.
+- Strategy Capital. About. Strategy Capital, 2026. <https://www.strategycapital.com/about> Helmer biography and book year.
+- Gilbert, Ben and Rosenthal, David. 7 Powers with Hamilton Helmer. Acquired, 2021. <https://www.acquired.fm/episodes/7-powers-with-hamilton-helmer> Helmer on counter-positioning, switching costs, cornered resource and takeoff.
+- Moros, Blas. 7 Powers Summary. Blas.com, n.d. <https://blas.com/7-powers/> Secondary summary of Benefit and Barrier per Power.
+- Porter, Michael E. What Is Strategy? Harvard Business Review, 1996. <https://hbr.org/1996/11/what-is-strategy> Operational effectiveness versus strategy, trade-offs and fit.
+- Porter, Michael E. Strategy and the Internet. Harvard Business Review, 2001. <https://hbr.org/2001/03/strategy-and-the-internet> The internet tends to weaken industry profitability and raises the value of distinct strategy.
+- Bower, Joseph L. and Christensen, Clayton M. Disruptive Technologies: Catching the Wave. Harvard Business Review, 1995. <https://hbr.org/1995/01/disruptive-technologies-catching-the-wave> Original disruption article.
+- Christensen, Clayton M., Raynor, Michael E. and McDonald, Rory. What Is Disruptive Innovation? Harvard Business Review, 2015. <https://hbr.org/2015/12/what-is-disruptive-innovation> Authors' correction of common misuse.
+- Christensen Institute. Disruptive Innovation. Christensen Institute, 2026. <https://www.christenseninstitute.org/theory/disruptive-innovation/> Low-end and new-market footholds and what disruption is not.
+- Wikipedia contributors. Disruptive innovation. Wikipedia, 2026. <https://en.wikipedia.org/wiki/Disruptive_innovation> Secondary pointers to Lepore critique and the Uber example.
+- King, Andrew A. and Baatartogtokh, Baljir. How Useful Is the Theory of Disruptive Innovation? MIT Sloan Management Review, 2015. <https://sloanreview.mit.edu/article/how-useful-is-the-theory-of-disruptive-innovation/> Four conditions for testing disruption claims.
+- Casado, Martin and Lauten, Peter. The Empty Promise of Data Moats. Andreessen Horowitz, 2019. <https://a16z.com/the-empty-promise-of-data-moats/> Limits of data moats and when data is defensible.
+- NFX. The Network Effects Manual. NFX, 2021. <https://www.nfx.com/post/network-effects-manual> Network effect types and the weakness of data network effects.
+- Chen, Jerry. The New Moats. Greylock, 2017 (AI revisit 2023). <https://greylock.com/greymatter/the-new-moats/> Systems of record, engagement and intelligence and AI-era moats.
+- Thompson, Ben. Aggregation Theory. Stratechery, 2015. <https://stratechery.com/2015/aggregation-theory/> Distribution and ownership of the user relationship.
+- Spolsky, Joel. Strategy Letter V. Joel on Software, 2002. <https://www.joelonsoftware.com/2002/06/12/strategy-letter-v/> Commoditize your complements as a commoditization response.
+- McGrath, Rita Gunther. Transient Advantage. Harvard Business Review, 2013. <https://hbr.org/2013/06/transient-advantage> Advantages as temporary and managed as a portfolio.
+- Patel, Dylan and Ahmad, Afzal. Google We Have No Moat And Neither Does OpenAI. SemiAnalysis, 2023. <https://newsletter.semianalysis.com/p/google-we-have-no-moat-and-neither> Leaked memo arguing model access is not a moat.
+- Stanford HAI. AI Index Report 2025. Stanford University, 2025. <https://hai.stanford.edu/ai-index/2025-ai-index-report> Inference cost decline and model convergence figures.
+- Appenzeller, Guido. Welcome to LLMflation. Andreessen Horowitz, 2024. <https://a16z.com/llmflation-llm-inference-cost/> Tenfold annual cost decline at constant capability.
+- Epoch AI. LLM Inference Prices Have Fallen Rapidly but Unequally Across Tasks. Epoch AI, 2025. <https://epoch.ai/data-insights/llm-inference-price-trends> Range of price decline rates by task.
+- Cahn, David. AI's $600B Question. Sequoia Capital, 2024. <https://www.sequoiacap.com/article/ais-600b-question/> Compute commoditization and pricing toward marginal cost.
+- Bain and Company. Will Agentic AI Disrupt SaaS? Bain Technology Report, 2025. <https://www.bain.com/insights/will-agentic-ai-disrupt-saas-technology-report-2025/> Four-scenario framework (core strongholds, open doors, gold mines, battlegrounds), systems of record as the defensible base layer, data-learning limits for AI platforms and the shift away from seat pricing.
+- Intercom. Pricing. Intercom, 2026. <https://www.intercom.com/pricing> Per-outcome pricing example for an AI agent.
+- Salesforce. Agentforce Pricing. Salesforce, 2026. <https://www.salesforce.com/agentforce/pricing/> Hybrid per-conversation, per-action and per-user pricing example.
+- Anthropic. Introducing the Model Context Protocol. Anthropic, 2024. <https://www.anthropic.com/news/model-context-protocol> MCP as an open connector standard.
+- Anthropic. Donating the Model Context Protocol and Establishing the Agentic AI Foundation. Anthropic, 2025. <https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation> MCP governance and adoption figures.
+- Google. A2A: A New Era of Agent Interoperability. Google Developers Blog, 2025. <https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/> Agent interoperability lowering integration moats.
+- Anthropic. Effective Context Engineering for AI Agents. Anthropic, 2025. <https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents> Proprietary run-time context as a moat candidate.
+- Anthropic. Cowork Plugins. Claude Blog, 2026. <https://claude.com/blog/cowork-plugins> Eleven open-source starter plugins (January 2026) reaching into role-specific SaaS jobs.
+- Slack. API Terms of Service. Slack, 2025. <https://slack.com/terms-of-service/api> Data wall example restricting LLM training and indexing.
+- Wikipedia contributors. Software as a service (SaaSpocalypse section). Wikipedia, 2026. <https://en.wikipedia.org/wiki/SaaSpocalypse> Secondary report of the February 2026 SaaS selloff.
+- Contreras, Brian. Article on the SaaSpocalypse selloff (title not verified). Inc., 6 February 2026. <https://www.inc.com/brian-contreras/saaspocalypse-generative-ai-stock-market-anthropic-300-billion/91298739> Primary report of the early February 2026 SaaS selloff (cited via Wikipedia; page not reachable during review).

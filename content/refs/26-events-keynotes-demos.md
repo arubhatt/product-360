@@ -1,0 +1,30 @@
+- Coldewey, Devin. Google's best Gemini demo was faked. TechCrunch, 2023. <https://techcrunch.com/2023/12/07/googles-best-gemini-demo-was-faked/> How the Gemini Hands-on video was made and what Google disclosed.
+- Wikipedia contributors. Gemini (language model). Wikipedia, 2026. <https://en.wikipedia.org/wiki/Gemini_(language_model)> Secondary account of the demo video criticism and the share price move after launch.
+- Wikipedia contributors. Bard (chatbot). Wikipedia, 2026. <https://en.wikipedia.org/wiki/Bard_(chatbot)> Bard launch error in February 2023 and reported market reaction.
+- TechCrunch. Meta CTO explains why the smart glasses demos failed at Meta Connect, and it wasn't the Wi-Fi. TechCrunch, 2025. <https://techcrunch.com/2025/09/19/meta-cto-explains-why-the-smart-glasses-demos-failed-at-meta-connect-and-it-wasnt-the-wi-fi/> Live AI demo failure causes and Bosworth quotes.
+- Topolsky, Joshua. Steve Jobs live from WWDC 2010. Engadget, 2010. <https://www.engadget.com/2010-06-07-steve-jobs-live-from-wwdc-2010.html> iPhone 4 demo stalled by audience Wi-Fi load.
+- Duarte, Nancy. The secret structure of great talks. TED, 2011. <https://www.ted.com/talks/nancy_duarte_the_secret_structure_of_great_talks> Date and framing of the shared structure of great talks.
+- Duarte. Resonate. Duarte, 2026. <https://www.duarte.com/resources/books/resonate/> Audience as hero and presenter as mentor.
+- Wikipedia contributors. Nancy Duarte. Wikipedia, 2026. <https://en.wikipedia.org/wiki/Nancy_Duarte> Book titles, years and publishers, and the what is versus what could be pattern.
+- Apple. Apple Reinvents the Phone with iPhone. Apple Newsroom, 2007. <https://www.apple.com/newsroom/2007/01/09Apple-Reinvents-the-Phone-with-iPhone/> Three-in-one framing and announced ship date.
+- Wikipedia contributors. iPhone (1st generation). Wikipedia, 2026. <https://en.wikipedia.org/wiki/IPhone_(1st_generation)> Release date and gap from keynote to ship.
+- Apple. Apple's WWDC 2020 kicks off in June with an all-new online format. Apple Newsroom, 2020. <https://www.apple.com/newsroom/2020/03/apples-wwdc-2020-kicks-off-in-june-with-an-all-new-online-format/> Shift to online keynotes.
+- Wikipedia contributors. The Mother of All Demos. Wikipedia, 2026. <https://en.wikipedia.org/wiki/The_Mother_of_All_Demos> Engelbart 1968 demo content and staging.
+- Wikipedia contributors. Tesla Cybertruck. Wikipedia, 2026. <https://en.wikipedia.org/wiki/Tesla_Cybertruck> Window-breaking incident at the 2019 unveil and Musk's explanation.
+- Franzen, Carl. Tesla's big We, Robot event criticized for parlor tricks and vague timelines. VentureBeat, 2024. <https://venturebeat.com/ai/teslas-big-we-robot-event-criticized-for-parlor-tricks-and-vague-timelines-for-robots-cybercab-robovan/> Undisclosed teleoperation of Optimus robots.
+- Gruber, John. Something Is Rotten in the State of Cupertino. Daring Fireball, 2025. <https://daringfireball.net/2025/03/something_is_rotten_in_the_state_of_cupertino> Personalized Siri concept video, delay statement and pulled ad.
+- Wikipedia contributors. Apple Intelligence. Wikipedia, 2026. <https://en.wikipedia.org/wiki/Apple_Intelligence> Landsheft class action and reported settlement.
+- Wikipedia contributors. Google Duplex. Wikipedia, 2026. <https://en.wikipedia.org/wiki/Google_Duplex> 2018 stage demo and the disclosure commitment that followed.
+- Future of Life Institute. Article 50: Transparency Obligations for Providers and Deployers of Certain AI Systems. EU Artificial Intelligence Act, 2024. <https://artificialintelligenceact.eu/article/50/> AI disclosure and synthetic content marking duties. The page marks Article 50 as amended.
+- Future of Life Institute. Article 113: Entry into Force and Application. EU Artificial Intelligence Act, 2026. <https://artificialintelligenceact.eu/article/113/> General application date of 2 August 2026, as amended.
+- Federal Trade Commission. FTC Announces Crackdown on Deceptive AI Claims and Schemes. FTC, 2024. <https://www.ftc.gov/news-events/news/press-releases/2024/09/ftc-announces-crackdown-deceptive-ai-claims-schemes> Operation AI Comply and the principle that AI claims follow advertising law.
+- Wikipedia contributors. News embargo. Wikipedia, 2026. <https://en.wikipedia.org/wiki/News_embargo> Embargo definition, norms and consequences of breaches.
+- Wikipedia contributors. Analyst relations. Wikipedia, 2026. <https://en.wikipedia.org/wiki/Analyst_relations> Basic definitions of analyst briefings, inquiries and analyst days.
+- ROI Institute. ROI Methodology. ROI Institute, n.d. <https://roiinstitute.net/roi-methodology/> Five levels of evaluation used for the event impact report.
+- Salesforce. Salesforce Unveils Agentforce: What AI Was Meant to Be. Salesforce, 2024. <https://www.salesforce.com/news/press-releases/2024/09/12/agentforce-announcement/> Announcement date (12 September 2024), GA date (25 October 2024) and links to Dreamforce announcement coverage.
+- Wikipedia contributors. Agentforce. Wikipedia, 2026. <https://en.wikipedia.org/wiki/Agentforce> Secondary GA date.
+- Wikipedia contributors. Dreamforce. Wikipedia, 2026. <https://en.wikipedia.org/wiki/Dreamforce> Flagship B2B conference history and Einstein launch.
+- Great Demo. Great Demo! Great Demo, 2026. <https://greatdemo.com/> Discovery-first demo method and reverse chronology storytelling.
+- Klein, Gary. Performing a Project Premortem. Harvard Business Review, 2007. <https://hbr.org/2007/09/performing-a-project-premortem> The pre-mortem technique used for the demo risk plan (author and September 2007 date confirmed on the HBR page).
+- Vogelstein, Fred. And Then Steve Said, 'Let There Be an iPhone'. New York Times Magazine, 2013. <https://www.nytimes.com/2013/10/06/magazine/and-then-steve-said-let-there-be-an-iphone.html> The "golden path" rehearsal of the 2007 iPhone demo. Not re-fetched for this edition; verify before print.
+- Cohan, Peter E. Great Demo! First published 2003 (later edition 2005), per Open Library catalog records. "Do the last thing first" demo method; the exact phrase is not re-verified against the book.

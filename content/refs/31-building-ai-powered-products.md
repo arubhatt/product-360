@@ -1,0 +1,38 @@
+- Husain, H. and Shankar, S. AI Evals: Everything You Need to Know (FAQ). hamel.dev, 2026. <https://hamel.dev/blog/posts/evals-faq/> The most complete practitioner reference on error analysis and judge validation
+- Rachitsky, L., with Husain and Shankar. Why AI evals are the hottest new skill for product builders. Lenny's Podcast / Newsletter, 2025. <https://www.lennysnewsletter.com/p/why-ai-evals-are-the-hottest-new-skill> PM-facing introduction; "evals as living PRDs" segment
+- Huyen, C. AI Engineering: Building Applications with Foundation Models. O'Reilly, 2025. <https://github.com/chiphuyen/aie-book> Chs. 3 and 4 on evaluation; Ch. 9 on inference cost and latency
+- Yan, E. Product Evals in Three Simple Steps. eugeneyan.com, 2025. <https://eugeneyan.com> Label, align the judge, run on every change (exact post URL not re-checked)
+- Anthropic Engineering. Demystifying evals for AI agents. anthropic.com, 2026. <https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents> Task, trial and grader vocabulary; pass@k vs pass^k
+- OpenAI. Evaluation best practices. developers.openai.com, 2025-26. <https://developers.openai.com/api/docs/guides/evaluation-best-practices> Eval-driven development; hosted Evals platform shuts down 2026-11-30
+- Bhatawdekar, A. Evals are the new PRD. Braintrust, 2026. <https://braintrust.dev/blog/evals-are-the-new-prd> The pro argument; maps PRD sections to eval artifacts
+- Murkin, L. Evals are the new PRD. Mind the Product, 2026. <https://www.mindtheproduct.com/evals-are-the-new-prd/> The balanced counterpoint; golden-dataset pitfalls
+- Khan, A. Beyond vibe checks: A PM's complete guide to evals. Lenny's Newsletter, 2025. <https://www.lennysnewsletter.com/p/beyond-vibe-checks-a-pms-complete> PM how-to (contents not re-read)
+- Schluntz, E. and Zhang, B. Building effective agents. Anthropic, 2024. <https://www.anthropic.com/engineering/building-effective-agents> Workflows vs agents; seven patterns; ACI
+- OpenAI. A practical guide to building agents. OpenAI, 2025. <https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf> Guardrail layers; human-intervention triggers
+- Feng, K., McDonald, D. and Zhang, A. Levels of Autonomy for AI Agents. Knight First Amendment Institute / arXiv, 2025. <https://arxiv.org/abs/2506.12469> Five user-role autonomy levels
+- Anthropic. Donating the Model Context Protocol and establishing the Agentic AI Foundation. anthropic.com, 2025. <https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation> MCP moved to the AAIF under the Linux Foundation
+- MCP maintainers. Versioning (current revision 2026-07-28). modelcontextprotocol.io, 2026. <https://modelcontextprotocol.io/specification/versioning> Current spec and deprecation policy
+- Linux Foundation. A2A protocol surpasses 150 organizations.... linuxfoundation.org, 2026. <https://www.linuxfoundation.org/press/a2a-protocol-surpasses-150-organizations-lands-in-major-cloud-platforms-and-sees-enterprise-production-use-in-first-year> A2A v1.0, adoption, relation to MCP
+- Serafini, F., Amble, S. and Zhou, E. Can Agents Use a Computer Yet? We've Got the Data. a16z, 2026. <https://a16z.com/can-agents-use-a-computer-yet-weve-got-the-data/> Computer-use reliability, cost per hour, fit criteria
+- Jaffer, M. and Huryn, P. A Proven AI PRD Template. The Product Compass, 2025. <https://www.productcompass.pm/p/ai-prd-template> Nine-section AI PRD; weak on cost
+- Product School. AI PRD Template. productschool.com, n.d. <https://productschool.com/resources/templates/ai-prd> Model, data and prompt requirements section
+- Cottier, B. et al. LLM inference price trends. Epoch AI, 2025. <https://epoch.ai/data-insights/llm-inference-price-trends> 9x to 900x per year decline at fixed capability
+- Appenzeller, G. Welcome to LLMflation. a16z, 2024. <https://a16z.com/llmflation-llm-inference-cost/> About 10x per year cost decline at constant capability
+- Anthropic. Prompt caching. platform.claude.com, 2026. <https://platform.claude.com/docs/en/build-with-claude/prompt-caching> Current cache write and read multipliers
+- Poyar, K. The State of B2B Monetization in 2026. Growth Unhinged, 2026. <https://www.growthunhinged.com/p/the-state-of-b2b-monetization-in-2026> Hybrid 37%, credits 29%, AI margin targets
+- ICONIQ. State of AI: The Builder's Economy. ICONIQ (via SaaStr coverage), 2026. <https://www.saastr.com/the-builders-economy-10-metrics-from-iconiqs-newest-2026-state-of-ai-report> AI gross margins about 53%; primary report not reached
+- Salesforce. Salesforce Introduces New Flexible Agentforce Pricing. salesforce.com, 2025. <https://www.salesforce.com/news/press-releases/2025/05/15/agentforce-flexible-pricing-news/> Flex Credits, $0.10 per action
+- Salesforce. Salesforce Signs Definitive Agreement to Acquire Fin. investor.salesforce.com, 2026. <https://investor.salesforce.com/news/news-details/2026/Salesforce-Signs-Definitive-Agreement-to-Acquire-Fin/> About $3.6B; pending close
+- Cursor. June 2025 pricing (clarification and refunds). cursor.com, 2025. <https://cursor.com/en-US/blog/june-2025-pricing> Usage-pricing communication failure
+- Amershi, S. et al. Guidelines for Human-AI Interaction. CHI 2019 / Microsoft Research, 2019. <https://www.microsoft.com/en-us/research/publication/guidelines-for-human-ai-interaction/> 18 guidelines in four phases
+- Google PAIR. People + AI Guidebook. pair.withgoogle.com, 2019/2021. <https://pair.withgoogle.com/guidebook> Six chapters; trust calibration; graceful failure
+- BC Civil Resolution Tribunal. Moffatt v. Air Canada, 2024 BCCRT 149. CanLII (via McCarthy Tétrault analysis), 2024. <https://www.mccarthy.ca/en/insights/blogs/techlex/moffatt-v-air-canada-misrepresentation-ai-chatbot> Chatbot liability
+- Fortune. Customer support AI at Cursor went rogue. fortune.com, 2025. <https://fortune.com/article/customer-support-ai-cursor-went-rogue> Undisclosed AI agent invented a policy
+- AI Incident Database. Replit agent production database deletion. incidentdatabase.ai, 2025. <https://incidentdatabase.ai/reports/5593/> Agent permissions failure
+- OECD.AI. Deloitte refunds Australia after AI-generated report errors. oecd.ai, 2025. <https://oecd.ai/en/incidents/2025-10-05-be45> Fabricated citations in a professional deliverable
+- European Parliament (EPRS), Niestadt, M. Parliament's emerging position on the Digital Omnibus on AI. europarl.europa.eu, 2026. <https://www.europarl.europa.eu/RegData/etudes/ATAG/2026/785685/EPRS_ATA(2026)785685_EN.pdf> Primary summary of the Commission, Council and EP positions
+- EU. Regulation (EU) 2026/1744 (Digital Omnibus on AI). EUR-Lex, 2026. <https://eur-lex.europa.eu/eli/reg/2026/1744/oj> Authoritative text; check the dates here
+- aiacto.eu. Digital Omnibus Adopted: AI Act High-Risk Delayed to 2027. aiacto.eu, 2026. <https://www.aiacto.eu/en/blog/digital-omnibus-ai-act-report-2027> Secondary timeline incl. Art. 50(2) grace
+- Jones Day. EU AI Act: European Commission publishes GPAI Code of Practice. jonesday.com, 2025. <https://www.jonesday.com/en/insights/2025/08/eu-ai-act-european-commission-publishes-generalpurpose-ai-code-of-practice> GPAI enforcement timing by model vintage
+- NIST. AI RMF 1.0 (AI 100-1) and Generative AI Profile (AI 600-1). nist.gov, 2023, 2024. <https://www.nist.gov/itl/ai-risk-management-framework> Voluntary framework; revision pending
+- ISO/IEC. ISO/IEC 42001:2023 AI management systems. iso.org, 2023. <https://www.iso.org/standard/81230.html> Certifiable AIMS standard (URL from prior knowledge)

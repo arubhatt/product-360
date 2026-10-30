@@ -1,0 +1,23 @@
+- Melissa Perri and Denise Tilles. Product Operations (book page). melissaperri.com, 2023. <https://melissaperri.com/book> Three pillars of product ops and the scope of the book.
+- Melissa Perri and Denise Tilles. Product Operations: How Successful Companies Build Better Products at Scale. productoperations.com, 2023. <https://productoperations.com/> Authors, roles and subtitle of the book.
+- Melissa Perri. Product Operations: The Fuel for Winning Product Strategies. melissaperri.com, 2019. <https://melissaperri.com/blog/2019/7/19/product-operations-the-fuel-for-winning-product-strategies> Product ops as removing obstacles to evidence-based decisions.
+- Melissa Perri. Building a Great Product Management Organization. melissaperri.com, 2024. <https://melissaperri.com/blog/2024/7/16/building-a-great-product-management-organization> Warning signs that a product org needs product ops.
+- Marty Cagan. Product Ops Overview. SVPG, 2021. <https://www.svpg.com/product-ops-overview/> Force multiplier model and what product ops should and should not do.
+- Atlassian. DACI: a decision-making framework. Atlassian Team Playbook, 2026. <https://www.atlassian.com/team-playbook/plays/daci> DACI roles, template fields and how to run the play.
+- Bain and Company. RAPID: A Tool to Clarify Decision Accountability. Bain and Company, 2023. <https://www.bain.com/insights/rapid-tool-to-clarify-decision-accountability/> RAPID roles and the single-decider rule.
+- Wikipedia contributors. Responsibility assignment matrix. Wikipedia, 2026. <https://en.wikipedia.org/wiki/Responsibility_assignment_matrix> RACI definitions and variants.
+- Jeff Bezos. 2015 Letter to Shareholders. Amazon, 2016. <https://s2.q4cdn.com/299287126/files/doc_financials/annual/2015-Letter-to-Shareholders.PDF> Type 1 and Type 2 decisions and matching process weight to reversibility.
+- Ryan Singer. Shape Up: The Betting Table. Basecamp, 2019. <https://basecamp.com/shapeup/2.2-chapter-08> Six-week cycles, cool-down and the betting table as a planning ritual.
+- Google. Set goals with OKRs. Google re:Work, 2026. <https://rework.withgoogle.com/en/guides/set-goals-with-okrs> Annual and quarterly OKR cadence and grading.
+- Pendo. Product operations glossary. Pendo, 2026. <https://www.pendo.io/glossary/product-operations/> Vendor view of product ops responsibilities, hiring triggers and measures.
+- Anthropic. Introducing the Model Context Protocol. Anthropic, 2024. <https://www.anthropic.com/news/model-context-protocol> Launch and purpose of MCP connectors.
+- Anthropic. Donating the Model Context Protocol and establishing the Agentic AI Foundation. Anthropic, 2025. <https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation> MCP governance and adoption in 2025.
+- Anthropic. Introducing Agent Skills. Claude blog, 2025. <https://claude.com/blog/skills> Skills as shared, reusable templates for the AI harness.
+- Mikaela Grace, Jeremy Hadfield, Rodrigo Olivares and Jiri De Jonghe. Demystifying evals for AI agents. Anthropic Engineering, 2026. <https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents> Eval vocabulary and metrics for AI quality reporting.
+- FinOps Foundation. FinOps for AI Overview. FinOps Foundation, 2026. <https://www.finops.org/wg/finops-for-ai-overview/> AI unit cost metrics and the product role in cost governance.
+- Anthropic. Usage and Cost API. Claude Platform Docs, 2026. <https://platform.claude.com/docs/en/api/usage-cost-api> What model usage and cost reports provide for AI cost reporting.
+- Amplitude. Amplitude MCP. Amplitude Docs, 2026. <https://amplitude.com/docs/amplitude-ai/amplitude-mcp> Analytics tools reachable from the AI harness.
+- Atlassian. Rovo. Atlassian, 2026. <https://www.atlassian.com/software/rovo> AI search and agents across work tools.
+- Productboard. Productboard Spark. Productboard, 2026. <https://www.productboard.com/product/spark/> In-product AI agent for product teams.
+- Linear. MCP server. Linear Docs, 2026. <https://linear.app/docs/mcp> Work tracking reachable from the harness with read-only scopes.
+- Bryar, C. and Carr, B. Working Backwards: Insights, Stories, and Secrets from Inside Amazon. St. Martin's Press, 2021. <https://workingbackwards.com/> Weekly business review and the OP1 and OP2 annual planning cycle.

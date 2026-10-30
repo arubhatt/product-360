@@ -1,0 +1,26 @@
+- Microsoft. Fixed Lifecycle Policy. Microsoft Learn, 2023. <https://learn.microsoft.com/en-us/lifecycle/policies/fixed> Mainstream, Extended and beyond-end-of-support phases for fixed-date products.
+- Microsoft. Modern Lifecycle Policy. Microsoft Learn, 2024. <https://learn.microsoft.com/en-us/lifecycle/policies/modern> Continuous servicing rules and 12-month and 30-day notice commitments.
+- Microsoft. Lifecycle Terms and Definitions. Microsoft Learn, 2020. <https://learn.microsoft.com/en-us/lifecycle/definitions> Precise vocabulary for deprecation, end of servicing, end of support, removal and retirement.
+- Microsoft. Product Lifecycle FAQ: Extended Security Updates. Microsoft Learn, 2026. <https://learn.microsoft.com/en-us/lifecycle/faq/extended-security-updates> Paid extended support as a migration bridge, durations and pricing pattern.
+- Microsoft. Windows 10 Home and Pro lifecycle. Microsoft Learn, 2024. <https://learn.microsoft.com/en-us/lifecycle/products/windows-10-home-and-pro> Public example of a signposted end-of-support date.
+- Microsoft. Foundry Models lifecycle and support policy. Microsoft Learn, 2026. <https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements> AI model lifecycle stages, 18-month GA lifecycle, auto-upgrade and notice rules.
+- Anthropic. Model deprecations. Claude Platform Docs, 2026. <https://platform.claude.com/docs/en/about-claude/model-deprecations> Model lifecycle terms, 60-day notice floor and 2025 to 2026 retirement history.
+- Anthropic. Commitments on model deprecation and preservation. Anthropic, 2025. <https://www.anthropic.com/research/deprecation-commitments> Weight preservation and post-deployment reports.
+- OpenAI. Deprecations. OpenAI Developers, 2026. <https://developers.openai.com/api/docs/deprecations> Legacy, deprecation and shutdown definitions and notice periods by model type.
+- Amazon Web Services. Model lifecycle. Amazon Bedrock User Guide, 2026. <https://docs.aws.amazon.com/bedrock/latest/userguide/model-lifecycle.html> Active, Legacy and EOL states and channel-specific dates.
+- Google. Gemini models. Google AI for Developers, 2026. <https://ai.google.dev/gemini-api/docs/models> Stable, preview, latest and experimental version patterns.
+- Model Context Protocol. Versioning. modelcontextprotocol.io, 2026. <https://modelcontextprotocol.io/specification/versioning> Date-based protocol versions and current revision.
+- Model Context Protocol. Feature Lifecycle and Deprecation Policy. modelcontextprotocol.io, 2026. <https://modelcontextprotocol.io/community/feature-lifecycle> Twelve-month deprecation floor, security exception and deprecated registry.
+- Dalal, Sanjay and Wilde, Erik. RFC 9745 The Deprecation HTTP Response Header Field. IETF, 2025. <https://www.rfc-editor.org/rfc/rfc9745.html> Machine-readable deprecation signal for APIs.
+- Wilde, Erik. RFC 8594 The Sunset HTTP Header Field. IETF, 2019. <https://www.rfc-editor.org/rfc/rfc8594.html> Machine-readable removal date for APIs.
+- Kubernetes. Kubernetes Deprecation Policy. kubernetes.io, 2026. <https://kubernetes.io/docs/reference/using-api/deprecation-policy/> Deprecation promises tied to API stability level.
+- Google. AIP-185 API Versioning. Google API Improvement Proposals, 2026. <https://google.aip.dev/185> Channel-based versioning and 180-day beta deprecation guidance.
+- GitHub. API Versions. GitHub Docs, 2026. <https://docs.github.com/en/rest/about-the-rest-api/api-versions> Date-named versions and 24-month support window.
+- Stripe. Upgrade your integration. Stripe Docs, 2026. <https://docs.stripe.com/upgrades> Version pinning and parallel-run migration pattern.
+- Google. Google Cloud Platform Terms of Service. Google Cloud, 2026. <https://cloud.google.com/terms> Contractual 12-month discontinuation notice and its exceptions.
+- Red Hat. Red Hat Enterprise Linux Life Cycle. Red Hat Customer Portal, 2026. <https://access.redhat.com/support/policy/updates/errata> Ten-year three-phase life cycle and paid extensions.
+- Stage-Gate International. The Stage-Gate Model: An Overview. stage-gate.com, 2026. <https://www.stage-gate.com/blog/the-stage-gate-model-an-overview/> Cooper's stages, gate structure and Go, Kill, Hold, Recycle decisions.
+- Boston Consulting Group. What Is the Growth Share Matrix. BCG, 2026. <https://www.bcg.com/about/overview/our-history/growth-share-matrix> Portfolio quadrants and origins for lifecycle balance.
+- Levitt, Theodore. Exploit the Product Life Cycle. Harvard Business Review, 1965. <https://hbr.org/1965/11/exploit-the-product-life-cycle> Origin of the PLC as a management tool.
+- Dhalla, Nariman K. and Yuspeh, Sonia. Forget the Product Life Cycle Concept. Harvard Business Review, 1976. <https://hbr.org/1976/01/forget-the-product-life-cycle-concept> Classic critique of the PLC curve.
+- Wikipedia. Product life-cycle management (marketing). Wikipedia, 2026. <https://en.wikipedia.org/wiki/Product_life-cycle_management_(marketing)> Secondary summary of stage characteristics and critiques.

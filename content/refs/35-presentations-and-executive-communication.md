@@ -1,0 +1,34 @@
+- Albert Mehrabian. Silent Messages: A Wealth of Information About Nonverbal Communication. kaaj.com, 1981. <http://www.kaaj.com/psych/smorder.html> Author's own limits on the 7, 38, 55 figures.
+- Nancy Duarte. Resonate: Present Visual Stories that Transform Audiences. Duarte, 2010. <https://www.duarte.com/resources/books/resonate/> Audience as hero and presenter as mentor; the Big Idea.
+- Duarte. slide:ology. Duarte, 2026. <https://www.duarte.com/resources/books/slideology/> Visual slide design and the three-second glance test.
+- Wikipedia contributors. Nancy Duarte. Wikipedia, 2026. <https://en.wikipedia.org/wiki/Nancy_Duarte> Publication years of Duarte's books.
+- Duarte. How to Effectively Present to Senior Executives. Duarte blog, 2026. <https://www.duarte.com/blog/how-to-effectively-present-to-senior-executives/> Answer first, executive summary, 10% rule, appendix use.
+- Duarte. Duarte AI. Duarte, 2026. <https://www.duarte.com/ai-presentation-generator/> AI narrative tool positioning.
+- Cole Nussbaumer Knaflic. Storytelling with Data: A Data Visualization Guide for Business Professionals. Wiley, 2015. <https://www.wiley.com/en-us/Storytelling+with+Data%3A+A+Data+Visualization+Guide+for+Business+Professionals-p-9781119002253> Publication date and six lessons.
+- Cole Nussbaumer Knaflic. My Guiding Principles. storytelling with data, 2017. <https://www.storytellingwithdata.com/blog/2017/8/9/my-guiding-principles> Seven principles for an effective graph.
+- Storytelling with Data. How to Tell a Story Your Audience Doesn't Want to Hear. storytelling with data, undated. <https://www.storytellingwithdata.com/blog/how-to-tell-a-story-your-audience-doesnt-want-to-hear> Big Idea wording and presenting unwelcome findings.
+- Cole Nussbaumer Knaflic. How I Storyboard. storytelling with data, 2015. <https://www.storytellingwithdata.com/blog/2015/8/24/how-i-storyboard> Low-tech storyboarding before software.
+- Storytelling with Data. Books. storytelling with data, 2026. <https://www.storytellingwithdata.com/books> Knaflic's presentation book storytelling with you.
+- Jeff Bezos. 2017 Letter to Shareholders. Amazon, 2018. <https://www.aboutamazon.com/news/company-news/2017-letter-to-shareholders> Six-page memos and silent reading.
+- Edward Tufte. The Cognitive Style of PowerPoint. Graphics Press, 2006. <https://www.edwardtufte.com/book/the-cognitive-style-of-powerpoint-pitching-out-corrupts-within-ebook/> Critique of slideware reasoning.
+- Edward Tufte. PowerPoint Does Rocket Science and Better Techniques for Technical Reports. edwardtufte.com, undated. <https://www.edwardtufte.com/notebook/powerpoint-does-rocket-science-and-better-techniques-for-technical-reports/> Columbia board finding and alternatives to slides.
+- Barbara Minto. The Pyramid Principle. barbaraminto.com, 2026. <https://www.barbaraminto.com/> Pyramid structure and Situation, Complication, Question.
+- Kabir Sehgal. How to Write Email with Military Precision. Harvard Business Review, 2016. <https://hbr.org/2016/11/how-to-write-email-with-military-precision> BLUF attribution for business writing.
+- Dana Carney. My Position on Power Poses. UC Berkeley Haas, 2016. <https://faculty.haas.berkeley.edu/dana_carney/pdf_my%20position%20on%20power%20poses.pdf> First author disavows power pose effects.
+- Wikipedia contributors. Zoom fatigue. Wikipedia, 2026. <https://en.wikipedia.org/wiki/Zoom_fatigue> Citation for Bailenson's nonverbal overload paper.
+- Microsoft. Rehearse Your Slide Show with Speaker Coach. Microsoft Support, 2026. <https://support.microsoft.com/en-us/office/rehearse-your-slide-show-with-speaker-coach-cd7fc941-5c3b-498c-a225-83ef3f64f07b> AI rehearsal feedback features.
+- Microsoft. Create a New Presentation with Copilot in PowerPoint. Microsoft Support, 2026. <https://support.microsoft.com/en-us/office/create-a-new-presentation-with-copilot-in-powerpoint-3222ee03-f5a4-4d27-8642-9c387ab4854d> AI deck generation from prompts and documents.
+- Google. Gemini in Google Slides. Google Docs Editors Help, 2026. <https://support.google.com/docs/answer/14207419> AI slide generation and summaries.
+- Anthropic. Claude Can Now Create and Edit Files. Claude blog, 2025. <https://claude.com/blog/create-files> Claude deck creation and data risk caveat.
+- Anthropic. Claude for Microsoft 365. Claude, 2026. <https://claude.com/claude-for-microsoft-365> Claude building slides in corporate templates.
+- Center for Talent Innovation. Executive Presence Key Findings. Coqual, 2013. <https://coqual.org/wp-content/uploads/2020/09/26_executivepresence_keyfindings-1.pdf> Gravitas, communication, appearance survey data, 26% promotion figure, 56% vs 31% and 81% feedback findings.
+- Margaret Mitchell and others. Model Cards for Model Reporting. arXiv, 2018. <https://arxiv.org/abs/1810.03993> Reporting intended use and performance of models.
+- Anthropic. A Statistical Approach to Model Evaluations. Anthropic, 2024. <https://www.anthropic.com/research/statistical-approach-to-model-evals> Error bars and confidence intervals for AI evals.
+- Sherman Kent. Words of Estimative Probability. CIA Studies in Intelligence, 1964. <https://www.cia.gov/resources/csi/static/Words-of-Estimative-Probability.pdf> Mapping probability words to numeric ranges.
+- Wikipedia contributors. Curse of knowledge. Wikipedia, 2026. <https://en.wikipedia.org/wiki/Curse_of_knowledge> Newton tapper study background.
+- Chip Heath and Dan Heath. The Curse of Knowledge. Harvard Business Review, 2006. <https://hbr.org/2006/12/the-curse-of-knowledge> Experts overestimating clarity of their message.
+- TED. Speaking at TED. TED, 2026. <https://www.ted.com/about/conferences/speaking-at-ted> Time limits and speaker coaching.
+- Alison Wood Brooks. Get Excited: Reappraising Pre-Performance Anxiety as Excitement. Journal of Experimental Psychology: General, 2014. <https://pubmed.ncbi.nlm.nih.gov/24364682/> Anxiety reappraisal evidence.
+- Matt Abrahams and Shawon Jackson. Think Fast: You Asked, We Answered. Stanford GSB, 2020. <https://www.gsb.stanford.edu/insights/think-fast-you-asked-we-answered> Handling interrupters.
+- Matt Abrahams and Lloyd Minor. Communicating Uncertainty. Stanford GSB, 2022. <https://www.gsb.stanford.edu/insights/communicating-uncertainty-how-connect-your-audience-even-when-answers-arent-clear> Saying "I don't know" and following up.
+- Wikipedia contributors. Richard E. Mayer. Wikipedia, 2026. <https://en.wikipedia.org/wiki/Richard_E._Mayer> Multimedia Learning book and core claim.

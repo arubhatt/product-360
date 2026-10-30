@@ -1,76 +1,74 @@
 # References
 
-Every source used in The Product 360 Handbook, grouped by chapter. The chapters attribute ideas by name in the text but carry no links or footnotes; this file is where the sources live. Entries give author, title, publisher or site, year, URL where one exists, and a note on what the source was used for. Research notes were compiled on 2026-10-30; web sources were accessed then.
+Every source used in The Product 360 Handbook, grouped by chapter. The chapters attribute ideas by name in the text but carry no links or footnotes; this file is where the sources live. Each entry gives author, title, publisher or site, year, URL where one exists, and what the source was used for. Web sources were accessed in October 2026.
 
-## Preface
-
-The preface draws on the sources listed for Chapters 00, 01 and 31, and on the eCornell Product Management 360 certificate outline:
+## Preface: How to Use This Book
 
 - eCornell. Product Management 360 certificate program page. Cornell University, accessed 2026-10-30. <https://ecornell.cornell.edu/certificates/engineering/product-management-360/> Course list used for the course map. The handbook is independent of Cornell and eCornell.
 
 ## Chapter 00: The Product 360 Framework
 
-- Cagan, M.. *Inspired: How to Create Tech Products Customers Love*, 2nd ed.. Wiley, 2017. <https://bookshop.org/p/books/inspired-how-to-create-tech-products-customers-love-marty-cagan/8599213> Product discovery, four risks, the product trio.
-- Cagan, M. and Jones, C.. *Empowered: Ordinary People, Extraordinary Products*. Wiley, 2020. <https://www.oreilly.com/library/view/empowered-ordinary-people/9781119691297/> Product leadership: coaching, strategy, empowered teams.
-- Cagan, M. et al.. *Transformed: Moving to the Product Operating Model*. Wiley, 2024. <https://porchlightbooks.com/product/transformed-moving-to-the-product-operating-model--marty-cagan/isbn/9781119697336> Transformation playbook and model principles.
+- Cagan, M. *Inspired: How to Create Tech Products Customers Love*, 2nd ed. Wiley, 2017. <https://bookshop.org/p/books/inspired-how-to-create-tech-products-customers-love-marty-cagan/8599213> Product discovery, four risks, the product trio.
+- Cagan, M. and Jones, C. *Empowered: Ordinary People, Extraordinary Products*. Wiley, 2020. <https://www.oreilly.com/library/view/empowered-ordinary-people/9781119691297/> Product leadership: coaching, strategy, empowered teams.
+- Cagan, M. et al. *Transformed: Moving to the Product Operating Model*. Wiley, 2024. <https://porchlightbooks.com/product/transformed-moving-to-the-product-operating-model--marty-cagan/isbn/9781119697336> Transformation playbook and model principles.
 - SVPG. "The Product Operating Model: An Introduction". svpg.com, 2023. <https://svpg.com/the-product-operating-model-an-introduction/> Three dimensions and principle areas.
-- Cagan, M.. "Product Risk Taxonomy". svpg.com, 2023. <https://svpg.com/product-risk-taxonomies> Why there are four risks.
-- Cagan, M.. "A Vision for Product Teams". svpg.com, 2025. <https://www.svpg.com/a-vision-for-product-teams/> Teams shrinking to about 3 people.
-- Cagan, M.. "The Era of the Product Creator". svpg.com, 2025. <https://www.svpg.com/the-era-of-the-product-creator/> Role defined by risks owned, not title.
-- Cagan, M.. "Prototypes vs Products". svpg.com, 2025. <https://svpg.com/prototypes-vs-products/> Limits of AI prototypes in enterprise.
-- Cagan, M.. "Build to Learn vs Build to Earn". svpg.com, 2026. <https://svpg.com/build-to-learn-vs-build-to-earn/> Discovery vs delivery building with AI.
-- Cagan, M.. "The AI Productivity Paradox". svpg.com, 2026. <https://svpg.com/the-ai-productivity-paradox/> More output does not mean better outcomes.
-- Cagan, M.. "A Fresh Definition of the Product Role". svpg.com, 2026. <https://svpg.com/a-fresh-definition-of-the-product-role/> Three skills from Benedict Evans; revises his 2025 view.
-- Cagan, M.. "Experimentation, AI and the Product Model". svpg.com, 2026. <https://svpg.com/experimentation-ai-and-the-product-model/> Evals and experimentation ops.
-- Horowitz, B.. "Good Product Manager/Bad Product Manager". a16z.com, 2012 (written 1990s). <https://a16z.com/good-product-manager-bad-product-manager/> Classic behavioral contrasts.
-- Norton, K.. "How to Hire a Product Manager". Bring the Donuts, 2005 (upd. 2023). <https://www.bringthedonuts.com/essays/productmanager.html> PM as advocate who leads by influence.
-- Norton, K.. "How to Hire a PM: 20-year retrospective". Bring the Donuts, 2025. <https://www.bringthedonuts.com/essays/how-to-hire-a-pm-retrospective/> What changed, including AI.
-- Gupta, A.. "LNO Framework for Product Managers". Product Growth, 2020. <https://www.news.aakashg.com/p/lno-framework-for-product-managers> Secondary source for Doshi's LNO.
+- Cagan, M. "Product Risk Taxonomy". svpg.com, 2023. <https://svpg.com/product-risk-taxonomies> Why there are four risks.
+- Cagan, M. "A Vision for Product Teams". svpg.com, 2025. <https://www.svpg.com/a-vision-for-product-teams/> Teams shrinking to about 3 people.
+- Cagan, M. "The Era of the Product Creator". svpg.com, 2025. <https://www.svpg.com/the-era-of-the-product-creator/> Role defined by risks owned, not title.
+- Cagan, M. "Prototypes vs Products". svpg.com, 2025. <https://svpg.com/prototypes-vs-products/> Limits of AI prototypes in enterprise.
+- Cagan, M. "Build to Learn vs Build to Earn". svpg.com, 2026. <https://svpg.com/build-to-learn-vs-build-to-earn/> Discovery vs delivery building with AI.
+- Cagan, M. "The AI Productivity Paradox". svpg.com, 2026. <https://svpg.com/the-ai-productivity-paradox/> More output does not mean better outcomes.
+- Cagan, M. "A Fresh Definition of the Product Role". svpg.com, 2026. <https://svpg.com/a-fresh-definition-of-the-product-role/> Three skills from Benedict Evans; revises his 2025 view.
+- Cagan, M. "Experimentation, AI and the Product Model". svpg.com, 2026. <https://svpg.com/experimentation-ai-and-the-product-model/> Evals and experimentation ops.
+- Horowitz, B. "Good Product Manager/Bad Product Manager". a16z.com, 2012 (written 1990s). <https://a16z.com/good-product-manager-bad-product-manager/> Classic behavioral contrasts.
+- Norton, K. "How to Hire a Product Manager". Bring the Donuts, 2005 (upd. 2023). <https://www.bringthedonuts.com/essays/productmanager.html> PM as advocate who leads by influence.
+- Norton, K. "How to Hire a PM: 20-year retrospective". Bring the Donuts, 2025. <https://www.bringthedonuts.com/essays/how-to-hire-a-pm-retrospective/> What changed, including AI.
+- Gupta, A. "LNO Framework for Product Managers". Product Growth, 2020. <https://www.news.aakashg.com/p/lno-framework-for-product-managers> Secondary source for Doshi's LNO.
 - Wang, S. (swyx). Live notes from a Shreyas Doshi workshop. Thread Reader, 2022. <https://threadreaderapp.com/thread/1492687642550411267.html> Secondary source for the three levels.
-- Perri, M.. *Escaping the Build Trap*. O'Reilly, 2018. <https://oreilly.com/library/view/escaping-the-build/9781491973783> Build trap; Product Kata.
-- Perri, M.. "The Product Kata". melissaperri.com, 2015. <https://melissaperri.com/blog/2015/07/22/the-product-kata> Original kata elements.
-- Perri, M. and Tilles, D.. *Product Operations*. Produx Labs, 2023. <https://www.goodreads.com/book/show/199368360> Three pillars of product ops.
-- Rachitsky, L.. "Product management career ladders". Lenny's Newsletter, 2022. <https://www.lennysnewsletter.com/p/product-management-career-ladders> IC and manager tracks across 20+ companies.
-- Segal, N. and Rachitsky, L.. "AI tools are overdelivering". Lenny's Newsletter, 2025. <https://lennysnewsletter.com/p/ai-tools-are-overdelivering-results> Survey of 1,750 on AI use.
-- Rachitsky, L.. Lenny & Friends Summit write-up. Lenny's Newsletter, 2026. <https://www.lennysnewsletter.com/p/all-of-the-lenny-and-friends-summit> PM role expanding, not merging.
+- Perri, M. *Escaping the Build Trap*. O'Reilly, 2018. <https://oreilly.com/library/view/escaping-the-build/9781491973783> Build trap; Product Kata.
+- Perri, M. "The Product Kata". melissaperri.com, 2015. <https://melissaperri.com/blog/2015/07/22/the-product-kata> Original kata elements.
+- Perri, M. and Tilles, D. *Product Operations*. Produx Labs, 2023. <https://www.goodreads.com/book/show/199368360> Three pillars of product ops.
+- Rachitsky, L. "Product management career ladders". Lenny's Newsletter, 2022. <https://www.lennysnewsletter.com/p/product-management-career-ladders> IC and manager tracks across 20+ companies.
+- Segal, N. and Rachitsky, L. "AI tools are overdelivering". Lenny's Newsletter, 2025. <https://lennysnewsletter.com/p/ai-tools-are-overdelivering-results> Survey of 1,750 on AI use.
+- Rachitsky, L. Lenny & Friends Summit write-up. Lenny's Newsletter, 2026. <https://www.lennysnewsletter.com/p/all-of-the-lenny-and-friends-summit> PM role expanding, not merging.
 - Reforge. "Maximize the performance of your product managers". reforge.com, 2024. <https://www.reforge.com/blog/maximize-the-performance-of-your-product-managers> 12-competency model with Ravi Mehta.
-- Eriksson, M.. "What, exactly, is a Product Manager?". Mind the Product, 2011. <https://www.mindtheproduct.com/what-exactly-is-a-product-manager/> Business, Technology, UX Venn diagram.
+- Eriksson, M. "What, exactly, is a Product Manager?". Mind the Product, 2011. <https://www.mindtheproduct.com/what-exactly-is-a-product-manager/> Business, Technology, UX Venn diagram.
 - Pragmatic Institute. Pragmatic Framework. pragmaticinstitute.com, current. <https://www.pragmaticinstitute.com/product/framework/> 37 boxes, 7 categories.
 - AIPMM (Geracie, G., ed.). *ProdBOK Guide*. AIPMM, 2013. <https://aipmm.com/about> Lifecycle body of knowledge.
-- PDMA (Anderson, A. M. et al.). *Product Development and Management Body of Knowledge*, 3rd ed.. Wiley, 2022?. <https://www.oreilly.com/library/view/-/9781119829942/> NPDP basis, 7 areas. Year [U].
+- PDMA (Anderson, A. M. et al.). *Product Development and Management Body of Knowledge*, 3rd ed. Wiley, 2022?. <https://www.oreilly.com/library/view/-/9781119829942/> NPDP basis, 7 areas. Year [U].
 - ISPMA / Kittlaus and Fricker. *Software Product Management: The ISPMA-Compliant Study Guide*. Springer, 2017. <https://ispma.org/bok/> SPM reference framework.
 - ISO. ISO/IEC 20926:2009. iso.org, 2009. <https://www.iso.org/standard/51717.html> Function points. Not a PM standard.
-- Cooper, R. G.. "Stage-gate systems: A new tool for managing new products". *Business Horizons* 33(3), 1990. <(DOI not retrieved)> Formal Stage-Gate description.
-- Bryar, C. and Carr, B.. *Working Backwards*. St. Martin's Press, 2021. <https://www.goodreads.com/work/quotes/81650661> PR/FAQ, WBR, OP1/OP2, six-pagers.
-- Chin, C.. "The Amazon Weekly Business Review". Commoncog, 2024 (upd. 2026). <https://commoncog.com/the-amazon-weekly-business-review/> Detailed WBR mechanics.
+- Cooper, R. G. "Stage-gate systems: A new tool for managing new products". *Business Horizons* 33(3), 1990. <(DOI not retrieved)> Formal Stage-Gate description.
+- Bryar, C. and Carr, B. *Working Backwards*. St. Martin's Press, 2021. <https://www.goodreads.com/work/quotes/81650661> PR/FAQ, WBR, OP1/OP2, six-pagers.
+- Chin, C. "The Amazon Weekly Business Review". Commoncog, 2024 (upd. 2026). <https://commoncog.com/the-amazon-weekly-business-review/> Detailed WBR mechanics.
 - Atlassian. DACI decision-making framework. Atlassian Team Playbook, current. <https://www.atlassian.com/team-playbook/plays/daci> Roles and decision template.
 
 ## Chapter 01: Developing a Product Hypothesis and Personas
 
 - Ries, Eric. *The Lean Startup*. Crown Business, 2011. Leap-of-faith assumptions; value and growth hypotheses.
 - Maurya, Ash. Lean Canvas. LEANSpark (leancanvas.com), 2010 (page current). <https://leanspark.ai/leancanvas> Canvas boxes and BMC adaptation.
-- Maurya, Ash. *Running Lean*, 3rd ed.. O'Reilly, 2022 [U]. Fill order and problem interviews.
-- Gothelf, J. and Seiden, J.. *Lean UX*, 3rd ed.. O'Reilly, 2021 [U]. Hypothesis statements; Lean UX Canvas.
+- Maurya, Ash. *Running Lean*, 3rd ed. O'Reilly, 2022 [U]. Fill order and problem interviews.
+- Gothelf, J. and Seiden, J. *Lean UX*, 3rd ed. O'Reilly, 2021 [U]. Hypothesis statements; Lean UX Canvas.
 - Gothelf, Jeff. Using Proto-Personas for Executive Alignment. UX Magazine, 2012. <https://uxmag.com/articles/using-proto-personas-for-executive-alignment> Proto-persona template and workshop.
-- Bland, D. J. and Osterwalder, A.. *Testing Business Ideas*. Wiley, 2019. Assumption mapping; desirability, feasibility, viability.
-- Huryn, Pawel. Assumption Prioritization Canvas. Product Compass, n.d.. <https://www.productcompass.pm/p/assumption-prioritization-canvas> Critique of Bland's 2x2.
+- Bland, D. J. and Osterwalder, A. *Testing Business Ideas*. Wiley, 2019. Assumption mapping; desirability, feasibility, viability.
+- Huryn, Pawel. Assumption Prioritization Canvas. Product Compass, n.d. <https://www.productcompass.pm/p/assumption-prioritization-canvas> Critique of Bland's 2x2.
 - Cagan, Marty. Assessing Product Opportunities. SVPG, 2006. <https://www.svpg.com/assessing-product-opportunities/> Ten questions.
-- Cagan, Marty. *Inspired*, 2nd ed.. Wiley, 2017. Later view on opportunity assessment.
-- Christensen, C., Hall, T., Dillon, K., Duncan, D.. Know Your Customers' "Jobs to Be Done". *Harvard Business Review*, 2016. <https://hbr.org/2016/09/know-your-customers-jobs-to-be-done> Canonical JTBD article; milkshake.
-- Christensen, C. et al.. *Competing Against Luck*. HarperBusiness, 2016. Book-length jobs theory.
-- Moesta, B. and Spiek, C.. The Four Forces. jobstobedone.org, n.d.. <https://jobstobedone.org/the-four-forces/> Forces of progress.
+- Cagan, Marty. *Inspired*, 2nd ed. Wiley, 2017. Later view on opportunity assessment.
+- Christensen, C., Hall, T., Dillon, K., Duncan, D. Know Your Customers' "Jobs to Be Done". *Harvard Business Review*, 2016. <https://hbr.org/2016/09/know-your-customers-jobs-to-be-done> Canonical JTBD article; milkshake.
+- Christensen, C. et al. *Competing Against Luck*. HarperBusiness, 2016. Book-length jobs theory.
+- Moesta, B. and Spiek, C. The Four Forces. jobstobedone.org, n.d. <https://jobstobedone.org/the-four-forces/> Forces of progress.
 - Moesta, Bob. *Demand-Side Sales 101*. Lioncrest, 2020 [U]. Switch timeline; buyer-side JTBD for B2B.
-- Bettencourt, L. and Ulwick, A.. The Customer-Centered Innovation Map. *HBR*, 2008. <https://hbr.org/2008/05/the-customer-centered-innovation-map> Universal job map.
+- Bettencourt, L. and Ulwick, A. The Customer-Centered Innovation Map. *HBR*, 2008. <https://hbr.org/2008/05/the-customer-centered-innovation-map> Universal job map.
 - Ulwick, Anthony. *What Customers Want*. McGraw-Hill, 2005. ODI; outcome statements; opportunity algorithm.
-- Strategyn. Quantify Your Customers' Unmet Needs. strategyn.com, n.d.. <https://strategyn.com/quantify-your-customers-unmet-needs/> Opportunity algorithm.
+- Strategyn. Quantify Your Customers' Unmet Needs. strategyn.com, n.d. <https://strategyn.com/quantify-your-customers-unmet-needs/> Opportunity algorithm.
 - Klement, Alan. Designing Features Using Job Stories. Intercom blog, 2013. <https://www.intercom.com/blog/using-job-stories-design-features-ui-ux/> Job stories vs personas and user stories.
 - Klement, Alan. *When Coffee and Kale Compete*. self-published, 2016 [U]. Progress-making JTBD.
 - Cooper, Alan. *The Inmates Are Running the Asylum*. Sams, 1998/1999 [U]. First published use of personas.
-- Pruitt, J. and Grudin, J.. Personas: Practice and Theory. DUX 2003 / Microsoft Research, 2003. <https://www.microsoft.com/en-us/research/publication/personas-practice-theory/> Why personas work.
-- Pruitt, J. and Adlin, T.. *The Persona Lifecycle*. Morgan Kaufmann, 2006. Five-phase lifecycle.
+- Pruitt, J. and Grudin, J. Personas: Practice and Theory. DUX 2003 / Microsoft Research, 2003. <https://www.microsoft.com/en-us/research/publication/personas-practice-theory/> Why personas work.
+- Pruitt, J. and Adlin, T. *The Persona Lifecycle*. Morgan Kaufmann, 2006. Five-phase lifecycle.
 - Laubheimer, Page. 3 Persona Types. NN/g, 2020. <https://www.nngroup.com/articles/persona-types/> Proto, qualitative, statistical.
-- Webster, F. and Wind, Y.. A General Model for Understanding Organizational Buying Behavior. *Journal of Marketing*, 1972. Buying center roles.
-- Miller, R. and Heiman, S.. *Strategic Selling*. Morrow / Warner, 1985 [U]. Economic, user, technical buyer; coach.
+- Webster, F. and Wind, Y. A General Model for Understanding Organizational Buying Behavior. *Journal of Marketing*, 1972. Buying center roles.
+- Miller, R. and Heiman, S. *Strategic Selling*. Morrow / Warner, 1985 [U]. Economic, user, technical buyer; coach.
 - Gartner. Gartner Says the Marketing-to-Sales Handoff Should No Longer Exist. Gartner Newsroom, 2018. <https://www.gartner.com/en/newsroom/press-releases/2018-10-09-gartner-says-the-marketing-to-sales-handoff-should-no-longer-exist> Six B2B buying jobs.
 - Gartner. 61% of B2B Buyers Prefer a Rep-Free Buying Experience. Gartner Newsroom, 2025. <https://www.gartner.com/en/newsroom/press-releases/2025-06-25-gartner-sales-survey-finds-61-percent-of-b2b-buyers-prefer-a-rep-free-buying-experience> Self-serve preference.
 - Gartner. 69% of B2B Buyers Turn to Sales Reps to Validate AI-Generated Insights. Gartner Newsroom, 2026. <https://www.gartner.com/en/newsroom/press-releases/2026-05-20-gartner-survey-finds-sixty-nine-percent-of-b-two-b-buyers-turn-to-sales-reps-to-validate-ai-generated-insights> AI in the buying journey.
@@ -81,52 +79,1172 @@ The preface draws on the sources listed for Chapters 00, 01 and 31, and on the e
 - Torres, Teresa. *Continuous Discovery Habits*. Product Talk LLC, 2021 [U]. Weekly touchpoints; OST.
 - Torres, Teresa. Opportunity Solution Trees. ProductTalk, 2023. <https://www.producttalk.org/opportunity-solution-tree/> OST levels.
 - Torres, Teresa. Interview Snapshots. ProductTalk, 2024. <https://www.producttalk.org/interview-snapshot/> Snapshot fields.
-- Portigal, Steve. *Interviewing Users*, 2nd ed.. Rosenfeld Media, 2023. <https://rosenfeldmedia.com/books/interviewing-users-second-edition/> Interview craft.
-- Rosala, M. and Moran, K.. Synthetic Users: If, When, and How to Use AI-Generated "Research". NN/g, 2024. <https://www.nngroup.com/articles/synthetic-users/> Core critique and acceptable uses.
+- Portigal, Steve. *Interviewing Users*, 2nd ed. Rosenfeld Media, 2023. <https://rosenfeldmedia.com/books/interviewing-users-second-edition/> Interview craft.
+- Rosala, M. and Moran, K. Synthetic Users: If, When, and How to Use AI-Generated "Research". NN/g, 2024. <https://www.nngroup.com/articles/synthetic-users/> Core critique and acceptable uses.
 - Banawa, Rachel. Synthetic Users vs. Human Respondents. NN/g, 2026. <https://www.nngroup.com/articles/synthetic-users-vs-human-respondents/> Empirical comparison; mode collapse.
-- Moran, K. and Rosala, M.. Accelerating Research with AI. NN/g, 2024 (rev. 2026). <https://www.nngroup.com/articles/research-with-ai/> Where AI helps in research.
-- Liu, F. and Moran, K.. AI-Powered Tools for UX Research: Issues and Limitations. NN/g, 2023. <https://www.nngroup.com/articles/ai-powered-tools-limitations/> Early tool evaluation.
+- Moran, K. and Rosala, M. Accelerating Research with AI. NN/g, 2024 (rev. 2026). <https://www.nngroup.com/articles/research-with-ai/> Where AI helps in research.
+- Liu, F. and Moran, K. AI-Powered Tools for UX Research: Issues and Limitations. NN/g, 2023. <https://www.nngroup.com/articles/ai-powered-tools-limitations/> Early tool evaluation.
 - User Interviews. The State of User Research 2025. userinterviews.com, 2025. <https://www.userinterviews.com/state-of-user-research-2025-report> AI adoption among researchers.
-- Park, J. S. et al.. Generative Agent Simulations of 1,000 People. arXiv 2411.10109, 2024. <https://arxiv.org/abs/2411.10109> Interview-grounded agents; 85% normalized accuracy.
-- Brand, J., Israeli, A., Ngwe, D.. Using GPT for Market Research. HBS Working Paper 23-062, 2023. <https://www.hbs.edu/ris/Publication%20Files/23-062_47458a4a-8be2-4b53-a3a3-9b5af20578b1.pdf> LLM WTP estimates.
+- Park, J. S. et al. Generative Agent Simulations of 1,000 People. arXiv 2411.10109, 2024. <https://arxiv.org/abs/2411.10109> Interview-grounded agents; 85% normalized accuracy.
+- Brand, J., Israeli, A., Ngwe, D. Using GPT for Market Research. HBS Working Paper 23-062, 2023. <https://www.hbs.edu/ris/Publication%20Files/23-062_47458a4a-8be2-4b53-a3a3-9b5af20578b1.pdf> LLM WTP estimates.
+
+## Chapter 02: Product Vision and Goals
+
+- Pichler, Roman. 8 Tips for Creating a Compelling Product Vision. romanpichler.com, 2014 (updated 2023). <https://www.romanpichler.com/blog/tips-for-writing-compelling-product-vision/> Definition of product vision and eight tips.
+- Pichler, Roman. Product Vision Board Checklist. romanpichler.com, 2023. <https://www.romanpichler.com/blog/product-vision-board-checklist/> Six vision qualities and criteria for each board section.
+- Pichler, Roman. The Product Vision Board. romanpichler.com, n.d. <https://www.romanpichler.com/tools/product-vision-board/> Board sections and extended business model version.
+- Pichler, Roman. The Product Strategy Framework: A Revised Guide for Product Leaders. romanpichler.com, 2026. <https://www.romanpichler.com/blog/romans-product-strategy-framework-v3/> Vision, strategy, roadmap and backlog layers; where OKRs fit.
+- Cagan, Marty. Vision vs. Strategy. SVPG, 2016. <https://www.svpg.com/vision-vs-strategy/> Vision versus strategy, time horizon and visiontypes.
+- Amazon Staff (excerpt from Bryar, C. and Carr, B.). An Insider Look at Amazon's Culture and Processes. About Amazon, n.d. <https://aboutamazon.com/news/workplace/an-insider-look-at-amazons-culture-and-processes> PR/FAQ length and Working Backwards practice.
+- Bryar, Colin and Carr, Bill. Working Backwards. St. Martin's Press, 2021. Book-length source for PR/FAQ and six-page narratives.
+- Moore, Geoffrey A. Crossing the Chasm, 3rd ed. HarperBusiness, 2014. Positioning statement template used as a short vision format.
+- Sholtz, Julia. Every Product Needs a North Star Metric. Amplitude, 2024. <https://amplitude.com/blog/product-north-star-metric> North Star criteria, three games and three to five inputs.
+- Amplitude (Cutler, John et al.). The North Star Playbook. Amplitude, n.d. <https://amplitude.com/books/north-star/about-north-star-framework> Framework framing and authorship.
+- Ellis, Sean and Brown, Morgan. Hacking Growth. Crown Business, 2017. Origin of the North Star Metric concept as a single value metric.
+- Seiden, Josh. Josh Seiden on Why Product Teams Should Focus on Outcomes over Output. Intercom, 2019. <https://www.intercom.com/blog/podcasts/josh-seiden-on-why-product-teams-should-focus-on-outcome-vs-output> Outcome definition and output, outcome, impact model.
+- Seiden, Josh. Outcomes Over Output. Sense and Respond Press, 2019. Book-length treatment of outcome-based goals.
+- Gothelf, Jeff. Who Does What By How Much. jeffgothelf.com, 2024. <https://jeffgothelf.com/blog/who-does-what-by-how-much/> Announcement of the customer-centric OKR book with Josh Seiden.
+- Doerr, John. What Is an OKR? Definition and Examples. What Matters, n.d. <https://www.whatmatters.com/faqs/okr-meaning-definition-example> OKR definitions, formula, committed versus aspirational, FACTS.
+- Google. Google's OKR Playbook. What Matters, n.d. <https://www.whatmatters.com/resources/google-okr-playbook> Committed 1.0 versus aspirational 0.7 scoring and named traps.
+- Doerr, John. Measure What Matters. Portfolio, 2018. Book-length source on OKRs and their history.
+- Grove, Andrew S. High Output Management. Random House, 1983. Original management-by-objectives practice at Intel.
+- Wikipedia contributors. Objectives and Key Results. Wikipedia, n.d. <https://en.wikipedia.org/wiki/Objectives_and_key_results> OKR history dates and common criticisms (secondary).
+- Wodtke, Christina. The Art of the OKR. Eleganthack, 2014. <https://eleganthack.com/the-art-of-the-okr/> Qualitative objectives, three KRs, 50 percent confidence, weekly check-ins.
+- Wodtke, Christina. Radical Focus, 2nd ed. Cucina Media, 2021. Weekly OKR cadence and four-square status.
+- Cagan, Marty. Team Objectives: Overview. SVPG, 2020. <https://svpg.com/team-objectives-overview/> Why OKRs fail in most companies.
+- Cagan, Marty. Team Objectives: Accountability. SVPG, 2020. <https://svpg.com/team-objectives-accountability/> Ambition, accountability and objective post-mortems.
+- Scaled Agile. Value Streams. Scaled Agile Framework, 2025. <https://framework.scaledagile.com/value-streams/> Operational versus development value streams for decomposition.
+- Skelton, Matthew and Pais, Manuel. Key Concepts. Team Topologies, n.d. <https://teamtopologies.com/key-concepts> Stream-aligned teams and interaction modes for mapping goals to teams.
+- Strategyzer. The Business Model Canvas. Strategyzer, n.d. <https://www.strategyzer.com/library/the-business-model-canvas> Business model components for decomposing the business.
+- Anthropic. Define Your Success Criteria. Claude Docs, 2026. <https://platform.claude.com/docs/en/docs/test-and-evaluate/define-success> Success criteria qualities and categories for AI features.
+- Google PAIR. User Needs and Defining Success. People and AI Guidebook, n.d. <https://pair.withgoogle.com/chapter/user-needs/> Error costs, precision and recall, reward functions.
+- NIST. AI Risk Management Framework. NIST, 2023 (page current 2026). <https://www.nist.gov/itl/ai-risk-management-framework> Trust framing and 2024 to 2026 updates.
+- Mahajan, Kunal and Lee, Helen. A Framework for Pricing AI Products. Stripe, 2025. <https://stripe.com/blog/a-framework-for-pricing-ai-products> Consumption, workflow and outcome metrics.
+- O'Reilly, Aisling. Pricing AI Agents: What Does Value-Based Pricing Really Mean for AI? Intercom, 2025. <https://www.intercom.com/blog/pricing-ai-agents/> Outcome pricing as goal alignment.
+- Intercom. Fin Pricing. Fin, 2026. <https://fin.ai/pricing> Per-resolution price and resolution definition.
+- Future of Life Institute. Implementation Timeline. EU Artificial Intelligence Act site, 2026. <https://artificialintelligenceact.eu/implementation-timeline/> AI Act application dates (secondary).
+
+## Chapter 03: Building a Product Strategy and Roadmap
+
+- Rumelt, Richard P. *Good Strategy/Bad Strategy*. Crown Business, 2011. Kernel of strategy and hallmarks of bad strategy (read via secondary summaries).
+- Rekhi, Sachin. Good Strategy, Bad Strategy by Richard Rumelt. sachinrekhi.com, n.d. <https://sachinrekhi.com/good-strategy-bad-strategy-richard-rumelt> Secondary check of the kernel definitions.
+- Lafley, A. G. and Martin, Roger L. *Playing to Win*. Harvard Business Review Press, 2013. Strategy choice cascade (five questions).
+- Farnam Street. Playing to Win: How Strategy Really Works. fs.blog, 2013. <https://fs.blog/2013/03/playing-to-win-how-strategy-really-works/> Secondary summary of the cascade.
+- Martin, Roger L. The Big Lie of Strategic Planning. *Harvard Business Review*, 2014. <https://hbr.org/2014/01/the-big-lie-of-strategic-planning> Planning versus strategy.
+- Biddle, Gibson. Ask Gib: How do all your product strategy frameworks fit together? Ask Gib (Substack), 2025. <https://askgib.substack.com/p/ask-gib-how-do-all-your-product-strategy> DHM, GEM, GLEe, SMT and roadmap sequence.
+- McBride, Sean. RICE: Simple prioritization for product managers. Intercom blog, 2018. <https://www.intercom.com/blog/rice-simple-prioritization-for-product-managers/> RICE formula, scales and caveats.
+- Gilad, Itamar. The tool that will help you choose better product ideas. itamargilad.com, n.d. <https://itamargilad.com/the-tool-that-will-help-you-choose-better-product-ideas/> ICE attribution to Sean Ellis and the Confidence Meter.
+- Agile Business Consortium. MoSCoW Prioritisation. DSDM Agile Project Framework, n.d. <https://www.agilebusiness.org/?p=1907> MoSCoW categories and 60 percent Must guidance.
+- Zacarias, Daniel. The Complete Guide to the Kano Model. Folding Burritos, n.d. <https://foldingburritos.com/blog/kano-model/> Kano categories, question pair and category decay.
+- Kano, Noriaki et al. Attractive Quality and Must-be Quality. Japanese Society for Quality Control, 1984. Original Kano paper (cited via Zacarias).
+- Reinertsen, Donald G. *The Principles of Product Development Flow*. Celeritas, 2009. Cost of delay and CD3.
+- Scaled Agile. WSJF. SAFe Framework, n.d. <https://framework.scaledagile.com/wsjf> WSJF definition and cost of delay components.
+- Black Swan Farming. Cost of Delay. blackswanfarming.com, n.d. <https://blackswanfarming.com/cost-of-delay/> Cost of delay and CD3 definitions.
+- Ulwick, Anthony. *What Customers Want*. McGraw-Hill, 2005. Opportunity scoring.
+- Bastow, Janna. I invented the Now-Next-Later roadmap. ProdPad blog, 2022. <https://www.prodpad.com/blog/invented-now-next-later-roadmap/> Now, Next, Later definitions and origin.
+- Lombardo, C. Todd, McCarthy, Bruce, Ryan, Evan and Connors, Michael. *Product Roadmaps Relaunched*. O'Reilly Media, 2017. Theme-based roadmap components (to verify against the book).
+- Cagan, Marty. The Inconvenient Truth About Product. SVPG, 2013. <https://www.svpg.com/the-inconvenient-truth-about-product/> Why feature roadmaps fail.
+- Cagan, Marty. The Alternative to Roadmaps. SVPG, 2015. <https://www.svpg.com/the-alternative-to-roadmaps/> Outcomes and high-integrity commitments.
+- Cagan, Marty. Predictability vs Outcomes. SVPG, 2026. <https://www.svpg.com/predictability-vs-outcomes/> Commitments versus bets in 2026.
+- Cagan, Marty. Experimentation, AI and the Product Model. SVPG, 2026. <https://www.svpg.com/experimentation-ai-and-the-product-model/> AI shifts the bottleneck to deciding what to build.
+- Cagan, Marty. The AI Productivity Paradox. SVPG, 2026. <https://www.svpg.com/the-ai-productivity-paradox/> AI speeds output, not outcomes.
+- Schwaber, Ken and Sutherland, Jeff. The Scrum Guide. scrumguides.org, 2020. <https://scrumguides.org/scrum-guide.html> Product Backlog, Product Goal and refinement.
+- Pichler, Roman. Make the Product Backlog DEEP. romanpichler.com, 2010 (updated 2024). <https://www.romanpichler.com/blog/make-the-product-backlog-deep/> Backlog hygiene attributes.
+- Singer, Ryan. Bets, Not Backlogs. *Shape Up*, 37signals, 2019. <https://basecamp.com/shapeup/2.1-chapter-07> Betting table and the case against backlogs.
+- Torres, Teresa. Opportunity Solution Trees. Product Talk, 2023. <https://www.producttalk.org/opportunity-solution-tree/> Linking outcomes to opportunities and backlog bets.
+- METR. Measuring AI Ability to Complete Long Tasks. metr.org, 2025. <https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/> Pace of agent capability growth.
+- Anthropic. Model deprecations. Claude Platform Docs, 2026. <https://platform.claude.com/docs/en/about-claude/model-deprecations> Model retirement notice and cadence.
+- Anthropic. Newsroom. anthropic.com, 2026. <https://www.anthropic.com/news> 2026 model release dates.
+- European Commission. AI Act: Regulatory framework for AI. digital-strategy.ec.europa.eu, 2026. <https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai> AI Act timeline and Omnibus delays.
+
+## Chapter 04: Product Prototyping
+
+- Cagan, Marty. Flavors of Prototypes. SVPG, 2014. <https://www.svpg.com/flavors-of-prototypes/> Prototype types (feasibility, user, live-data, hybrid) and fidelity.
+- Cagan, Marty. The Purpose of Prototypes. SVPG, 2025. <https://www.svpg.com/the-purpose-of-prototypes/> Build to learn, the four risks and gen-AI prototyping tools.
+- Cagan, Marty. Prototypes vs Products. SVPG, 2025. <https://www.svpg.com/prototypes-vs-products/> Run-time demands that separate products from prototypes.
+- Cagan, Marty. Build to Learn vs Build to Earn. SVPG, 2026. <https://www.svpg.com/build-to-learn-vs-build-to-earn/> Discovery versus delivery and the PM as builder.
+- Cagan, Marty. Forward Deployed Engineers. SVPG, 2025. <https://www.svpg.com/forward-deployed-engineers/> Embedding with enterprise customers to prototype and staff discovery.
+- Cagan, Marty. The AI Productivity Paradox. SVPG, 2026. <https://www.svpg.com/the-ai-productivity-paradox/> Why faster AI output does not improve outcomes.
+- Cagan, Marty. Revisiting the Product Spec. SVPG, 2006. <https://www.svpg.com/revisiting-the-product-spec/> The prototype as the core of the spec.
+- Cagan, Marty. Inspired, 2nd ed. Wiley, 2017. Product team composition and prototype chapters.
+- Nielsen, Jakob. Why You Only Need to Test with 5 Users. Nielsen Norman Group, 2000. <https://www.nngroup.com/articles/why-you-only-need-to-test-with-5-users/> Five-user rule, the problem-discovery formula and iterative rounds.
+- Nielsen, Jakob. How Many Test Users in a Usability Study. Nielsen Norman Group, 2012. <https://www.nngroup.com/articles/how-many-test-users/> Sample sizes by study type.
+- Nielsen, Jakob. Thinking Aloud: The #1 Usability Tool. Nielsen Norman Group, 2012. <https://www.nngroup.com/articles/thinking-aloud-the-1-usability-tool/> Think-aloud method and facilitator steps.
+- Nielsen, Jakob. Severity Ratings for Usability Problems. Nielsen Norman Group, 1994. <https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/> Severity factors and the 0 to 4 scale for test readouts.
+- McCloskey, Marieke. Turn User Goals into Task Scenarios for Usability Testing. Nielsen Norman Group, 2014. <https://www.nngroup.com/articles/task-scenarios-usability-testing/> Rules for writing test tasks.
+- Moran, Kate. Usability Testing 101. Nielsen Norman Group, 2019. <https://www.nngroup.com/articles/usability-testing-101/> Elements and formats of usability tests.
+- Pernice, Kara. UX Prototypes: Low Fidelity vs. High Fidelity. Nielsen Norman Group, 2016. <https://www.nngroup.com/articles/ux-prototype-hi-lo-fidelity/> Three dimensions of fidelity and when to use each.
+- Paul, Sara and Rosala, Maria. The Wizard of Oz Method in UX. Nielsen Norman Group, 2024. <https://www.nngroup.com/articles/wizard-of-oz/> Wizard of Oz definition, origin and use for AI features.
+- Rosala, Maria and Moran, Kate. Synthetic Users: If, When, and How to Use AI-Generated Research. Nielsen Norman Group, 2024. <https://www.nngroup.com/articles/synthetic-users/> Limits of AI-simulated participants.
+- Krug, Steve. Rocket Surgery Made Easy. New Riders, 2010. DIY testing cadence, debriefs and minimal fixes (details from secondary sources).
+- Munroe, Lee. Book Review: Rocket Surgery Made Easy. leemunroe.com, 2010. <https://leemunroe.com/rocket-surgery-made-easy> Secondary check on Krug's method.
+- Rosso, Manuel. Concierge MVP: Learning from Early Adopters at Food on the Table. SlideShare, 2011. <https://www.slideshare.net/slideshow/manuel-rosso-food-on-the-table/7239850> Concierge test example.
+- Matthews, Colin. A Guide to AI Prototyping for Product Managers. Lenny's Newsletter, 2025. <https://www.lennysnewsletter.com/p/a-guide-to-ai-prototyping-for-product> Categories of AI prototyping tools.
+- Figma. Config 2025 Press Release. Figma, 2025. <https://www.figma.com/blog/config-2025-press-release/> Launch of Figma Make as a design-to-code tool.
+- Anthropic. Introducing Claude Design by Anthropic Labs. Anthropic, 2026. <https://www.anthropic.com/news/claude-design-anthropic-labs> Design and prototype creation with handoff to a coding agent.
+- Wikipedia contributors. Vibe Coding. Wikipedia, 2026. <https://en.wikipedia.org/wiki/Vibe_coding> Origin of the term and Collins Word of the Year (secondary).
+- SentinelOne. CVE-2025-48757. SentinelOne Vulnerability Database, 2025. <https://www.sentinelone.com/vulnerability-database/cve-2025-48757/> Security risk in AI-generated apps (secondary).
+- Delimarsky, Den. Spec-Driven Development with AI. GitHub Blog, 2025. <https://github.blog/ai-and-ml/generative-ai/spec-driven-development-with-ai-get-started-with-a-new-open-source-toolkit/> Specs written for AI coding agents.
+- Torres, Teresa. Product Trio. Product Talk, 2021. <https://www.producttalk.org/product-trio/> Definition and work of the product trio.
+- Skelton, Matthew and Pais, Manuel. Team Topologies Key Concepts. Team Topologies, 2019. <https://teamtopologies.com/key-concepts> Four team types, three interaction modes and cognitive load.
+- Vogels, Werner. Working Backwards. All Things Distributed, 2006. <https://www.allthingsdistributed.com/2006/11/working_backwards.html> The four working-backwards documents.
+- Bryar, Colin and Carr, Bill. Working Backwards PR/FAQ Process. workingbackwards.com, 2021. <https://workingbackwards.com/concepts/working-backwards-pr-faq-process/> PR/FAQ structure and review meeting.
+- Singer, Ryan. Shape Up: Write the Pitch. Basecamp, 2019. <https://basecamp.com/shapeup/1.5-chapter-06> Appetite and no-gos for the one-page PRD.
+- Horowitz, Ben. Good Product Manager/Bad Product Manager. Andreessen Horowitz, 2012. <https://a16z.com/good-product-manager-bad-product-manager/> Written direction on the what, not the how.
+- Rachitsky, Lenny. My Favorite Product Management Templates. Lenny's Newsletter, 2020. <https://www.lennysnewsletter.com/p/my-favorite-templates-issue-37> Survey of one-pager and PRD templates.
+- eCornell. Product Prototyping. Cornell University, 2026. <https://ecornell.cornell.edu/courses/product-management/product-prototyping/> Course outcomes the chapter maps to.
+- Cagan, Marty and Jones, Chris. Empowered. Wiley, 2020. Empowered product teams versus feature and delivery teams (details from secondary sources).
+- Ries, Eric. The Lean Startup. Crown Business, 2011. The concierge MVP and the Food on the Table story (via Rosso's deck; book not re-checked).
+- Skelton, Matthew and Pais, Manuel. Team Topologies. IT Revolution, 2019. Team types, interaction modes and cognitive load (book cited by name; details via the key concepts page).
+
+## Chapter 05: Product Analytics and Iteration
+
+- Kohavi, Ron, Randal M. Henne and Dan Sommerfield. Practical Guide to Controlled Experiments on the Web: Listen to Your Customers not to the HiPPO. KDD, 2007. <https://exp-platform.com/hippo/> OEC definition and the limits of controlled experiments.
+- Kohavi, Ron, Diane Tang and Ya Xu. Trustworthy Online Controlled Experiments: A Practical Guide to A/B Testing. Cambridge University Press, 2020. <https://experimentguide.com/> OEC, guardrail metrics and experiment design principles.
+- Kohavi, Ron and Stefan Thomke. The Surprising Power of Online Experiments. Harvard Business Review, 2017. <https://hbr.org/2017/09/the-surprising-power-of-online-experiments> Minimum scale for A/B testing and experiment success base rates.
+- Deng, Alex, Ya Xu, Ron Kohavi and Toby Walker. Improving the Sensitivity of Online Controlled Experiments by Utilizing Pre-Experiment Data. WSDM, 2013. <https://exp-platform.com/cuped/> CUPED variance reduction for low-volume tests.
+- Kohavi, Ron, Alex Deng and Lukas Vermeer. A/B Testing Intuition Busters. KDD, 2022. <https://exp-platform.com/abtestingintuitionbusters/> Common misreadings of experiment results.
+- Fabijan, Aleksander and others. Diagnosing Sample Ratio Mismatch in A/B Testing. Microsoft Research blog, 2020. <https://www.microsoft.com/en-us/research/articles/diagnosing-sample-ratio-mismatch-in-a-b-testing/> SRM definition, detection, frequency and causes.
+- Miller, Evan. How Not To Run an A/B Test. evanmiller.org, 2010. <https://www.evanmiller.org/how-not-to-run-an-ab-test.html> The peeking problem and its remedies.
+- Rodden, Kerry, Hilary Hutchinson and Xin Fu. Measuring the User Experience on a Large Scale: User-Centered Metrics for Web Applications. CHI (Google Research), 2010. <https://research.google/pubs/measuring-the-user-experience-on-a-large-scale-user-centered-metrics-for-web-applications/> HEART, PULSE and Goals Signals Metrics.
+- McClure, Dave. Startup Metrics for Pirates. SlideShare, 2007. <https://www.slideshare.net/dmc500hats/startup-metrics-for-pirates-long-version> AARRR stage definitions.
+- Vohra, Rahul. How Superhuman Built an Engine to Find Product/Market Fit. First Round Review, 2018. <https://review.firstround.com/how-superhuman-built-an-engine-to-find-product-market-fit/> Sean Ellis 40% test and segmentation engine.
+- Sequoia Capital Data Science. Retention. Sequoia Capital, undated. <https://articles.sequoiacap.com/retention> Retention curve shapes and choosing the retention window.
+- Ries, Eric. The Lean Startup (public lecture slides). London School of Economics, 2012. <https://www.lse.ac.uk/assets/richmedia/channels/publicLecturesAndEvents/slides/20120112_1830_theLeanStartup_sl.pdf> Build Measure Learn, innovation accounting and AAA metrics.
+- Twilio Segment. Naming Conventions: Why You Need Them for Clean Data. Twilio, undated. <https://www.twilio.com/en-us/resource-center/naming-conventions-for-clean-data> Object Action event naming and tracking plans.
+- Amplitude. Plan Your Taxonomy. Amplitude documentation, 2026. <https://amplitude.com/docs/data/data-planning-playbook> Taxonomy steps and event versus user properties.
+- Amplitude. Amplitude MCP Server. Amplitude documentation, 2026. <https://amplitude.com/docs/mcp> Example of analytics exposed to AI clients through MCP.
+- Ziegler, Albert and others. Productivity Assessment of Neural Code Completion. arXiv (MAPS), 2022. <https://arxiv.org/abs/2205.06537> Acceptance rate as a proxy for perceived value of AI suggestions.
+- Husain, Hamel and Shreya Shankar. AI Evals: Everything You Need to Know. hamel.dev, 2026. <https://hamel.dev/blog/posts/evals-faq/> Error analysis on production traces and binary quality checks.
+- Anthropic. Demystifying Evals for AI Agents. Anthropic Engineering, 2026. <https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents> Agent eval vocabulary, pass@k versus pass^k and layered evaluation.
+- OpenTelemetry. Semantic Conventions for Generative AI. GitHub, 2026. <https://github.com/open-telemetry/semantic-conventions-genai> Telemetry standard for AI spans, metrics, events and MCP.
+
+## Chapter 06: Product Engineering and Execution
+
+- Jeffries, Ron. Essential XP: Card, Conversation, Confirmation. ronjeffries.com, 2001. <https://ronjeffries.com/xprog/articles/expcardconversationconfirmation/> The three Cs of a user story.
+- Wake, Bill. INVEST in Good Stories, and SMART Tasks. xp123.com, 2003. <https://xp123.com/invest-in-good-stories-and-smart-tasks/> INVEST and SMART definitions.
+- Cohn, Mike. Advantages of the "As a user, I want" User Story Template. Mountain Goat Software, 2026 (updated). <https://www.mountaingoatsoftware.com/blog/advantages-of-the-as-a-user-i-want-user-story-template> Template origin at Connextra and its advantages.
+- Mountain Goat Software. User Stories. Mountain Goat Software, 2026 (page current). <https://www.mountaingoatsoftware.com/agile/user-stories> Story template, acceptance criteria and epics.
+- North, Dan. Introducing BDD. dannorth.net, 2006. <https://dannorth.net/blog/introducing-bdd/> Given-When-Then template and BDD story format.
+- Cucumber. Gherkin Reference. cucumber.io, 2026 (page current). <https://cucumber.io/docs/gherkin/reference/> Gherkin keywords and step guidance.
+- Mavin, Alistair. EARS: The Easy Approach to Requirements Syntax. alistairmavin.com, 2026 (page current). <https://alistairmavin.com/ears/> EARS requirement patterns.
+- Patton, Jeff. The New User Story Backlog is a Map. Jeff Patton and Associates, 2008. <https://jpattonassociates.com/the-new-backlog/> Story map backbone, walking skeleton and release slices.
+- Patton, Jeff. User Story Mapping. Jeff Patton and Associates, 2026 (page current). <https://jpattonassociates.com/user-story-mapping/> Origin of story mapping in 2005.
+- Schwaber, Ken and Sutherland, Jeff. The Scrum Guide. scrumguides.org, 2020. <https://scrumguides.org/scrum-guide.html> Sprint Planning, Sprint length and Definition of Done.
+- Agile Alliance. Definition of Ready. Agile Alliance glossary, 2026 (page current). <https://www.agilealliance.org/glossary/definition-of-ready/> Definition of Ready meaning and 2008 origin.
+- Singer, Ryan. Shape Up, Set Boundaries. Basecamp, 2019. <https://basecamp.com/shapeup/1.2-chapter-03> Appetite versus estimates and fixed time, variable scope.
+- Jeffries, Ron. Story Points Revisited. ronjeffries.com, 2019. <https://ronjeffries.com/articles/019-01ff/story-points/Index.html> Origin and critique of story points.
+- Linders, Ben. Q&A on the Book NoEstimates with Vasco Duarte. InfoQ, 2015. <https://www.infoq.com/articles/book-review-noestimates> NoEstimates practices and throughput forecasting.
+- Armstrong, Ben. Does It Meet the Bar? Microsoft Learn archive, 2004. <https://learn.microsoft.com/en-us/archive/blogs/virtual_pc_guy/does-it-meet-the-bar> The bug bar concept in triage.
+- Google. Issues: Priority. Google Issue Tracker documentation, 2026 (page current). <https://developers.google.com/issue-tracker/concepts/issues> Example P0 to P4 priority scale.
+- Thurgood, Steven. Example Error Budget Policy. Google SRE Workbook, O'Reilly, 2018. <https://sre.google/workbook/error-budget-policy/> Error budget as a release policy.
+- Cunningham, Ward. The WyCash Portfolio Management System. OOPSLA '92 Experience Report, 1992. <https://c2.com/doc/oopsla92.html> Origin of the technical debt metaphor.
+- Fowler, Martin. Technical Debt. martinfowler.com, 2019. <https://martinfowler.com/bliki/TechnicalDebt.html> Principal, interest and where to pay down debt.
+- Fowler, Martin. Technical Debt Quadrant. martinfowler.com, 2009. <https://martinfowler.com/bliki/TechnicalDebtQuadrant.html> Deliberate versus inadvertent and prudent versus reckless debt.
+- Hodgson, Pete. Feature Toggles (aka Feature Flags). martinfowler.com, 2017. <https://martinfowler.com/articles/feature-toggles.html> Toggle categories and toggle debt controls.
+- Governor, James. Progressive Delivery: The Book Is Here. RedMonk, 2025. <https://redmonk.com/jgovernor/progressive-delivery-the-book-is-here/> Progressive delivery goal and four tenets.
+- DORA. DORA's Software Delivery Performance Metrics. dora.dev, 2026. <https://dora.dev/guides/dora-metrics-four-keys/> The five current delivery metrics.
+- Harvey, Nathen and DeBellis, Derek. Announcing the 2025 DORA Report. Google Cloud Blog, 2025. <https://cloud.google.com/blog/products/ai-machine-learning/announcing-the-2025-dora-report> AI adoption, throughput, stability and trust findings.
+- DORA. AI Capabilities Model. dora.dev, 2025. <https://dora.dev/research/ai/ai-capabilities-model> Seven capabilities that amplify AI benefits.
+- METR. Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity. METR, 2025. <https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/> Randomized trial on AI and developer speed.
+- METR. We Are Changing Our Developer Productivity Experiment Design. METR, 2026. <https://metr.org/blog/2026-02-24-uplift-update/> Late-2025 follow-up estimates and their limits.
+- Faros AI. The AI Productivity Paradox Report 2025. Faros AI, 2025. <https://www.faros.ai/blog/ai-software-engineering> PR volume and review-time telemetry.
+- Stack Overflow. 2025 Developer Survey: AI. Stack Overflow, 2025. <https://survey.stackoverflow.co/2025/ai> Developer AI use, trust and frustrations.
+- Anthropic. How AI Is Transforming Work at Anthropic. Anthropic, 2025. <https://www.anthropic.com/research/how-ai-is-transforming-work-at-anthropic> Delegation and oversight of coding agents.
+- Delimarsky, Den. Spec-Driven Development with AI: Get Started with a New Open Source Toolkit. GitHub Blog, 2025. <https://github.blog/ai-and-ml/generative-ai/spec-driven-development-with-ai-get-started-with-a-new-open-source-toolkit/> Spec Kit phases and the case for specs.
+- Böckeler, Birgitta. Understanding Spec-Driven-Development: Kiro, spec-kit, and Tessl. martinfowler.com, 2025. <https://www.martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html> Levels of spec-driven development and critique.
+- Thoughtworks. Spec-Driven Development. Thoughtworks Technology Radar, 2025. <https://www.thoughtworks.com/radar/techniques/spec-driven-development> Radar ring and assessment.
+- Kiro. Specs. kiro.dev, 2026. <https://kiro.dev/docs/specs/> Spec file structure for an agentic IDE.
+
+## Chapter 07: Navigating Technical Product Management
+
+- CB Insights. Why startups fail. CB Insights Research, 2026. <https://www.cbinsights.com/research/report/startup-failure-reasons-top/> Verified 2026 failure reasons, sample and caveats.
+- Cagan, Marty. The Root Causes of Product Failure. SVPG, 2015. <https://svpg.com/product-fail/> Ten root causes of failed product efforts and the discovery alternative.
+- Cutler, John. 12 Signs You're Working in a Feature Factory. Cutle.fish, 2016. <https://cutle.fish/blog/12-signs-youre-working-in-a-feature-factory> Feature factory diagnostic signs.
+- Cutler, John. 12 Signs You're Working in a Feature Factory, 3 Years Later. Amplitude, 2019. <https://amplitude.com/blog/12-signs-youre-working-in-a-feature-factory-3-years-later> Why feature factories persist.
+- Cooper, Robert G. The Evolution of StageGate: Integrating Agile and Lean for New Product Development. Syracuse University, 2023. <https://snyder.syracuse.edu/snyder/the-evolution-of-stagegate-integrating-agile-and-lean-for-new-product-development/> Stage-Gate purpose, gates and Agile StageGate hybrid.
+- Royce, Winston W. Managing the Development of Large Software Systems. Proceedings of IEEE WESCON, 1970. <https://faculty.washington.edu/hazeline/misc/reserve/royce_waterfall.pdf> Sequential model critique and five recommended steps.
+- Beck, Kent et al. Manifesto for Agile Software Development. Agile Manifesto, 2001. <https://agilemanifesto.org/> Agile values and principles.
+- Sy, Desirée. Adapting Usability Investigations for Agile User-Centered Design. Journal of Usability Studies, 2007. <https://uxpajournal.org/adapting-usability-investigations-for-agile-user-centered-design/> Origin of the two-track design and development idea.
+- Patton, Jeff. Dual Track Development is not Duel Track. Jeff Patton and Associates, 2017. <https://www.jpattonassociates.com/dual-track-development/> Dual-track discovery and delivery as one team process.
+- Kohavi, Ron, Tang, Diane and Xu, Ya. Trustworthy Online Controlled Experiments. Cambridge University Press, 2020. <https://www.cambridge.org/core/books/trustworthy-online-controlled-experiments/sample-ratio-mismatch-and-other-trustrelated-guardrail-metrics/8DBB0F59AC7729D7BC6B94690DB9CCD5> OEC, guardrail metrics and SRM checks.
+- Kohavi, Ron and Thomke, Stefan. The Surprising Power of Online Experiments. Harvard Business Review, 2017. <https://exp-platform.com/hbr-the-surprising-power-of-online-experiments/> Citation for the business case for controlled experiments.
+- Fabijan, Aleksander et al. Diagnosing Sample Ratio Mismatch in Online Controlled Experiments. Microsoft Research and KDD, 2019. <https://www.microsoft.com/en-us/research/publication/diagnosing-sample-ratio-mismatch-in-online-controlled-experiments-a-taxonomy-and-rules-of-thumb-for-practitioners/> SRM definition and taxonomy.
+- Miller, Evan. How Not To Run an A/B Test. Evanmiller.org, 2010. <https://www.evanmiller.org/how-not-to-run-an-ab-test.html> Peeking problem and fixed sample sizes.
+- Wasserstein, Ronald L. and Lazar, Nicole A. The ASA Statement on p-Values: Context, Process, and Purpose. The American Statistician, 2016. <https://doi.org/10.1080/00031305.2016.1154108> Six principles for interpreting p-values.
+- TechCrunch. OpenAI acquires product testing startup Statsig and shakes up its leadership team. TechCrunch, 2025. <https://techcrunch.com/2025/09/02/openai-acquires-product-testing-startup-statsig-and-shakes-up-its-leadership-team/> Experimentation consolidation into AI platforms.
+- Datadog. Datadog Acquires Eppo to Expand Its AI, Product Analytics, Experimentation and Feature Flag Capabilities. Datadog, 2025. <https://www.datadoghq.com/about/latest-news/press-releases/datadog-acquires-eppo-to-expand-its-ai/> Experimentation consolidation into observability.
+- Anthropic. Donating the Model Context Protocol and Establishing the Agentic AI Foundation. Anthropic, 2025. <https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation> MCP status and adoption figures.
+- Optimizely. Experiment Program Health Review agent. Optimizely Support, 2026. <https://support.optimizely.com/hc/en-us/articles/46350242034061-Experiment-Program-Health-Review-agent> Example of vendor AI agents analyzing experiments.
+- Ubl, Malte. Design Docs at Google. Industrial Empathy, 2020. <https://www.industrialempathy.com/posts/design-docs-at-google/> Design doc sections, length and review lifecycle.
+- Nygard, Michael. Documenting Architecture Decisions. Cognitect, 2011. <https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions> ADR template.
+- Klein, Gary. Performing a Project Premortem. Harvard Business Review, 2007. <https://hbr.org/2007/09/performing-a-project-premortem> Pre-mortem method.
+- Yegge, Steve. Stevey's Google Platforms Rant. Google Plus via GitHub Gist, 2011. <https://gist.github.com/chitchcock/1281611> Platform thinking and the recalled service-interface mandate.
+- Skelton, Matthew and Pais, Manuel. Team Topologies Key Concepts. Team Topologies, 2019. <https://teamtopologies.com/key-concepts> Team types, interaction modes and platform teams.
+- Postman. 2025 State of the API Report. Postman, 2025. <https://www.postman.com/state-of-api/2025/> API-first adoption, API revenue and AI agents as API consumers.
+- Google. API Design Guide. Google Cloud, 2014. <https://docs.cloud.google.com/apis/design> API design topics for technical fluency.
+- Cagan, Marty. Experimentation, AI and the Product Model. SVPG, 2026. <https://www.svpg.com/experimentation-ai-and-the-product-model/> Evals for quality and A/B tests for value.
+- Cagan, Marty. The AI Productivity Paradox. SVPG, 2026. <https://www.svpg.com/the-ai-productivity-paradox/> Faster AI building without better outcomes.
+- Cagan, Marty. Build To Learn FAQ. SVPG, 2026. <https://www.svpg.com/build-to-learn-faq/> Discovery versus delivery in the AI era.
+- Cagan, Marty. Product Coaching and AI. SVPG, 2026. <https://www.svpg.com/product-coaching-and-ai/> Checking and challenging AI outputs.
+- Wright, Hyrum. Hyrum's Law. Hyrumslaw.com, 2020. <https://www.hyrumslaw.com/> Observable behavior becomes an implicit API contract.
+- Jones, Chris, Wilkes, John, Murphy, Niall and Smith, Cody. Service Level Objectives. Site Reliability Engineering, Google, 2016. <https://sre.google/sre-book/service-level-objectives/> SLI, SLO, SLA and error budget definitions.
+- Leach, Brandur. APIs as Infrastructure: Future-Proofing Stripe with Versioning. Stripe, 2017. <https://stripe.com/blog/api-versioning> API versioning and backward compatibility example.
+- Brewer, Eric. CAP Twelve Years Later: How the Rules Have Changed. InfoQ, 2012. <https://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed/> Consistency, availability and latency tradeoffs.
+- Ries, Eric. *The Lean Startup*. Crown Business, 2011. Build-measure-learn loop and validated learning (also cited in Chapter 01).
+- Mitchell, Deborah J., Russo, J. Edward and Pennington, Nancy. Back to the Future: Temporal Perspective in the Explanation of Events. Journal of Behavioral Decision Making, 1989. Prospective hindsight research behind the pre-mortem (cited via Klein, 2007).
+
+## Chapter 08: Developing a Data-Driven Product Strategy
+
+- Skok, David. SaaS Metrics 2.0: A Guide to Measuring and Improving What Matters. For Entrepreneurs, 2011 (page current). <https://www.forentrepreneurs.com/saas-metrics-2-definitions-2/> LTV:CAC above 3, CAC payback guideline and enterprise exception.
+- Bush, Wes. Product Qualified Leads. ProductLed, 2023 (updated 2024). <https://productled.com/blog/product-qualified-leads> PQL definition, minimum viable PQL and PQL versus MQL.
+- OpenView Partners. Inventing Product-Led Growth. OpenView blog, n.d. <https://openviewpartners.com/blog/inventing-product-led-growth/> Origin and definition of product-led growth.
+- Forrester. The State of Business Buying, 2026. Forrester press release, 2026. <https://www.forrester.com/press-newsroom/forrester-2026-the-state-of-business-buying/> Answer engines as starting point, human validation and trial usage.
+- Digital Commerce 360. Forrester on B2B buying and AI in 2026. Digital Commerce 360, 2026. <https://www.digitalcommerce360.com/2026/01/22/forrester-b2b-buying-ai-2026/> Secondary report on buying group growth for genAI purchases.
+- Sanders, Tim. How AI Chat is Rewriting B2B Software Buying. G2, 2025. <https://learn.g2.com/ai-search-surging-for-b2b-buyers> Share of software buyers starting in AI chatbots.
+- Gartner. Gartner Predicts Search Engine Volume Will Drop 25% by 2026. Gartner Newsroom, 2024. <https://www.gartner.com/en/newsroom/press-releases/2024-02-19-gartner-predicts-search-engine-volume-will-drop-25-percent-by-2026-due-to-ai-chatbots-and-other-virtual-agents> Prediction on answer engines replacing search.
+- Chapekis, Athena and Lieb, Anna. Google Users Are Less Likely to Click on Links When an AI Summary Appears in the Results. Pew Research Center, 2025. <https://www.pewresearch.org/short-reads/2025/07/22/google-users-are-less-likely-to-click-on-links-when-an-ai-summary-appears-in-the-results/> Click rates with and without AI summaries.
+- Google. 100 Things We Announced at I/O. The Keyword (Google blog), 2025. <https://blog.google/technology/ai/google-io-2025-all-our-announcements/> AI Mode US rollout and AI Overviews scale.
+- SiliconANGLE. OpenAI to Start Testing ChatGPT Ads Across Free and Go Tiers. SiliconANGLE, 2026. <https://siliconangle.com/2026/01/16/openai-start-testing-chatgpt-ads-across-free-go-tiers/> Ads entering AI answer engines.
+- Aggarwal, Pranjal et al. GEO: Generative Engine Optimization. KDD 2024 (arXiv), 2024. <https://arxiv.org/abs/2311.09735> Academic framing of visibility in generative engines.
+- Chavez, Anthony. Next Steps for Privacy Sandbox and Tracking Protections in Chrome. Privacy Sandbox (Google), 2025. <https://privacysandbox.google.com/blog/privacy-sandbox-next-steps> No standalone third-party cookie prompt in Chrome.
+- Chavez, Anthony. Update on Plans for Privacy Sandbox Technologies. Privacy Sandbox (Google), 2025. <https://privacysandbox.google.com/blog/update-on-plans-for-privacy-sandbox-technologies> Retirement of Attribution Reporting API and other Sandbox APIs.
+- Computerworld. Google Abandons Plans to Drop Third-Party Cookies in Chrome. Computerworld, 2024. <https://www.computerworld.com/article/3476620/google-abandons-plans-to-drop-third-party-cookies-in-chrome.html> July 2024 reversal of cookie deprecation.
+- Stape. Google Chrome Cookie Deprecation Explained. Stape, n.d. <https://stape.io/news/google-chrome-cookie-deprecation> The 1% cookie restriction test in 2024.
+- Apple. Upcoming AppTrackingTransparency Requirements. Apple Developer News, 2021. <https://developer.apple.com/news/?id=ecvrtzt2> ATT requirement from iOS 14.5.
+- Google. First Click, Linear, Time Decay, and Position-Based Attribution Models Are Going Away. Google Ads Help, 2023. <https://support.google.com/google-ads/answer/13427716> Retirement of rules-based models and remaining options.
+- Google. Advertising and Attribution. Google Analytics Help, n.d. <https://support.google.com/analytics/answer/10596866?hl=en> GA4 attribution models and how data-driven attribution works.
+- Google. Meridian. GitHub, 2026. <https://github.com/google/meridian> Open-source Bayesian MMM features and version.
+- MarTech. Google Releases Its Open Source Marketing Mix Model to All. MarTech, 2025. <https://martech.org/google-releases-its-open-source-marketing-mix-model-to-all/> Meridian general availability.
+- Forrester. Is Google's Meridian the Right Open-Source MMM Solution for You. Forrester blog, 2025. <https://www.forrester.com/blogs/is-googles-meridian-the-right-open-source-mmm-solution-for-you> Limits of open-source MMM for executives.
+- Meta Marketing Science. Robyn. Meta (GitHub Pages), n.d. <https://facebookexperimental.github.io/Robyn/> Open-source MMM method and calibration with experiments.
+- Seer Interactive. We Tested Meta's New Incremental Attribution Setting. Seer Interactive, 2025. <https://www.seerinteractive.com/insights/we-tested-metas-new-incremental-attribution-setting-on-1m-in-ad-spend.-heres-how-it-works> Platform-native incrementality setting.
+- Gordon, Brett R., Zettelmeyer, Florian, Bhargava, Neha and Chapsky, Dan. A Comparison of Approaches to Advertising Measurement. INFORMS (Marketing Science), 2019. <https://www.informs.org/News-Room/INFORMS-Releases/News-Releases/How-measurable-is-online-advertising> Observational methods versus RCT lift.
+- Lewis, Randall A. and Rao, Justin M. The Unfavorable Economics of Measuring the Returns to Advertising. Quarterly Journal of Economics, 2015. <https://academic.oup.com/qje/article/130/4/1941/1916174> Noise and imprecision in ad experiments.
+- American Marketing Association. Johnson, Lewis and Nubbemeyer Receive 2022 Weitz-Winer-O'Dell Award. AMA, 2022. <https://www.ama.org/2022/04/07/johnson-lewis-and-nubbemeyer-receive-2022-weitz-winer-odell-award/> Ghost ads method and its adoption.
+- Marketing Week. The 95:5 Rule Is the New 60:40 Rule. Marketing Science (repost of Marketing Week), 2021. <https://marketingscience.info/news-and-insights/the-955-rule-is-the-new-6040-rule> Dawes's 95:5 heuristic for B2B buyers in market.
+- Gartner. 69% of B2B Buyers Turn to Sales Reps to Validate AI-Generated Insights. Gartner Newsroom, 2026. <https://www.gartner.com/en/newsroom/press-releases/2026-05-20-gartner-survey-finds-sixty-nine-percent-of-b-two-b-buyers-turn-to-sales-reps-to-validate-ai-generated-insights> Buyers validating AI-generated insights with people (also cited in Chapter 01).
+- McClure, Dave. Startup Metrics for Pirates (AARRR). 500 Startups, SlideShare deck, n.d. <https://www.slideshare.net/dmc500hats/startup-metrics-for-pirates-long-version> The five AARRR stages: acquisition, activation, retention, referral, revenue.
+- Gartner. Gartner Says the Marketing-to-Sales Handoff Should No Longer Exist. Gartner Newsroom, 2018. <https://www.gartner.com/en/newsroom/press-releases/2018-10-09-gartner-says-the-marketing-to-sales-handoff-should-no-longer-exist> Six B2B buying jobs (also cited in Chapter 01).
+- Lafley, A. G. and Martin, Roger L. *Playing to Win*. Harvard Business Review Press, 2013. Where to play and how to win (also cited in Chapter 03).
+- Wikipedia contributors. Goodhart's Law. Wikipedia, 2026. <https://en.wikipedia.org/wiki/Goodhart%27s_law> Goodhart and Strathern formulations (secondary; also cited in other chapters).
+
+## Chapter 09: Optimizing Product Strategy Using Analytics
+
+- Fader, P. S. and Hardie, B. G. S. How to Project Customer Retention. Journal of Interactive Marketing, 2007. <https://faculty.wharton.upenn.edu/wp-content/uploads/2012/04/Fader_hardie_jim_07.pdf> Survival function, sBG model and the sorting effect behind rising retention.
+- Fader, P. S. and Hardie, B. G. S. Customer-Base Valuation in a Contractual Setting: The Perils of Ignoring Heterogeneity. Marketing Science, 2010. <https://faculty.wharton.upenn.edu/wp-content/uploads/2012/04/Fader_hardie_contractual_mksc_10.pdf> Why single-rate CLV undervalues the customer base.
+- Fader, P. S., Hardie, B. G. S. and Shang, J. Customer-Base Analysis in a Discrete-Time Noncontractual Setting. Marketing Science, 2010. <https://research-information.bris.ac.uk/en/publications/customer-base-analysis-in-a-discrete-time-noncontractual-setting/> Contractual versus noncontractual churn.
+- Gupta, S., Lehmann, D. R. and Stuart, J. A. Valuing Customers. Journal of Marketing Research, 2004. <https://business.columbia.edu/sites/default/files-efs/pubfiles/534/Valuing_Customers--JMR_2003.pdf> CLV as discounted future earnings and the margin multiple.
+- Davidson-Pilon, Cameron and contributors. Introduction to Survival Analysis. lifelines documentation, n.d. <https://lifelines.readthedocs.io/en/latest/Survival%20Analysis%20intro.html> Plain definitions of survival, hazard and censoring.
+- Reichheld, Frederick F. The One Number You Need to Grow. Harvard Business Review, 2003. <https://www.proquest.com/docview/204699007> Origin of NPS.
+- Reichheld, F., Darnell, D. and Burns, M. Net Promoter 3.0. Harvard Business Review via Bain, 2021. <https://www.bain.com/insights/net-promoter-3-0/> NPS wording, bands, admitted misuse and Earned Growth as an audited-revenue counterpart.
+- Keiningham, T. L., Cooil, B., Andreassen, T. W. and Aksoy, L. A Longitudinal Examination of Net Promoter and Firm Revenue Growth. Journal of Marketing, 2007. <https://research.hub.ku.edu.tr/entities/publication/6c8605c0-154e-4020-bcd9-2e7e3e1f1550/full> Academic challenge to NPS superiority.
+- MeasuringU. A Longitudinal Examination of Net Promoter and Firm Revenue Growth (summary). MeasuringU, n.d. <https://measuringu.com/article-summaries/a-longitudinal-examination-of-net-promoter-and-firm-revenue-growth/> Sample and findings of the Keiningham study.
+- Sauro, Jeff. The One Number You Need to Grow (A Replication). MeasuringU, 2018. <https://measuringu.com/nps-replication/> NPS against future rather than historical growth.
+- Dixon, M., Freeman, K. and Toman, N. Stop Trying to Delight Your Customers. Harvard Business Review, 2010. <https://hbr.org/2010/07/stop-trying-to-delight-your-customers> Origin of the Customer Effort Score.
+- SaaS Capital. 2025 SaaS Retention Benchmarks for Private B2B Companies. SaaS Capital, 2025. <https://www.saas-capital.com/research/saas-retention-benchmarks-for-private-b2b-companies/> NRR and GRR definitions.
+- SaaS Capital. Research Brief 32: 2025 B2B SaaS Retention Benchmarks. SaaS Capital, 2025. <https://www.saas-capital.com/wp-content/uploads/2025/09/RB32WS1-2025-B2B-SaaS-Retention-Benchmarks.pdf> Median NRR and GRR by ACV and contract length.
+- Rachitsky, L. and Winters, C. What Is Good Retention. Lenny's Newsletter, 2020. <https://www.lennysnewsletter.com/p/what-is-good-retention-issue-29> Practitioner retention and NRR benchmarks.
+- Snowflake Inc. Form 10-K for Fiscal Year 2026. SEC EDGAR, 2026. <https://www.sec.gov/Archives/edgar/data/1640147/000164014726000008/snow-20260131.htm> Consumption-based NRR definition and values.
+- Capote, Kellie. Use Customer Health Data to Grow and Forecast NRR. Gainsight, 2022. <https://www.gainsight.com/blog/use-customer-health-data-to-grow-and-forecast-nrr/> DEAR health score framework.
+- Gainsight. Essential Considerations For Your First Customer Scorecard. Gainsight, 2022. <https://www.gainsight.com/guides/customer-health-score/> Health score measure categories (usage, adoption, sentiment, engagement, relationships, value) and reworking the scorecard when churn surprises.
+- American Marketing Association. Eva Ascarza Receives 2023 Weitz-Winer-O'Dell Award for Retention Futility. AMA, 2023. <https://ama.org/press-releases/eva-ascarza-receives-2023-weitz-winer-odell-award-for-retention-futility> Targeting by response to intervention rather than churn risk.
+- Zhang, W., Deng, Y., Liu, B., Pan, S. J. and Bing, L. Sentiment Analysis in the Era of Large Language Models: A Reality Check. arXiv and NAACL Findings, 2023. <https://arxiv.org/abs/2305.15005> Where LLM sentiment analysis works and where it lags.
+- von der Heyde, L., Haensch, A.-C., Weiss, B. and Daikeler, J. AIn't Nothing But a Survey? Using Large Language Models for Coding German Open-Ended Survey Responses. arXiv, 2025. <https://arxiv.org/abs/2506.14634> LLM coding accuracy varies by model and category.
+- Sparks, Steven. A Pilot Test of AI Coding of Open-Ended Survey Responses. Langer Research Associates, 2025. <https://www.langerresearch.com/wp-content/uploads/Langer-Research-White-Paper_AI-Coding.pdf> Failure modes of LLM coding against human coders.
+- Anthropic. Clio: A System for Privacy-Preserving Insights into Real-World AI Use. Anthropic, 2024. <https://www.anthropic.com/news/clio> Facet, cluster and summarize pattern for large text corpora.
+- Bessemer Venture Partners. The State of AI 2025. Bessemer Venture Partners, 2025. <https://www.bvp.com/atlas/the-state-of-ai-2025> AI company gross margins and fragile retention.
+- Medallia. Medallia Unveils Vision for Future of Customer Experience and 7 AI-Powered Capabilities. Business Wire, 2025. <https://www.businesswire.com/news/home/20250325402510/en> Generative AI themes in VoC platforms.
+- Medallia. Medallia Unveils Latest Innovation Agenda at Experience 26. Business Wire, 2026. <https://businesswire.com/news/home/20260211663052/en/Medallia-Unveils-Latest-Innovation-Agenda-at-Experience-26-to-Further-Omnichannel-Experience-Transformation> AI topic detection with human approval of rules.
+- Kaplan, E. L. and Meier, P. Nonparametric Estimation from Incomplete Observations. Journal of the American Statistical Association 53(282), 1958. <https://doi.org/10.2307/2281868> Origin of the Kaplan-Meier survival estimate for censored data.
+- Cox, D. R. Regression Models and Life-Tables. Journal of the Royal Statistical Society, Series B 34(2), 1972. <https://doi.org/10.1111/j.2517-6161.1972.tb00899.x> Proportional hazards model: how factors scale the hazard.
+
+## Chapter 10: Consumer Insights and Product Specifications
+
+- Federal Trade Commission. Bringing Dark Patterns to Light (Staff Report). FTC, 2022. <https://www.ftc.gov/system/files/ftc_gov/pdf/P214800%20Dark%20Patterns%20Report%209.14.2022%20-%20FINAL.pdf> Dark-pattern definition, four categories and subscription cancellation expectations.
+- Federal Trade Commission. FTC Secures Historic $2.5 Billion Settlement Against Amazon. FTC, 2025. <https://www.ftc.gov/news-events/news/press-releases/2025/09/ftc-secures-historic-25-billion-settlement-against-amazon> Amazon Prime settlement amounts and required design changes.
+- European Union. Regulation (EU) 2022/2065 (Digital Services Act), Article 25. SpringLex consolidated text, 2022. <https://www.springlex.eu/en/packages/dsa/dsa-regulation/article-25/> Text of the DSA ban on deceptive interface design.
+- European Union. AI Act, Article 5. artificialintelligenceact.eu, 2024. <https://artificialintelligenceact.eu/article/5/> Prohibition of manipulative AI techniques and its 2025 start date.
+- European Union. AI Act, Article 14. artificialintelligenceact.eu, 2024. <https://artificialintelligenceact.eu/article/14/> Automation bias clause and applicability dates for human oversight.
+- Benesch. Eighth Circuit Cancels FTC's Click-to-Cancel Rule. Benesch Law, 2025. <https://www.beneschlaw.com/publication/eighth-circuit-cancels-ftcs-click-to-cancel-rule/> Vacatur of the negative option rule and its grounds.
+- Kelley Drye. FTC Quietly Reopens Click to Cancel Rulemaking in Response to Petition. Ad Law Access, 2026. <https://www.kelleydrye.com/viewpoints/blogs/ad-law-access/ftc-quietly-reopens-click-to-cancel-rulemaking-in-response-to-petition> Status of renewed FTC rulemaking.
+- Sidley Austin. EU Consults on Digital Fairness Act. Data Matters, 2025. <https://datamatters.sidley.com/2025/08/01/eu-consults-on-digital-fairness-act-big-changes-ahead-for-consumer-facing-platforms/> Expected scope of the EU Digital Fairness Act.
+- CMS. Inside the EU's Planned Digital Fairness Act. CMS Law, 2026. <https://cms.law/en/aut/legal-updates/inside-the-eu-s-planned-digital-fairness-act-digital-design-subscription-traps-and-influencer-marketing> Expected timing and content of the Digital Fairness Act proposal.
+- Brignull, Harry. Types of Deceptive Pattern. deceptive.design, 2026. <https://www.deceptive.design/types> Current list of 18 deceptive pattern types.
+- Brignull, Harry. Introducing the Mathur et al. Taxonomy. deceptive.design, 2023. <https://deceptive.design/book/contents/chapter-13> Mathur et al. 2019 crawl results and seven categories.
+- Scheibehenne, B., Greifeneder, R. and Todd, P. Can There Ever Be Too Many Options? Journal of Consumer Research, 2010. <https://madoc.bib.uni-mannheim.de/30861/> Choice overload meta-analysis with near-zero mean effect.
+- Iyengar, S. and Lepper, M. When Choice Is Demotivating. Journal of Personality and Social Psychology, 2000. <https://www.psychologicalscience.org/?p=116430> Original jam study citation and design.
+- Mrkva, K., Johnson, E., Gächter, S. and Herrmann, A. Moderating Loss Aversion. Journal of Consumer Psychology, 2020. <https://researchportal.bath.ac.uk/en/publications/moderating-loss-aversion-loss-aversion-has-moderators-but-reports/> Loss aversion moderators and response to Gal and Rucker.
+- Jachimowicz, J., Duncan, S., Weber, E. and Johnson, E. When and Why Defaults Influence Decisions. Behavioural Public Policy, 2019. <https://ideas.repec.org/a/cup/bpubpo/v3y2019i02p159-186_00.html> Meta-analytic size and spread of default effects.
+- Maier, M. et al. No Evidence for Nudging After Adjusting for Publication Bias. PNAS, 2022. <https://pmc.ncbi.nlm.nih.gov/articles/PMC9351501/> Bias-corrected nudge effect sizes.
+- Maier, M. et al. Rejoinder: No Evidence for Nudging. Bayesian Spectacles, 2022. <https://www.bayesianspectacles.org/rejoinder-no-evidence-for-nudging/> Authors' clarification of their nudging conclusion.
+- Kahneman, Daniel. Maps of Bounded Rationality (Nobel Lecture). Nobel Prize Outreach, 2002. <https://www.nobelprize.org/prizes/economic-sciences/2002/kahneman/lecture/> System 1 and System 2 description and attribution.
+- Cialdini, Robert. The 7 Principles of Persuasion. Influence at Work, 2026. <https://www.influenceatwork.com/7-principles-of-persuasion/> Social proof definition and principle list.
+- Gartner. Gartner Sales Survey Finds 67% of B2B Buyers Prefer a Rep-Free Experience. Gartner, 2026. <https://www.gartner.com/en/newsroom/press-releases/2026-03-09-gartner-sales-survey-finds-67-percent-of-b2b-buyers-prefer-a-rep-free-experience> B2B buyer self-serve preference.
+- Digital Commerce 360. Gartner: B2B Buyers Favor Rep-Free Purchasing as AI Reshapes Sales. Digital Commerce 360, 2026. <https://www.digitalcommerce360.com/2026/03/17/gartner-b2b-buyers-rep-free-purchasing-ai-reshapes-sales/amp/> Survey size and share of buyers using AI tools.
+- Lee, J. and See, K. Trust in Automation: Designing for Appropriate Reliance. Human Factors, 2004. <https://mycourses.aalto.fi/pluginfile.php/1903876/course/section/223217/Lee%20and%20See%20-%202004%20-%20Trust%20in%20Automation%20Designing%20for%20Appropriate%20Rel.pdf> Calibrated trust, misuse and disuse.
+- Dietvorst, B., Simmons, J. and Massey, C. Overcoming Algorithm Aversion. Management Science, 2018. <https://wpa.wharton.upenn.edu/content/academic-papers/overcoming-algorithm-aversion-people-will-use-imperfect-algorithms-can-even-slightly-modify/> Algorithm aversion and the effect of letting users modify output.
+- Vaccaro, M., Almaatouq, A. and Malone, T. When Combinations of Humans and AI Are Useful. Nature Human Behaviour, 2024. <https://arxiv.org/abs/2405.06087> Meta-analysis of human-AI team performance.
+- Liu, F. and Moran, K. AI-Powered Tools for UX Research in 2023: Issues and Limitations. Nielsen Norman Group, 2023. <https://www.nngroup.com/articles/ai-powered-tools-limitations/> Limits of AI research synthesis tools.
+- Moran, K. and Rosala, M. Accelerating Research with AI. Nielsen Norman Group, 2024. <https://www.nngroup.com/articles/research-with-ai/> What to delegate to AI in research synthesis and what to verify.
+- Gotel, O. and Finkelstein, A. An Analysis of the Requirements Traceability Problem. UCL Discovery, 1994. <https://discovery.ucl.ac.uk/749/> Pre-RS and post-RS traceability definitions.
+- Stanford HCI Group. Define (CS147 lecture). Stanford University, 2024. <https://hci.stanford.edu/courses/cs147/2024/au/lectures/03-define.pdf> Point-of-view statement format for insights.
+- Dunford, April. A Quickstart Guide to Positioning. aprildunford.com, 2026. <https://www.aprildunford.com/post/a-quickstart-guide-to-positioning> Five positioning components and repositioning triggers.
+- Kahneman, D. and Tversky, A. Prospect Theory: An Analysis of Decision under Risk. Econometrica, 1979. <https://doi.org/10.2307/1914185> Origin of loss aversion.
+- Tversky, A. and Kahneman, D. Judgment under Uncertainty: Heuristics and Biases. Science, 1974. <https://doi.org/10.1126/science.185.4157.1124> Anchoring, including the wheel-of-fortune experiment.
+- Klein, R. et al. Investigating Variation in Replicability (Many Labs 1). Social Psychology, 2014. <https://doi.org/10.1027/1864-9335/a000178> Anchoring among the effects that replicated robustly.
+- Chernev, A., Böckenholt, U. and Goodman, J. Choice Overload: A Conceptual Review and Meta-Analysis. Journal of Consumer Psychology, 2015. <https://doi.org/10.1016/j.jcps.2014.08.002> Four moderators under which choice overload appears.
+- Gal, D. and Rucker, D. The Loss of Loss Aversion: Will It Loom Larger Than Its Gain? Journal of Consumer Psychology, 2018. <https://doi.org/10.1002/jcpy.1047> Argument that loss aversion was overgeneralized.
+- Johnson, E. and Goldstein, D. Do Defaults Save Lives? Science, 2003. <https://doi.org/10.1126/science.1091721> Opt-out versus opt-in organ donor consent.
+- Dietvorst, B., Simmons, J. and Massey, C. Algorithm Aversion: People Erroneously Avoid Algorithms After Seeing Them Err. Journal of Experimental Psychology: General, 2015. <https://doi.org/10.1037/xge0000033> Faster loss of confidence in algorithms after visible errors.
+- Logg, J., Minson, J. and Moore, D. Algorithm Appreciation: People Prefer Algorithmic to Human Judgment. Organizational Behavior and Human Decision Processes, 2019. <https://doi.org/10.1016/j.obhdp.2018.12.005> Lay people weight algorithmic advice more than human advice; experts discount it.
+- Mathur, A. et al. Dark Patterns at Scale: Findings from a Crawl of 11K Shopping Websites. Proceedings of the ACM on Human-Computer Interaction, 2019. <https://doi.org/10.1145/3359183> Scale and categories of dark patterns on shopping sites.
+- Minto, Barbara. The Pyramid Principle. barbaraminto.com, 2026. <https://www.barbaraminto.com/> Ideas organized as a pyramid under a single governing point.
+- CBS News. Amazon to Pay $2.5 Billion to Settle Federal Claims It Misled Prime Members. CBS News, 2025. <https://www.cbsnews.com/amp/news/amazon-prime-membership-ftc-2-5-billion-settlement-customer-refunds> Amazon neither admitted nor denied the allegations.
+
+## Chapter 11: Delivery Methodologies
+
+- Beck, Kent et al. Manifesto for Agile Software Development. agilemanifesto.org, 2001. <https://agilemanifesto.org/> Four values and signatories.
+- Schwaber, Ken and Sutherland, Jeff. The Scrum Guide. scrumguides.org, 2020. <https://scrumguides.org/scrum-guide.html> Accountabilities, events, artifacts, commitments and timeboxes.
+- Sutherland, Jeff, Coleman, John and Jocham, Ralph. Scrum Guide Expansion Pack. scrumexpansion.org, 2025. <https://scrumexpansion.org/> Optional AI and product thinking guidance alongside the 2020 Guide.
+- Cagan, Marty. Product Manager vs. Product Owner. SVPG, 2011. <https://www.svpg.com/product-manager-vs-product-owner/> Case against splitting the product role.
+- Coleman, John, Vacanti, Daniel et al. The Kanban Guide. kanbanguides.org, 2025. <https://kanbanguides.org/the-kanban-guide/> Practices, flow metrics, SLE and 2025 changes.
+- Coleman, John, Vacanti, Daniel et al. The Kanban Guide (July 2020). kanbanguides.org, 2020. <https://kanbanguides.org/the-kanban-guide/2020.7> Earlier edition for comparison.
+- Singer, Ryan. Shape Up. Basecamp, 2019. <https://basecamp.com/shapeup/0.3-chapter-01> Appetite, betting table, cycles, circuit breaker and hill charts.
+- Patton, Jeff. Dual Track Development is not Duel Track. J. Patton and Associates, 2017. <https://jpattonassociates.com/dual-track-development/> Origin and cautions of dual-track development.
+- Cagan, Marty. Dual-Track Agile. SVPG, 2012. <https://www.svpg.com/dual-track-agile/> Discovery and delivery in parallel and later renaming.
+- McBride, Sean. RICE: Simple prioritization for product managers. Intercom, 2018. <https://www.intercom.com/blog/rice-simple-prioritization-for-product-managers/> RICE scales, formula and guidance.
+- Gilad, Itamar. Product Discovery With ICE and The Confidence Meter. itamargilad.com, n.d. <https://itamargilad.com/the-tool-that-will-help-you-choose-better-product-ideas/> Evidence-based confidence for scoring pitfalls.
+- Scaled Agile. Planning Interval. SAFe Framework, 2026. <https://framework.scaledagile.com/planning-interval> PI length and structure.
+- Scaled Agile. WSJF. SAFe Framework, 2026. <https://framework.scaledagile.com/wsjf> Cost of Delay components and Reinertsen attribution.
+- Sales, Andrew. New Release: AI-Native SAFe is the Operating Model for the AI-Native Organization. Scaled Agile, 2026. <https://framework.scaledagile.com/blog/ai-native-safe-is-the-operating-model-for-the-ai-native-organization> AI-Native SAFe positioning and verification bottleneck.
+- The LeSS Company. LeSS Framework. less.works, 2026. <https://less.works/less/framework/index> LeSS and LeSS Huge structure.
+- Fowler, Martin. The State of Agile Software in 2018. martinfowler.com, 2018. <https://martinfowler.com/articles/agile-aus-2018.html> Agile Industrial Complex critique.
+- Snowden, Dave. SAFe: the infantilism of management. The Cynefin Co, n.d. <https://thecynefin.co/safe-the-infantilism-of-management> Example SAFe critique (not fetched).
+- Cynefin Wiki. Cynefin. cynefin.io, n.d. <https://cynefin.io/wiki/Cynefin> Domains for method selection.
+- Wheeler, David A. The Waterfall Model. dwheeler.com, n.d. <https://dwheeler.com/essays/waterfall.html> Royce 1970 and the waterfall misreading.
+- Becker, Joel et al. Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity. METR, 2025. <https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/> RCT showing 19 percent slowdown.
+- Becker, Joel et al. We are Changing our Developer Productivity Experiment Design. METR, 2026. <https://metr.org/blog/2026-02-24-uplift-update/> Late-2025 speedup estimates and selection bias.
+- DORA. State of AI-assisted Software Development 2025. Google Cloud, 2025. <https://dora.dev/research/2025/dora-report/> AI as amplifier.
+- Storer, Kevin M. and DeBellis, Derek. Introducing DORA's inaugural AI Capabilities Model. Google Cloud, 2025. <https://cloud.google.com/blog/products/ai-machine-learning/introducing-doras-inaugural-ai-capabilities-model> Seven capabilities including small batches.
+- Anthropic. 2026 Agentic Coding Trends Report. Anthropic, 2026. <https://resources.anthropic.com/2026-agentic-coding-trends-report> Delegation share, oversight and timeline compression.
+- Beck, Kent. Augmented Coding: Beyond the Vibes. Software Design: Tidy First?, 2025. <https://newsletter.kentbeck.com/p/augmented-coding-beyond-the-vibes> Discipline for working with coding agents.
+- Singer, Ryan. Shape Up, chapter 6: Write the Pitch. Basecamp, 2019. <https://basecamp.com/shapeup/1.5-chapter-06> Five pitch ingredients: problem, appetite, solution, rabbit holes, no-gos (checked 2026-10-30).
+- Little, John D. C. A Proof for the Queuing Formula: L = λW. Operations Research 9(3), 1961, pp. 383 to 387. <https://en.wikipedia.org/wiki/Little%27s_law> Little's Law and its 1961 proof (checked 2026-10-30).
+
+## Chapter 12: Creating a Compelling Value Offering
+
+- Strategyzer. The Value Proposition Canvas. strategyzer.com, 2026. <https://www.strategyzer.com/library/the-value-proposition-canvas> Canvas structure (customer profile and value map) and the idea that fit must be confirmed by customers
+- Strategyzer. Value Proposition Design (book page). strategyzer.com, 2014. <https://www.strategyzer.com/library/value-proposition-design-2> Publication year of the book that introduced the canvas
+- MIT OpenCourseWare. 15.818 Pricing, Lecture note on Economic Value to the Customer. Massachusetts Institute of Technology, 2010. <https://ocw.mit.edu/courses/15-818-pricing-spring-2010/2318b493c551d7770340c79ff6de0c7a_MIT15_818S10_lec02.pdf> EVC definition, steps and when to price near or below EVC
+- Hinterhuber, A. Customer value-based pricing strategies: why companies resist. Journal of Business Strategy, 2008. <https://dx.doi.org/10.1108/02756660810887079> Pooled survey shares of cost, competition and value-based pricing and obstacles to value pricing (abstract confirms most firms price mainly on cost or competitors; the 17% pooled figure is from a secondary summary)
+- Nagle, T. T., Müller, G. and Gruyaert, E. The Strategy and Tactics of Pricing, 7th edition. Routledge, 2023. <https://doi.org/10.4324/9781003179566> Economic value estimation (EVE) as the method for quantifying value to the customer; edition and co-authors confirmed from the Crossref record
+- Gallo, A. A Refresher on Net Present Value. Harvard Business Review, 2014. <https://hbr.org/2014/11/a-refresher-on-net-present-value> Time value of money framing for NPV
+- Christensen, C., Kaufman, S. and Shih, W. Innovation Killers: How Financial Tools Destroy Your Capacity to Do New Things. Harvard Business Review, 2008. <https://hbr.org/2008/01/innovation-killers-how-financial-tools-destroy-your-capacity-to-do-new-things> The do-nothing baseline trap in DCF for new products
+- Dean, J. Pricing Policies for New Products. Harvard Business Review, 1950 (reprinted 1976). <https://hbr.org/1976/11/pricing-policies-for-new-products> Origin of skimming versus penetration and life-cycle pricing
+- Spann, M., Fischer, M. and Tellis, G. Skimming or Penetration? Strategic Dynamic Pricing for New Products. Marketing Science, 2015. <https://www.wiso.uni-koeln.de/en/news/news-faculty/new-study-finds-most-firms-do-not-use-skimming-or-penetration-pricing-for-new-products/> Evidence that most launches use market pricing rather than skimming or penetration
+- Huber, J., Payne, J. W. and Puto, C. Adding Asymmetrically Dominated Alternatives. Journal of Consumer Research, 1982. <https://scholars.duke.edu/publication/904415> Origin of the decoy effect
+- Frederick, S., Lee, L. and Baskin, E. The Limits of Attraction. Journal of Marketing Research, 2014. <https://business.columbia.edu/sites/default/files-efs/pubfiles/6131/Limits%20of%20Attraction.pdf> Limits of the decoy effect outside numeric displays
+- Huber, J., Payne, J. W. and Puto, C. P. Let's Be Honest about the Attraction Effect. Journal of Marketing Research, 2014. <https://doi.org/10.1509/jmr.14.0208> Reply arguing the attraction effect is robust when study conditions are closely replicated
+- Tversky, A. and Kahneman, D. Judgment under Uncertainty: Heuristics and Biases. Science, 1974. <https://doi.org/10.1126/science.185.4157.1124> Original description of anchoring
+- Ariely, D., Loewenstein, G. and Prelec, D. Coherent Arbitrariness: Stable Demand Curves Without Stable Preferences. Quarterly Journal of Economics, 2003. <https://www.cmu.edu/dietrich/sds/docs/loewenstein/CoherentArbit.pdf> Anchoring evidence on willingness to pay
+- Anderson, E. T. and Simester, D. Effects of $9 Price Endings on Retail Sales: Evidence from Field Experiments. Quantitative Marketing and Economics, 2003. <https://www.kellogg.northwestern.edu/academics-research/research/detail/2003/effects-of-9-price-endings-on-retail-sales-evidence/> Field evidence on charm pricing
+- Adams, W. J. and Yellen, J. L. Commodity Bundling and the Burden of Monopoly. Quarterly Journal of Economics, 1976. <https://doi.org/10.2307/1886045> Pure versus mixed bundling
+- US Federal Trade Commission. Bringing Dark Patterns to Light. FTC staff report, 2022. <https://www.ftc.gov/system/files/ftc_gov/pdf/P214800%20Dark%20Patterns%20Report%209.14.2022%20-%20FINAL.pdf> Four categories of dark patterns, false urgency and drip pricing evidence for the ethics section
+- European Commission. Price Indication Directive. European Commission, 2026. <https://commission.europa.eu/law/law-topic/consumer-protection-law/unfair-commercial-practices-law/price-indication-directive_en> Article 6a rules on genuine price reductions
+- Simonsohn, U., Simmons, J. and Nelson, L. Evidence of Fraud in an Influential Field Experiment About Dishonesty. Data Colada, 2021. <https://datacolada.org/98> Caution on relying on popular behavioral anecdotes
+- Forrester. Total Economic Impact Methodology. Forrester, 2026. <https://www.forrester.com/policies/tei/> Benefits, costs, flexibility and risk pattern and disclosure rules for vendor ROI studies
+- Bessemer Venture Partners. The AI pricing and monetization playbook. bvp.com, 2026. <https://bvp.com/atlas/the-ai-pricing-and-monetization-playbook> Five AI pricing models, conditions for outcome pricing and AI margin context
+- Stripe. Pricing AI products: Lessons from leading AI companies. stripe.com, 2026. <https://stripe.com/guides/pricing-ai-products-lessons-from-leading-ai-companies> Value metric versus charge metric and credit-based models
+- Appenzeller, G. Welcome to LLMflation: LLM inference cost is going down fast. Andreessen Horowitz, 2024. <https://a16z.com/llmflation-llm-inference-cost/> Inference cost deflation and why cost-plus fails for AI
+- Intercom. Pricing. intercom.com, 2026. <https://www.intercom.com/pricing> Fin per-outcome price, outcome definition and minimum commitment
+- Salesforce. Agentforce Pricing. salesforce.com, 2026. <https://www.salesforce.com/agentforce/pricing/> Coexisting per-action, per-conversation and per-user AI agent pricing
+- Zendesk. Zendesk outcome-based pricing. Zendesk newsroom, 2024. <https://www.zendesk.com/newsroom/articles/zendesk-outcome-based-pricing/> Early outcome-based pricing for AI agents
+- Gartner. Gartner Predicts Over 40% of Agentic AI Projects Will Be Canceled by End of 2027. Gartner newsroom, 2025. <https://www.gartner.com/en/newsroom/press-releases/2025-06-25-gartner-predicts-over-40-percent-of-agentic-ai-projects-will-be-canceled-by-end-of-2027> Unclear business value as a cause of agentic AI cancellations (secondary, page not fetched)
+
+## Chapter 13: Market Sizing, Competitive Analysis and the Business Case
+
+- Porter, Michael E. The Five Competitive Forces That Shape Strategy. Harvard Business Review, 2008. <https://hbr.org/2008/01/the-five-competitive-forces-that-shape-strategy> Five forces, factors not forces, substitutes, industry definition and common pitfalls.
+- Challenger Inc. How to Overcome Customer Indecision Using the JOLT Effect Approach. Challenger, 2024. <https://challengerinc.com/losing-to-customer-indecision/> Dixon and McKenna no-decision finding and the JOLT steps.
+- Dixon, Matthew and McKenna, Ted. The JOLT Effect. Portfolio, 2022 [U]. Do-nothing as the main competitor in B2B deals.
+- Flyvbjerg, Bent and Budzier, Alexander. Why Your IT Project May Be Riskier Than You Think. Harvard Business Review, 2011 (arXiv preprint 2013). <https://arxiv.org/abs/1304.0265> Fat-tail cost overruns for the business case risk section.
+- Lovallo, Dan and Kahneman, Daniel. Delusions of Success. Harvard Business Review, 2003 [S]. Inside view versus outside view and reference class forecasting.
+- Flyvbjerg, Bent. From Nobel Prize to Project Management: Getting Risks Right. Project Management Journal, 2006 [S]. Reference class forecasting as a three-step method building on Kahneman and Tversky's outside view.
+- Klein, Gary. Performing a Project Premortem. Harvard Business Review, 2007 [S]. Premortem method for the risks section.
+- Gallo, Amy. A Refresher on Net Present Value. Harvard Business Review, 2014. <https://hbr.org/2014/11/a-refresher-on-net-present-value> Time value of money for NPV and payback.
+- Christensen, Clayton, Hall, Taddy, Dillon, Karen and Duncan, David. Know Your Customers' Jobs to Be Done. Harvard Business Review, 2016. <https://hbr.org/2016/09/know-your-customers-jobs-to-be-done> Job-based segmentation and nonconsumers.
+- Moore, Geoffrey A. Crossing the Chasm, 3rd ed. HarperBusiness, 2014 [U]. Beachhead segment and bowling-pin expansion.
+- Dunford, April. Obviously Awesome. Ambient Press, 2019 [S]. Competitive alternatives as the start of positioning.
+- Clozd. Keys to Successful Win-Loss Analysis. Clozd, 2026. <https://clozd.com/blog/win-loss-analysis-keys-to-success> Win/loss program design and neutral interviewing.
+- Crayon. 2025 State of Competitive Intelligence. Crayon, 2025. <https://www.crayon.co/state-of-competitive-intelligence-2025> Vendor survey on competitive deal share and AI use by compete teams.
+- Klue. Klue Launches Compete Agent. Klue, 2025. <https://klue.com/blog/klue-launches-compete-agent> Example of an AI agent for competitive monitoring.
+- Jaźwińska, Klaudia and Chandrasekar, Aisvarya. AI Search Has a Citation Problem. Columbia Journalism Review Tow Center, 2025. <https://www.cjr.org/tow_center/we-compared-eight-ai-search-engines-theyre-all-bad-at-citing-news.php> Evidence for verifying AI research citations.
+- Anthropic. Claude Takes Research to New Places. Claude blog, 2025. <https://claude.com/blog/research> Launch of agentic multi-search research with citations.
+- OpenAI. Introducing Deep Research. OpenAI, 2025. <https://openai.com/index/introducing-deep-research/> Launch of deep research agents for multistep desk research.
+- Anthropic. Introducing the Model Context Protocol. Anthropic, 2024. <https://www.anthropic.com/news/model-context-protocol> Connectors that let a harness read CRM, calls and docs.
+- US Securities and Exchange Commission. SEC Charges Two Investment Advisers with Making False and Misleading Statements About Their Use of Artificial Intelligence. SEC, 2024. <https://www.sec.gov/newsroom/press-releases/2024-36> AI-washing as a reason to verify competitor AI claims.
+- Cornell University. Business Analytics Certificate (eCornell). Cornell Dyson School, 2025. <https://courses.cornell.edu/ecornell-catalog-courses/business-analytics-certificate/> Scope reference for decision analytics, not cited in the chapter.
+
+## Chapter 14: Digital Platform Strategy and Network Effects
+
+- Van Alstyne, M., Parker, G. and Choudary, S. P. Pipelines, Platforms, and the New Rules of Strategy. Harvard Business Review, 2016. <https://hbr.org/2016/04/pipelines-platforms-and-the-new-rules-of-strategy> Three shifts, four ecosystem roles, openness levers and platform metrics.
+- Parker, G., Van Alstyne, M. and Choudary, S. P. Platform Revolution. W. W. Norton, 2016. <https://wwnorton.com/books/Platform-Revolution/> Core interaction framing (participants, value unit, filter).
+- Choudary, S. P. Interactions Must Drive Platform Design. MIT Initiative on the Digital Economy, 2015. <https://ide.mit.edu/insights/sangeet-choudary-interactions-must-drive-platform-design> Start with the interaction; filters and curation.
+- NFX. The Network Effects Manual: 16 Different Network Effects. nfx.com, 2021. <https://www.nfx.com/post/network-effects-manual> Taxonomy of 16 network effect types and limits of data network effects.
+- NFX. The Network Effects Bible. nfx.com, 2019 (updated 2024). <https://www.nfx.com/post/network-effects-bible> Density, clustering, asymptotic effects, disintermediation and multi-tenanting.
+- Chen, A. The Cold Start Problem (author excerpt on stages). andrewchen.com, 2021. <https://andrewchen.com/?p=4769> Five stages, atomic network and anti-network effects.
+- Chen, A. Solve a Hard Problem (book excerpt). andrewchen.com, 2021. <https://andrewchen.com/solve-a-hard-problem-cold-start-problem/> Definition of the hard side of a network.
+- Hagiu, A. and Wright, J. When Data Creates Competitive Advantage. Harvard Business Review, 2020. <https://hbr.org/2020/01/when-data-creates-competitive-advantage> Data-enabled learning versus network effects.
+- Boston University Digital Business Institute. When Data Can Give You a Competitive Edge and When It Can't. bu.edu, 2020. <https://bu.edu/dbi/2020/06/01/when-data-can-give-you-a-competitive-edge-and-when-it-cant> Summary of the Hagiu and Wright argument.
+- Casado, M. and Lauten, P. The Empty Promise of Data Moats. a16z, 2019. <https://a16z.com/the-empty-promise-of-data-moats/> Scale effects versus data network effects in enterprise.
+- Eisenmann, T., Parker, G. and Van Alstyne, M. Platform Envelopment. Strategic Management Journal, 2011. <https://doi.org/10.1002/smj.935> Definition of envelopment through bundling across platforms.
+- Hagiu, A. Strategic Decisions for Multisided Platforms. MIT Sloan Management Review, 2013. <https://sloanreview.mit.edu/article/strategic-decisions-for-multisided-platforms/> Four platform decisions and multihoming costs.
+- Gawer, A. and Cusumano, M. How Companies Become Platform Leaders. MIT Sloan Management Review, 2008. <https://sloanreview.mit.edu/article/how-companies-become-platform-leaders/> Platform leadership levers and complements.
+- Choudary, S. P. Reshuffle (companion site). reshufflebook.com, 2025. <https://www.reshufflebook.com/> AI lowers coordination costs and moves competitive advantage.
+- Anthropic. Introducing the Model Context Protocol. anthropic.com, 2024. <https://www.anthropic.com/news/model-context-protocol> MCP launch date and purpose.
+- Anthropic. Donating the Model Context Protocol and Establishing the Agentic AI Foundation. anthropic.com, 2025. <https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation> Donation rationale and adoption figures.
+- Linux Foundation. Linux Foundation Announces the Formation of the Agentic AI Foundation. linuxfoundation.org, 2025. <https://www.linuxfoundation.org/press/linux-foundation-announces-the-formation-of-the-agentic-ai-foundation> AAIF founding projects and members.
+- Linux Foundation. Linux Foundation Launches the Agent2Agent Protocol Project. linuxfoundation.org, 2025. <https://linuxfoundation.org/press/linux-foundation-launches-the-agent2agent-protocol-project-to-enable-secure-intelligent-communication-between-ai-agents> A2A move to vendor-neutral governance.
+- A2A Project. A New Chapter for A2A: Joining the Agentic AI Foundation. a2a-protocol.org, 2026. <https://a2a-protocol.org/latest/blog/2026/08/27/a-new-chapter-for-a2a-joining-the-agentic-ai-foundation/> A2A status, adoption and MCP relationship.
+- A2A Project. What's New in v1.0. a2a-protocol.org, 2026. <https://a2a-protocol.org/latest/whats-new-v1/> Agent Card and multi-tenancy changes in the stable release.
+- Model Context Protocol. Specification Key Changes (2026-07-28). modelcontextprotocol.io, 2026. <https://modelcontextprotocol.io/specification/2026-07-28/changelog> Current spec version and deprecation policy.
+- Model Context Protocol. Introducing the MCP Registry. blog.modelcontextprotocol.io, 2025. <https://blog.modelcontextprotocol.io/posts/2025-09-08-mcp-registry-preview/> Registry and public and private sub-registries.
+- AWS. Introducing AI Agents and Tools in AWS Marketplace. aws.amazon.com, 2025. <https://aws.amazon.com/about-aws/whats-new/2025/07/ai-agents-tools-aws-marketplace> Hyperscaler agent marketplace with protocol filters.
+- Microsoft. Introducing Microsoft Marketplace. blogs.microsoft.com, 2025. <https://blogs.microsoft.com/blog/2025/09/25/introducing-microsoft-marketplace/> Marketplace consolidation, commit drawdown and channel resale.
+- Salesforce. AgentExchange Announcement. salesforce.com, 2025. <https://www.salesforce.com/news/press-releases/2025/03/04/agentexchange-announcement/> SaaS agent component marketplace.
+- OpenAI. Apps SDK and Plugins Documentation. developers.openai.com, 2026. <https://developers.openai.com/apps-sdk> AI assistant directory built on MCP with review requirements.
+- Apple. App Review Guidelines. developer.apple.com, 2026. <https://developer.apple.com/app-store/review/guidelines/> Structure of a published platform governance policy.
+
+## Chapter 15: Pricing and Packaging Strategy
+
+- Ramanujam, Madhavan and Tacke, Georg. Monetizing Innovation: How Smart Companies Design the Product Around the Price. Wiley, 2016. <https://www.wiley.com/en-us/Monetizing+Innovation%3A+How+Smart+Companies+Design+the+Product+Around+the+Price-p-9781119240860> Core thesis, four failure types and nine rules from the contents and chapter 1 excerpt.
+- Simon-Kucher. Monetizing Innovation book page. Simon-Kucher, 2016. <https://www.simon-kucher.com/en/insights/monetizing-innovation> Authorship and framing of the book.
+- Poyar, Kyle. The State of B2B Monetization in 2026. Growth Unhinged, 2026. <https://www.growthunhinged.com/p/the-state-of-b2b-monetization-in-2026> Hybrid 37 percent, credits 29 percent, investor preferences and AI margin targets.
+- Poyar, Kyle. The AI Monetization Debate Shifts Again. Growth Unhinged, 2026. <https://www.growthunhinged.com/p/usage-based-pricing-for-ai> Share of AI-native companies on variable or hybrid pricing.
+- Poyar, Kyle. Pricing Used to Last 18 Months. Now It's Down to 6. Growth Unhinged, 2026. <https://www.growthunhinged.com/p/saas-pricing-out-of-date> Pricing review questions and lost-deal heuristic.
+- Poyar, Kyle. A New Vision for AI Pricing. Growth Unhinged, 2026. <https://www.growthunhinged.com/p/a-new-vision-for-ai-pricing> Credits mixing value and cost logic and the Figma credit example.
+- Litterst, Rob. 2025 State of SaaS Pricing Changes. Growth Unhinged, 2026. <https://www.growthunhinged.com/p/2025-state-of-saas-pricing-changes> Growth in credit offerings and AI add-ons folded into core tiers.
+- Poyar, Kyle. Why Everyone's Switching to AI Credits. Growth Unhinged, 2025. <https://www.growthunhinged.com/p/ai-credit-pricing> Definition, pros and cons of credit pricing.
+- Medina, Manny. A New Framework for AI Agent Pricing. Growth Unhinged, 2025. <https://www.growthunhinged.com/p/ai-agent-pricing-framework> Per agent, action, workflow and outcome models and outcome prerequisites.
+- Poyar, Kyle. What's Changing with AI Monetization. Growth Unhinged, 2025. <https://www.growthunhinged.com/p/whats-changing-with-ai-monetization> Earlier AI pricing mix for trend context.
+- Poyar, Kyle. Your Guide to PLG Pricing 201. Growth Unhinged, 2023. <https://www.growthunhinged.com/p/your-guide-to-plg-pricing-201> Packaging team and org capabilities into higher tiers.
+- Poyar, Kyle. How to Run a Pricing Project. Growth Unhinged, 2021. <https://www.growthunhinged.com/p/how-to-run-a-pricing-project> Phases of a pricing project and account migration modeling.
+- Poyar, Kyle. Usage-Based Pricing 2.0. Growth Unhinged, 2021. <https://www.growthunhinged.com/p/usage-based-pricing-20> Five criteria for a value metric.
+- Poyar, Kyle. The State of B2B Contracts. Growth Unhinged, 2024. <https://www.growthunhinged.com/p/the-state-of-b2b-contracts> Give-get concessions for discounts and renewal terms.
+- Intercom. Pricing. Intercom, 2026. <https://www.intercom.com/pricing> Fin price per outcome and the outcome definition.
+- Salesforce. Salesforce Announces New Flexible Agentforce Pricing. Salesforce Newsroom, 2025. <https://www.salesforce.com/news/press-releases/2025/05/15/agentforce-flexible-pricing-news/> Flex Credits at 0.10 dollars per action after 2 dollars per conversation.
+- Cursor. Clarifying Our Pricing. Cursor, 2025. <https://cursor.com/blog/june-2025-pricing> Pricing change backlash, apology and refunds.
+- Zendesk. Zendesk Introduces Outcome-Based Pricing for AI Agents. Zendesk, 2024. <https://www.zendesk.com/newsroom/articles/zendesk-outcome-based-pricing/> Outcome-based pricing launch for AI agents.
+- Zendesk. About Automated Resolutions. Zendesk Help Center, 2026. <https://support.zendesk.com/hc/en-us/articles/5352026794010> Operational outcome definition with verification and time windows.
+- Zendesk. Automated Resolutions for AI Agents. Zendesk Help Center, 2026. <https://support.zendesk.com/hc/en-us/articles/6970583409690> Escalation exclusion and plan allowances.
+- Metronome. Pricing Model Spotlight: Inside HubSpot's Move to Outcome-Based AI Credits. Metronome, 2026. <https://metronome.com/blog/pricing-model-spotlight-inside-hubspots-move-to-outcome-based-ai-credits> Resolved-conversation rules and micro-outcome lesson.
+- Watters, Will. 2026 Trends From Cataloging 50+ AI Pricing Models. Metronome, 2026. <https://metronome.com/blog/2026-trends-from-cataloging-50-ai-pricing-models> Taxonomy of AI pricing models and three roles of credits.
+- Keep, Stephanie. Beyond the Seat: Architecting Hybrid AI Pricing Without the Chaos. Metronome, 2026. <https://metronome.com/blog/beyond-the-seat-architecting-hybrid-ai-pricing-without-the-chaos> Hybrid architecture, spend controls and pre-launch checklist.
+- Metronome. Our Next Chapter: Metronome Is Now Part of Stripe. Metronome, 2026. <https://metronome.com/blog/our-next-chapter-metronome-is-now-part-of-stripe> Stripe acquisition of a usage billing provider.
+- GitHub. Requests in GitHub Copilot. GitHub Docs, 2026. <https://docs.github.com/en/copilot/concepts/billing/copilot-requests> Allowances, overage budgets and fallback as spend controls.
+- Microsoft. Copilot for All: Introducing Microsoft 365 Copilot Chat. Microsoft, 2025. <https://www.microsoft.com/en-us/microsoft-365/blog/2025/01/15/copilot-for-all-introducing-microsoft-365-copilot-chat/> Metered agent pricing in 2025.
+- Sawtooth Software. Van Westendorp Pricing Sensitivity Meter. Sawtooth Software, 2026. <https://sawtoothsoftware.com/resources/blog/posts/van-westendorp-pricing-sensitivity-meter> Four questions, price points and limitations.
+- Sawtooth Software. Gabor-Granger Pricing Method. Sawtooth Software, 2026. <https://sawtoothsoftware.com/resources/blog/posts/gabor-granger-pricing-method> Sequential price questions and revenue curve.
+- Sawtooth Software. Conjoint Analysis. Sawtooth Software, 2026. <https://sawtoothsoftware.com/conjoint-analysis> Choice-based conjoint outputs and willingness to pay.
+- Sawtooth Software. MaxDiff. Sawtooth Software, 2026. <https://sawtoothsoftware.com/maxdiff> Best-worst scaling for feature ranking.
+- Marn, Michael V. and Rosiello, Robert L. Managing Price, Gaining Profit. Harvard Business Review, 1992. <https://hbr.org/1992/09/managing-price-gaining-profit> Origin of the pocket price concept for discount governance.
+- Wikipedia contributors. Price Elasticity of Demand. Wikipedia, 2026. <https://en.wikipedia.org/wiki/Price_elasticity_of_demand> Elasticity definition and link to revenue.
+- eCornell. Pricing Strategy. Cornell University, 2026. <https://ecornell.cornell.edu/courses/product-management/pricing-strategy/> Course outcomes the chapter maps to.
+
+## Chapter 16: Defensibility and Moats
+
+- Buffett, Warren. Berkshire Hathaway 2007 Shareholder Letter. Berkshire Hathaway, 2008. <https://www.berkshirehathaway.com/letters/2007ltr.pdf> Origin of the enduring moat test and the annual widened or narrowed check.
+- Helmer, Hamilton. 7 Powers: The Foundations of Business Strategy. Deep Strategy, 2017 [S]. Power definition, Benefit and Barrier, and the seven Powers.
+- Strategy Capital. About. Strategy Capital, 2026. <https://www.strategycapital.com/about> Helmer biography and book year.
+- Gilbert, Ben and Rosenthal, David. 7 Powers with Hamilton Helmer. Acquired, 2021. <https://www.acquired.fm/episodes/7-powers-with-hamilton-helmer> Helmer on counter-positioning, switching costs, cornered resource and takeoff.
+- Moros, Blas. 7 Powers Summary. Blas.com, n.d. <https://blas.com/7-powers/> Secondary summary of Benefit and Barrier per Power.
+- Porter, Michael E. What Is Strategy? Harvard Business Review, 1996. <https://hbr.org/1996/11/what-is-strategy> Operational effectiveness versus strategy, trade-offs and fit.
+- Porter, Michael E. Strategy and the Internet. Harvard Business Review, 2001. <https://hbr.org/2001/03/strategy-and-the-internet> The internet tends to weaken industry profitability and raises the value of distinct strategy.
+- Bower, Joseph L. and Christensen, Clayton M. Disruptive Technologies: Catching the Wave. Harvard Business Review, 1995. <https://hbr.org/1995/01/disruptive-technologies-catching-the-wave> Original disruption article.
+- Christensen, Clayton M., Raynor, Michael E. and McDonald, Rory. What Is Disruptive Innovation? Harvard Business Review, 2015. <https://hbr.org/2015/12/what-is-disruptive-innovation> Authors' correction of common misuse.
+- Christensen Institute. Disruptive Innovation. Christensen Institute, 2026. <https://www.christenseninstitute.org/theory/disruptive-innovation/> Low-end and new-market footholds and what disruption is not.
+- Wikipedia contributors. Disruptive innovation. Wikipedia, 2026. <https://en.wikipedia.org/wiki/Disruptive_innovation> Secondary pointers to Lepore critique and the Uber example.
+- King, Andrew A. and Baatartogtokh, Baljir. How Useful Is the Theory of Disruptive Innovation? MIT Sloan Management Review, 2015. <https://sloanreview.mit.edu/article/how-useful-is-the-theory-of-disruptive-innovation/> Four conditions for testing disruption claims.
+- Casado, Martin and Lauten, Peter. The Empty Promise of Data Moats. Andreessen Horowitz, 2019. <https://a16z.com/the-empty-promise-of-data-moats/> Limits of data moats and when data is defensible.
+- NFX. The Network Effects Manual. NFX, 2021. <https://www.nfx.com/post/network-effects-manual> Network effect types and the weakness of data network effects.
+- Chen, Jerry. The New Moats. Greylock, 2017 (AI revisit 2023). <https://greylock.com/greymatter/the-new-moats/> Systems of record, engagement and intelligence and AI-era moats.
+- Thompson, Ben. Aggregation Theory. Stratechery, 2015. <https://stratechery.com/2015/aggregation-theory/> Distribution and ownership of the user relationship.
+- Spolsky, Joel. Strategy Letter V. Joel on Software, 2002. <https://www.joelonsoftware.com/2002/06/12/strategy-letter-v/> Commoditize your complements as a commoditization response.
+- McGrath, Rita Gunther. Transient Advantage. Harvard Business Review, 2013. <https://hbr.org/2013/06/transient-advantage> Advantages as temporary and managed as a portfolio.
+- Patel, Dylan and Ahmad, Afzal. Google We Have No Moat And Neither Does OpenAI. SemiAnalysis, 2023. <https://newsletter.semianalysis.com/p/google-we-have-no-moat-and-neither> Leaked memo arguing model access is not a moat.
+- Stanford HAI. AI Index Report 2025. Stanford University, 2025. <https://hai.stanford.edu/ai-index/2025-ai-index-report> Inference cost decline and model convergence figures.
+- Appenzeller, Guido. Welcome to LLMflation. Andreessen Horowitz, 2024. <https://a16z.com/llmflation-llm-inference-cost/> Tenfold annual cost decline at constant capability.
+- Epoch AI. LLM Inference Prices Have Fallen Rapidly but Unequally Across Tasks. Epoch AI, 2025. <https://epoch.ai/data-insights/llm-inference-price-trends> Range of price decline rates by task.
+- Cahn, David. AI's $600B Question. Sequoia Capital, 2024. <https://www.sequoiacap.com/article/ais-600b-question/> Compute commoditization and pricing toward marginal cost.
+- Bain and Company. Will Agentic AI Disrupt SaaS? Bain Technology Report, 2025. <https://www.bain.com/insights/will-agentic-ai-disrupt-saas-technology-report-2025/> Four-scenario framework (core strongholds, open doors, gold mines, battlegrounds), systems of record as the defensible base layer, data-learning limits for AI platforms and the shift away from seat pricing.
+- Intercom. Pricing. Intercom, 2026. <https://www.intercom.com/pricing> Per-outcome pricing example for an AI agent.
+- Salesforce. Agentforce Pricing. Salesforce, 2026. <https://www.salesforce.com/agentforce/pricing/> Hybrid per-conversation, per-action and per-user pricing example.
+- Anthropic. Introducing the Model Context Protocol. Anthropic, 2024. <https://www.anthropic.com/news/model-context-protocol> MCP as an open connector standard.
+- Anthropic. Donating the Model Context Protocol and Establishing the Agentic AI Foundation. Anthropic, 2025. <https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation> MCP governance and adoption figures.
+- Google. A2A: A New Era of Agent Interoperability. Google Developers Blog, 2025. <https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/> Agent interoperability lowering integration moats.
+- Anthropic. Effective Context Engineering for AI Agents. Anthropic, 2025. <https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents> Proprietary run-time context as a moat candidate.
+- Anthropic. Cowork Plugins. Claude Blog, 2026. <https://claude.com/blog/cowork-plugins> Eleven open-source starter plugins (January 2026) reaching into role-specific SaaS jobs.
+- Slack. API Terms of Service. Slack, 2025. <https://slack.com/terms-of-service/api> Data wall example restricting LLM training and indexing.
+- Wikipedia contributors. Software as a service (SaaSpocalypse section). Wikipedia, 2026. <https://en.wikipedia.org/wiki/SaaSpocalypse> Secondary report of the February 2026 SaaS selloff.
+- Contreras, Brian. Article on the SaaSpocalypse selloff (title not verified). Inc., 6 February 2026. <https://www.inc.com/brian-contreras/saaspocalypse-generative-ai-stock-market-anthropic-300-billion/91298739> Primary report of the early February 2026 SaaS selloff (cited via Wikipedia; page not reachable during review).
+
+## Chapter 17: The Questions That Drive Product Decisions
+
+- Ries, Eric. Vanity Metrics vs. Actionable Metrics. The Tim Ferriss Show blog, 2009. <https://tim.blog/2009/05/19/vanity-metrics-vs-actionable-metrics/> Vanity versus actionable metrics, cohorts and per-customer measures.
+- Ries, Eric. Why Vanity Metrics Are Dangerous. Startup Lessons Learned, 2009. <http://www.startuplessonslearned.com/2009/12/why-vanity-metrics-are-dangerous.html> Questions that totals cannot answer.
+- Ries, Eric. The Lean Startup. Crown Business, 2011. <https://theleanstartup.com/book> Chapter 7 on innovation accounting and the three tests for reports: actionable, accessible and auditable.
+- Ries, Eric. The Lean Startup Principles. The Lean Startup, 2011. <https://theleanstartup.com/principles> Build-Measure-Learn, innovation accounting and actionable metrics.
+- Bezos, Jeff. 2015 Letter to Shareholders. Amazon.com via SEC EDGAR, 2016. <https://www.sec.gov/Archives/edgar/data/1018724/000119312516530910/d168744dex991.htm> Type 1 and Type 2 decisions.
+- Bezos, Jeff. 2016 Letter to Shareholders. Amazon.com via SEC EDGAR, 2017. <https://www.sec.gov/Archives/edgar/data/1018724/000119312517120198/d373368dex991.htm> Deciding with about 70 percent of information, disagree and commit, resisting proxies.
+- Bezos, Jeff. 2017 Letter to Shareholders. Amazon.com via SEC EDGAR, 2018. <https://www.sec.gov/Archives/edgar/data/1018724/000119312518121161/d456916dex991.htm> Narrative memos instead of slides.
+- Kahneman, Daniel, Dan Lovallo and Olivier Sibony. Before You Make That Big Decision. Harvard Business Review, 2011. <https://hbr.org/2011/06/the-big-idea-before-you-make-that-big-decision> Bias checklist for reviewing a team's recommendation.
+- Duke, Annie. Thinking in Bets. Portfolio, 2018. <https://www.penguinrandomhouse.com/books/552885/thinking-in-bets-by-annie-duke/> Decision quality versus outcome quality.
+- Duke, Annie. Books. AnnieDuke.com, 2026. <https://www.annieduke.com/books/> Quit and How to Decide tools such as premortems and kill criteria.
+- Spetzler, Carl, Hannah Winter and Jennifer Meyer. Decision Quality. Wiley, 2016. <https://www.wiley.com/en-us/Decision+Quality%3A+Value+Creation+from+Better+Business+Decisions-p-9781119144670> Six-step decision quality framework.
+- Wikipedia contributors. Decision Quality. Wikipedia, 2026. <https://en.wikipedia.org/wiki/Decision_quality> Six elements and weakest-link principle.
+- Wikipedia contributors. Goodhart's Law. Wikipedia, 2026. <https://en.wikipedia.org/wiki/Goodhart%27s_law> Goodhart 1975 and Strathern 1997 wording.
+- Hubbard, Douglas W. How to Measure Anything. Wiley, 2014. <https://www.wiley.com/en-us/How+to+Measure+Anything%3A+Finding+the+Value+of+Intangibles+in+Business%2C+3rd+Edition-p-9781118539279> Measuring intangibles to support decisions.
+- Rodden, Kerry, Hilary Hutchinson and Xin Fu. Measuring the User Experience on a Large Scale. CHI 2010 via Google Research, 2010. <https://research.google/pubs/measuring-the-user-experience-on-a-large-scale-user-centered-metrics-for-web-applications/> HEART framework and mapping goals to metrics.
+- Torres, Teresa. Opportunity Solution Trees. Product Talk, 2023. <https://www.producttalk.org/opportunity-solution-trees/> Outcome, opportunity, solution and assumption test layers.
+- Cagan, Marty. The Four Big Risks. SVPG, 2017. <https://www.svpg.com/four-big-risks/> Value, usability, feasibility and viability questions for the build stage.
+- Andreessen, Marc. The Only Thing That Matters. Pmarchive, 2007. <https://pmarchive.com/guide_to_startups_part4.html> Product/market fit definition.
+- Ellis, Sean and GoPractice. Product/Market Fit Survey. PMF Survey, 2026. <https://pmfsurvey.com/> Attribution of the product/market fit survey.
+- Wikipedia contributors. Van Westendorp's Price Sensitivity Meter. Wikipedia, 2026. <https://en.wikipedia.org/wiki/Van_Westendorp%27s_Price_Sensitivity_Meter> Four price perception questions.
+- Brynjolfsson, Erik and Kristina McElheran. The Rapid Adoption of Data-Driven Decision-Making. American Economic Review, 2016. <https://www.aeaweb.org/articles?id=10.1257/aer.p20161016> Adoption of data-driven decision making in US plants.
+- Kohavi, Ron, Diane Tang and Ya Xu. Trustworthy Online Controlled Experiments. Cambridge University Press, 2020. <https://experimentguide.com/> Overall evaluation criterion for launch decisions.
+- Heath, Chip and Dan Heath. Decisive. Heath Brothers, 2013. <https://heathbrothers.com/books/decisive/> Four-step process to counter decision biases.
+- Croll, Alistair and Ben Yoskovitz. Lean Analytics. Lean Analytics Book, 2013. <https://leananalyticsbook.com/> One Metric That Matters.
+- Anthropic. Introducing the Model Context Protocol. Anthropic, 2024. <https://www.anthropic.com/news/model-context-protocol> MCP as an open standard for connecting AI to data.
+- Anthropic. Donating the Model Context Protocol and Establishing the Agentic AI Foundation. Anthropic, 2025. <https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation> MCP governance and adoption figures.
+- Anthropic. Prompting Best Practices. Claude Platform Docs, 2026. <https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices> Giving the model context and purpose when framing questions.
+- dbt Labs. dbt Semantic Layer. dbt Docs, 2026. <https://docs.getdbt.com/docs/use-dbt-semantic-layer/dbt-sl> Governed metric definitions available to AI tools through MCP.
+- Snowflake. Cortex Analyst. Snowflake Docs, 2026. <https://docs.snowflake.com/en/user-guide/snowflake-cortex/cortex-analyst> Why natural-language analytics needs semantic models.
+- Mixpanel. MCP Server. Mixpanel Docs, 2026. <https://docs.mixpanel.com/docs/features/mcp> Funnels, retention and flows requested in natural language.
+- Amplitude. AI Agents. Amplitude, 2026. <https://amplitude.com/ai-agents> Agents that monitor metrics and propose analyses.
+- BIRD Team. BIRD Text-to-SQL Benchmark. BIRD Bench, 2026. <https://bird-bench.github.io/> Human versus model accuracy on natural-language data questions.
+
+## Chapter 18: The Product Data Landscape and the Reports That Matter
+
+- Chin, Cedric. The Amazon Weekly Business Review (WBR). Commoncog, 2024. <https://commoncog.com/the-amazon-weekly-business-review/> WBR cadence, exception-driven format, input and output metric ordering and 6-12 graphs.
+- Bezos, Jeff. 2016 Letter to Shareholders. Amazon, 2017. <https://www.aboutamazon.com/news/company-news/2016-letter-to-shareholders> Resist proxies, including process and surveys as proxies.
+- dbt Labs. dbt Semantic Layer. dbt Developer Hub, 2026. <https://docs.getdbt.com/docs/use-dbt-semantic-layer/dbt-sl> Semantic layer concept and governed metrics for AI tools.
+- dbt Labs. About dbt MCP Server. dbt Developer Hub, 2026. <https://docs.getdbt.com/docs/dbt-ai/about-mcp> How an AI harness reaches governed metrics, lineage and freshness through MCP.
+- Stancil, Benn. The Missing Piece of the Modern Data Stack. benn.substack, 2021. <https://benn.substack.com/p/metrics-layer> Origin of the metrics layer argument.
+- Snowflake. Open Semantic Interchange Announcement. Snowflake blog, 2025. <https://www.snowflake.com/en/blog/open-semantic-interchange-ai-standard/> Cross-vendor standard for semantic definitions across AI and BI.
+- Dehghani, Zhamak. Data Mesh Principles and Logical Architecture. martinfowler.com, 2020. <https://martinfowler.com/articles/data-mesh-principles.html> Domain ownership and data as a product.
+- Moses, Barr. What Is Data Observability. Monte Carlo, 2026. <https://montecarlo.ai/blog-what-is-data-observability> Data downtime and the five pillars used as a trust check.
+- Bitol. Open Data Contract Standard. Bitol, 2026. <https://bitol-io.github.io/open-data-contract-standard/latest/> Sections of a data contract used for the inventory template.
+- Lei, Fangyu and others. Spider 2.0: Evaluating Language Models on Real-World Enterprise Text-to-SQL Workflows. arXiv (ICLR 2025), 2025. <https://arxiv.org/abs/2411.07763> Evidence that AI on raw enterprise schemas is unreliable.
+- Sequeda, Juan, Dean Allemang and Bryon Jacob. A Benchmark to Understand the Role of Knowledge Graphs on Large Language Model's Accuracy for Question Answering on Enterprise SQL Databases. arXiv, 2023. <https://arxiv.org/abs/2311.07509> Accuracy gain from adding business context to enterprise data.
+- Anthropic. Introducing the Model Context Protocol. Anthropic, 2024. <https://www.anthropic.com/news/model-context-protocol> MCP definition and launch date.
+- Anthropic. Claude for Financial Services. Anthropic, 2025. <https://www.anthropic.com/news/claude-for-financial-services> Example of warehouse connectors and source-cited answers.
+- OpenTelemetry. Semantic Conventions for Generative AI. OpenTelemetry, 2026. <https://github.com/open-telemetry/semantic-conventions-genai> Shared vocabulary for AI traces, agent spans and MCP.
+- Langfuse. Observability Overview. Langfuse docs, 2026. <https://langfuse.com/docs/observability/overview> Contents of an LLM trace.
+- Grace, Mikaela, Jeremy Hadfield, Rodrigo Olivares and Jiri De Jonghe. Demystifying Evals for AI Agents. Anthropic Engineering, 2026. <https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents> Eval terms, capability versus regression evals.
+- Husain, Hamel and Shreya Shankar. LLM Evals FAQ. hamel.dev, 2026. <https://hamel.dev/blog/posts/evals-faq/> Error analysis and binary judgments for the AI quality report.
+- FinOps Foundation. FinOps for AI Overview. FinOps Foundation, 2026. <https://www.finops.org/wg/finops-for-ai-overview/> AI unit cost metrics for the AI quality and cost report.
+- Marn, Michael V. and Robert L. Rosiello. Managing Price, Gaining Profit. Harvard Business Review, 1992. <https://hbr.org/1992/09/managing-price-gaining-profit> Attribution for the price waterfall idea in the pricing and discount report.
+- Bain and Company. Introducing the Net Promoter System. Bain, 2026. <https://www.bain.com/insights/introducing-the-net-promoter-system-loyalty-insights/> NPS question and calculation.
+- SaaS Capital. SaaS Retention Benchmarks for Private B2B Companies. SaaS Capital, 2025. <https://www.saas-capital.com/research/saas-retention-benchmarks-for-private-b2b-companies/> NRR and GRR definitions showing definitional choices.
+- Pendo. The 2019 Feature Adoption Report. Pendo, 2019. <https://www.pendo.io/resources/the-2019-feature-adoption-report/> Share of features rarely or never used.
+- Gainsight. Customer Health Score. Gainsight, 2026. <https://www.gainsight.com/guides/customer-health-score/> Health score inputs and validation against churn.
+- Gainsight. The Essential Guide to Quarterly Business Reviews. Gainsight, 2026. <https://www.gainsight.com/guides/the-essential-guide-to-quarterly-business-reviews/> Customer QBR structure and metrics.
+- Wikipedia contributors. Goodhart's Law. Wikipedia, 2026. <https://en.wikipedia.org/wiki/Goodhart%27s_law> Goodhart and Strathern formulations (secondary).
+
+## Chapter 19: AI-Native Analysis: Collecting Data and Asking the Harness
+
+- Model Context Protocol maintainers. Architecture overview (revision 2026-07-28). modelcontextprotocol.io, 2026. <https://modelcontextprotocol.io/docs/learn/architecture> Hosts, clients and servers; tools, resources and prompts; transports
+- Model Context Protocol maintainers. Security Best Practices. modelcontextprotocol.io, 2026. <https://modelcontextprotocol.io/docs/tutorials/security/security_best_practices> Scope minimization and least privilege for connectors
+- Model Context Protocol maintainers. Versioning. modelcontextprotocol.io, 2026. <https://modelcontextprotocol.io/specification/versioning> Current spec revision and deprecation policy
+- Model Context Protocol maintainers. Introducing the MCP Registry. MCP Blog, 2025. <https://blog.modelcontextprotocol.io/posts/2025-09-08-mcp-registry-preview/> Public registry and private sub-registries for approved connectors
+- Anthropic. Donating the Model Context Protocol and establishing the Agentic AI Foundation. anthropic.com, 2025. <https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation> MCP governance under the Linux Foundation
+- Anthropic. Getting started with custom connectors using remote MCP. Claude Help Center, 2026. <https://support.claude.com/en/articles/11175166-getting-started-with-custom-connectors-using-remote-mcp> Who can add connectors, per-tool controls and security warnings
+- Anthropic. What are projects? Claude Help Center, 2026. <https://support.claude.com/en/articles/9517075-what-are-projects> Project knowledge, instructions and automatic retrieval
+- Anthropic. Prompting best practices (long context prompting). Claude Developer Platform, 2026. <https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices> Data first, question last, document tags and quote grounding
+- Anthropic. Reduce hallucinations. Claude Developer Platform, 2026. <https://platform.claude.com/docs/en/test-and-evaluate/strengthen-guardrails/reduce-hallucinations> Verification techniques for AI-generated claims
+- Rajasekaran, P., Dixon, E., Ryan, C. and Hadfield, J. Effective context engineering for AI agents. Anthropic Engineering, 2025. <https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents> Context rot, high-signal context and just-in-time retrieval
+- Anthropic. Introducing Agent Skills. Claude blog, 2025. <https://claude.com/blog/skills> Packaging repeatable analysis workflows as skills
+- Agent Skills project. Agent Skills Overview. agentskills.io, 2026. <https://agentskills.io/> SKILL.md format and progressive disclosure
+- Anthropic. Claude can now create and edit files. Claude blog, 2025. <https://claude.com/blog/create-files> Charts, spreadsheets and reports generated by the harness, and the data-risk note
+- Anthropic. Is my data used for model training? Anthropic Privacy Center, 2026. <https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training> Commercial versus consumer data terms behind the approved-tools rule
+- Willison, S. The lethal trifecta for AI agents. simonwillison.net, 2025. <https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/> Why analysis sessions should not mix private data, untrusted text and outbound tools
+- OWASP GenAI Security Project. LLM02:2025 Sensitive Information Disclosure. genai.owasp.org, 2025. <https://genai.owasp.org/llmrisk/llm022025-sensitive-information-disclosure/> PII risk and masking, least-privilege prevention
+- European Union. General Data Protection Regulation, Article 5. gdpr-info.eu, 2016. <https://gdpr-info.eu/art-5-gdpr/> Purpose limitation and data minimisation
+- Lei, F., Chen, J., Ye, Y. et al. Spider 2.0: Evaluating Language Models on Real-World Enterprise Text-to-SQL Workflows. ICLR 2025 via arXiv, 2025. <https://arxiv.org/abs/2411.07763> Why raw enterprise schemas defeat models and why verification matters
+- Jing, L., Huang, Z., Wang, X. et al. DSBench: How Far Are Data Science Agents from Becoming Data Science Experts? arXiv, 2025. <https://arxiv.org/abs/2409.07703> At-publication reliability of agents on realistic data analysis tasks
+- dbt Labs. About dbt MCP server. dbt Developer Hub, 2026. <https://docs.getdbt.com/docs/dbt-ai/about-mcp> Governed metric definitions through a semantic layer
+- Snowflake. Snowflake-managed MCP server. Snowflake Documentation, 2026. <https://docs.snowflake.com/en/user-guide/snowflake-cortex/cortex-agents-mcp> Warehouse connector with per-tool role grants
+- Google Cloud. Use the BigQuery remote MCP server. Google Cloud Documentation, 2026. <https://docs.cloud.google.com/bigquery/docs/use-bigquery-mcp> Warehouse connector with a read-only query tool and IAM roles
+- Amplitude. Amplitude MCP. Amplitude Docs, 2026. <https://amplitude.com/docs/amplitude-ai/amplitude-mcp> Product analytics connector that respects existing permissions
+- Mixpanel. Mixpanel MCP server. Mixpanel Docs, 2026. <https://docs.mixpanel.com/docs/mcp> Product analytics connector, regions and admin enablement
+- Atlassian. Introducing Atlassian's Remote Model Context Protocol (MCP) Server. Atlassian Blog, 2025. <https://www.atlassian.com/blog/announcements/remote-mcp-server> Ticketing and docs connector for Jira and Confluence
+- Slack. Slack MCP server. Slack Developer Docs, 2026. <https://docs.slack.dev/ai/mcp-server> Chat connector, per-tool scopes and write tools to disable
+- Knaflic, C. N. Storytelling with Data. Wiley, 2015. <https://www.storytellingwithdata.com/books> Chart and narrative principles for AI-drafted reports
+- Minto, B. The Pyramid Principle. barbaraminto.com, 2026. <https://www.barbaraminto.com/> Answer-first report structure and SCQ opening
+
+## Chapter 20: Innovation Strategy and the Innovation Placemat
+
+- Nagji, B. and Tuff, G. Managing Your Innovation Portfolio. Harvard Business Review, 2012. <https://hbr.org/2012/05/managing-your-innovation-portfolio> Core, adjacent and transformational innovation and the innovation ambition matrix
+- Keeley, L., Walters, H., Pikkel, R. and Quinn, B. Ten Types of Innovation: The Discipline of Building Breakthroughs. Wiley, 2013. <https://www.wiley.com/en-us/Ten+Types+of+Innovation%3A+The+Discipline+of+Building+Breakthroughs-p-9781118504246> Authorship, date and evidence base of the Ten Types framework
+- Christensen Institute. Disruptive Innovation. christenseninstitute.org, 2026. <https://www.christenseninstitute.org/theory/disruptive-innovation/> Definitions of sustaining, disruptive, low-end and new-market innovation
+- Christensen, C., Raynor, M. and McDonald, R. What Is Disruptive Innovation? Harvard Business Review, 2015. <https://hbr.org/2015/12/what-is-disruptive-innovation> Restatement of the theory and the point that disruption is a process
+- Wikipedia. Disruptive innovation. Wikipedia, 2026. <https://en.wikipedia.org/wiki/Disruptive_innovation> Origin dates of the theory and main criticisms
+- Wikipedia. The Innovator's Dilemma. Wikipedia, 2026. <https://en.wikipedia.org/wiki/The_Innovator%27s_Dilemma> Publication details and core argument of the 1997 book
+- King, A. and Baatartogtokh, B. How Useful Is the Theory of Disruptive Innovation? MIT Sloan Management Review, 2015. <https://sloanreview.mit.edu/article/how-useful-is-the-theory-of-disruptive-innovation/> Empirical test of the theory used as a caveat
+- Blank, S. McKinsey's Three Horizons Model Defined Innovation for Years. Here's Why It No Longer Applies. Harvard Business Review, 2019. <https://hbr.org/2019/02/mckinseys-three-horizons-model-defined-innovation-for-years-heres-why-it-no-longer-applies> Critique of the three horizons model
+- McKinsey and Company. Enduring Ideas: The Three Horizons of Growth. McKinsey Quarterly, 2009. <https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/enduring-ideas-the-three-horizons-of-growth> Three horizons definitions and origin in The Alchemy of Growth (1999)
+- Day, G. Is It Real? Can We Win? Is It Worth Doing? Harvard Business Review, 2007. <https://hbr.org/2007/12/is-it-real-can-we-win-is-it-worth-doing-managing-risk-and-reward-in-an-innovation-portfolio> Portfolio drift to minor innovations and the screen for choosing where to innovate
+- McGrath, R. and MacMillan, I. Discovery-Driven Planning. Harvard Business Review, 1995. <https://hbr.org/1995/07/discovery-driven-planning> Planning to learn as a mitigation for innovation risk
+- Govindarajan, V. and Trimble, C. Stop the Innovation Wars. Harvard Business Review, 2010. <https://hbr.org/2010/07/stop-the-innovation-wars> Conflict between innovation teams and the core business
+- O'Reilly, C. and Tushman, M. The Ambidextrous Organization. Harvard Business Review, 2004. <https://hbr.org/2004/04/the-ambidextrous-organization> Running exploration and exploitation together
+- Kotter, J. Leading Change: Why Transformation Efforts Fail. Harvard Business Review, 1995. <https://hbr.org/1995/05/leading-change-why-transformation-efforts-fail-2> Guiding coalition as background for executive sponsorship
+- Prosci. The Primary Sponsor's Role and Importance. prosci.com, 2026. <https://www.prosci.com/blog/primary-sponsors-role-and-importance> Benchmark findings on active and visible sponsorship
+- Wikipedia. SMART criteria. Wikipedia, 2026. <https://en.wikipedia.org/wiki/SMART_criteria> Doran's 1981 origin, variants and evidence limits of SMART goals
+- Ordóñez, L., Schweitzer, M., Galinsky, A. and Bazerman, M. Goals Gone Wild. Harvard Business School Working Paper 09-083, 2009. <https://www.hbs.edu/ris/Publication%20Files/09-083.pdf> Side effects of goal setting
+- NIST. AI Risk Management Framework. National Institute of Standards and Technology, 2023. <https://www.nist.gov/itl/ai-risk-management-framework> Govern, Map, Measure and Manage functions for AI rows of the risk register
+- Stanford HAI. AI Index Report 2025. Stanford University, 2025. <https://hai.stanford.edu/ai-index/2025-ai-index-report> Business adoption and inference cost decline
+- Stanford HAI. AI Index Report 2026. Stanford University, 2026. <https://hai.stanford.edu/ai-index/2026-ai-index-report> 2026 adoption, agent capability and investment figures
+- Boston Consulting Group. The Widening AI Value Gap. BCG, 2025. <https://www.bcg.com/publications/2025/are-you-generating-value-from-ai-the-widening-gap> Concentration of AI value and share of value from agents
+- Gartner. Gartner Predicts Over 40 Percent of Agentic AI Projects Will Be Canceled by End of 2027. Gartner, 2025. <https://www.gartner.com/en/newsroom/press-releases/2025-06-25-gartner-predicts-over-40-percent-of-agentic-ai-projects-will-be-canceled-by-end-of-2027> Prediction that over 40 percent of agentic AI projects will be canceled by end of 2027
+- Anthropic. Introducing the Model Context Protocol. Anthropic, 2024. <https://www.anthropic.com/news/model-context-protocol> MCP as an open standard for connectors
+- Linux Foundation. Linux Foundation Announces the Formation of the Agentic AI Foundation. Linux Foundation, 2025. <https://www.linuxfoundation.org/press/linux-foundation-announces-the-formation-of-the-agentic-ai-foundation> MCP governance move and ecosystem innovation
+
+## Chapter 21: Innovation Competencies: Lean Startup, Design Thinking and Maker Culture
+
+- Ries, Eric. The Lean Startup Principles. The Lean Startup, n.d. <https://theleanstartup.com/principles> Five principles, build-measure-learn, MVP, innovation accounting and pivot definitions.
+- Ries, Eric. Pivot, Don't Jump to a New Vision. Startup Lessons Learned, 2009. <https://www.startuplessonslearned.com/2009/06/pivot-dont-jump-to-new-vision.html> Early pivot types, one foot in the past and the regular pivot review meeting.
+- Ries, Eric. Minimum Viable Product: A Guide. Startup Lessons Learned, 2009. <https://www.startuplessonslearned.com/2009/08/minimum-viable-product-guide.html> MVP definition, smoke tests and cautions about minimal products.
+- Ries, Eric. The Startup Way. The Startup Way, 2017. <https://www.thestartupway.com/> Lean startup inside established companies and the GE FastWorks partnership.
+- Wikipedia contributors. Lean Startup. Wikipedia, 2026. <https://en.wikipedia.org/wiki/Lean_startup> Publication dates, the Zappos origin story, vanity versus actionable metrics and the Horowitz, Felin and colleagues and Levinthal criticisms.
+- Wikipedia contributors. Pivot (Business). Wikipedia, 2026. <https://en.wikipedia.org/wiki/Pivot_(business)> Ries and Blank pivot definitions and the Groupon example.
+- Blank, Steve. Why the Lean Start-Up Changes Everything. Harvard Business Review, 2013. <https://hbr.org/2013/05/why-the-lean-start-up-changes-everything> Lean versus business plan approach and application inside large corporations.
+- Wikipedia contributors. Customer Development. Wikipedia, 2026. <https://en.wikipedia.org/wiki/Customer_development> Blank's four steps, get out of the building and the I-Corps adoption.
+- Brown, Tim. Design Thinking. Harvard Business Review, 2008. <https://hbr.org/2008/06/design-thinking> Foundational IDEO framing of design thinking for business.
+- IDEO. Design Thinking. IDEO, n.d. <https://designthinking.ideo.com/> Definition and the desirability, feasibility and viability lenses.
+- IDEO. History of Design Thinking. IDEO, n.d. <https://designthinking.ideo.com/history> Origins, key people and the d.school link.
+- Stanford d.school. Design Thinking Bootleg. Hasso Plattner Institute of Design at Stanford, 2018. <https://dschool.stanford.edu/resources/design-thinking-bootleg> The five modes of design thinking.
+- Gibbons, Sarah. Design Thinking 101. Nielsen Norman Group, 2016. <https://www.nngroup.com/articles/design-thinking/> Six-phase variant and non-linear iteration.
+- Design Council. The Double Diamond. Design Council, 2023. <https://www.designcouncil.org.uk/our-resources/the-double-diamond/> Four phases, 2003 origin and non-linear use.
+- Design Council. Framework for Innovation. Design Council, n.d. <https://www.designcouncil.org.uk/our-resources/framework-for-innovation/> Four design principles, methods bank, leadership and engagement.
+- Ackermann, Rebecca. Design Thinking Was Supposed to Fix the World. Where Did It Go Wrong? MIT Technology Review, 2023. <https://www.technologyreview.com/2023/02/09/1067821/design-thinking-retrospective-what-went-wrong/> Critiques of design thinking (innovation theater, Irani, Aye, Diva Centres, SFUSD cafeterias) and the d.school and Tim Brown responses.
+- Strategyzer. Testing Business Ideas. Strategyzer, n.d. <https://www.strategyzer.com/library/testing-business-ideas-book> Bland and Osterwalder experiment library scope and structure.
+- Strategyzer. Validate Your Ideas with the Test Card. Strategyzer, n.d. <https://www.strategyzer.com/library/validate-your-ideas-with-the-test-card> The four elements of a Test Card.
+- Strategyzer. How to Test Your Idea: Start with the Most Critical Hypotheses. Strategyzer, n.d. <https://www.strategyzer.com/library/how-to-test-your-idea-start-with-the-most-critical-hypotheses> Desirability, feasibility and viability risk lenses for assumptions.
+- Bland, David J. Assumptions Mapping. Precoil, n.d. <https://www.precoil.com/assumptions-mapping> Lineage of the assumptions mapping 2x2.
+- GV. The Design Sprint. GV, n.d. <https://www.gv.com/sprint/> Five-day sprint schedule and origin at Google and GV.
+- Knapp, Jake and Zeratsky, John. Sprint. Character, n.d. <https://www.character.vc/sprint> Sprint book date and newer Foundation Sprint and Click formats.
+- Thomke, Stefan. Building a Culture of Experimentation. Harvard Business Review, 2020. <https://hbr.org/2020/03/building-a-culture-of-experimentation> Large-scale experimentation example from Booking.com.
+- Wikipedia contributors. Maker Culture. Wikipedia, 2026. <https://en.wikipedia.org/wiki/Maker_culture> Make magazine, Maker Faire and makerspace history.
+- Wikipedia contributors. Vibe Coding. Wikipedia, 2026. <https://en.wikipedia.org/wiki/Vibe_coding> Origin of the term and reported risks of AI-built software.
+- METR. Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity. METR, 2025. <https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/> Measured versus perceived AI speedup.
+- Mehta, Ivan. A Quarter of Startups in YC's Current Cohort Have Codebases That Are Almost Entirely AI-Generated. TechCrunch, 2025. <https://techcrunch.com/2025/03/06/a-quarter-of-startups-in-ycs-current-cohort-have-codebases-that-are-almost-entirely-ai-generated/> AI-generated code share in YC W25.
+- Figma. Introducing Figma Make. Figma, 2025. <https://www.figma.com/blog/introducing-figma-make/> Prompt-to-prototype tooling for product teams.
+- Anthropic. Claude 3.5 Sonnet. Anthropic, 2024. <https://www.anthropic.com/news/claude-3-5-sonnet> Launch of Artifacts for in-chat prototypes.
+- Anthropic. How Anthropic Teams Use Claude Code. Claude, 2025. <https://claude.com/blog/how-anthropic-teams-use-claude-code> Non-engineers building working prototypes with an AI harness.
+- Banawa, Rachel. Synthetic Users vs Human Respondents. Nielsen Norman Group, 2026. <https://www.nngroup.com/articles/synthetic-users-vs-human-respondents/> Mode collapse in synthetic respondents and limits as evidence.
+- Ries, Eric. *The Lean Startup*. Crown Business, 2011. MVP, innovation accounting milestones, actionable and vanity metrics, the ten pivot types and the Dropbox explainer video story.
+- Blank, Steve. *The Four Steps to the Epiphany*. Self-published, 2005; and Blank, Steve and Dorf, Bob. *The Startup Owner's Manual*. K&S Ranch, 2012. Customer development's four steps.
+- Bland, David J. and Osterwalder, Alexander. *Testing Business Ideas*. Wiley, 2019. Experiment library, Test Card and Learning Card, evidence strength.
+- Knapp, Jake, Zeratsky, John and Kowitz, Braden. *Sprint*. Simon and Schuster, 2016. Decider and Facilitator roles, team of about seven and five Friday interviews.
+
+## Chapter 22: The Innovation Toolkit
+
+- Wikipedia contributors. Open innovation. Wikipedia, 2026. <https://en.wikipedia.org/wiki/Open_innovation> Chesbrough's definition, inbound and outbound modes and known risks.
+- Christensen, Clayton, Alton, Richard, Rising, Curtis and Waldeck, Andrew. The Big Idea: The New M&A Playbook. Harvard Business Review, 2011. <https://hbr.org/2011/03/the-big-idea-the-new-ma-playbook> Claimed 70 to 90 percent M&A failure range.
+- Capron, Laurence and Mitchell, Will. Finding the Right Path. Harvard Business Review, 2010. <https://hbr.org/2010/07/finding-the-right-path> Premise of the build, borrow or buy resource pathways framework.
+- Nagji, Bansi and Tuff, Geoff. Managing Your Innovation Portfolio. Harvard Business Review, 2012. <https://hbr.org/2012/05/managing-your-innovation-portfolio> Innovation ambition matrix authorship.
+- O'Reilly, Charles and Tushman, Michael. The Ambidextrous Organization. Harvard Business Review, 2004. <https://hbr.org/2004/04/the-ambidextrous-organization> Ambidexterity concept and attribution.
+- Blank, Steve. Lean Innovation Management: Making Corporate Innovation Work. steveblank.com, 2015. <https://steveblank.com/2015/06/26/lean-innovation-management-making-corporate-innovation-work/> Innovation theater, Lean Three Horizons and how to organize corporate innovation.
+- Affia-Jomants, Abasi-amefon, Gama, Kiev, Herbsleb, James and Nolte, Alexander. How to organize an in-person, online or hybrid hackathon: A revised planning kit. arXiv, 2025. <https://arxiv.org/abs/2008.08025> The 12 hackathon planning decisions and continuity planning.
+- Atlassian. ShipIt. atlassian.com, 2026. <https://www.atlassian.com/company/shipit> 24-hour internal hackathon format and the Jira Service Desk origin.
+- BMW Group. BMW Startup Garage. bmwstartupgarage.com, 2026. <https://www.bmwstartupgarage.com/> Venture client process steps and self-reported pilot numbers.
+- Wikipedia contributors. Venture client. Wikipedia, 2026. <https://en.wikipedia.org/wiki/Venture_client> Venture client definition and contrast with corporate venture capital.
+- Wikipedia contributors. Corporate venture capital. Wikipedia, 2026. <https://en.wikipedia.org/wiki/Corporate_venture_capital> CVC objectives, survey mix and 2024 US exit data.
+- Wikipedia contributors. Intrapreneurship. Wikipedia, 2026. <https://en.wikipedia.org/wiki/Intrapreneurship> Pinchot origin of the term and classic intrapreneurship cases.
+- Wikipedia contributors. Area 120. Wikipedia, 2026. <https://en.wikipedia.org/wiki/Area_120> Google internal incubator history, graduates and 2023 cuts.
+- Wikipedia contributors. PARC (company). Wikipedia, 2026. <https://en.wikipedia.org/wiki/PARC_(company)> Xerox PARC commercialization failure, spin-outs and 2023 donation.
+- Wikipedia contributors. Arm Holdings. Wikipedia, 2026. <https://en.wikipedia.org/wiki/Arm_Holdings> Licensing and royalty business model example.
+- Wikipedia contributors. Netflix Prize. Wikipedia, 2026. <https://en.wikipedia.org/wiki/Netflix_Prize> Prize competition dates, amount and result.
+- MIT-IBM Computing Research Lab. About. mitibm.mit.edu, 2026. <https://mitibm.mit.edu/about/> University and industry research partnership founded in 2017.
+- Wikipedia contributors. Inflection AI. Wikipedia, 2026. <https://en.wikipedia.org/wiki/Inflection_AI> Microsoft licence-and-hire deal and UK CMA review.
+- Wikipedia contributors. Character.ai. Wikipedia, 2026. <https://en.wikipedia.org/wiki/Character.ai> Google licence-and-hire deal in 2024.
+- Wikipedia contributors. Scale AI. Wikipedia, 2026. <https://en.wikipedia.org/wiki/Scale_AI> Meta minority stake and CEO move in 2025.
+- Wikipedia contributors. Cognition AI. Wikipedia, 2026. <https://en.wikipedia.org/wiki/Cognition_AI> Google licence-and-hire of Windsurf leaders and its amount.
+- Cognition. Cognition to acquire Windsurf. Cognition blog, 2025. <https://cognition.com/blog/windsurf> Acquisition of the remaining Windsurf business and employee terms.
+- Federal Trade Commission. FTC Launches Inquiry into Generative AI Investments and Partnerships. ftc.gov, 2024. <https://www.ftc.gov/news-events/news/press-releases/2024/01/ftc-launches-inquiry-generative-ai-investments-partnerships> Regulatory scrutiny of model provider and cloud partnerships.
+- Federal Trade Commission. FTC Issues Staff Report on AI Partnerships and Investments Study. ftc.gov, 2025. <https://www.ftc.gov/news-events/news/press-releases/2025/01/ftc-issues-staff-report-ai-partnerships-investments-study> Partnership risks such as switching costs and exclusivity.
+- Estrada, Sheryl. MIT report: 95% of generative AI pilots at companies are failing. Fortune, 2025. <https://fortune.com/2025/08/18/mit-report-95-percent-generative-ai-pilots-at-companies-failing-cfo/> Reported partner versus internal build success rates, flagged as contested.
+- Anthropic. Introducing the Model Context Protocol. anthropic.com, 2024. <https://www.anthropic.com/news/model-context-protocol> MCP launch date and purpose for connector-based prototypes.
+- Schluntz, Erik and Zhang, Barry. Building Effective Agents. Anthropic, 2024. <https://www.anthropic.com/engineering/building-effective-agents> Workflow versus agent distinction and start-simple rule for agent prototypes.
+- Anthropic. Claude Frontier Academy. anthropic.com, 2026. <https://www.anthropic.com/news/claude-frontier-academy> AI-era innovation training built around a residency on a real project.
+
+## Chapter 23: Implementing, Evaluating and Scaling Innovation
+
+- O'Reilly, C. A. and Tushman, M. L. The Ambidextrous Organization. Harvard Business Review, 2004. <https://hbr.org/2004/04/the-ambidextrous-organization> Origin of the ambidextrous organization design.
+- O'Reilly, C. A. and Tushman, M. L. Lead and Disrupt: How to Solve the Innovator's Dilemma. Stanford Business Books, 2016. <https://www.gsb.stanford.edu/faculty-research/books/lead-disrupt-how-solve-innovators-dilemma> Ambidexterity as the answer to the innovator's dilemma.
+- Wikipedia contributors. Organizational Ambidexterity. Wikipedia, 2026. <https://en.wikipedia.org/wiki/Organizational_ambidexterity> March's exploration and exploitation and structural vs contextual ambidexterity.
+- Nagji, B. and Tuff, G. Managing Your Innovation Portfolio. Harvard Business Review, 2012. <https://hbr.org/2012/05/managing-your-innovation-portfolio> Core, adjacent and transformational portfolio balance.
+- Govindarajan, V. and Trimble, C. Stop the Innovation Wars. Harvard Business Review, 2010. <https://hbr.org/2010/07/stop-the-innovation-wars> Dedicated teams inevitably conflict with the rest of the organization; dedicated team and performance engine partnership (developed in their book The Other Side of Innovation, 2010).
+- McGrath, R. G. and MacMillan, I. C. Discovery-Driven Planning. Harvard Business Review, 1995. <https://hbr.org/1995/07/discovery-driven-planning> Assumption-based milestone planning and staged funding.
+- Christensen, C. M. and Overdorf, M. Meeting the Challenge of Disruptive Change. Harvard Business Review, 2000. <https://hbr.org/2000/03/meeting-the-challenge-of-disruptive-change> Why capable incumbents fail at new businesses.
+- Christensen Institute. Disruptive Innovation. Christensen Institute, 2026. <https://www.christenseninstitute.org/theory/disruptive-innovation/> Definition of sustaining vs disruptive innovation.
+- Blank, S. Lean Innovation Management: Making Corporate Innovation Work. steveblank.com, 2015. <https://steveblank.com/2015/06/26/lean-innovation-management-making-corporate-innovation-work/> Horizons mapped to management methods, innovation theater and handoff paths.
+- Kotter Inc. The 8 Steps for Leading Change. kotterinc.com, 2026. <https://www.kotterinc.com/methodology/8-steps/> Step names for the internal campaign plan.
+- Mind Tools. Stakeholder Analysis. mindtools.com, 2026. <https://www.mindtools.com/aol0rms/stakeholder-analysis> Power and interest grid adapted from Mendelow.
+- Cooper, R. G. The Stage-Gate Model: An Overview. Stage-Gate International, 2026. <https://www.stage-gate.com/blog/the-stage-gate-model-an-overview/> Stages, gates, gatekeepers and go, kill, hold or recycle decisions.
+- Ries, E. The Lean Startup Principles. theleanstartup.com, 2026. <https://theleanstartup.com/principles> Innovation accounting, build-measure-learn and validated learning.
+- Ries, E. The Startup Way. Currency, 2017. <https://www.thestartupway.com/> Entrepreneurship function and corporate funding of internal startups.
+- Teller, A. Tackle the Monkey First. X, the moonshot factory, 2016. <https://x.company/blog/posts/tackle-the-monkey-first/> Riskiest assumption first and teams killing their own projects.
+- Duke, A. Quit: The Power of Knowing When to Walk Away. Portfolio, 2022. <https://www.annieduke.com/books/> Kill criteria set in advance.
+- Bezos, J. 2016 Letter to Shareholders. Amazon, 2017. <https://www.aboutamazon.com/news/company-news/2016-letter-to-shareholders> Two-way door decisions, 70% information and disagree and commit.
+- Working Backwards LLC. Working Backwards PR/FAQ Process. workingbackwards.com, 2026. <https://workingbackwards.com/concepts/working-backwards-pr-faq-process/> PR/FAQ structure and review meeting for the pitch outline.
+- Working Backwards LLC. Single Threaded Leadership. workingbackwards.com, 2026. <https://workingbackwards.com/concepts/amazon-single-threaded-teams/> Amazon's single-threaded leader and team model, as described by Colin Bryar and Bill Carr (Working Backwards, 2021).
+- Wikipedia contributors. John A. List. Wikipedia, 2026. <https://en.wikipedia.org/wiki/John_A._List> The Voltage Effect and the problem of scaling.
+- BCG. AI Adoption in 2024: 74% of Companies Struggle to Achieve and Scale Value. Boston Consulting Group, 2024. <https://www.bcg.com/press/24october2024-ai-adoption-in-2024-74-of-companies-struggle-to-achieve-and-scale-value> AI pilot-to-scale gap and the 70-20-10 principle.
+- BCG. The Widening AI Value Gap. Boston Consulting Group, 2025. <https://www.bcg.com/publications/2025/are-you-generating-value-from-ai-the-widening-gap> Future-built firms and agents' share of AI value.
+- Estrada, S. MIT Report: 95% of Generative AI Pilots at Companies Are Failing. Fortune, 2025. <https://fortune.com/2025/08/18/mit-report-95-percent-generative-ai-pilots-at-companies-failing-cfo/> MIT NANDA findings on AI pilots, buy vs build.
+- Stanford HAI. The 2025 AI Index Report. Stanford University, 2025. <https://hai.stanford.edu/ai-index/2025-ai-index-report> AI adoption rate and inference cost decline.
+- DORA. State of AI-assisted Software Development 2025. Google Cloud, 2025. <https://dora.dev/research/2025/dora-report/> AI as an amplifier of the organizational system.
+- Schluntz, E. and Zhang, B. Building Effective Agents. Anthropic, 2024. <https://www.anthropic.com/engineering/building-effective-agents> Add autonomy only when evals show it pays.
+- Anthropic. Introducing the Model Context Protocol. Anthropic, 2024. <https://www.anthropic.com/news/model-context-protocol> Connectors for the AI harness.
+- Future of Life Institute. EU AI Act Article 57: AI Regulatory Sandboxes. artificialintelligenceact.eu, 2026. <https://artificialintelligenceact.eu/article/57/> Regulatory sandboxes as a policy that supports innovation; adopted text sets 2 August 2026 for national sandboxes, amended text 2 August 2027.
+
+## Chapter 24: Positioning, Messaging and the Offer
+
+- Dunford, A. A Quick Guide to Positioning. Lenny's Newsletter, 2021. <https://www.lennysnewsletter.com/p/positioning> The five positioning components, their order and the caution on category creation
+- Dunford, A. A Guide to Advanced B2B Positioning. Lenny's Newsletter, 2026. <https://www.lennysnewsletter.com/p/a-guide-to-advanced-b2b-positioning> Common positioning roadblocks and fixes
+- Dunford, A. Books. aprildunford.com, 2026. <https://www.aprildunford.com/books> Obviously Awesome and Sales Pitch scope, including the eight-step pitch structure
+- Dunford, A. Obviously Awesome. aprildunford.com, 2026. <https://www.aprildunford.com/obviously-awesome> Updated edition, five components and three styles of positioning
+- Dunford, A. Home page. aprildunford.com, 2026. <https://www.aprildunford.com/> Definition of positioning
+- Dunford, A. Positioning Prep Part 1: Decisions to Make Before a Positioning Exercise. Substack, 2026. <https://aprildunford.substack.com/p/positioning-prep-part-1-decisions> Positioning thesis, scope choice and the champion as target persona
+- Dunford, A. Positioning in the Age of AI. Substack, 2026. <https://aprildunford.substack.com/p/positioning-in-the-age-of-ai> What changes and what stays the same in positioning AI products
+- Dunford, A. Shifting Positioning When AI Capabilities are Rapidly Changing. Substack, 2026. <https://aprildunford.substack.com/p/shifting-positioning-when-ai-capabilities> When to update proof versus rebuild positioning after model changes
+- Dunford, A. Value vs. Objection Handling. Substack, 2025. <https://aprildunford.substack.com/p/value-vs-objection-handling> Value for the champion and objection handling for other stakeholders
+- Dunford, A. The No Differentiation Illusion. Substack, 2024. <https://aprildunford.substack.com/p/the-no-differentiation-illusion> Causes of perceived lack of differentiation and how to find it
+- Wikipedia. Crossing the Chasm. Wikimedia Foundation, 2026. <https://en.wikipedia.org/wiki/Crossing_the_Chasm> Edition years and the chasm, whole product and segment-by-segment expansion
+- Wikipedia. Category design. Wikimedia Foundation, 2026. <https://en.wikipedia.org/wiki/Category_design> Definition of category design and Play Bigger authors and year
+- Play Bigger. Home page. playbigger.com, 2026. <https://www.playbigger.com/> Current framing of category design versus market creation
+- Pragmatic Institute. The Pragmatic Framework. pragmaticinstitute.com, 2026. <https://www.pragmaticinstitute.com/framework/> Framework structure and the Positioning and Launch box definitions
+- Pragmatic Editorial Team. Go-to-Market Strategy Guide for Product Managers. Pragmatic Institute, 2026. <https://www.pragmaticinstitute.com/resources/articles/product/go-to-market-strategy-guide-for-product-managers/> Split between product management and product marketing on positioning and launch
+- Shaw, J. Messaging framework. Product Marketing Alliance, 2024. <https://www.productmarketingalliance.com/messaging-framework/> Components of a persona-level messaging framework
+- Zuora. Quote-to-cash. zuora.com, 2026. <https://www.zuora.com/glossary/quote-to-cash/> Quote-to-cash stages used for offer readiness
+- IFRS Foundation. IFRS 15 Revenue from Contracts with Customers. ifrs.org, 2014. <https://www.ifrs.org/issued-standards/list-of-standards/ifrs-15-revenue-from-contracts-with-customers/> Five-step revenue recognition model and effective date
+- Federal Trade Commission. FTC Announces Crackdown on Deceptive AI Claims and Schemes. ftc.gov, 2024. <https://www.ftc.gov/news-events/news/press-releases/2024/09/ftc-announces-crackdown-deceptive-ai-claims-schemes> Operation AI Comply cases, amounts and votes
+- Federal Trade Commission. FTC Order Requires Workado to Back Up Artificial Intelligence Detection Claims. ftc.gov, 2025. <https://www.ftc.gov/news-events/news/press-releases/2025/04/ftc-order-requires-workado-back-artificial-intelligence-detection-claims> AI accuracy claim versus tested accuracy and substantiation order terms
+- Federal Trade Commission. FTC Reopens and Sets Aside Rytr Final Order. ftc.gov, 2025. <https://www.ftc.gov/news-events/news/press-releases/2025/12/ftc-reopens-sets-aside-rytr-final-order-response-trump-administrations-ai-action-plan> Shift in FTC posture on AI tool makers
+- Federal Trade Commission. DoNotPay case page. ftc.gov, 2025. <https://www.ftc.gov/legal-library/browse/cases-proceedings/donotpay> Final order dates and prohibition on professional-substitute claims
+- Federal Trade Commission. FTC Policy Statement Regarding Advertising Substantiation. ftc.gov, 1984. <https://www.ftc.gov/legal-library/browse/ftc-policy-statement-regarding-advertising-substantiation> Reasonable-basis standard and factors for claims substantiation
+- Securities and Exchange Commission. SEC Charges Two Investment Advisers with Making False and Misleading Statements About Their Use of Artificial Intelligence. sec.gov, 2024. <https://www.sec.gov/newsroom/press-releases/2024-36> AI washing cases and penalties
+- Securities and Exchange Commission. In the Matter of Presto Automation Inc. sec.gov, 2025. <https://www.sec.gov/enforcement-litigation/administrative-proceedings/33-11352-s> Misleading claims about AI autonomy and human intervention
+- BBB National Programs. Apple Intelligence decision. bbbprograms.org, 2025. <https://bbbprograms.org/media/newsroom/decisions/apple-intelligence> Availability of AI features treated as an advertising claim
+- Dunford, A. Sales Pitch Book Available Today! Substack, 2023. <https://aprildunford.substack.com/p/sales-pitch-book-available-today> Sales Pitch opens with the company's insight rather than the problem, and builds discovery into the pitch
+- Dunford, A. The Positioning and Sales Pitch Workshop. Substack, 2026. <https://aprildunford.substack.com/p/the-positioning-sales-pitch-workshop> Turning the five positioning components into a sales pitch
+- Moore, Geoffrey A. Crossing the Chasm, 3rd ed. HarperBusiness, 2014. Positioning statement structure and the beachhead segment
+- Wikipedia. IFRS 15. Wikimedia Foundation, 2026. <https://en.wikipedia.org/wiki/IFRS_15> Joint project with the FASB; US counterpart ASC 606
+
+## Chapter 25: Launch Management
+
+- Klau, R. Reliable Product Launches at Scale (Site Reliability Engineering, ch. 27). Google and O'Reilly, 2016. <https://sre.google/sre-book/reliable-product-launches/> Launch definition, launch coordination engineering, readiness checklist categories and staged rollout.
+- Lunney, J. and Lueder, S. Postmortem Culture: Learning from Failure (Site Reliability Engineering, ch. 15). Google and O'Reilly, 2016. <https://sre.google/sre-book/postmortem-culture/> Blameless review format and triggers, adapted for the post-launch review.
+- Bryar, C. and Carr, B. An insider look at Amazon's culture and processes (excerpt from Working Backwards). About Amazon, 2021. <https://www.aboutamazon.com/news/workplace/an-insider-look-at-amazons-culture-and-processes> PR/FAQ purpose and length limits.
+- Bryar, C. and Carr, B. Working Backwards PR/FAQ Instructions and Template. workingbackwards.com, 2021. <https://workingbackwards.com/resources/working-backwards-pr-faq/> Press release section order and external versus internal FAQ questions.
+- GitHub. Exploring early access releases with feature preview. GitHub Docs, 2026. <https://docs.github.com/en/get-started/using-github/exploring-early-access-releases-with-feature-preview> Private preview, public preview and GA definitions.
+- GitLab. Support for Experiment, Beta, and Generally Available features. GitLab Docs, 2026. <https://docs.gitlab.com/policy/development_stages_support/> Limited availability versus GA definitions, support and SLA by stage.
+- Amazon Web Services. AWS Service Terms, Section 2 Betas and Previews. AWS, 2026. <https://aws.amazon.com/service-terms/> Contractual terms of preview programs: no SLA, confidentiality, access ending at GA.
+- Microsoft. Supplemental Terms of Use for Microsoft Azure Previews. Microsoft, 2026. <https://azure.microsoft.com/en-us/support/legal/preview-supplemental-terms/> Early access preview terms and generative AI preview data handling.
+- Microsoft. Frontier program for Microsoft 365 Copilot. Microsoft, 2026. <https://www.microsoft.com/microsoft-365-copilot/frontier-program> Admin opt-in early access for AI agents.
+- Microsoft. Transparency Note for Azure OpenAI. Microsoft Learn, 2026. <https://learn.microsoft.com/en-us/azure/ai-foundry/responsible-ai/openai/transparency-note> Structure of a transparency note as an AI launch artifact.
+- Anthropic. Model deprecations. Claude Platform Docs, 2026. <https://platform.claude.com/docs/en/about-claude/model-deprecations> Model lifecycle stages and 60-day retirement notice.
+- Anthropic. Commitments on model deprecation and preservation. Anthropic, 2025. <https://www.anthropic.com/research/deprecation-commitments> Model retirement treated as a public commitment.
+- Anthropic Engineering. A postmortem of three recent issues. Anthropic, 2025. <https://www.anthropic.com/engineering/a-postmortem-of-three-recent-issues> Silent AI quality regressions and the case for production quality evals.
+- Sato, D. CanaryRelease. martinfowler.com, 2014. <https://martinfowler.com/bliki/CanaryRelease.html> Canary release definition and separation from A/B testing.
+- Hodgson, P. Feature Toggles (aka Feature Flags). martinfowler.com, 2017. <https://martinfowler.com/articles/feature-toggles.html> Four toggle types and toggle debt.
+- Leach, B. APIs as infrastructure: future-proofing Stripe with versioning. Stripe, 2017. <https://stripe.com/blog/api-versioning> Version pinning and not breaking builders in platform launches.
+- Lacan, O. Keep a Changelog 1.1.0. keepachangelog.com, 2023. <https://keepachangelog.com/en/1.1.0/> Release notes principles and change types.
+- Salesforce. Agentforce announcement. Salesforce Newsroom, 2024. <https://www.salesforce.com/news/press-releases/2024/09/12/agentforce-announcement/> Announce-then-GA pattern for a B2B agent launch, with pricing.
+- Salesforce. Agentforce general availability announcement. Salesforce Newsroom, 2024. <https://www.salesforce.com/news/press-releases/2024/10/29/agentforce-general-availability-announcement/> GA announcement following the event launch.
+- European Union. EU AI Act Article 50, Transparency obligations. artificialintelligenceact.eu, 2024. <https://artificialintelligenceact.eu/article/50/> AI disclosure duties and timing.
+- Colorado General Assembly. SB25B-004 Delay Implementation of Colorado AI Act. Colorado General Assembly, 2025. <https://leg.colorado.gov/bills/sb25b-004> Colorado AI Act effective date of June 30, 2026.
+- Wikipedia contributors. Launch status check. Wikipedia, 2026. <https://en.wikipedia.org/wiki/Launch_status_check> Origin and structure of the go/no-go poll.
+- Wikipedia contributors. GPT-5. Wikipedia, 2026. <https://en.wikipedia.org/wiki/GPT-5> Model removal and reversal as a model change communications lesson.
+- Wikipedia contributors. GPT-4o. Wikipedia, 2026. <https://en.wikipedia.org/wiki/GPT-4o> April 2025 sycophancy rollback.
+- Schneider, J. and Hall, J. Why Most Product Launches Fail. Harvard Business Review, 2011. <https://hbr.org/2011/04/why-most-product-launches-fail> Background only; body not read, not cited for claims.
+
+## Chapter 26: Events, Keynotes and Demos
+
+- Coldewey, Devin. Google's best Gemini demo was faked. TechCrunch, 2023. <https://techcrunch.com/2023/12/07/googles-best-gemini-demo-was-faked/> How the Gemini Hands-on video was made and what Google disclosed.
+- Wikipedia contributors. Gemini (language model). Wikipedia, 2026. <https://en.wikipedia.org/wiki/Gemini_(language_model)> Secondary account of the demo video criticism and the share price move after launch.
+- Wikipedia contributors. Bard (chatbot). Wikipedia, 2026. <https://en.wikipedia.org/wiki/Bard_(chatbot)> Bard launch error in February 2023 and reported market reaction.
+- TechCrunch. Meta CTO explains why the smart glasses demos failed at Meta Connect, and it wasn't the Wi-Fi. TechCrunch, 2025. <https://techcrunch.com/2025/09/19/meta-cto-explains-why-the-smart-glasses-demos-failed-at-meta-connect-and-it-wasnt-the-wi-fi/> Live AI demo failure causes and Bosworth quotes.
+- Topolsky, Joshua. Steve Jobs live from WWDC 2010. Engadget, 2010. <https://www.engadget.com/2010-06-07-steve-jobs-live-from-wwdc-2010.html> iPhone 4 demo stalled by audience Wi-Fi load.
+- Duarte, Nancy. The secret structure of great talks. TED, 2011. <https://www.ted.com/talks/nancy_duarte_the_secret_structure_of_great_talks> Date and framing of the shared structure of great talks.
+- Duarte. Resonate. Duarte, 2026. <https://www.duarte.com/resources/books/resonate/> Audience as hero and presenter as mentor.
+- Wikipedia contributors. Nancy Duarte. Wikipedia, 2026. <https://en.wikipedia.org/wiki/Nancy_Duarte> Book titles, years and publishers, and the what is versus what could be pattern.
+- Apple. Apple Reinvents the Phone with iPhone. Apple Newsroom, 2007. <https://www.apple.com/newsroom/2007/01/09Apple-Reinvents-the-Phone-with-iPhone/> Three-in-one framing and announced ship date.
+- Wikipedia contributors. iPhone (1st generation). Wikipedia, 2026. <https://en.wikipedia.org/wiki/IPhone_(1st_generation)> Release date and gap from keynote to ship.
+- Apple. Apple's WWDC 2020 kicks off in June with an all-new online format. Apple Newsroom, 2020. <https://www.apple.com/newsroom/2020/03/apples-wwdc-2020-kicks-off-in-june-with-an-all-new-online-format/> Shift to online keynotes.
+- Wikipedia contributors. The Mother of All Demos. Wikipedia, 2026. <https://en.wikipedia.org/wiki/The_Mother_of_All_Demos> Engelbart 1968 demo content and staging.
+- Wikipedia contributors. Tesla Cybertruck. Wikipedia, 2026. <https://en.wikipedia.org/wiki/Tesla_Cybertruck> Window-breaking incident at the 2019 unveil and Musk's explanation.
+- Franzen, Carl. Tesla's big We, Robot event criticized for parlor tricks and vague timelines. VentureBeat, 2024. <https://venturebeat.com/ai/teslas-big-we-robot-event-criticized-for-parlor-tricks-and-vague-timelines-for-robots-cybercab-robovan/> Undisclosed teleoperation of Optimus robots.
+- Gruber, John. Something Is Rotten in the State of Cupertino. Daring Fireball, 2025. <https://daringfireball.net/2025/03/something_is_rotten_in_the_state_of_cupertino> Personalized Siri concept video, delay statement and pulled ad.
+- Wikipedia contributors. Apple Intelligence. Wikipedia, 2026. <https://en.wikipedia.org/wiki/Apple_Intelligence> Landsheft class action and reported settlement.
+- Wikipedia contributors. Google Duplex. Wikipedia, 2026. <https://en.wikipedia.org/wiki/Google_Duplex> 2018 stage demo and the disclosure commitment that followed.
+- Future of Life Institute. Article 50: Transparency Obligations for Providers and Deployers of Certain AI Systems. EU Artificial Intelligence Act, 2024. <https://artificialintelligenceact.eu/article/50/> AI disclosure and synthetic content marking duties. The page marks Article 50 as amended.
+- Future of Life Institute. Article 113: Entry into Force and Application. EU Artificial Intelligence Act, 2026. <https://artificialintelligenceact.eu/article/113/> General application date of 2 August 2026, as amended.
+- Federal Trade Commission. FTC Announces Crackdown on Deceptive AI Claims and Schemes. FTC, 2024. <https://www.ftc.gov/news-events/news/press-releases/2024/09/ftc-announces-crackdown-deceptive-ai-claims-schemes> Operation AI Comply and the principle that AI claims follow advertising law.
+- Wikipedia contributors. News embargo. Wikipedia, 2026. <https://en.wikipedia.org/wiki/News_embargo> Embargo definition, norms and consequences of breaches.
+- Wikipedia contributors. Analyst relations. Wikipedia, 2026. <https://en.wikipedia.org/wiki/Analyst_relations> Basic definitions of analyst briefings, inquiries and analyst days.
+- ROI Institute. ROI Methodology. ROI Institute, n.d. <https://roiinstitute.net/roi-methodology/> Five levels of evaluation used for the event impact report.
+- Salesforce. Salesforce Unveils Agentforce: What AI Was Meant to Be. Salesforce, 2024. <https://www.salesforce.com/news/press-releases/2024/09/12/agentforce-announcement/> Announcement date (12 September 2024), GA date (25 October 2024) and links to Dreamforce announcement coverage.
+- Wikipedia contributors. Agentforce. Wikipedia, 2026. <https://en.wikipedia.org/wiki/Agentforce> Secondary GA date.
+- Wikipedia contributors. Dreamforce. Wikipedia, 2026. <https://en.wikipedia.org/wiki/Dreamforce> Flagship B2B conference history and Einstein launch.
+- Great Demo. Great Demo! Great Demo, 2026. <https://greatdemo.com/> Discovery-first demo method and reverse chronology storytelling.
+- Klein, Gary. Performing a Project Premortem. Harvard Business Review, 2007. <https://hbr.org/2007/09/performing-a-project-premortem> The pre-mortem technique used for the demo risk plan (author and September 2007 date confirmed on the HBR page).
+- Vogelstein, Fred. And Then Steve Said, 'Let There Be an iPhone'. New York Times Magazine, 2013. <https://www.nytimes.com/2013/10/06/magazine/and-then-steve-said-let-there-be-an-iphone.html> The "golden path" rehearsal of the 2007 iPhone demo. Not re-fetched for this edition; verify before print.
+- Cohan, Peter E. Great Demo! First published 2003 (later edition 2005), per Open Library catalog records. "Do the last thing first" demo method; the exact phrase is not re-verified against the book.
+
+## Chapter 27: Sales Enablement, Customer Success and the Feedback Loop
+
+- Murphy, Lincoln. Customer Success Definition. Sixteen Ventures, 2023. <https://sixteenventures.com/customer-success-definition> Definition of customer success and the Goal plus Appropriate Experience formula.
+- Murphy, Lincoln. Desired Outcome. Sixteen Ventures, 2015. <https://sixteenventures.com/desired-outcome> Required Outcome and Appropriate Experience.
+- Murphy, Lincoln. Quarterly Business Review. Gainsight, 2014. <https://www.gainsight.com/blog/quarterly-business-review/> QBR attendees, structure and anti-patterns.
+- Gainsight. Net Revenue Retention. Gainsight, 2026. <https://www.gainsight.com/blog/net-revenue-retention/> NRR and GRR formulas and secondary benchmarks.
+- Gainsight. Customer Health Score. Gainsight, 2022. <https://www.gainsight.com/blog/customer-health-score/> Six health score categories and when to revisit the score.
+- Gainsight. Customer Onboarding. Gainsight, 2025. <https://www.gainsight.com/blog/customer-onboarding/> Onboarding phases, handoffs and metrics.
+- Gainsight. Customer Success: The Essential Guide. Gainsight, n.d. <https://www.gainsight.com/essential-guide/customer-success/> Post-sale lifecycle phases.
+- John, Ramli and Bush, Wes. Time to Value. ProductLed, 2024. <https://productled.com/blog/time-to-value> Time to value and the straight-line onboarding method.
+- Huthwaite International. SPIN Selling. Huthwaite International, n.d. <https://www.huthwaiteinternational.com/spin-selling> Origin and research basis of SPIN.
+- Wikipedia contributors. Neil Rackham. Wikipedia, n.d. <https://en.wikipedia.org/wiki/Neil_Rackham> SPIN publication year, study size and question types.
+- Wikipedia contributors. The Challenger Sale. Wikipedia, n.d. <https://en.wikipedia.org/wiki/The_Challenger_Sale> Authors, year and the five seller profiles.
+- Mercer, Kimberly. Sales Battlecards. Klue, 2016. <https://klue.com/blog/sales-battlecards> What a battlecard is for and what it should contain.
+- Crayon. The 2026 State of Competitive Intelligence. Crayon, 2026. <https://www.crayon.co/state-of-competitive-intelligence> Compete content cadence and AI use by CI teams.
+- Clozd. The Ultimate Guide to Win-Loss Analysis. Clozd, n.d. <https://www.clozd.com/guides/win-loss-analysis> Win-loss interview method.
+- Clozd. 2025 State of Win-Loss Analysis. Clozd, 2025. <https://www.clozd.com/state-of-win-loss> Win-loss program practices and timing.
+- Clozd. Clozd homepage. Clozd, n.d. <https://www.clozd.com/> Short quote on win-loss.
+- Pragmatic Institute. The Pragmatic Framework. Pragmatic Institute, n.d. <https://www.pragmaticinstitute.com/framework/> Placement of sales tools, channel training and win-loss.
+- Great Demo. Great Demo. Great Demo, n.d. <https://greatdemo.com/> Discovery before demo and reverse chronology demos.
+- Seismic. Sales Enablement. Seismic, n.d. <https://seismic.com/glossary/sales-enablement/> Working definition of sales enablement.
+- Salesforce. State of Sales Report 2026. Salesforce, 2026. <https://www.salesforce.com/news/stories/state-of-sales-report-announcement-2026/> Seller adoption of AI agents and time spent selling.
+- Morgese, Dan. Data Shows Top Reps Don't Just Sell, They Orchestrate. Gong, 2025. <https://www.gong.io/blog/data-shows-top-reps-dont-just-sell-they-orchestrate-with-ai> Multithreading and team selling data.
+- Morgese, Dan. The Best Sales Insights of 2025. Gong, 2026. <https://www.gong.io/blog/the-best-sales-insights-of-2025> Number of buyer contacts in enterprise deals.
+- Bain and Company. History of Net Promoter. Net Promoter System, n.d. <https://www.netpromotersystem.com/about/history-of-net-promoter/> Origin of NPS.
+- Bain and Company. Inner Loop. Net Promoter System, n.d. <https://www.netpromotersystem.com/about/net-promoter-system-framework/inner-loop/> Front-line closed-loop feedback.
+- Bain and Company. Outer Loop. Net Promoter System, n.d. <https://www.netpromotersystem.com/about/net-promoter-system-framework/outer-loop/> Central dedupe, triage and routing of feedback.
+- Torres, Teresa. Opportunity Solution Trees. Product Talk, 2023. <https://www.producttalk.org/opportunity-solution-trees/> Treating feature requests as solutions rather than opportunities.
+- Farland Group. Expert Guide to Customer Advisory Boards. Farland Group, n.d. <https://www.farlandgroup.com/customer-advisory-boards> CAB characteristics and charter elements.
+- Farland Group. Customer Advisory Board FAQ. Farland Group, n.d. <https://www.farlandgroup.com/customer-advisory-board-faq> CAB cadence, membership and rules.
+- Wikipedia contributors. Managed Services. Wikipedia, n.d. <https://en.wikipedia.org/wiki/Managed_services> MSP definition and business model.
+- Wikipedia contributors. Customer Success. Wikipedia, n.d. <https://en.wikipedia.org/wiki/Customer_success> Framing of customer success as a function.
+- Amazon Web Services. AWS Partner Programs. AWS, n.d. <https://aws.amazon.com/partners/programs/> Example of partner programs segmented by partner type.
+- Intercom. Fin AI Agent Resolutions. Intercom, n.d. <https://www.intercom.com/help/en/articles/8205718-fin-ai-agent-resolutions> Definition of a resolution and per-resolution pricing.
+- Intercom. Fin. Fin.ai, n.d. <https://fin.ai/> Claimed AI agent resolution rate.
+- Klarna. Klarna AI Assistant Handles Two-Thirds of Customer Service Chats in Its First Month. Klarna, 2024. <https://www.klarna.com/international/press/klarna-ai-assistant-handles-two-thirds-of-customer-service-chats-in-its-first-month/> Company claims on AI support deflection.
+- Zendesk. CX Trends 2026. Zendesk, 2026. <https://cxtrends.zendesk.com/> Customer expectations of AI explanations and handoffs.
+- Model Context Protocol. What Is the Model Context Protocol. Model Context Protocol, n.d. <https://modelcontextprotocol.io/docs/getting-started/intro> Definition of MCP for connector-based feedback analysis.
+
+## Chapter 28: Product Operations
+
+- Melissa Perri and Denise Tilles. Product Operations (book page). melissaperri.com, 2023. <https://melissaperri.com/book> Three pillars of product ops and the scope of the book.
+- Melissa Perri and Denise Tilles. Product Operations: How Successful Companies Build Better Products at Scale. productoperations.com, 2023. <https://productoperations.com/> Authors, roles and subtitle of the book.
+- Melissa Perri. Product Operations: The Fuel for Winning Product Strategies. melissaperri.com, 2019. <https://melissaperri.com/blog/2019/7/19/product-operations-the-fuel-for-winning-product-strategies> Product ops as removing obstacles to evidence-based decisions.
+- Melissa Perri. Building a Great Product Management Organization. melissaperri.com, 2024. <https://melissaperri.com/blog/2024/7/16/building-a-great-product-management-organization> Warning signs that a product org needs product ops.
+- Marty Cagan. Product Ops Overview. SVPG, 2021. <https://www.svpg.com/product-ops-overview/> Force multiplier model and what product ops should and should not do.
+- Atlassian. DACI: a decision-making framework. Atlassian Team Playbook, 2026. <https://www.atlassian.com/team-playbook/plays/daci> DACI roles, template fields and how to run the play.
+- Bain and Company. RAPID: A Tool to Clarify Decision Accountability. Bain and Company, 2023. <https://www.bain.com/insights/rapid-tool-to-clarify-decision-accountability/> RAPID roles and the single-decider rule.
+- Wikipedia contributors. Responsibility assignment matrix. Wikipedia, 2026. <https://en.wikipedia.org/wiki/Responsibility_assignment_matrix> RACI definitions and variants.
+- Jeff Bezos. 2015 Letter to Shareholders. Amazon, 2016. <https://s2.q4cdn.com/299287126/files/doc_financials/annual/2015-Letter-to-Shareholders.PDF> Type 1 and Type 2 decisions and matching process weight to reversibility.
+- Ryan Singer. Shape Up: The Betting Table. Basecamp, 2019. <https://basecamp.com/shapeup/2.2-chapter-08> Six-week cycles, cool-down and the betting table as a planning ritual.
+- Google. Set goals with OKRs. Google re:Work, 2026. <https://rework.withgoogle.com/en/guides/set-goals-with-okrs> Annual and quarterly OKR cadence and grading.
+- Pendo. Product operations glossary. Pendo, 2026. <https://www.pendo.io/glossary/product-operations/> Vendor view of product ops responsibilities, hiring triggers and measures.
+- Anthropic. Introducing the Model Context Protocol. Anthropic, 2024. <https://www.anthropic.com/news/model-context-protocol> Launch and purpose of MCP connectors.
+- Anthropic. Donating the Model Context Protocol and establishing the Agentic AI Foundation. Anthropic, 2025. <https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation> MCP governance and adoption in 2025.
+- Anthropic. Introducing Agent Skills. Claude blog, 2025. <https://claude.com/blog/skills> Skills as shared, reusable templates for the AI harness.
+- Mikaela Grace, Jeremy Hadfield, Rodrigo Olivares and Jiri De Jonghe. Demystifying evals for AI agents. Anthropic Engineering, 2026. <https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents> Eval vocabulary and metrics for AI quality reporting.
+- FinOps Foundation. FinOps for AI Overview. FinOps Foundation, 2026. <https://www.finops.org/wg/finops-for-ai-overview/> AI unit cost metrics and the product role in cost governance.
+- Anthropic. Usage and Cost API. Claude Platform Docs, 2026. <https://platform.claude.com/docs/en/api/usage-cost-api> What model usage and cost reports provide for AI cost reporting.
+- Amplitude. Amplitude MCP. Amplitude Docs, 2026. <https://amplitude.com/docs/amplitude-ai/amplitude-mcp> Analytics tools reachable from the AI harness.
+- Atlassian. Rovo. Atlassian, 2026. <https://www.atlassian.com/software/rovo> AI search and agents across work tools.
+- Productboard. Productboard Spark. Productboard, 2026. <https://www.productboard.com/product/spark/> In-product AI agent for product teams.
+- Linear. MCP server. Linear Docs, 2026. <https://linear.app/docs/mcp> Work tracking reachable from the harness with read-only scopes.
+- Bryar, C. and Carr, B. Working Backwards: Insights, Stories, and Secrets from Inside Amazon. St. Martin's Press, 2021. <https://workingbackwards.com/> Weekly business review and the OP1 and OP2 annual planning cycle.
+
+## Chapter 29: Governance and Business Reviews
+
+- Bryar, C. and Carr, B. Working Backwards: Insights, Stories, and Secrets from Inside Amazon. St. Martin's Press, 2021. <https://workingbackwards.com/> Core source for the WBR, input metrics, OP1/OP2 and narratives
+- Working Backwards LLC. Operating Planning and Cadence. workingbackwards.com, 2026. <https://workingbackwards.com/concepts/amazon-operating-cadence/> OP1/OP2 calendar, plan structure and S-Team goals
+- Working Backwards LLC. Quarterly and Monthly Business Reviews. workingbackwards.com, 2026. <https://workingbackwards.com/concepts/quarterly-monthly-business-reviews/> Narrative MBR and QBR format and contents
+- Working Backwards LLC. Input Metrics. workingbackwards.com, 2026. <https://workingbackwards.com/concepts/input-metrics/> Controllable input versus output metrics and metric owners
+- Working Backwards LLC. Narratives and Decision Making. workingbackwards.com, 2026. <https://workingbackwards.com/concepts/narratives-decision-making/> Six-pager length, reading time and meeting flow
+- Chin, C. The Amazon Weekly Business Review. Commoncog, 2024. <https://commoncog.com/the-amazon-weekly-business-review/> WBR cadence, 6-12 charts and exception-driven variance explanation
+- Chin, C. Becoming Data Driven, From First Principles. Commoncog, 2024. <https://commoncog.com/becoming-data-driven-first-principles/> Routine versus exceptional variation after Donald Wheeler
+- Bezos, J. 2009 Letter to Shareholders. Amazon, 2010. <https://www.sec.gov/Archives/edgar/data/1018724/000119312510082914/dex991.htm> 452 annual goals and focus on controllable inputs
+- Bezos, J. 2015 Letter to Shareholders. Amazon, 2016. <https://www.sec.gov/Archives/edgar/data/1018724/000119312516530910/d168744dex991.htm> Type 1 and Type 2 decisions
+- Bezos, J. 2016 Letter to Shareholders. Amazon, 2017. <https://www.aboutamazon.com/news/company-news/2016-letter-to-shareholders> Process as proxy, disagree and commit, early escalation
+- Bezos, J. 2017 Letter to Shareholders. Amazon, 2018. <https://www.aboutamazon.com/news/company-news/2017-letter-to-shareholders> Six-page memos instead of slides
+- Atlassian. DACI: A Decision-Making Framework. Atlassian Team Playbook, 2026. <https://www.atlassian.com/team-playbook/plays/daci> DACI roles, play steps and template fields
+- Atlassian. DACI Decision Documentation Template. Atlassian Confluence, 2026. <https://www.atlassian.com/software/confluence/templates/decision> Decision log fields
+- Bain and Company. RAPID: Bain's Tool to Clarify Decision Accountability. Bain, 2023. <https://www.bain.com/insights/rapid-tool-to-clarify-decision-accountability/> Comparison decision-rights framework
+- Boston Consulting Group. The Growth-Share Matrix. BCG, 2026. <https://www.bcg.com/about/overview/our-history/growth-share-matrix> Origin and quadrants for portfolio reviews
+- National Institute of Standards and Technology. AI Risk Management Framework. NIST, 2026. <https://www.nist.gov/itl/ai-risk-management-framework> AI risk categories for the risk register
+- HM Treasury. The Orange Book: Management of Risk. GOV.UK, 2026. <https://www.gov.uk/government/publications/orange-book> Public reference point for risk management practice
+- European Commission. AI Act Regulatory Framework. European Commission, 2026. <https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai> AI Act and AI Omnibus dates for the risk register
+- Beyer, B., Jones, C., Petoff, J. and Murphy, N. Managing Incidents, in Site Reliability Engineering. O'Reilly and Google, 2016. <https://sre.google/sre-book/managing-incidents/> Objective declaration triggers and handoffs for escalation policy
+- Anthropic. Introducing the Model Context Protocol. Anthropic, 2024. <https://www.anthropic.com/news/model-context-protocol> Connectors that feed AI-generated review packs
+- Anthropic. Introducing Agent Skills. Claude blog, 2025. <https://claude.com/blog/skills> Packaging a repeatable review-pack recipe
+- Anthropic. Citations. Claude Platform docs, 2026. <https://platform.claude.com/docs/en/build-with-claude/citations> Grounded citations for verifying review packs
+- Microsoft WorkLab. 2025 Work Trend Index: The Year the Frontier Firm Is Born. Microsoft, 2025. <https://www.microsoft.com/en-us/worklab/work-trend-index/2025-the-year-the-frontier-firm-is-born> Agent adoption data and disclosed human review of AI drafting
+- Fortune. Deloitte to Partially Refund Australian Government for Report with AI Hallucinations. Fortune, 2025. <https://fortune.com/2025/10/07/deloitte-ai-australia-government-report-hallucinations-technology-290000-refund/> Cautionary case for unverified AI-generated reports
+- Vectara. Hallucination Leaderboard. GitHub, 2026. <https://github.com/vectara/hallucination-leaderboard> Evidence that grounded summarization still errs
+- Hamel, G. and Zanini, M. What We Learned About Bureaucracy from 7,000 HBR Readers. Harvard Business Review, 2017. <https://hbr.org/2017/08/what-we-learned-about-bureaucracy-from-7000-hbr-readers> Background on bureaucratic drag; no figures used
+
+## Chapter 30: Product Lifecycle Management
+
+- Microsoft. Fixed Lifecycle Policy. Microsoft Learn, 2023. <https://learn.microsoft.com/en-us/lifecycle/policies/fixed> Mainstream, Extended and beyond-end-of-support phases for fixed-date products.
+- Microsoft. Modern Lifecycle Policy. Microsoft Learn, 2024. <https://learn.microsoft.com/en-us/lifecycle/policies/modern> Continuous servicing rules and 12-month and 30-day notice commitments.
+- Microsoft. Lifecycle Terms and Definitions. Microsoft Learn, 2020. <https://learn.microsoft.com/en-us/lifecycle/definitions> Precise vocabulary for deprecation, end of servicing, end of support, removal and retirement.
+- Microsoft. Product Lifecycle FAQ: Extended Security Updates. Microsoft Learn, 2026. <https://learn.microsoft.com/en-us/lifecycle/faq/extended-security-updates> Paid extended support as a migration bridge, durations and pricing pattern.
+- Microsoft. Windows 10 Home and Pro lifecycle. Microsoft Learn, 2024. <https://learn.microsoft.com/en-us/lifecycle/products/windows-10-home-and-pro> Public example of a signposted end-of-support date.
+- Microsoft. Foundry Models lifecycle and support policy. Microsoft Learn, 2026. <https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements> AI model lifecycle stages, 18-month GA lifecycle, auto-upgrade and notice rules.
+- Anthropic. Model deprecations. Claude Platform Docs, 2026. <https://platform.claude.com/docs/en/about-claude/model-deprecations> Model lifecycle terms, 60-day notice floor and 2025 to 2026 retirement history.
+- Anthropic. Commitments on model deprecation and preservation. Anthropic, 2025. <https://www.anthropic.com/research/deprecation-commitments> Weight preservation and post-deployment reports.
+- OpenAI. Deprecations. OpenAI Developers, 2026. <https://developers.openai.com/api/docs/deprecations> Legacy, deprecation and shutdown definitions and notice periods by model type.
+- Amazon Web Services. Model lifecycle. Amazon Bedrock User Guide, 2026. <https://docs.aws.amazon.com/bedrock/latest/userguide/model-lifecycle.html> Active, Legacy and EOL states and channel-specific dates.
+- Google. Gemini models. Google AI for Developers, 2026. <https://ai.google.dev/gemini-api/docs/models> Stable, preview, latest and experimental version patterns.
+- Model Context Protocol. Versioning. modelcontextprotocol.io, 2026. <https://modelcontextprotocol.io/specification/versioning> Date-based protocol versions and current revision.
+- Model Context Protocol. Feature Lifecycle and Deprecation Policy. modelcontextprotocol.io, 2026. <https://modelcontextprotocol.io/community/feature-lifecycle> Twelve-month deprecation floor, security exception and deprecated registry.
+- Dalal, Sanjay and Wilde, Erik. RFC 9745 The Deprecation HTTP Response Header Field. IETF, 2025. <https://www.rfc-editor.org/rfc/rfc9745.html> Machine-readable deprecation signal for APIs.
+- Wilde, Erik. RFC 8594 The Sunset HTTP Header Field. IETF, 2019. <https://www.rfc-editor.org/rfc/rfc8594.html> Machine-readable removal date for APIs.
+- Kubernetes. Kubernetes Deprecation Policy. kubernetes.io, 2026. <https://kubernetes.io/docs/reference/using-api/deprecation-policy/> Deprecation promises tied to API stability level.
+- Google. AIP-185 API Versioning. Google API Improvement Proposals, 2026. <https://google.aip.dev/185> Channel-based versioning and 180-day beta deprecation guidance.
+- GitHub. API Versions. GitHub Docs, 2026. <https://docs.github.com/en/rest/about-the-rest-api/api-versions> Date-named versions and 24-month support window.
+- Stripe. Upgrade your integration. Stripe Docs, 2026. <https://docs.stripe.com/upgrades> Version pinning and parallel-run migration pattern.
+- Google. Google Cloud Platform Terms of Service. Google Cloud, 2026. <https://cloud.google.com/terms> Contractual 12-month discontinuation notice and its exceptions.
+- Red Hat. Red Hat Enterprise Linux Life Cycle. Red Hat Customer Portal, 2026. <https://access.redhat.com/support/policy/updates/errata> Ten-year three-phase life cycle and paid extensions.
+- Stage-Gate International. The Stage-Gate Model: An Overview. stage-gate.com, 2026. <https://www.stage-gate.com/blog/the-stage-gate-model-an-overview/> Cooper's stages, gate structure and Go, Kill, Hold, Recycle decisions.
+- Boston Consulting Group. What Is the Growth Share Matrix. BCG, 2026. <https://www.bcg.com/about/overview/our-history/growth-share-matrix> Portfolio quadrants and origins for lifecycle balance.
+- Levitt, Theodore. Exploit the Product Life Cycle. Harvard Business Review, 1965. <https://hbr.org/1965/11/exploit-the-product-life-cycle> Origin of the PLC as a management tool.
+- Dhalla, Nariman K. and Yuspeh, Sonia. Forget the Product Life Cycle Concept. Harvard Business Review, 1976. <https://hbr.org/1976/01/forget-the-product-life-cycle-concept> Classic critique of the PLC curve.
+- Wikipedia. Product life-cycle management (marketing). Wikipedia, 2026. <https://en.wikipedia.org/wiki/Product_life-cycle_management_(marketing)> Secondary summary of stage characteristics and critiques.
 
 ## Chapter 31: Building AI-Powered Products
 
-- Husain, H. and Shankar, S.. AI Evals: Everything You Need to Know (FAQ). hamel.dev, 2026. <https://hamel.dev/blog/posts/evals-faq/> The most complete practitioner reference on error analysis and judge validation
+- Husain, H. and Shankar, S. AI Evals: Everything You Need to Know (FAQ). hamel.dev, 2026. <https://hamel.dev/blog/posts/evals-faq/> The most complete practitioner reference on error analysis and judge validation
 - Rachitsky, L., with Husain and Shankar. Why AI evals are the hottest new skill for product builders. Lenny's Podcast / Newsletter, 2025. <https://www.lennysnewsletter.com/p/why-ai-evals-are-the-hottest-new-skill> PM-facing introduction; "evals as living PRDs" segment
-- Huyen, C.. AI Engineering: Building Applications with Foundation Models. O'Reilly, 2025. <https://github.com/chiphuyen/aie-book> Chs. 3 and 4 on evaluation; Ch. 9 on inference cost and latency
-- Yan, E.. Product Evals in Three Simple Steps. eugeneyan.com, 2025. <https://eugeneyan.com> Label, align the judge, run on every change (exact post URL not re-checked)
+- Huyen, C. AI Engineering: Building Applications with Foundation Models. O'Reilly, 2025. <https://github.com/chiphuyen/aie-book> Chs. 3 and 4 on evaluation; Ch. 9 on inference cost and latency
+- Yan, E. Product Evals in Three Simple Steps. eugeneyan.com, 2025. <https://eugeneyan.com> Label, align the judge, run on every change (exact post URL not re-checked)
 - Anthropic Engineering. Demystifying evals for AI agents. anthropic.com, 2026. <https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents> Task, trial and grader vocabulary; pass@k vs pass^k
 - OpenAI. Evaluation best practices. developers.openai.com, 2025-26. <https://developers.openai.com/api/docs/guides/evaluation-best-practices> Eval-driven development; hosted Evals platform shuts down 2026-11-30
-- Bhatawdekar, A.. Evals are the new PRD. Braintrust, 2026. <https://braintrust.dev/blog/evals-are-the-new-prd> The pro argument; maps PRD sections to eval artifacts
-- Murkin, L.. Evals are the new PRD. Mind the Product, 2026. <https://www.mindtheproduct.com/evals-are-the-new-prd/> The balanced counterpoint; golden-dataset pitfalls
-- Khan, A.. Beyond vibe checks: A PM's complete guide to evals. Lenny's Newsletter, 2025. <https://www.lennysnewsletter.com/p/beyond-vibe-checks-a-pms-complete> PM how-to (contents not re-read)
-- Schluntz, E. and Zhang, B.. Building effective agents. Anthropic, 2024. <https://www.anthropic.com/engineering/building-effective-agents> Workflows vs agents; seven patterns; ACI
+- Bhatawdekar, A. Evals are the new PRD. Braintrust, 2026. <https://braintrust.dev/blog/evals-are-the-new-prd> The pro argument; maps PRD sections to eval artifacts
+- Murkin, L. Evals are the new PRD. Mind the Product, 2026. <https://www.mindtheproduct.com/evals-are-the-new-prd/> The balanced counterpoint; golden-dataset pitfalls
+- Khan, A. Beyond vibe checks: A PM's complete guide to evals. Lenny's Newsletter, 2025. <https://www.lennysnewsletter.com/p/beyond-vibe-checks-a-pms-complete> PM how-to (contents not re-read)
+- Schluntz, E. and Zhang, B. Building effective agents. Anthropic, 2024. <https://www.anthropic.com/engineering/building-effective-agents> Workflows vs agents; seven patterns; ACI
 - OpenAI. A practical guide to building agents. OpenAI, 2025. <https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf> Guardrail layers; human-intervention triggers
-- Feng, K., McDonald, D. and Zhang, A.. Levels of Autonomy for AI Agents. Knight First Amendment Institute / arXiv, 2025. <https://arxiv.org/abs/2506.12469> Five user-role autonomy levels
+- Feng, K., McDonald, D. and Zhang, A. Levels of Autonomy for AI Agents. Knight First Amendment Institute / arXiv, 2025. <https://arxiv.org/abs/2506.12469> Five user-role autonomy levels
 - Anthropic. Donating the Model Context Protocol and establishing the Agentic AI Foundation. anthropic.com, 2025. <https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation> MCP moved to the AAIF under the Linux Foundation
 - MCP maintainers. Versioning (current revision 2026-07-28). modelcontextprotocol.io, 2026. <https://modelcontextprotocol.io/specification/versioning> Current spec and deprecation policy
 - Linux Foundation. A2A protocol surpasses 150 organizations.... linuxfoundation.org, 2026. <https://www.linuxfoundation.org/press/a2a-protocol-surpasses-150-organizations-lands-in-major-cloud-platforms-and-sees-enterprise-production-use-in-first-year> A2A v1.0, adoption, relation to MCP
-- Serafini, F., Amble, S. and Zhou, E.. Can Agents Use a Computer Yet? We've Got the Data. a16z, 2026. <https://a16z.com/can-agents-use-a-computer-yet-weve-got-the-data/> Computer-use reliability, cost per hour, fit criteria
-- Jaffer, M. and Huryn, P.. A Proven AI PRD Template. The Product Compass, 2025. <https://www.productcompass.pm/p/ai-prd-template> Nine-section AI PRD; weak on cost
-- Product School. AI PRD Template. productschool.com, n.d.. <https://productschool.com/resources/templates/ai-prd> Model, data and prompt requirements section
-- Cottier, B. et al.. LLM inference price trends. Epoch AI, 2025. <https://epoch.ai/data-insights/llm-inference-price-trends> 9x to 900x per year decline at fixed capability
-- Appenzeller, G.. Welcome to LLMflation. a16z, 2024. <https://a16z.com/llmflation-llm-inference-cost/> About 10x per year cost decline at constant capability
+- Serafini, F., Amble, S. and Zhou, E. Can Agents Use a Computer Yet? We've Got the Data. a16z, 2026. <https://a16z.com/can-agents-use-a-computer-yet-weve-got-the-data/> Computer-use reliability, cost per hour, fit criteria
+- Jaffer, M. and Huryn, P. A Proven AI PRD Template. The Product Compass, 2025. <https://www.productcompass.pm/p/ai-prd-template> Nine-section AI PRD; weak on cost
+- Product School. AI PRD Template. productschool.com, n.d. <https://productschool.com/resources/templates/ai-prd> Model, data and prompt requirements section
+- Cottier, B. et al. LLM inference price trends. Epoch AI, 2025. <https://epoch.ai/data-insights/llm-inference-price-trends> 9x to 900x per year decline at fixed capability
+- Appenzeller, G. Welcome to LLMflation. a16z, 2024. <https://a16z.com/llmflation-llm-inference-cost/> About 10x per year cost decline at constant capability
 - Anthropic. Prompt caching. platform.claude.com, 2026. <https://platform.claude.com/docs/en/build-with-claude/prompt-caching> Current cache write and read multipliers
-- Poyar, K.. The State of B2B Monetization in 2026. Growth Unhinged, 2026. <https://www.growthunhinged.com/p/the-state-of-b2b-monetization-in-2026> Hybrid 37%, credits 29%, AI margin targets
+- Poyar, K. The State of B2B Monetization in 2026. Growth Unhinged, 2026. <https://www.growthunhinged.com/p/the-state-of-b2b-monetization-in-2026> Hybrid 37%, credits 29%, AI margin targets
 - ICONIQ. State of AI: The Builder's Economy. ICONIQ (via SaaStr coverage), 2026. <https://www.saastr.com/the-builders-economy-10-metrics-from-iconiqs-newest-2026-state-of-ai-report> AI gross margins about 53%; primary report not reached
 - Salesforce. Salesforce Introduces New Flexible Agentforce Pricing. salesforce.com, 2025. <https://www.salesforce.com/news/press-releases/2025/05/15/agentforce-flexible-pricing-news/> Flex Credits, $0.10 per action
 - Salesforce. Salesforce Signs Definitive Agreement to Acquire Fin. investor.salesforce.com, 2026. <https://investor.salesforce.com/news/news-details/2026/Salesforce-Signs-Definitive-Agreement-to-Acquire-Fin/> About $3.6B; pending close
 - Cursor. June 2025 pricing (clarification and refunds). cursor.com, 2025. <https://cursor.com/en-US/blog/june-2025-pricing> Usage-pricing communication failure
-- Amershi, S. et al.. Guidelines for Human-AI Interaction. CHI 2019 / Microsoft Research, 2019. <https://www.microsoft.com/en-us/research/publication/guidelines-for-human-ai-interaction/> 18 guidelines in four phases
+- Amershi, S. et al. Guidelines for Human-AI Interaction. CHI 2019 / Microsoft Research, 2019. <https://www.microsoft.com/en-us/research/publication/guidelines-for-human-ai-interaction/> 18 guidelines in four phases
 - Google PAIR. People + AI Guidebook. pair.withgoogle.com, 2019/2021. <https://pair.withgoogle.com/guidebook> Six chapters; trust calibration; graceful failure
 - BC Civil Resolution Tribunal. Moffatt v. Air Canada, 2024 BCCRT 149. CanLII (via McCarthy Tétrault analysis), 2024. <https://www.mccarthy.ca/en/insights/blogs/techlex/moffatt-v-air-canada-misrepresentation-ai-chatbot> Chatbot liability
 - Fortune. Customer support AI at Cursor went rogue. fortune.com, 2025. <https://fortune.com/article/customer-support-ai-cursor-went-rogue> Undisclosed AI agent invented a policy
 - AI Incident Database. Replit agent production database deletion. incidentdatabase.ai, 2025. <https://incidentdatabase.ai/reports/5593/> Agent permissions failure
 - OECD.AI. Deloitte refunds Australia after AI-generated report errors. oecd.ai, 2025. <https://oecd.ai/en/incidents/2025-10-05-be45> Fabricated citations in a professional deliverable
-- European Parliament (EPRS), Niestadt, M.. Parliament's emerging position on the Digital Omnibus on AI. europarl.europa.eu, 2026. <https://www.europarl.europa.eu/RegData/etudes/ATAG/2026/785685/EPRS_ATA(2026)785685_EN.pdf> Primary summary of the Commission, Council and EP positions
+- European Parliament (EPRS), Niestadt, M. Parliament's emerging position on the Digital Omnibus on AI. europarl.europa.eu, 2026. <https://www.europarl.europa.eu/RegData/etudes/ATAG/2026/785685/EPRS_ATA(2026)785685_EN.pdf> Primary summary of the Commission, Council and EP positions
 - EU. Regulation (EU) 2026/1744 (Digital Omnibus on AI). EUR-Lex, 2026. <https://eur-lex.europa.eu/eli/reg/2026/1744/oj> Authoritative text; check the dates here
 - aiacto.eu. Digital Omnibus Adopted: AI Act High-Risk Delayed to 2027. aiacto.eu, 2026. <https://www.aiacto.eu/en/blog/digital-omnibus-ai-act-report-2027> Secondary timeline incl. Art. 50(2) grace
 - Jones Day. EU AI Act: European Commission publishes GPAI Code of Practice. jonesday.com, 2025. <https://www.jonesday.com/en/insights/2025/08/eu-ai-act-european-commission-publishes-generalpurpose-ai-code-of-practice> GPAI enforcement timing by model vintage
 - NIST. AI RMF 1.0 (AI 100-1) and Generative AI Profile (AI 600-1). nist.gov, 2023, 2024. <https://www.nist.gov/itl/ai-risk-management-framework> Voluntary framework; revision pending
 - ISO/IEC. ISO/IEC 42001:2023 AI management systems. iso.org, 2023. <https://www.iso.org/standard/81230.html> Certifiable AIMS standard (URL from prior knowledge)
+
+## Chapter 32: The AI-Augmented Product Manager
+
+- Segal, N. and Rachitsky, L. AI tools are overdelivering. Lenny's Newsletter, 2025. <https://www.lennysnewsletter.com/p/ai-tools-are-overdelivering-results> Survey of 1,750 tech workers on PM AI use cases, time saved and demand gaps.
+- Cagan, M. The AI Productivity Paradox. SVPG, 2026. <https://www.svpg.com/the-ai-productivity-paradox/> Faster output without better outcomes; build to learn versus build to earn.
+- Cagan, M. Product Coaching and AI. SVPG, 2026. <https://www.svpg.com/product-coaching-and-ai/> Using a configured model as a product coach and its limits.
+- Cagan, M. Experimentation, AI and the Product Model. SVPG, 2026. <https://www.svpg.com/experimentation-ai-and-the-product-model/> Deciding what to build as the hard part; evals versus A/B tests.
+- Rachitsky, L. All of the Lenny and Friends Summit talks are now online. Lenny's Newsletter, 2026. <https://www.lennysnewsletter.com/p/all-of-the-lenny-and-friends-summit> Practitioner views on judgment, taste and the expanding PM role.
+- Matthews, C. A guide to AI prototyping for product managers. Lenny's Newsletter, 2025. <https://www.lennysnewsletter.com/p/a-guide-to-ai-prototyping-for-product> Prototyping tool classes and workflow for the workflow map.
+- Atlassian. The State of Teams 2026. Atlassian, 2026. <https://www.atlassian.com/blog/state-of-teams-2026> Speed versus ROI and use versus embedded adoption data.
+- METR. Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity. METR, 2025. <https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/> Measured slowdown versus perceived speedup.
+- Mollick, E. Centaurs and Cyborgs on the Jagged Frontier. One Useful Thing, 2023. <https://www.oneusefulthing.org/p/centaurs-and-cyborgs-on-the-jagged> BCG field experiment results and the jagged frontier idea.
+- Mollick, E. Making AI Work: Leadership, Lab, and Crowd. One Useful Thing, 2025. <https://www.oneusefulthing.org/p/making-ai-work-leadership-lab-and> Team adoption model and secret cyborgs.
+- Rajasekaran, P., Dixon, E., Ryan, C. and Hadfield, J. Effective context engineering for AI agents. Anthropic, 2025. <https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents> Context engineering principles behind the context pack.
+- Willison, S. Context engineering. simonwillison.net, 2025. <https://simonwillison.net/2025/Jun/27/context-engineering/> Origin and spread of the term context engineering.
+- Anthropic. Introducing Agent Skills. Claude blog, 2025. <https://claude.com/blog/skills> Skills as packaged procedures and the open standard.
+- Schluntz, E. and Zhang, B. Building effective agents. Anthropic, 2024. <https://www.anthropic.com/engineering/building-effective-agents> Workflows versus agents and the automation ladder.
+- Anthropic. Best practices for Claude Code. Claude Code docs, 2026. <https://code.claude.com/docs/en/best-practices> Interview-me briefs, short memory files, checks to run and review against a spec.
+- Anthropic. Prompt engineering overview. Claude Platform docs, 2026. <https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/overview> Success criteria and tests before prompt work.
+- Anthropic. What are projects. Claude Help Center, 2026. <https://support.claude.com/en/articles/9517075-what-are-projects> Projects, knowledge and shared instructions for context packs.
+- Anthropic. Cowork. Claude, 2026. <https://claude.com/blog/cowork-research-preview> Knowledge-work agent capabilities, scheduled tasks and admin controls.
+- Anthropic. How Anthropic teams use Claude Code. Claude blog, 2025. <https://claude.com/blog/how-anthropic-teams-use-claude-code> Non-engineering team uses including edge-case mapping.
+- Model Context Protocol. What is the Model Context Protocol. modelcontextprotocol.io, 2026. <https://modelcontextprotocol.io/docs/getting-started/intro> What connectors are and how harnesses reach PM systems.
+- Microsoft WorkLab. 2025: The Year the Frontier Firm Is Born. Microsoft, 2025. <https://www.microsoft.com/en-us/worklab/work-trend-index/2025-the-year-the-frontier-firm-is-born> Agent boss and human-agent ratio concepts.
+- NIST. AI Risk Management Framework: Generative Artificial Intelligence Profile (NIST AI 600-1). NIST, 2024. <https://www.nist.gov/publications/artificial-intelligence-risk-management-framework-generative-artificial-intelligence> Generative AI risk list for the usage policy.
+- OWASP GenAI Security Project. OWASP Top 10 for LLM Applications 2025. OWASP, 2025. <https://genai.owasp.org/llm-top-10/> Prompt injection, disclosure and excessive agency risks for PM harnesses.
+- European Union. EU AI Act Article 4: AI literacy. artificialintelligenceact.eu, 2024. <https://artificialintelligenceact.eu/article/4/> AI literacy duty that a team usage policy helps meet.
+
+## Chapter 33: Responsible AI and Regulation for PMs
+
+- European Union. Regulation (EU) 2024/1689 (Artificial Intelligence Act), consolidated text as amended by Regulation (EU) 2026/1744, Articles 3, 6, 16, 25, 26, 27, 50, 73, 99, 113 and Annex III. Future of Life Institute (artificialintelligenceact.eu), 2026. <https://artificialintelligenceact.eu/article/113/> Application dates, roles, obligations by tier, FRIA, incident reporting and penalties.
+- European Union. Regulation (EU) 2026/1744 (Digital Omnibus on AI). EUR-Lex, 2026. <https://eur-lex.europa.eu/eli/reg/2026/1744/oj> Authoritative amending act; dates to recheck before print.
+- European Parliamentary Research Service. Parliament's emerging position on the Digital Omnibus on AI. European Parliament, 2026. <https://www.europarl.europa.eu/RegData/etudes/ATAG/2026/785685/EPRS_ATA(2026)785685_EN.pdf> Legislative path of the Omnibus (carried from chapter 31 research).
+- European Commission. The General-Purpose AI Code of Practice. digital-strategy.ec.europa.eu, 2025. <https://digital-strategy.ec.europa.eu/en/policies/contents-code-gpai> GPAI code chapters, Model Documentation Form and signatories.
+- European Commission. Code of Practice on marking and labelling of AI-generated content. digital-strategy.ec.europa.eu, 2026. <https://digital-strategy.ec.europa.eu/en/policies/code-practice-ai-generated-content> Article 50 marking and labelling code timeline and scope.
+- European Union. General Data Protection Regulation, Article 35. gdpr-info.eu, 2016. <https://gdpr-info.eu/art-35-gdpr/> DPIA triggers and minimum contents.
+- European Data Protection Board. Opinion 28/2024 on certain data protection aspects related to the processing of personal data in the context of AI models. EDPB, 2024. <https://www.edpb.europa.eu/our-work-tools/our-documents/opinion-board-art-64/opinion-282024-certain-data-protection-aspects_en> GDPR and AI model training interplay.
+- National Institute of Standards and Technology. AI Risk Management Framework. NIST, 2023 (page current 2026). <https://www.nist.gov/itl/ai-risk-management-framework> AI RMF 1.0 date, revision status and critical infrastructure profile note.
+- National Institute of Standards and Technology. AI RMF Core. NIST Trustworthy and Responsible AI Resource Center, 2023. <https://airc.nist.gov/airmf-resources/airmf/5-sec-core/> Govern, Map, Measure and Manage definitions and category counts.
+- National Institute of Standards and Technology. Artificial Intelligence Risk Management Framework: Generative Artificial Intelligence Profile (NIST AI 600-1). NIST, 2024. <https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf> Twelve GAI risks, red-teaming types and incident disclosure.
+- ISO/IEC. ISO/IEC 42001:2023 Information technology, Artificial intelligence, Management system. ISO, 2023. <https://www.iso.org/standard/81230.html> Certifiable AI management system standard (page not reachable on 2026-10-30).
+- Colorado General Assembly. SB24-205 Consumer Protections for Artificial Intelligence. leg.colorado.gov, 2024. <https://leg.colorado.gov/bills/sb24-205> Colorado AI Act original law.
+- Colorado General Assembly. SB25B-004 Increase Transparency for Algorithmic Systems. leg.colorado.gov, 2025. <https://leg.colorado.gov/bills/sb25b-004> Delay of Colorado AI Act duties to 30 June 2026.
+- The White House. Ensuring a National Policy Framework for Artificial Intelligence (Executive Order 14365). whitehouse.gov, 2025. <https://www.whitehouse.gov/presidential-actions/2025/12/eliminating-state-law-obstruction-of-national-artificial-intelligence-policy/> US federal posture on state AI laws.
+- Office of the Governor of California. Governor Newsom signs SB 53. gov.ca.gov, 2025. <https://www.gov.ca.gov/2025/09/29/governor-newsom-signs-sb-53-advancing-californias-world-leading-artificial-intelligence-industry/> California frontier AI transparency law.
+- Texas Legislature. HB 149 bill history (Texas Responsible AI Governance Act). capitol.texas.gov, 2025. <https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB149> Signing and effective dates.
+- Future of Privacy Forum. South Korea's New AI Framework Act: A Balancing Act Between Innovation and Regulation. fpf.org, 2025. <https://fpf.org/blog/south-koreas-new-ai-framework-act-a-balancing-act-between-innovation-and-regulation/> Korea AI Framework Act dates and duties.
+- Cyberspace Administration of China. Measures for Labeling AI-Generated Synthetic Content. cac.gov.cn, 2025. <https://www.cac.gov.cn/2025-03/14/c_1743654684782215.htm> China explicit and implicit labelling rules.
+- OECD. OECD AI Principles. oecd.ai, 2019 (updated 2024). <https://oecd.ai/en/ai-principles> Five values-based principles.
+- Microsoft. Responsible AI principles and approach. microsoft.com, n.d. <https://www.microsoft.com/en-us/ai/principles-and-approach> Six responsible AI principles.
+- Microsoft. Responsible AI tools and practices. microsoft.com, n.d. <https://www.microsoft.com/en-us/ai/tools-practices> Existence of the AI Impact Assessment Template and Guide.
+- Mitchell, Margaret, et al. Model Cards for Model Reporting. FAT* 2019 (arXiv), 2019. <https://arxiv.org/abs/1810.03993> Origin of model cards.
+- Anthropic. Transparency Hub. anthropic.com, 2026. <https://www.anthropic.com/transparency> Example contents of system cards.
+- Anthropic. Announcing our updated Responsible Scaling Policy. anthropic.com, 2024. <https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy> Frontier lab risk governance and AI Safety Levels.
+- OWASP GenAI Security Project. OWASP Top 10 for LLM Applications 2025. genai.owasp.org, 2025. <https://genai.owasp.org/llm-top-10/> LLM security risk list for threat models and red-team scope.
+- OWASP GenAI Security Project. OWASP Top 10 for Agentic Applications for 2026. genai.owasp.org, 2025. <https://genai.owasp.org/2025/12/09/owasp-top-10-for-agentic-applications-the-benchmark-for-agentic-security-in-the-age-of-autonomous-ai/> Agent security risks for Beacon Agents.
+- Cloud Security Alliance. AI Controls Matrix. cloudsecurityalliance.org, 2025. <https://cloudsecurityalliance.org/artifacts/ai-controls-matrix> AICM, AI-CAIQ and STAR for AI for questionnaire answer banks.
+- aiacto.eu. Digital Omnibus Adopted: AI Act High-Risk Delayed to 2027. aiacto.eu, 2026. <https://www.aiacto.eu/en/blog/digital-omnibus-ai-act-report-2027> Secondary timeline, including the Article 50(2) marking grace period to 2 December 2026 for systems already on the market (carried from chapter 31 research).
+
+## Chapter 34: Persuasive Writing for PMs
+
+- Bezos, Jeff. 2017 Letter to Shareholders. Amazon, 2018. <https://www.aboutamazon.com/news/company-news/2017-letter-to-shareholders> Six-page narrative memos, silent reading and the time a great memo takes.
+- Bezos, Jeff. 2015 Letter to Shareholders. Amazon, 2016. <https://s2.q4cdn.com/299287126/files/doc_financials/annual/2015-Letter-to-Shareholders.PDF> Type 1 and Type 2 decisions for the decision memo.
+- Bezos, Jeff. 2016 Letter to Shareholders. Amazon, 2017. <https://www.aboutamazon.com/news/company-news/2016-letter-to-shareholders> Deciding with about 70 percent of the information and disagree and commit.
+- Bryar, Colin and Carr, Bill. An Insider Look at Amazon's Culture and Processes. Amazon, 2021. <https://aboutamazon.com/news/workplace/an-insider-look-at-amazons-culture-and-processes> PR/FAQ length limits and narrative meeting mechanics.
+- Working Backwards LLC. Working Backwards PR/FAQ. Working Backwards, n.d. <https://www.workingbackwards.com/resources/working-backwards-pr-faq> Press release parts, internal and external FAQ questions, typical review meeting timing (15 to 20 minutes reading, about 40 minutes discussion) and first-draft effort (hours, not days). Fetched 2026-10-30.
+- Working Backwards LLC. Working Backwards. Working Backwards, n.d. <https://www.workingbackwards.com/> Authors' combined Amazon tenure.
+- Minto, Barbara. The Pyramid Principle. Barbara Minto, n.d. <https://www.barbaraminto.com/> Pyramid under a single point and the SCQ framework.
+- Odom-Reed, Peggy. Persuasive Writing. eCornell, n.d. <https://ecornell.cornell.edu/courses/communication/persuasive-writing/> Course scope the chapter maps to.
+- Influence at Work. The Principles of Persuasion. Influence at Work, n.d. <https://www.influenceatwork.com/7-principles-of-persuasion/> Cialdini's seven principles.
+- Wikipedia contributors. Influence: The Psychology of Persuasion. Wikipedia, 2026. <https://en.wikipedia.org/wiki/Influence:_The_Psychology_of_Persuasion> Publication history and addition of unity.
+- Bohner, Gerd and Schlüter, Lena E. A Room with a Viewpoint Revisited. PLOS ONE, 2014. <https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0104086> Failed replication of Goldstein, Cialdini and Griskevicius (2008) hotel towel-reuse study, used for the evidence caveat on persuasion principles.
+- Heath, Chip and Heath, Dan. Made to Stick. Heath Brothers, 2007. <https://heathbrothers.com/books/made-to-stick/> Book year and overview.
+- Wikipedia contributors. Made to Stick. Wikipedia, 2026. <https://en.wikipedia.org/wiki/Made_to_Stick> The six SUCCESs principles.
+- Heath, Chip and Heath, Dan. The Curse of Knowledge. Harvard Business Review, 2006. <https://hbr.org/2006/12/the-curse-of-knowledge> Curse of knowledge in business communication.
+- Wikipedia contributors. Curse of Knowledge. Wikipedia, 2026. <https://en.wikipedia.org/wiki/Curse_of_knowledge> Origin of the term and Newton's tapper study.
+- Rapp, Christof. Aristotle's Rhetoric. Stanford Encyclopedia of Philosophy, n.d. <https://plato.stanford.edu/entries/aristotle-rhetoric/> Ethos, pathos and logos for audience analysis.
+- Wikipedia contributors. BLUF (communication). Wikipedia, 2026. <https://en.wikipedia.org/wiki/BLUF_(communication)> BLUF definition and Army Regulation 25-50 origin.
+- Sehgal, Kabir. How to Write Email with Military Precision. Harvard Business Review, 2016. <https://hbr.org/2016/11/how-to-write-email-with-military-precision> BLUF adapted to business email.
+- Nielsen, Jakob. How Users Read on the Web. Nielsen Norman Group, 1997. <https://www.nngroup.com/articles/how-users-read-on-the-web/> Evidence that readers scan.
+- Rogers, Todd and Lasky-Fink, Jessica. Writing for Busy Readers. Writing for Busy Readers, n.d. <https://www.writingforbusyreaders.com/> Book and authors on writing for busy readers.
+- Graham, Paul. Writes and Write-Nots. paulgraham.com, 2024. <https://paulgraham.com/writes.html> Writing as thinking in the AI era.
+- Niederhoffer, Kate and others. AI-Generated Workslop Is Destroying Productivity. Harvard Business Review, 2025. <https://hbr.org/2025/09/ai-generated-workslop-is-destroying-productivity> Definition of workslop.
+- BetterUp Labs. Workslop. BetterUp, 2025. <https://www.betterup.com/workslop> Workslop survey figures.
+- Kosmyna, Nataliya and others. Your Brain on ChatGPT. arXiv, 2025. <https://arxiv.org/abs/2506.08872> Cognitive debt from AI-assisted essay writing, with caveats.
+- KPMG and University of Melbourne. Trust, Attitudes and Use of AI: A Global Study 2025. KPMG, 2025. <https://kpmg.com/xx/en/our-insights/ai-and-technology/trust-attitudes-and-use-of-ai.html> Unchecked AI output and mistakes at work.
+- KPMG. Trust in AI 2025 US Findings. KPMG, 2025. <https://kpmg.com/us/en/media/news/trust-in-ai-2025.html> Hidden AI use among US workers.
+- Reif, Jessica A., Larrick, Richard P. and Soll, Jack B. Evidence of a Social Evaluation Penalty for Using AI. PNAS, 2025. <https://pubmed.ncbi.nlm.nih.gov/?term=social+evaluation+penalty+AI+Reif+Larrick+Soll> Competence penalty for visible AI use.
+- ICMJE. AI Use by Authors. ICMJE, n.d. <https://www.icmje.org/recommendations/browse/artificial-intelligence/ai-use-by-authors.html> Disclosure and accountability norms as an analogy.
+- Microsoft. 2025: The Year the Frontier Firm Is Born. Microsoft WorkLab, 2025. <https://www.microsoft.com/en-us/worklab/work-trend-index/2025-the-year-the-frontier-firm-is-born> AI use for internal communications.
+- Anthropic. AI Fluency: Framework and Foundations. Anthropic Academy, n.d. <https://anthropic.skilljar.com/ai-fluency-framework-foundations> The 4D framework names.
+
+## Chapter 35: Presentations and Executive Communication
+
+- Albert Mehrabian. Silent Messages: A Wealth of Information About Nonverbal Communication. kaaj.com, 1981. <http://www.kaaj.com/psych/smorder.html> Author's own limits on the 7, 38, 55 figures.
+- Nancy Duarte. Resonate: Present Visual Stories that Transform Audiences. Duarte, 2010. <https://www.duarte.com/resources/books/resonate/> Audience as hero and presenter as mentor; the Big Idea.
+- Duarte. slide:ology. Duarte, 2026. <https://www.duarte.com/resources/books/slideology/> Visual slide design and the three-second glance test.
+- Wikipedia contributors. Nancy Duarte. Wikipedia, 2026. <https://en.wikipedia.org/wiki/Nancy_Duarte> Publication years of Duarte's books.
+- Duarte. How to Effectively Present to Senior Executives. Duarte blog, 2026. <https://www.duarte.com/blog/how-to-effectively-present-to-senior-executives/> Answer first, executive summary, 10% rule, appendix use.
+- Duarte. Duarte AI. Duarte, 2026. <https://www.duarte.com/ai-presentation-generator/> AI narrative tool positioning.
+- Cole Nussbaumer Knaflic. Storytelling with Data: A Data Visualization Guide for Business Professionals. Wiley, 2015. <https://www.wiley.com/en-us/Storytelling+with+Data%3A+A+Data+Visualization+Guide+for+Business+Professionals-p-9781119002253> Publication date and six lessons.
+- Cole Nussbaumer Knaflic. My Guiding Principles. storytelling with data, 2017. <https://www.storytellingwithdata.com/blog/2017/8/9/my-guiding-principles> Seven principles for an effective graph.
+- Storytelling with Data. How to Tell a Story Your Audience Doesn't Want to Hear. storytelling with data, undated. <https://www.storytellingwithdata.com/blog/how-to-tell-a-story-your-audience-doesnt-want-to-hear> Big Idea wording and presenting unwelcome findings.
+- Cole Nussbaumer Knaflic. How I Storyboard. storytelling with data, 2015. <https://www.storytellingwithdata.com/blog/2015/8/24/how-i-storyboard> Low-tech storyboarding before software.
+- Storytelling with Data. Books. storytelling with data, 2026. <https://www.storytellingwithdata.com/books> Knaflic's presentation book storytelling with you.
+- Jeff Bezos. 2017 Letter to Shareholders. Amazon, 2018. <https://www.aboutamazon.com/news/company-news/2017-letter-to-shareholders> Six-page memos and silent reading.
+- Edward Tufte. The Cognitive Style of PowerPoint. Graphics Press, 2006. <https://www.edwardtufte.com/book/the-cognitive-style-of-powerpoint-pitching-out-corrupts-within-ebook/> Critique of slideware reasoning.
+- Edward Tufte. PowerPoint Does Rocket Science and Better Techniques for Technical Reports. edwardtufte.com, undated. <https://www.edwardtufte.com/notebook/powerpoint-does-rocket-science-and-better-techniques-for-technical-reports/> Columbia board finding and alternatives to slides.
+- Barbara Minto. The Pyramid Principle. barbaraminto.com, 2026. <https://www.barbaraminto.com/> Pyramid structure and Situation, Complication, Question.
+- Kabir Sehgal. How to Write Email with Military Precision. Harvard Business Review, 2016. <https://hbr.org/2016/11/how-to-write-email-with-military-precision> BLUF attribution for business writing.
+- Dana Carney. My Position on Power Poses. UC Berkeley Haas, 2016. <https://faculty.haas.berkeley.edu/dana_carney/pdf_my%20position%20on%20power%20poses.pdf> First author disavows power pose effects.
+- Wikipedia contributors. Zoom fatigue. Wikipedia, 2026. <https://en.wikipedia.org/wiki/Zoom_fatigue> Citation for Bailenson's nonverbal overload paper.
+- Microsoft. Rehearse Your Slide Show with Speaker Coach. Microsoft Support, 2026. <https://support.microsoft.com/en-us/office/rehearse-your-slide-show-with-speaker-coach-cd7fc941-5c3b-498c-a225-83ef3f64f07b> AI rehearsal feedback features.
+- Microsoft. Create a New Presentation with Copilot in PowerPoint. Microsoft Support, 2026. <https://support.microsoft.com/en-us/office/create-a-new-presentation-with-copilot-in-powerpoint-3222ee03-f5a4-4d27-8642-9c387ab4854d> AI deck generation from prompts and documents.
+- Google. Gemini in Google Slides. Google Docs Editors Help, 2026. <https://support.google.com/docs/answer/14207419> AI slide generation and summaries.
+- Anthropic. Claude Can Now Create and Edit Files. Claude blog, 2025. <https://claude.com/blog/create-files> Claude deck creation and data risk caveat.
+- Anthropic. Claude for Microsoft 365. Claude, 2026. <https://claude.com/claude-for-microsoft-365> Claude building slides in corporate templates.
+- Center for Talent Innovation. Executive Presence Key Findings. Coqual, 2013. <https://coqual.org/wp-content/uploads/2020/09/26_executivepresence_keyfindings-1.pdf> Gravitas, communication, appearance survey data, 26% promotion figure, 56% vs 31% and 81% feedback findings.
+- Margaret Mitchell and others. Model Cards for Model Reporting. arXiv, 2018. <https://arxiv.org/abs/1810.03993> Reporting intended use and performance of models.
+- Anthropic. A Statistical Approach to Model Evaluations. Anthropic, 2024. <https://www.anthropic.com/research/statistical-approach-to-model-evals> Error bars and confidence intervals for AI evals.
+- Sherman Kent. Words of Estimative Probability. CIA Studies in Intelligence, 1964. <https://www.cia.gov/resources/csi/static/Words-of-Estimative-Probability.pdf> Mapping probability words to numeric ranges.
+- Wikipedia contributors. Curse of knowledge. Wikipedia, 2026. <https://en.wikipedia.org/wiki/Curse_of_knowledge> Newton tapper study background.
+- Chip Heath and Dan Heath. The Curse of Knowledge. Harvard Business Review, 2006. <https://hbr.org/2006/12/the-curse-of-knowledge> Experts overestimating clarity of their message.
+- TED. Speaking at TED. TED, 2026. <https://www.ted.com/about/conferences/speaking-at-ted> Time limits and speaker coaching.
+- Alison Wood Brooks. Get Excited: Reappraising Pre-Performance Anxiety as Excitement. Journal of Experimental Psychology: General, 2014. <https://pubmed.ncbi.nlm.nih.gov/24364682/> Anxiety reappraisal evidence.
+- Matt Abrahams and Shawon Jackson. Think Fast: You Asked, We Answered. Stanford GSB, 2020. <https://www.gsb.stanford.edu/insights/think-fast-you-asked-we-answered> Handling interrupters.
+- Matt Abrahams and Lloyd Minor. Communicating Uncertainty. Stanford GSB, 2022. <https://www.gsb.stanford.edu/insights/communicating-uncertainty-how-connect-your-audience-even-when-answers-arent-clear> Saying "I don't know" and following up.
+- Wikipedia contributors. Richard E. Mayer. Wikipedia, 2026. <https://en.wikipedia.org/wiki/Richard_E._Mayer> Multimedia Learning book and core claim.
+
+## Chapter 36: Stakeholder Management and Product Leadership
+
+- A. L. Mendelow. Environmental Scanning: The Impact of the Stakeholder Concept. ICIS 1981 Proceedings, AIS eLibrary, 1981. <https://aisel.aisnet.org/icis1981/20/> Origin of stakeholder power analysis behind the power/interest grid.
+- MindTools. Stakeholder Analysis. MindTools, undated. <https://www.mindtools.com/aol0rms/stakeholder-analysis> Quadrant labels and actions for the power/interest grid.
+- Allan R. Cohen and David L. Bradford. Influence Without Authority, 3rd Edition. Wiley, 2017. <https://www.wiley.com/en-us/Influence+Without+Authority%2C+3rd+Edition-p-9781119347712> Exchange Model and currencies of influence.
+- Atlassian. DACI Decision Making Framework. Atlassian Team Playbook, undated. <https://www.atlassian.com/team-playbook/plays/daci> DACI roles, steps and template fields.
+- Bain and Company. RAPID Decision Making. Bain and Company, 2023. <https://www.bain.com/insights/rapid-tool-to-clarify-decision-accountability/> RAPID roles and single-decider guidance.
+- Amazon. Leadership Principles. Amazon Jobs, undated. <https://www.amazon.jobs/content/en/our-workplace/leadership-principles> Disagree and commit norm.
+- Atlassian. Working Agreements. Atlassian Team Playbook, undated. <https://www.atlassian.com/team-playbook/plays/working-agreements> Team charter components on communication and escalation.
+- Atlassian. Roles and Responsibilities. Atlassian Team Playbook, undated. <https://www.atlassian.com/team-playbook/plays/roles-and-responsibilities> Team charter components on roles and ownership.
+- Amy Edmondson. Psychological Safety and Learning Behavior in Work Teams. Administrative Science Quarterly, 1999. <https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Group_Performance/Edmondson%20Psychological%20safety.pdf> Definition and evidence for team psychological safety.
+- Amy C. Edmondson. The Fearless Organization. Wiley, 2018. <https://www.wiley.com/en-us/The+Fearless+Organization%3A+Creating+Psychological+Safety+in+the+Workplace+for+Learning%2C+Innovation%2C+and+Growth-p-9781119477242> Book reference for psychological safety in practice.
+- Google re:Work. Understand Team Effectiveness. Google, 2015. <https://rework.withgoogle.com/intl/en/guides/understand-team-effectiveness> Project Aristotle sample and five team dynamics.
+- Marty Cagan and Chris Jones. EMPOWERED: Ordinary People, Extraordinary Products. SVPG, 2020. <https://www.svpg.com/books/empowered-ordinary-people-extraordinary-products/> Empowered teams and coaching as product leadership.
+- Marty Cagan. Product vs. Feature Teams. SVPG, 2019. <https://www.svpg.com/product-vs-feature-teams/> Delivery, feature and empowered team definitions.
+- Chris Jones and Marty Cagan. Stakeholders and the Product Model. SVPG, 2025. <https://www.svpg.com/stakeholders-and-the-product-model/> How stakeholders and product teams should work together.
+- Marty Cagan. Product Coaching and AI. SVPG, 2026. <https://www.svpg.com/product-coaching-and-ai/> AI as a personal coach and the role of human coaching.
+- Marty Cagan. A Fresh Definition of The Product Role. SVPG, 2026. <https://www.svpg.com/a-fresh-definition-of-the-product-role/> AI-era definition of the product role.
+- Marty Cagan. The AI Productivity Paradox. SVPG, 2026. <https://www.svpg.com/the-ai-productivity-paradox/> Output versus outcomes in AI-era teams.
+- Marty Cagan. Experts Lead Experts. SVPG, 2026. <https://www.svpg.com/experts-lead-experts/> Case for practitioner managers in the team shape debate.
+- Atlassian. State of Teams 2026. Atlassian Blog, 2026. <https://www.atlassian.com/blog/state-of-teams-2026> Survey data on AI speed, ROI and flatter teams.
+- Will Larson. Revised Rules of Engineering Leadership. lethain.com, 2026. <https://lethain.com/revised-rules-of-engineering-leadership/> AI-era leadership rules and binding executive decisions.
+- Will Larson. Middle Management Roles Are Also a Trap. lethain.com, 2026. <https://lethain.com/middle-management-roles-were-also-a-trap/> Middle management and managing up in the AI era.
+- Lenny Rachitsky and Tomer Cohen. Why LinkedIn Is Replacing PMs. Lenny's Newsletter, 2025. <https://www.lennysnewsletter.com/p/why-linkedin-is-replacing-pms> Builder model and APM program change in the team shape debate.
+- Ravi Mehta. Product Manager Roles. ravi-mehta.com, 2026. <https://www.ravi-mehta.com/product-manager-roles/> PM competency areas and expectations by level.
+- John J. Gabarro and John P. Kotter. Managing Your Boss. Harvard Business Review, 2005. <https://hbr.org/2005/01/managing-your-boss> Managing up.
+- Lara Hogan. Questions for Our First 1:1. larahogan.me, 2016. <https://larahogan.me/blog/first-one-on-one-questions/> 1:1 coaching template questions.
+- Performance Consultants. The GROW Model. Performance Consultants, undated. <https://www.performanceconsultants.com/grow-model> GROW coaching structure and Whitmore attribution.
+- Kim Scott. Our Approach. Radical Candor, undated. <https://www.radicalcandor.com/our-approach/> Feedback framework for conflict and coaching.
+
+## Chapter 37: Building Your Product 360
+
+- White, J., Fu, Q., Hays, S. and others. A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT. arXiv, 2023. <https://arxiv.org/abs/2302.11382> Flipped Interaction pattern as the lineage of the grilling session.
+- Anthropic. Best practices for Claude Code. Claude Code documentation, 2026. <https://code.claude.com/docs/en/best-practices> Interview-me-then-write-the-spec pattern and fresh-session build.
+- Sharma, M., Tong, M., Korbak, T. and others. Towards Understanding Sycophancy in Language Models. arXiv, 2023. <https://arxiv.org/abs/2310.13548> Why the harness must be told to challenge weak answers.
+- Li, B. Z., Tamkin, A., Goodman, N. and Andreas, J. Eliciting Human Preferences with Language Models. arXiv, 2023. <https://arxiv.org/abs/2310.11589> Evidence that model-led questioning draws out more than user-written prompts.
+- Dhuliawala, S., Komeili, M., Xu, J. and others. Chain-of-Verification Reduces Hallucination in Large Language Models. arXiv, 2023. <https://arxiv.org/abs/2309.11495> Verification pass design for the consistency audit prompt.
+- Anthropic. Prompting best practices (long-context section). Claude platform documentation, 2026. <https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices> Document placement, source labeling and quote-first rules for the intake prompt.
+- Rajasekaran, P., Dixon, E., Ryan, C. and Hadfield, J. Effective context engineering for AI agents. Anthropic Engineering, 2025. <https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents> Context rot, note-taking and compaction behind splitting grilling sessions.
+- Schluntz, E. and Zhang, B. Building effective agents. Anthropic, 2024. <https://www.anthropic.com/research/building-effective-agents> Prompt chaining and evaluator-optimizer structure of the prompt suite.
+- Anthropic. Introducing the Model Context Protocol. Anthropic, 2024. <https://www.anthropic.com/news/model-context-protocol> Connectors as the way the harness looks up facts.
+- Linux Foundation. Linux Foundation Announces the Formation of the Agentic AI Foundation. Linux Foundation, 2025. <https://www.linuxfoundation.org/press/linux-foundation-announces-the-formation-of-the-agentic-ai-foundation> Vendor-neutral governance of MCP and AGENTS.md.
+- Model Context Protocol. Specification. modelcontextprotocol.io, 2026. <https://modelcontextprotocol.io/specification/latest> Current spec version, elicitation and consent principles.
+- Anthropic. Introducing Agent Skills. Claude blog, 2025. <https://claude.com/blog/skills> Packaging grilling and maintenance prompts as reusable skills.
+- Anthropic. Projects. Anthropic, 2024. <https://www.anthropic.com/news/projects> Project knowledge and standing instructions as the 360 workspace.
+- Anthropic. How Claude remembers your project. Claude Code documentation, 2026. <https://code.claude.com/docs/en/memory> Persistent instructions and memory across sessions.
+- Klein, G. Performing a Project Premortem. Harvard Business Review, 2007. <https://hbr.org/2007/09/performing-a-project-premortem> Premortem close for each grilling session and the day-90 review.
+- IMD. Michael Watkins faculty profile. IMD, 2026. <https://www.imd.org/faculty/professors/michael-watkins/> The First 90 Days background and reach.
+- Genesis Advisers. The First 90 Days and our approach. Genesis Advisers, 2026. <https://genesisadvisers.com/our-difference/our-approach/> Transition Roadmap elements behind the 30/60/90 structure.
+- Wikipedia. Michael D. Watkins. Wikipedia, 2026. <https://en.wikipedia.org/wiki/Michael_D._Watkins> Publication history of The First 90 Days.
+- Wikipedia. Capability Maturity Model. Wikipedia, 2026. <https://en.wikipedia.org/wiki/Capability_Maturity_Model> Five-level maturity shape for the Appendix C link.
+- Chin, C. The Amazon Weekly Business Review. Commoncog, 2024. <https://commoncog.com/the-amazon-weekly-business-review/> Exception-only weekly brief for the maintenance prompt.
+- Wikipedia. Socratic questioning. Wikipedia, 2026. <https://en.wikipedia.org/wiki/Socratic_questioning> Question types behind the harness challenge tests.

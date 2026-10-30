@@ -1,0 +1,34 @@
+- Jeffries, Ron. Essential XP: Card, Conversation, Confirmation. ronjeffries.com, 2001. <https://ronjeffries.com/xprog/articles/expcardconversationconfirmation/> The three Cs of a user story.
+- Wake, Bill. INVEST in Good Stories, and SMART Tasks. xp123.com, 2003. <https://xp123.com/invest-in-good-stories-and-smart-tasks/> INVEST and SMART definitions.
+- Cohn, Mike. Advantages of the "As a user, I want" User Story Template. Mountain Goat Software, 2026 (updated). <https://www.mountaingoatsoftware.com/blog/advantages-of-the-as-a-user-i-want-user-story-template> Template origin at Connextra and its advantages.
+- Mountain Goat Software. User Stories. Mountain Goat Software, 2026 (page current). <https://www.mountaingoatsoftware.com/agile/user-stories> Story template, acceptance criteria and epics.
+- North, Dan. Introducing BDD. dannorth.net, 2006. <https://dannorth.net/blog/introducing-bdd/> Given-When-Then template and BDD story format.
+- Cucumber. Gherkin Reference. cucumber.io, 2026 (page current). <https://cucumber.io/docs/gherkin/reference/> Gherkin keywords and step guidance.
+- Mavin, Alistair. EARS: The Easy Approach to Requirements Syntax. alistairmavin.com, 2026 (page current). <https://alistairmavin.com/ears/> EARS requirement patterns.
+- Patton, Jeff. The New User Story Backlog is a Map. Jeff Patton and Associates, 2008. <https://jpattonassociates.com/the-new-backlog/> Story map backbone, walking skeleton and release slices.
+- Patton, Jeff. User Story Mapping. Jeff Patton and Associates, 2026 (page current). <https://jpattonassociates.com/user-story-mapping/> Origin of story mapping in 2005.
+- Schwaber, Ken and Sutherland, Jeff. The Scrum Guide. scrumguides.org, 2020. <https://scrumguides.org/scrum-guide.html> Sprint Planning, Sprint length and Definition of Done.
+- Agile Alliance. Definition of Ready. Agile Alliance glossary, 2026 (page current). <https://www.agilealliance.org/glossary/definition-of-ready/> Definition of Ready meaning and 2008 origin.
+- Singer, Ryan. Shape Up, Set Boundaries. Basecamp, 2019. <https://basecamp.com/shapeup/1.2-chapter-03> Appetite versus estimates and fixed time, variable scope.
+- Jeffries, Ron. Story Points Revisited. ronjeffries.com, 2019. <https://ronjeffries.com/articles/019-01ff/story-points/Index.html> Origin and critique of story points.
+- Linders, Ben. Q&A on the Book NoEstimates with Vasco Duarte. InfoQ, 2015. <https://www.infoq.com/articles/book-review-noestimates> NoEstimates practices and throughput forecasting.
+- Armstrong, Ben. Does It Meet the Bar? Microsoft Learn archive, 2004. <https://learn.microsoft.com/en-us/archive/blogs/virtual_pc_guy/does-it-meet-the-bar> The bug bar concept in triage.
+- Google. Issues: Priority. Google Issue Tracker documentation, 2026 (page current). <https://developers.google.com/issue-tracker/concepts/issues> Example P0 to P4 priority scale.
+- Thurgood, Steven. Example Error Budget Policy. Google SRE Workbook, O'Reilly, 2018. <https://sre.google/workbook/error-budget-policy/> Error budget as a release policy.
+- Cunningham, Ward. The WyCash Portfolio Management System. OOPSLA '92 Experience Report, 1992. <https://c2.com/doc/oopsla92.html> Origin of the technical debt metaphor.
+- Fowler, Martin. Technical Debt. martinfowler.com, 2019. <https://martinfowler.com/bliki/TechnicalDebt.html> Principal, interest and where to pay down debt.
+- Fowler, Martin. Technical Debt Quadrant. martinfowler.com, 2009. <https://martinfowler.com/bliki/TechnicalDebtQuadrant.html> Deliberate versus inadvertent and prudent versus reckless debt.
+- Hodgson, Pete. Feature Toggles (aka Feature Flags). martinfowler.com, 2017. <https://martinfowler.com/articles/feature-toggles.html> Toggle categories and toggle debt controls.
+- Governor, James. Progressive Delivery: The Book Is Here. RedMonk, 2025. <https://redmonk.com/jgovernor/progressive-delivery-the-book-is-here/> Progressive delivery goal and four tenets.
+- DORA. DORA's Software Delivery Performance Metrics. dora.dev, 2026. <https://dora.dev/guides/dora-metrics-four-keys/> The five current delivery metrics.
+- Harvey, Nathen and DeBellis, Derek. Announcing the 2025 DORA Report. Google Cloud Blog, 2025. <https://cloud.google.com/blog/products/ai-machine-learning/announcing-the-2025-dora-report> AI adoption, throughput, stability and trust findings.
+- DORA. AI Capabilities Model. dora.dev, 2025. <https://dora.dev/research/ai/ai-capabilities-model> Seven capabilities that amplify AI benefits.
+- METR. Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity. METR, 2025. <https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/> Randomized trial on AI and developer speed.
+- METR. We Are Changing Our Developer Productivity Experiment Design. METR, 2026. <https://metr.org/blog/2026-02-24-uplift-update/> Late-2025 follow-up estimates and their limits.
+- Faros AI. The AI Productivity Paradox Report 2025. Faros AI, 2025. <https://www.faros.ai/blog/ai-software-engineering> PR volume and review-time telemetry.
+- Stack Overflow. 2025 Developer Survey: AI. Stack Overflow, 2025. <https://survey.stackoverflow.co/2025/ai> Developer AI use, trust and frustrations.
+- Anthropic. How AI Is Transforming Work at Anthropic. Anthropic, 2025. <https://www.anthropic.com/research/how-ai-is-transforming-work-at-anthropic> Delegation and oversight of coding agents.
+- Delimarsky, Den. Spec-Driven Development with AI: Get Started with a New Open Source Toolkit. GitHub Blog, 2025. <https://github.blog/ai-and-ml/generative-ai/spec-driven-development-with-ai-get-started-with-a-new-open-source-toolkit/> Spec Kit phases and the case for specs.
+- Böckeler, Birgitta. Understanding Spec-Driven-Development: Kiro, spec-kit, and Tessl. martinfowler.com, 2025. <https://www.martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html> Levels of spec-driven development and critique.
+- Thoughtworks. Spec-Driven Development. Thoughtworks Technology Radar, 2025. <https://www.thoughtworks.com/radar/techniques/spec-driven-development> Radar ring and assessment.
+- Kiro. Specs. kiro.dev, 2026. <https://kiro.dev/docs/specs/> Spec file structure for an agentic IDE.

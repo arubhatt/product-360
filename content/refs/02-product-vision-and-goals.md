@@ -1,0 +1,33 @@
+- Pichler, Roman. 8 Tips for Creating a Compelling Product Vision. romanpichler.com, 2014 (updated 2023). <https://www.romanpichler.com/blog/tips-for-writing-compelling-product-vision/> Definition of product vision and eight tips.
+- Pichler, Roman. Product Vision Board Checklist. romanpichler.com, 2023. <https://www.romanpichler.com/blog/product-vision-board-checklist/> Six vision qualities and criteria for each board section.
+- Pichler, Roman. The Product Vision Board. romanpichler.com, n.d. <https://www.romanpichler.com/tools/product-vision-board/> Board sections and extended business model version.
+- Pichler, Roman. The Product Strategy Framework: A Revised Guide for Product Leaders. romanpichler.com, 2026. <https://www.romanpichler.com/blog/romans-product-strategy-framework-v3/> Vision, strategy, roadmap and backlog layers; where OKRs fit.
+- Cagan, Marty. Vision vs. Strategy. SVPG, 2016. <https://www.svpg.com/vision-vs-strategy/> Vision versus strategy, time horizon and visiontypes.
+- Amazon Staff (excerpt from Bryar, C. and Carr, B.). An Insider Look at Amazon's Culture and Processes. About Amazon, n.d. <https://aboutamazon.com/news/workplace/an-insider-look-at-amazons-culture-and-processes> PR/FAQ length and Working Backwards practice.
+- Bryar, Colin and Carr, Bill. Working Backwards. St. Martin's Press, 2021. Book-length source for PR/FAQ and six-page narratives.
+- Moore, Geoffrey A. Crossing the Chasm, 3rd ed. HarperBusiness, 2014. Positioning statement template used as a short vision format.
+- Sholtz, Julia. Every Product Needs a North Star Metric. Amplitude, 2024. <https://amplitude.com/blog/product-north-star-metric> North Star criteria, three games and three to five inputs.
+- Amplitude (Cutler, John et al.). The North Star Playbook. Amplitude, n.d. <https://amplitude.com/books/north-star/about-north-star-framework> Framework framing and authorship.
+- Ellis, Sean and Brown, Morgan. Hacking Growth. Crown Business, 2017. Origin of the North Star Metric concept as a single value metric.
+- Seiden, Josh. Josh Seiden on Why Product Teams Should Focus on Outcomes over Output. Intercom, 2019. <https://www.intercom.com/blog/podcasts/josh-seiden-on-why-product-teams-should-focus-on-outcome-vs-output> Outcome definition and output, outcome, impact model.
+- Seiden, Josh. Outcomes Over Output. Sense and Respond Press, 2019. Book-length treatment of outcome-based goals.
+- Gothelf, Jeff. Who Does What By How Much. jeffgothelf.com, 2024. <https://jeffgothelf.com/blog/who-does-what-by-how-much/> Announcement of the customer-centric OKR book with Josh Seiden.
+- Doerr, John. What Is an OKR? Definition and Examples. What Matters, n.d. <https://www.whatmatters.com/faqs/okr-meaning-definition-example> OKR definitions, formula, committed versus aspirational, FACTS.
+- Google. Google's OKR Playbook. What Matters, n.d. <https://www.whatmatters.com/resources/google-okr-playbook> Committed 1.0 versus aspirational 0.7 scoring and named traps.
+- Doerr, John. Measure What Matters. Portfolio, 2018. Book-length source on OKRs and their history.
+- Grove, Andrew S. High Output Management. Random House, 1983. Original management-by-objectives practice at Intel.
+- Wikipedia contributors. Objectives and Key Results. Wikipedia, n.d. <https://en.wikipedia.org/wiki/Objectives_and_key_results> OKR history dates and common criticisms (secondary).
+- Wodtke, Christina. The Art of the OKR. Eleganthack, 2014. <https://eleganthack.com/the-art-of-the-okr/> Qualitative objectives, three KRs, 50 percent confidence, weekly check-ins.
+- Wodtke, Christina. Radical Focus, 2nd ed. Cucina Media, 2021. Weekly OKR cadence and four-square status.
+- Cagan, Marty. Team Objectives: Overview. SVPG, 2020. <https://svpg.com/team-objectives-overview/> Why OKRs fail in most companies.
+- Cagan, Marty. Team Objectives: Accountability. SVPG, 2020. <https://svpg.com/team-objectives-accountability/> Ambition, accountability and objective post-mortems.
+- Scaled Agile. Value Streams. Scaled Agile Framework, 2025. <https://framework.scaledagile.com/value-streams/> Operational versus development value streams for decomposition.
+- Skelton, Matthew and Pais, Manuel. Key Concepts. Team Topologies, n.d. <https://teamtopologies.com/key-concepts> Stream-aligned teams and interaction modes for mapping goals to teams.
+- Strategyzer. The Business Model Canvas. Strategyzer, n.d. <https://www.strategyzer.com/library/the-business-model-canvas> Business model components for decomposing the business.
+- Anthropic. Define Your Success Criteria. Claude Docs, 2026. <https://platform.claude.com/docs/en/docs/test-and-evaluate/define-success> Success criteria qualities and categories for AI features.
+- Google PAIR. User Needs and Defining Success. People and AI Guidebook, n.d. <https://pair.withgoogle.com/chapter/user-needs/> Error costs, precision and recall, reward functions.
+- NIST. AI Risk Management Framework. NIST, 2023 (page current 2026). <https://www.nist.gov/itl/ai-risk-management-framework> Trust framing and 2024 to 2026 updates.
+- Mahajan, Kunal and Lee, Helen. A Framework for Pricing AI Products. Stripe, 2025. <https://stripe.com/blog/a-framework-for-pricing-ai-products> Consumption, workflow and outcome metrics.
+- O'Reilly, Aisling. Pricing AI Agents: What Does Value-Based Pricing Really Mean for AI? Intercom, 2025. <https://www.intercom.com/blog/pricing-ai-agents/> Outcome pricing as goal alignment.
+- Intercom. Fin Pricing. Fin, 2026. <https://fin.ai/pricing> Per-resolution price and resolution definition.
+- Future of Life Institute. Implementation Timeline. EU Artificial Intelligence Act site, 2026. <https://artificialintelligenceact.eu/implementation-timeline/> AI Act application dates (secondary).

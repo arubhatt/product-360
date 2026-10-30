@@ -68,8 +68,8 @@ def load_book():
         entries.append({**ap, "part": None, "kind": "appendix"})
     for e in entries:
         e["url"] = e["slug"] + ".html"
-        src = CHAPTERS / e["file"] if e.get("file") else None
-        e["src"] = src if src and src.exists() else None
+        src = CHAPTERS / (e.get("file") or e["slug"] + ".md")
+        e["src"] = src if src.exists() else None
         e["ready"] = bool(e["src"] or e.get("generated"))
     return book, entries
 
@@ -404,7 +404,7 @@ def render_lib_item(kind, item):
 
 
 def home(book, entries):
-    ready = [e for e in entries if e["ready"] and e["kind"] != "appendix"]
+    ready = [e for e in entries if e["ready"] and e["num"] and e["kind"] != "appendix"]
     cards = []
     for part in book["parts"]:
         items = []
@@ -504,6 +504,7 @@ def build(make_pdf=False):
         "window.P360_INDEX=" + json.dumps(search, ensure_ascii=False, separators=(",", ":")) + ";\n"
     )
     (OUT / ".nojekyll").write_text("")
+    write_references(book, entries)
     cover = (
         f'<section class="print-cover">{LOGO}<div class="eyebrow">{html.escape(book["series"])} · {html.escape(book["edition"])}</div>'
         f'<h1>{html.escape(book["title"])}</h1><p class="hero-sub">{html.escape(book["subtitle"])}</p>'
@@ -517,6 +518,23 @@ def build(make_pdf=False):
     if make_pdf:
         pdf(OUT / "print.html", OUT / "product-360-handbook.pdf")
         build(make_pdf=False)
+
+
+def write_references(book, entries):
+    """Assemble REFERENCES.md from content/refs/<slug>.md, in book order."""
+    out = [
+        "# References\n",
+        f"Every source used in {book['title']}, grouped by chapter. The chapters attribute ideas by name "
+        "in the text but carry no links or footnotes; this file is where the sources live. Each entry gives "
+        "author, title, publisher or site, year, URL where one exists, and what the source was used for. "
+        "Web sources were accessed in October 2026.\n",
+    ]
+    for e in entries:
+        ref = ROOT / "content" / "refs" / f"{e['slug']}.md"
+        if ref.exists() and ref.read_text().strip():
+            out.append(f"## {label(e) + ': ' if label(e) else ''}{e['title']}\n")
+            out.append(ref.read_text().strip() + "\n")
+    (ROOT / "REFERENCES.md").write_text("\n".join(out))
 
 
 def pdf(src, dst):

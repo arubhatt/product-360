@@ -1,0 +1,21 @@
+- White, J., Fu, Q., Hays, S. and others. A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT. arXiv, 2023. <https://arxiv.org/abs/2302.11382> Flipped Interaction pattern as the lineage of the grilling session.
+- Anthropic. Best practices for Claude Code. Claude Code documentation, 2026. <https://code.claude.com/docs/en/best-practices> Interview-me-then-write-the-spec pattern and fresh-session build.
+- Sharma, M., Tong, M., Korbak, T. and others. Towards Understanding Sycophancy in Language Models. arXiv, 2023. <https://arxiv.org/abs/2310.13548> Why the harness must be told to challenge weak answers.
+- Li, B. Z., Tamkin, A., Goodman, N. and Andreas, J. Eliciting Human Preferences with Language Models. arXiv, 2023. <https://arxiv.org/abs/2310.11589> Evidence that model-led questioning draws out more than user-written prompts.
+- Dhuliawala, S., Komeili, M., Xu, J. and others. Chain-of-Verification Reduces Hallucination in Large Language Models. arXiv, 2023. <https://arxiv.org/abs/2309.11495> Verification pass design for the consistency audit prompt.
+- Anthropic. Prompting best practices (long-context section). Claude platform documentation, 2026. <https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices> Document placement, source labeling and quote-first rules for the intake prompt.
+- Rajasekaran, P., Dixon, E., Ryan, C. and Hadfield, J. Effective context engineering for AI agents. Anthropic Engineering, 2025. <https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents> Context rot, note-taking and compaction behind splitting grilling sessions.
+- Schluntz, E. and Zhang, B. Building effective agents. Anthropic, 2024. <https://www.anthropic.com/research/building-effective-agents> Prompt chaining and evaluator-optimizer structure of the prompt suite.
+- Anthropic. Introducing the Model Context Protocol. Anthropic, 2024. <https://www.anthropic.com/news/model-context-protocol> Connectors as the way the harness looks up facts.
+- Linux Foundation. Linux Foundation Announces the Formation of the Agentic AI Foundation. Linux Foundation, 2025. <https://www.linuxfoundation.org/press/linux-foundation-announces-the-formation-of-the-agentic-ai-foundation> Vendor-neutral governance of MCP and AGENTS.md.
+- Model Context Protocol. Specification. modelcontextprotocol.io, 2026. <https://modelcontextprotocol.io/specification/latest> Current spec version, elicitation and consent principles.
+- Anthropic. Introducing Agent Skills. Claude blog, 2025. <https://claude.com/blog/skills> Packaging grilling and maintenance prompts as reusable skills.
+- Anthropic. Projects. Anthropic, 2024. <https://www.anthropic.com/news/projects> Project knowledge and standing instructions as the 360 workspace.
+- Anthropic. How Claude remembers your project. Claude Code documentation, 2026. <https://code.claude.com/docs/en/memory> Persistent instructions and memory across sessions.
+- Klein, G. Performing a Project Premortem. Harvard Business Review, 2007. <https://hbr.org/2007/09/performing-a-project-premortem> Premortem close for each grilling session and the day-90 review.
+- IMD. Michael Watkins faculty profile. IMD, 2026. <https://www.imd.org/faculty/professors/michael-watkins/> The First 90 Days background and reach.
+- Genesis Advisers. The First 90 Days and our approach. Genesis Advisers, 2026. <https://genesisadvisers.com/our-difference/our-approach/> Transition Roadmap elements behind the 30/60/90 structure.
+- Wikipedia. Michael D. Watkins. Wikipedia, 2026. <https://en.wikipedia.org/wiki/Michael_D._Watkins> Publication history of The First 90 Days.
+- Wikipedia. Capability Maturity Model. Wikipedia, 2026. <https://en.wikipedia.org/wiki/Capability_Maturity_Model> Five-level maturity shape for the Appendix C link.
+- Chin, C. The Amazon Weekly Business Review. Commoncog, 2024. <https://commoncog.com/the-amazon-weekly-business-review/> Exception-only weekly brief for the maintenance prompt.
+- Wikipedia. Socratic questioning. Wikipedia, 2026. <https://en.wikipedia.org/wiki/Socratic_questioning> Question types behind the harness challenge tests.

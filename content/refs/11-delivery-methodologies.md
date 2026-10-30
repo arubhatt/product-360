@@ -1,0 +1,27 @@
+- Beck, Kent et al. Manifesto for Agile Software Development. agilemanifesto.org, 2001. <https://agilemanifesto.org/> Four values and signatories.
+- Schwaber, Ken and Sutherland, Jeff. The Scrum Guide. scrumguides.org, 2020. <https://scrumguides.org/scrum-guide.html> Accountabilities, events, artifacts, commitments and timeboxes.
+- Sutherland, Jeff, Coleman, John and Jocham, Ralph. Scrum Guide Expansion Pack. scrumexpansion.org, 2025. <https://scrumexpansion.org/> Optional AI and product thinking guidance alongside the 2020 Guide.
+- Cagan, Marty. Product Manager vs. Product Owner. SVPG, 2011. <https://www.svpg.com/product-manager-vs-product-owner/> Case against splitting the product role.
+- Coleman, John, Vacanti, Daniel et al. The Kanban Guide. kanbanguides.org, 2025. <https://kanbanguides.org/the-kanban-guide/> Practices, flow metrics, SLE and 2025 changes.
+- Coleman, John, Vacanti, Daniel et al. The Kanban Guide (July 2020). kanbanguides.org, 2020. <https://kanbanguides.org/the-kanban-guide/2020.7> Earlier edition for comparison.
+- Singer, Ryan. Shape Up. Basecamp, 2019. <https://basecamp.com/shapeup/0.3-chapter-01> Appetite, betting table, cycles, circuit breaker and hill charts.
+- Patton, Jeff. Dual Track Development is not Duel Track. J. Patton and Associates, 2017. <https://jpattonassociates.com/dual-track-development/> Origin and cautions of dual-track development.
+- Cagan, Marty. Dual-Track Agile. SVPG, 2012. <https://www.svpg.com/dual-track-agile/> Discovery and delivery in parallel and later renaming.
+- McBride, Sean. RICE: Simple prioritization for product managers. Intercom, 2018. <https://www.intercom.com/blog/rice-simple-prioritization-for-product-managers/> RICE scales, formula and guidance.
+- Gilad, Itamar. Product Discovery With ICE and The Confidence Meter. itamargilad.com, n.d. <https://itamargilad.com/the-tool-that-will-help-you-choose-better-product-ideas/> Evidence-based confidence for scoring pitfalls.
+- Scaled Agile. Planning Interval. SAFe Framework, 2026. <https://framework.scaledagile.com/planning-interval> PI length and structure.
+- Scaled Agile. WSJF. SAFe Framework, 2026. <https://framework.scaledagile.com/wsjf> Cost of Delay components and Reinertsen attribution.
+- Sales, Andrew. New Release: AI-Native SAFe is the Operating Model for the AI-Native Organization. Scaled Agile, 2026. <https://framework.scaledagile.com/blog/ai-native-safe-is-the-operating-model-for-the-ai-native-organization> AI-Native SAFe positioning and verification bottleneck.
+- The LeSS Company. LeSS Framework. less.works, 2026. <https://less.works/less/framework/index> LeSS and LeSS Huge structure.
+- Fowler, Martin. The State of Agile Software in 2018. martinfowler.com, 2018. <https://martinfowler.com/articles/agile-aus-2018.html> Agile Industrial Complex critique.
+- Snowden, Dave. SAFe: the infantilism of management. The Cynefin Co, n.d. <https://thecynefin.co/safe-the-infantilism-of-management> Example SAFe critique (not fetched).
+- Cynefin Wiki. Cynefin. cynefin.io, n.d. <https://cynefin.io/wiki/Cynefin> Domains for method selection.
+- Wheeler, David A. The Waterfall Model. dwheeler.com, n.d. <https://dwheeler.com/essays/waterfall.html> Royce 1970 and the waterfall misreading.
+- Becker, Joel et al. Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity. METR, 2025. <https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/> RCT showing 19 percent slowdown.
+- Becker, Joel et al. We are Changing our Developer Productivity Experiment Design. METR, 2026. <https://metr.org/blog/2026-02-24-uplift-update/> Late-2025 speedup estimates and selection bias.
+- DORA. State of AI-assisted Software Development 2025. Google Cloud, 2025. <https://dora.dev/research/2025/dora-report/> AI as amplifier.
+- Storer, Kevin M. and DeBellis, Derek. Introducing DORA's inaugural AI Capabilities Model. Google Cloud, 2025. <https://cloud.google.com/blog/products/ai-machine-learning/introducing-doras-inaugural-ai-capabilities-model> Seven capabilities including small batches.
+- Anthropic. 2026 Agentic Coding Trends Report. Anthropic, 2026. <https://resources.anthropic.com/2026-agentic-coding-trends-report> Delegation share, oversight and timeline compression.
+- Beck, Kent. Augmented Coding: Beyond the Vibes. Software Design: Tidy First?, 2025. <https://newsletter.kentbeck.com/p/augmented-coding-beyond-the-vibes> Discipline for working with coding agents.
+- Singer, Ryan. Shape Up, chapter 6: Write the Pitch. Basecamp, 2019. <https://basecamp.com/shapeup/1.5-chapter-06> Five pitch ingredients: problem, appetite, solution, rabbit holes, no-gos (checked 2026-10-30).
+- Little, John D. C. A Proof for the Queuing Formula: L = λW. Operations Research 9(3), 1961, pp. 383 to 387. <https://en.wikipedia.org/wiki/Little%27s_law> Little's Law and its 1961 proof (checked 2026-10-30).

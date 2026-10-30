@@ -1,0 +1,37 @@
+- Cagan, Marty. Flavors of Prototypes. SVPG, 2014. <https://www.svpg.com/flavors-of-prototypes/> Prototype types (feasibility, user, live-data, hybrid) and fidelity.
+- Cagan, Marty. The Purpose of Prototypes. SVPG, 2025. <https://www.svpg.com/the-purpose-of-prototypes/> Build to learn, the four risks and gen-AI prototyping tools.
+- Cagan, Marty. Prototypes vs Products. SVPG, 2025. <https://www.svpg.com/prototypes-vs-products/> Run-time demands that separate products from prototypes.
+- Cagan, Marty. Build to Learn vs Build to Earn. SVPG, 2026. <https://www.svpg.com/build-to-learn-vs-build-to-earn/> Discovery versus delivery and the PM as builder.
+- Cagan, Marty. Forward Deployed Engineers. SVPG, 2025. <https://www.svpg.com/forward-deployed-engineers/> Embedding with enterprise customers to prototype and staff discovery.
+- Cagan, Marty. The AI Productivity Paradox. SVPG, 2026. <https://www.svpg.com/the-ai-productivity-paradox/> Why faster AI output does not improve outcomes.
+- Cagan, Marty. Revisiting the Product Spec. SVPG, 2006. <https://www.svpg.com/revisiting-the-product-spec/> The prototype as the core of the spec.
+- Cagan, Marty. Inspired, 2nd ed. Wiley, 2017. Product team composition and prototype chapters.
+- Nielsen, Jakob. Why You Only Need to Test with 5 Users. Nielsen Norman Group, 2000. <https://www.nngroup.com/articles/why-you-only-need-to-test-with-5-users/> Five-user rule, the problem-discovery formula and iterative rounds.
+- Nielsen, Jakob. How Many Test Users in a Usability Study. Nielsen Norman Group, 2012. <https://www.nngroup.com/articles/how-many-test-users/> Sample sizes by study type.
+- Nielsen, Jakob. Thinking Aloud: The #1 Usability Tool. Nielsen Norman Group, 2012. <https://www.nngroup.com/articles/thinking-aloud-the-1-usability-tool/> Think-aloud method and facilitator steps.
+- Nielsen, Jakob. Severity Ratings for Usability Problems. Nielsen Norman Group, 1994. <https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/> Severity factors and the 0 to 4 scale for test readouts.
+- McCloskey, Marieke. Turn User Goals into Task Scenarios for Usability Testing. Nielsen Norman Group, 2014. <https://www.nngroup.com/articles/task-scenarios-usability-testing/> Rules for writing test tasks.
+- Moran, Kate. Usability Testing 101. Nielsen Norman Group, 2019. <https://www.nngroup.com/articles/usability-testing-101/> Elements and formats of usability tests.
+- Pernice, Kara. UX Prototypes: Low Fidelity vs. High Fidelity. Nielsen Norman Group, 2016. <https://www.nngroup.com/articles/ux-prototype-hi-lo-fidelity/> Three dimensions of fidelity and when to use each.
+- Paul, Sara and Rosala, Maria. The Wizard of Oz Method in UX. Nielsen Norman Group, 2024. <https://www.nngroup.com/articles/wizard-of-oz/> Wizard of Oz definition, origin and use for AI features.
+- Rosala, Maria and Moran, Kate. Synthetic Users: If, When, and How to Use AI-Generated Research. Nielsen Norman Group, 2024. <https://www.nngroup.com/articles/synthetic-users/> Limits of AI-simulated participants.
+- Krug, Steve. Rocket Surgery Made Easy. New Riders, 2010. DIY testing cadence, debriefs and minimal fixes (details from secondary sources).
+- Munroe, Lee. Book Review: Rocket Surgery Made Easy. leemunroe.com, 2010. <https://leemunroe.com/rocket-surgery-made-easy> Secondary check on Krug's method.
+- Rosso, Manuel. Concierge MVP: Learning from Early Adopters at Food on the Table. SlideShare, 2011. <https://www.slideshare.net/slideshow/manuel-rosso-food-on-the-table/7239850> Concierge test example.
+- Matthews, Colin. A Guide to AI Prototyping for Product Managers. Lenny's Newsletter, 2025. <https://www.lennysnewsletter.com/p/a-guide-to-ai-prototyping-for-product> Categories of AI prototyping tools.
+- Figma. Config 2025 Press Release. Figma, 2025. <https://www.figma.com/blog/config-2025-press-release/> Launch of Figma Make as a design-to-code tool.
+- Anthropic. Introducing Claude Design by Anthropic Labs. Anthropic, 2026. <https://www.anthropic.com/news/claude-design-anthropic-labs> Design and prototype creation with handoff to a coding agent.
+- Wikipedia contributors. Vibe Coding. Wikipedia, 2026. <https://en.wikipedia.org/wiki/Vibe_coding> Origin of the term and Collins Word of the Year (secondary).
+- SentinelOne. CVE-2025-48757. SentinelOne Vulnerability Database, 2025. <https://www.sentinelone.com/vulnerability-database/cve-2025-48757/> Security risk in AI-generated apps (secondary).
+- Delimarsky, Den. Spec-Driven Development with AI. GitHub Blog, 2025. <https://github.blog/ai-and-ml/generative-ai/spec-driven-development-with-ai-get-started-with-a-new-open-source-toolkit/> Specs written for AI coding agents.
+- Torres, Teresa. Product Trio. Product Talk, 2021. <https://www.producttalk.org/product-trio/> Definition and work of the product trio.
+- Skelton, Matthew and Pais, Manuel. Team Topologies Key Concepts. Team Topologies, 2019. <https://teamtopologies.com/key-concepts> Four team types, three interaction modes and cognitive load.
+- Vogels, Werner. Working Backwards. All Things Distributed, 2006. <https://www.allthingsdistributed.com/2006/11/working_backwards.html> The four working-backwards documents.
+- Bryar, Colin and Carr, Bill. Working Backwards PR/FAQ Process. workingbackwards.com, 2021. <https://workingbackwards.com/concepts/working-backwards-pr-faq-process/> PR/FAQ structure and review meeting.
+- Singer, Ryan. Shape Up: Write the Pitch. Basecamp, 2019. <https://basecamp.com/shapeup/1.5-chapter-06> Appetite and no-gos for the one-page PRD.
+- Horowitz, Ben. Good Product Manager/Bad Product Manager. Andreessen Horowitz, 2012. <https://a16z.com/good-product-manager-bad-product-manager/> Written direction on the what, not the how.
+- Rachitsky, Lenny. My Favorite Product Management Templates. Lenny's Newsletter, 2020. <https://www.lennysnewsletter.com/p/my-favorite-templates-issue-37> Survey of one-pager and PRD templates.
+- eCornell. Product Prototyping. Cornell University, 2026. <https://ecornell.cornell.edu/courses/product-management/product-prototyping/> Course outcomes the chapter maps to.
+- Cagan, Marty and Jones, Chris. Empowered. Wiley, 2020. Empowered product teams versus feature and delivery teams (details from secondary sources).
+- Ries, Eric. The Lean Startup. Crown Business, 2011. The concierge MVP and the Food on the Table story (via Rosso's deck; book not re-checked).
+- Skelton, Matthew and Pais, Manuel. Team Topologies. IT Revolution, 2019. Team types, interaction modes and cognitive load (book cited by name; details via the key concepts page).

@@ -1,0 +1,20 @@
+- Porter, Michael E. The Five Competitive Forces That Shape Strategy. Harvard Business Review, 2008. <https://hbr.org/2008/01/the-five-competitive-forces-that-shape-strategy> Five forces, factors not forces, substitutes, industry definition and common pitfalls.
+- Challenger Inc. How to Overcome Customer Indecision Using the JOLT Effect Approach. Challenger, 2024. <https://challengerinc.com/losing-to-customer-indecision/> Dixon and McKenna no-decision finding and the JOLT steps.
+- Dixon, Matthew and McKenna, Ted. The JOLT Effect. Portfolio, 2022 [U]. Do-nothing as the main competitor in B2B deals.
+- Flyvbjerg, Bent and Budzier, Alexander. Why Your IT Project May Be Riskier Than You Think. Harvard Business Review, 2011 (arXiv preprint 2013). <https://arxiv.org/abs/1304.0265> Fat-tail cost overruns for the business case risk section.
+- Lovallo, Dan and Kahneman, Daniel. Delusions of Success. Harvard Business Review, 2003 [S]. Inside view versus outside view and reference class forecasting.
+- Flyvbjerg, Bent. From Nobel Prize to Project Management: Getting Risks Right. Project Management Journal, 2006 [S]. Reference class forecasting as a three-step method building on Kahneman and Tversky's outside view.
+- Klein, Gary. Performing a Project Premortem. Harvard Business Review, 2007 [S]. Premortem method for the risks section.
+- Gallo, Amy. A Refresher on Net Present Value. Harvard Business Review, 2014. <https://hbr.org/2014/11/a-refresher-on-net-present-value> Time value of money for NPV and payback.
+- Christensen, Clayton, Hall, Taddy, Dillon, Karen and Duncan, David. Know Your Customers' Jobs to Be Done. Harvard Business Review, 2016. <https://hbr.org/2016/09/know-your-customers-jobs-to-be-done> Job-based segmentation and nonconsumers.
+- Moore, Geoffrey A. Crossing the Chasm, 3rd ed. HarperBusiness, 2014 [U]. Beachhead segment and bowling-pin expansion.
+- Dunford, April. Obviously Awesome. Ambient Press, 2019 [S]. Competitive alternatives as the start of positioning.
+- Clozd. Keys to Successful Win-Loss Analysis. Clozd, 2026. <https://clozd.com/blog/win-loss-analysis-keys-to-success> Win/loss program design and neutral interviewing.
+- Crayon. 2025 State of Competitive Intelligence. Crayon, 2025. <https://www.crayon.co/state-of-competitive-intelligence-2025> Vendor survey on competitive deal share and AI use by compete teams.
+- Klue. Klue Launches Compete Agent. Klue, 2025. <https://klue.com/blog/klue-launches-compete-agent> Example of an AI agent for competitive monitoring.
+- Jaźwińska, Klaudia and Chandrasekar, Aisvarya. AI Search Has a Citation Problem. Columbia Journalism Review Tow Center, 2025. <https://www.cjr.org/tow_center/we-compared-eight-ai-search-engines-theyre-all-bad-at-citing-news.php> Evidence for verifying AI research citations.
+- Anthropic. Claude Takes Research to New Places. Claude blog, 2025. <https://claude.com/blog/research> Launch of agentic multi-search research with citations.
+- OpenAI. Introducing Deep Research. OpenAI, 2025. <https://openai.com/index/introducing-deep-research/> Launch of deep research agents for multistep desk research.
+- Anthropic. Introducing the Model Context Protocol. Anthropic, 2024. <https://www.anthropic.com/news/model-context-protocol> Connectors that let a harness read CRM, calls and docs.
+- US Securities and Exchange Commission. SEC Charges Two Investment Advisers with Making False and Misleading Statements About Their Use of Artificial Intelligence. SEC, 2024. <https://www.sec.gov/newsroom/press-releases/2024-36> AI-washing as a reason to verify competitor AI claims.
+- Cornell University. Business Analytics Certificate (eCornell). Cornell Dyson School, 2025. <https://courses.cornell.edu/ecornell-catalog-courses/business-analytics-certificate/> Scope reference for decision analytics, not cited in the chapter.

@@ -1,0 +1,34 @@
+- Cagan, M. *Inspired: How to Create Tech Products Customers Love*, 2nd ed. Wiley, 2017. <https://bookshop.org/p/books/inspired-how-to-create-tech-products-customers-love-marty-cagan/8599213> Product discovery, four risks, the product trio.
+- Cagan, M. and Jones, C. *Empowered: Ordinary People, Extraordinary Products*. Wiley, 2020. <https://www.oreilly.com/library/view/empowered-ordinary-people/9781119691297/> Product leadership: coaching, strategy, empowered teams.
+- Cagan, M. et al. *Transformed: Moving to the Product Operating Model*. Wiley, 2024. <https://porchlightbooks.com/product/transformed-moving-to-the-product-operating-model--marty-cagan/isbn/9781119697336> Transformation playbook and model principles.
+- SVPG. "The Product Operating Model: An Introduction". svpg.com, 2023. <https://svpg.com/the-product-operating-model-an-introduction/> Three dimensions and principle areas.
+- Cagan, M. "Product Risk Taxonomy". svpg.com, 2023. <https://svpg.com/product-risk-taxonomies> Why there are four risks.
+- Cagan, M. "A Vision for Product Teams". svpg.com, 2025. <https://www.svpg.com/a-vision-for-product-teams/> Teams shrinking to about 3 people.
+- Cagan, M. "The Era of the Product Creator". svpg.com, 2025. <https://www.svpg.com/the-era-of-the-product-creator/> Role defined by risks owned, not title.
+- Cagan, M. "Prototypes vs Products". svpg.com, 2025. <https://svpg.com/prototypes-vs-products/> Limits of AI prototypes in enterprise.
+- Cagan, M. "Build to Learn vs Build to Earn". svpg.com, 2026. <https://svpg.com/build-to-learn-vs-build-to-earn/> Discovery vs delivery building with AI.
+- Cagan, M. "The AI Productivity Paradox". svpg.com, 2026. <https://svpg.com/the-ai-productivity-paradox/> More output does not mean better outcomes.
+- Cagan, M. "A Fresh Definition of the Product Role". svpg.com, 2026. <https://svpg.com/a-fresh-definition-of-the-product-role/> Three skills from Benedict Evans; revises his 2025 view.
+- Cagan, M. "Experimentation, AI and the Product Model". svpg.com, 2026. <https://svpg.com/experimentation-ai-and-the-product-model/> Evals and experimentation ops.
+- Horowitz, B. "Good Product Manager/Bad Product Manager". a16z.com, 2012 (written 1990s). <https://a16z.com/good-product-manager-bad-product-manager/> Classic behavioral contrasts.
+- Norton, K. "How to Hire a Product Manager". Bring the Donuts, 2005 (upd. 2023). <https://www.bringthedonuts.com/essays/productmanager.html> PM as advocate who leads by influence.
+- Norton, K. "How to Hire a PM: 20-year retrospective". Bring the Donuts, 2025. <https://www.bringthedonuts.com/essays/how-to-hire-a-pm-retrospective/> What changed, including AI.
+- Gupta, A. "LNO Framework for Product Managers". Product Growth, 2020. <https://www.news.aakashg.com/p/lno-framework-for-product-managers> Secondary source for Doshi's LNO.
+- Wang, S. (swyx). Live notes from a Shreyas Doshi workshop. Thread Reader, 2022. <https://threadreaderapp.com/thread/1492687642550411267.html> Secondary source for the three levels.
+- Perri, M. *Escaping the Build Trap*. O'Reilly, 2018. <https://oreilly.com/library/view/escaping-the-build/9781491973783> Build trap; Product Kata.
+- Perri, M. "The Product Kata". melissaperri.com, 2015. <https://melissaperri.com/blog/2015/07/22/the-product-kata> Original kata elements.
+- Perri, M. and Tilles, D. *Product Operations*. Produx Labs, 2023. <https://www.goodreads.com/book/show/199368360> Three pillars of product ops.
+- Rachitsky, L. "Product management career ladders". Lenny's Newsletter, 2022. <https://www.lennysnewsletter.com/p/product-management-career-ladders> IC and manager tracks across 20+ companies.
+- Segal, N. and Rachitsky, L. "AI tools are overdelivering". Lenny's Newsletter, 2025. <https://lennysnewsletter.com/p/ai-tools-are-overdelivering-results> Survey of 1,750 on AI use.
+- Rachitsky, L. Lenny & Friends Summit write-up. Lenny's Newsletter, 2026. <https://www.lennysnewsletter.com/p/all-of-the-lenny-and-friends-summit> PM role expanding, not merging.
+- Reforge. "Maximize the performance of your product managers". reforge.com, 2024. <https://www.reforge.com/blog/maximize-the-performance-of-your-product-managers> 12-competency model with Ravi Mehta.
+- Eriksson, M. "What, exactly, is a Product Manager?". Mind the Product, 2011. <https://www.mindtheproduct.com/what-exactly-is-a-product-manager/> Business, Technology, UX Venn diagram.
+- Pragmatic Institute. Pragmatic Framework. pragmaticinstitute.com, current. <https://www.pragmaticinstitute.com/product/framework/> 37 boxes, 7 categories.
+- AIPMM (Geracie, G., ed.). *ProdBOK Guide*. AIPMM, 2013. <https://aipmm.com/about> Lifecycle body of knowledge.
+- PDMA (Anderson, A. M. et al.). *Product Development and Management Body of Knowledge*, 3rd ed. Wiley, 2022?. <https://www.oreilly.com/library/view/-/9781119829942/> NPDP basis, 7 areas. Year [U].
+- ISPMA / Kittlaus and Fricker. *Software Product Management: The ISPMA-Compliant Study Guide*. Springer, 2017. <https://ispma.org/bok/> SPM reference framework.
+- ISO. ISO/IEC 20926:2009. iso.org, 2009. <https://www.iso.org/standard/51717.html> Function points. Not a PM standard.
+- Cooper, R. G. "Stage-gate systems: A new tool for managing new products". *Business Horizons* 33(3), 1990. <(DOI not retrieved)> Formal Stage-Gate description.
+- Bryar, C. and Carr, B. *Working Backwards*. St. Martin's Press, 2021. <https://www.goodreads.com/work/quotes/81650661> PR/FAQ, WBR, OP1/OP2, six-pagers.
+- Chin, C. "The Amazon Weekly Business Review". Commoncog, 2024 (upd. 2026). <https://commoncog.com/the-amazon-weekly-business-review/> Detailed WBR mechanics.
+- Atlassian. DACI decision-making framework. Atlassian Team Playbook, current. <https://www.atlassian.com/team-playbook/plays/daci> Roles and decision template.

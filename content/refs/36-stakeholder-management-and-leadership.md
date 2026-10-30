@@ -1,0 +1,27 @@
+- A. L. Mendelow. Environmental Scanning: The Impact of the Stakeholder Concept. ICIS 1981 Proceedings, AIS eLibrary, 1981. <https://aisel.aisnet.org/icis1981/20/> Origin of stakeholder power analysis behind the power/interest grid.
+- MindTools. Stakeholder Analysis. MindTools, undated. <https://www.mindtools.com/aol0rms/stakeholder-analysis> Quadrant labels and actions for the power/interest grid.
+- Allan R. Cohen and David L. Bradford. Influence Without Authority, 3rd Edition. Wiley, 2017. <https://www.wiley.com/en-us/Influence+Without+Authority%2C+3rd+Edition-p-9781119347712> Exchange Model and currencies of influence.
+- Atlassian. DACI Decision Making Framework. Atlassian Team Playbook, undated. <https://www.atlassian.com/team-playbook/plays/daci> DACI roles, steps and template fields.
+- Bain and Company. RAPID Decision Making. Bain and Company, 2023. <https://www.bain.com/insights/rapid-tool-to-clarify-decision-accountability/> RAPID roles and single-decider guidance.
+- Amazon. Leadership Principles. Amazon Jobs, undated. <https://www.amazon.jobs/content/en/our-workplace/leadership-principles> Disagree and commit norm.
+- Atlassian. Working Agreements. Atlassian Team Playbook, undated. <https://www.atlassian.com/team-playbook/plays/working-agreements> Team charter components on communication and escalation.
+- Atlassian. Roles and Responsibilities. Atlassian Team Playbook, undated. <https://www.atlassian.com/team-playbook/plays/roles-and-responsibilities> Team charter components on roles and ownership.
+- Amy Edmondson. Psychological Safety and Learning Behavior in Work Teams. Administrative Science Quarterly, 1999. <https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Group_Performance/Edmondson%20Psychological%20safety.pdf> Definition and evidence for team psychological safety.
+- Amy C. Edmondson. The Fearless Organization. Wiley, 2018. <https://www.wiley.com/en-us/The+Fearless+Organization%3A+Creating+Psychological+Safety+in+the+Workplace+for+Learning%2C+Innovation%2C+and+Growth-p-9781119477242> Book reference for psychological safety in practice.
+- Google re:Work. Understand Team Effectiveness. Google, 2015. <https://rework.withgoogle.com/intl/en/guides/understand-team-effectiveness> Project Aristotle sample and five team dynamics.
+- Marty Cagan and Chris Jones. EMPOWERED: Ordinary People, Extraordinary Products. SVPG, 2020. <https://www.svpg.com/books/empowered-ordinary-people-extraordinary-products/> Empowered teams and coaching as product leadership.
+- Marty Cagan. Product vs. Feature Teams. SVPG, 2019. <https://www.svpg.com/product-vs-feature-teams/> Delivery, feature and empowered team definitions.
+- Chris Jones and Marty Cagan. Stakeholders and the Product Model. SVPG, 2025. <https://www.svpg.com/stakeholders-and-the-product-model/> How stakeholders and product teams should work together.
+- Marty Cagan. Product Coaching and AI. SVPG, 2026. <https://www.svpg.com/product-coaching-and-ai/> AI as a personal coach and the role of human coaching.
+- Marty Cagan. A Fresh Definition of The Product Role. SVPG, 2026. <https://www.svpg.com/a-fresh-definition-of-the-product-role/> AI-era definition of the product role.
+- Marty Cagan. The AI Productivity Paradox. SVPG, 2026. <https://www.svpg.com/the-ai-productivity-paradox/> Output versus outcomes in AI-era teams.
+- Marty Cagan. Experts Lead Experts. SVPG, 2026. <https://www.svpg.com/experts-lead-experts/> Case for practitioner managers in the team shape debate.
+- Atlassian. State of Teams 2026. Atlassian Blog, 2026. <https://www.atlassian.com/blog/state-of-teams-2026> Survey data on AI speed, ROI and flatter teams.
+- Will Larson. Revised Rules of Engineering Leadership. lethain.com, 2026. <https://lethain.com/revised-rules-of-engineering-leadership/> AI-era leadership rules and binding executive decisions.
+- Will Larson. Middle Management Roles Are Also a Trap. lethain.com, 2026. <https://lethain.com/middle-management-roles-were-also-a-trap/> Middle management and managing up in the AI era.
+- Lenny Rachitsky and Tomer Cohen. Why LinkedIn Is Replacing PMs. Lenny's Newsletter, 2025. <https://www.lennysnewsletter.com/p/why-linkedin-is-replacing-pms> Builder model and APM program change in the team shape debate.
+- Ravi Mehta. Product Manager Roles. ravi-mehta.com, 2026. <https://www.ravi-mehta.com/product-manager-roles/> PM competency areas and expectations by level.
+- John J. Gabarro and John P. Kotter. Managing Your Boss. Harvard Business Review, 2005. <https://hbr.org/2005/01/managing-your-boss> Managing up.
+- Lara Hogan. Questions for Our First 1:1. larahogan.me, 2016. <https://larahogan.me/blog/first-one-on-one-questions/> 1:1 coaching template questions.
+- Performance Consultants. The GROW Model. Performance Consultants, undated. <https://www.performanceconsultants.com/grow-model> GROW coaching structure and Whitmore attribution.
+- Kim Scott. Our Approach. Radical Candor, undated. <https://www.radicalcandor.com/our-approach/> Feedback framework for conflict and coaching.

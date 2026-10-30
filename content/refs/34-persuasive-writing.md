@@ -1,0 +1,30 @@
+- Bezos, Jeff. 2017 Letter to Shareholders. Amazon, 2018. <https://www.aboutamazon.com/news/company-news/2017-letter-to-shareholders> Six-page narrative memos, silent reading and the time a great memo takes.
+- Bezos, Jeff. 2015 Letter to Shareholders. Amazon, 2016. <https://s2.q4cdn.com/299287126/files/doc_financials/annual/2015-Letter-to-Shareholders.PDF> Type 1 and Type 2 decisions for the decision memo.
+- Bezos, Jeff. 2016 Letter to Shareholders. Amazon, 2017. <https://www.aboutamazon.com/news/company-news/2016-letter-to-shareholders> Deciding with about 70 percent of the information and disagree and commit.
+- Bryar, Colin and Carr, Bill. An Insider Look at Amazon's Culture and Processes. Amazon, 2021. <https://aboutamazon.com/news/workplace/an-insider-look-at-amazons-culture-and-processes> PR/FAQ length limits and narrative meeting mechanics.
+- Working Backwards LLC. Working Backwards PR/FAQ. Working Backwards, n.d. <https://www.workingbackwards.com/resources/working-backwards-pr-faq> Press release parts, internal and external FAQ questions, typical review meeting timing (15 to 20 minutes reading, about 40 minutes discussion) and first-draft effort (hours, not days). Fetched 2026-10-30.
+- Working Backwards LLC. Working Backwards. Working Backwards, n.d. <https://www.workingbackwards.com/> Authors' combined Amazon tenure.
+- Minto, Barbara. The Pyramid Principle. Barbara Minto, n.d. <https://www.barbaraminto.com/> Pyramid under a single point and the SCQ framework.
+- Odom-Reed, Peggy. Persuasive Writing. eCornell, n.d. <https://ecornell.cornell.edu/courses/communication/persuasive-writing/> Course scope the chapter maps to.
+- Influence at Work. The Principles of Persuasion. Influence at Work, n.d. <https://www.influenceatwork.com/7-principles-of-persuasion/> Cialdini's seven principles.
+- Wikipedia contributors. Influence: The Psychology of Persuasion. Wikipedia, 2026. <https://en.wikipedia.org/wiki/Influence:_The_Psychology_of_Persuasion> Publication history and addition of unity.
+- Bohner, Gerd and Schlüter, Lena E. A Room with a Viewpoint Revisited. PLOS ONE, 2014. <https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0104086> Failed replication of Goldstein, Cialdini and Griskevicius (2008) hotel towel-reuse study, used for the evidence caveat on persuasion principles.
+- Heath, Chip and Heath, Dan. Made to Stick. Heath Brothers, 2007. <https://heathbrothers.com/books/made-to-stick/> Book year and overview.
+- Wikipedia contributors. Made to Stick. Wikipedia, 2026. <https://en.wikipedia.org/wiki/Made_to_Stick> The six SUCCESs principles.
+- Heath, Chip and Heath, Dan. The Curse of Knowledge. Harvard Business Review, 2006. <https://hbr.org/2006/12/the-curse-of-knowledge> Curse of knowledge in business communication.
+- Wikipedia contributors. Curse of Knowledge. Wikipedia, 2026. <https://en.wikipedia.org/wiki/Curse_of_knowledge> Origin of the term and Newton's tapper study.
+- Rapp, Christof. Aristotle's Rhetoric. Stanford Encyclopedia of Philosophy, n.d. <https://plato.stanford.edu/entries/aristotle-rhetoric/> Ethos, pathos and logos for audience analysis.
+- Wikipedia contributors. BLUF (communication). Wikipedia, 2026. <https://en.wikipedia.org/wiki/BLUF_(communication)> BLUF definition and Army Regulation 25-50 origin.
+- Sehgal, Kabir. How to Write Email with Military Precision. Harvard Business Review, 2016. <https://hbr.org/2016/11/how-to-write-email-with-military-precision> BLUF adapted to business email.
+- Nielsen, Jakob. How Users Read on the Web. Nielsen Norman Group, 1997. <https://www.nngroup.com/articles/how-users-read-on-the-web/> Evidence that readers scan.
+- Rogers, Todd and Lasky-Fink, Jessica. Writing for Busy Readers. Writing for Busy Readers, n.d. <https://www.writingforbusyreaders.com/> Book and authors on writing for busy readers.
+- Graham, Paul. Writes and Write-Nots. paulgraham.com, 2024. <https://paulgraham.com/writes.html> Writing as thinking in the AI era.
+- Niederhoffer, Kate and others. AI-Generated Workslop Is Destroying Productivity. Harvard Business Review, 2025. <https://hbr.org/2025/09/ai-generated-workslop-is-destroying-productivity> Definition of workslop.
+- BetterUp Labs. Workslop. BetterUp, 2025. <https://www.betterup.com/workslop> Workslop survey figures.
+- Kosmyna, Nataliya and others. Your Brain on ChatGPT. arXiv, 2025. <https://arxiv.org/abs/2506.08872> Cognitive debt from AI-assisted essay writing, with caveats.
+- KPMG and University of Melbourne. Trust, Attitudes and Use of AI: A Global Study 2025. KPMG, 2025. <https://kpmg.com/xx/en/our-insights/ai-and-technology/trust-attitudes-and-use-of-ai.html> Unchecked AI output and mistakes at work.
+- KPMG. Trust in AI 2025 US Findings. KPMG, 2025. <https://kpmg.com/us/en/media/news/trust-in-ai-2025.html> Hidden AI use among US workers.
+- Reif, Jessica A., Larrick, Richard P. and Soll, Jack B. Evidence of a Social Evaluation Penalty for Using AI. PNAS, 2025. <https://pubmed.ncbi.nlm.nih.gov/?term=social+evaluation+penalty+AI+Reif+Larrick+Soll> Competence penalty for visible AI use.
+- ICMJE. AI Use by Authors. ICMJE, n.d. <https://www.icmje.org/recommendations/browse/artificial-intelligence/ai-use-by-authors.html> Disclosure and accountability norms as an analogy.
+- Microsoft. 2025: The Year the Frontier Firm Is Born. Microsoft WorkLab, 2025. <https://www.microsoft.com/en-us/worklab/work-trend-index/2025-the-year-the-frontier-firm-is-born> AI use for internal communications.
+- Anthropic. AI Fluency: Framework and Foundations. Anthropic Academy, n.d. <https://anthropic.skilljar.com/ai-fluency-framework-foundations> The 4D framework names.

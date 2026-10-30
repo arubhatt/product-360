@@ -1,0 +1,143 @@
+# Research notes: Chapter 13, Market Sizing, Competitive Analysis and the Business Case
+
+Status: complete (2026-10-30). Tags: [V] verified on primary source, [S] secondary only, [U] unverified.
+
+## Source log (running)
+
+- Porter, Michael E. "The Five Competitive Forces That Shape Strategy." HBR, January 2008 (vol 86, no 1). Update of the 1979 HBR article "How Competitive Forces Shape Strategy." https://store.hbr.org/product/the-five-competitive-forces-that-shape-strategy/R0801E [V bibliographic]
+- Dixon, Matthew and McKenna, Ted. The JOLT Effect (2022). Challenger write-up, 2024-02-22: "around half (40-60%) of all lost deals ended in no decision"; 2.5 million recorded sales conversations. JOLT = Judge the level of indecision, Offer your recommendation, Limit the exploration, Take risk off the table. https://challengerinc.com/losing-to-customer-indecision/ [V on Challenger site, which is the authors' affiliated firm]
+- eCornell Business Analytics Certificate (Cornell Dyson): six courses DYS541 to DYS546, spreadsheet modeling, data harvesting, visualization, prediction/forecasting, prescriptive analytics. https://courses.cornell.edu/ecornell-catalog-courses/business-analytics-certificate/ [S via search summary]
+- Flyvbjerg, Bent and Budzier, Alexander. "Why Your IT Project May Be Riskier Than You Think." HBR, September 2011. Average IT cost overrun 27%; one in six a "black swan" with 200% cost overrun and about 70% schedule overrun. [S, to verify]
+- Anthropic Research feature launched 2025-04-15 with Google Workspace integration; multiple sequential searches, inline citations. [S, to verify on anthropic.com]
+- Flyvbjerg and Budzier, arXiv 1304.0265 (published HBR vol 89, no 9, 2011, pp 23 to 25): sample of 1,471 IT projects; average cost overrun 27%; "Fully one in six of the projects in the sample was a Black Swan" with average cost overrun of 200% and schedule overrun of almost 70%. https://arxiv.org/abs/1304.0265 [V]
+- Anthropic, "Claude takes research to new places," 2025-04-15: Research runs multiple searches that build on each other, covers web plus Google Workspace (Gmail, Calendar, Docs), returns citations; early beta for Max, Team, Enterprise in US, Japan, Brazil. https://claude.com/blog/research [V]
+- Jaźwińska, Klaudia and Chandrasekar, Aisvarya. "AI Search Has a Citation Problem." CJR Tow Center, 2025-03-06: 8 generative search tools, 1,600 queries; incorrect answers to more than 60% of queries; range 37% (Perplexity) to 94% (Grok 3); ChatGPT signaled low confidence 15 times in 200 responses and never declined. https://www.cjr.org/tow_center/we-compared-eight-ai-search-engines-theyre-all-bad-at-citing-news.php [V]
+- OpenAI "Introducing deep research," 2025-02-02 (Wikipedia gives Feb 3). Agent for multi-step research; built on o3. Page returned 403 to fetch; limitations text (hallucination, authoritative vs rumor, confidence calibration) recalled, not verified. https://openai.com/index/introducing-deep-research/ [S]
+- Dunford, April. Obviously Awesome (2019). Five components: competitive alternatives, unique attributes, value (and proof), target customer characteristics (best-fit customers), market category. Start with "what would customers do if we didn't exist?" Do nothing is often the main alternative. [S, via summaries; book itself U]
+- Clozd, "Keys to Successful Win-Loss Analysis" (Clozd Team, modified 2026-04-20): executive sponsorship; ongoing program not one-time project; neutral third party (politeness bias); interviews over surveys; balanced sampling of wins and losses matching pipeline, stratified by segment or ACV. https://clozd.com/blog/win-loss-analysis-keys-to-success [V]
+- Moore, Geoffrey. Crossing the Chasm (1991; 3rd ed. 2014). Beachhead segment, bowling-pin sequence of adjacent segments, whole product, references. Market Development Strategy Checklist items recalled from the book (target customer, compelling reason to buy, whole product, partners and allies, distribution, pricing, competition, positioning, next target customer) [U: verify against book].
+- Crayon, "2025 State of Competitive Intelligence" landing page: sellers go head-to-head with competitors in 68% of deals; teams rate competitive readiness 3.8 of 10; 52% of compete programs lack a sales executive sponsor; 44% lack competitor visibility in CRM; 76% YoY increase in AI adoption by compete teams; 60% use AI daily; top AI uses: summarizing content and analyzing large data volumes. Sample "hundreds" of PMMs, CI pros, enablement leaders (vendor survey, no n). https://www.crayon.co/state-of-competitive-intelligence-2025 [V on vendor page; vendor survey, treat as directional]
+- Klue, Compete Agent launch (mid-2025; June or July, sources differ): AI agent pulling CRM, call recordings and public web, delivering deal-specific competitive insight in email, Slack, Teams, Salesforce. https://klue.com/blog/klue-launches-compete-agent [S, month unverified]
+- Christensen, Clayton, Hall, Taddy, Dillon, Karen and Duncan, David. "Know Your Customers' Jobs to Be Done." HBR, September 2016; book Competing Against Luck (HarperBusiness, 2016). Customers hire a product to make progress; frame competition by job, not category. [V bibliographic]
+- Klein, Gary. "Performing a Project Premortem." HBR, September 2007. Cites Mitchell, Russo and Pennington (1989): prospective hindsight increases ability to identify reasons for future outcomes by 30%. Defensible reading: more reasons generated, not proven more accurate. [S]
+- Kahneman and Lovallo, inside view vs outside view (Management Science 1993, "Timid choices and bold forecasts"); Lovallo and Kahneman, "Delusions of Success," HBR July 2003: reference class forecasting in three steps (pick reference class, get distribution of outcomes, position the project in it). [S]
+- Gallo, Amy. "A Refresher on Net Present Value." HBR, 2014-11-19. Time value of money basis. https://hbr.org/2014/11/a-refresher-on-net-present-value [V, thin]
+- SEC press release 2024-36, 2024-03-18: first "AI washing" actions; Delphia (USA) and Global Predictions settled for $400,000 combined penalties for false AI claims. https://www.sec.gov/newsroom/press-releases/2024-36 [V]
+- Anthropic, "Introducing the Model Context Protocol," 2024-11-25: open standard to connect AI assistants to data sources and business tools. https://www.anthropic.com/news/model-context-protocol [V]
+- Porter 2008, verified on full-text reprint (IBM-hosted copy of the HBR article). Substitutes "are always present, but they are easy to overlook"; doing without, buying used, or doing it yourself (bringing it in-house) all count as substitutes. "Factors, not forces": industry growth rate, technology and innovation, government, complements are not extra forces; trace their effect through the five. Defining the relevant industry: two dimensions, product scope and geographic scope; too broad or too narrow both cause errors. Common pitfalls box (seven items, listed in section A). https://public.dhe.ibm.com/software/data/sw-library/cognos/pdfs/articles/art_the_five_competitive_forces_that_shape_strategy.pdf [V]
+- Klue blog, 2025-06-10: Compete Agent gathers intel from open web, recorded sales calls, win-loss interviews and internal files; keeps competitor profiles current; flags rivals in live deals; answers questions in Slack. https://klue.com/blog/klue-launches-compete-agent [V vendor]
+
+Note: web search budget for the session ran out after about 25 searches; a few items below remain [S] or [U] and are flagged in section F.
+
+---
+
+## A. Key concepts and frameworks
+
+### A1. Market sizing: TAM, SAM, SOM
+
+- Definitions (practitioner convention, no single originator; the acronyms spread through venture and startup practice, popularized in the customer development and lean startup literature). TAM: total revenue if every possible buyer of the job bought the solution. SAM: the part of TAM your product, channels, geographies, compliance posture and integrations can actually serve today. SOM: the part of SAM you can realistically win in a stated period given sales capacity, win rates and competition.
+- Top-down: start from an analyst or industry total and narrow by percentages. Fast, good for a sanity ceiling, weak because each filter percentage is usually a guess and the base figure often counts a different category.
+- Bottom-up: count real accounts that fit the ideal customer profile, multiply by realistic annual price (or by units of value consumed times unit price). Slower, but each input is checkable and maps to how sales and finance plan.
+- Value-theory or job-based sizing (complement to both): size the spend or cost of the job today, including people time and the status quo, then ask what share a product can capture. Ties to Christensen's jobs framing.
+- Triangulate: run top-down and bottom-up; if they land within the same order of magnitude you have a defensible range; if not, find the assumption that breaks.
+- Common errors (practitioner consensus, several secondary sources [S]): calling TAM your SAM; top-down only; SOM as "we take X% of a huge market" instead of capacity-driven; vague market boundaries (Porter's too-broad or too-narrow industry definition applies); spending most effort on TAM and little on SOM; double counting across segments; mixing one-time and recurring revenue; using a market report whose category definition differs from yours; ignoring price compression when AI changes unit economics.
+- PM application: in B2B and platform businesses, SOM should be built from the go-to-market model: number of reps or partners, ramp, pipeline per rep, win rate, average contract value, expansion via net revenue retention. The market sizing worksheet should show every input, its source, its confidence, and who owns it.
+- Market sizing worksheet format (proposed for the chapter): columns = Segment | Definition (firmographic filters) | Account count | Source and date | Confidence (H/M/L) | Annual value per account | Basis for value | Serviceable? (Y/N and why) | Reachable in 3 years | Notes. Rows sum to TAM, SAM, SOM with a short "what would have to be true" line for each.
+
+### A2. Segmentation and beachhead
+
+- Moore (Crossing the Chasm, 1991; 3rd ed. 2014): pick one beachhead segment narrow enough to dominate, deliver the whole product for it, win references, then move to adjacent segments like bowling pins. Segment by shared need and word of mouth, not by firmographics alone.
+- Christensen et al. (HBR 2016; Competing Against Luck 2016): segment by job to be done and circumstance; nonconsumers are part of the market.
+- Dunford (Obviously Awesome, 2019) [S]: best-fit customers are those who close fast, get the value quickly, retain and refer; target customer characteristics are a positioning component.
+- PM application: segment by trigger and job (for example, "teams with more than N production services and a recent major outage") and by buying motion (direct enterprise vs partner-led mid-market). Each segment gets its own sizing row, its own competitive set, and its own win rate.
+
+### A3. Competitive analysis
+
+- Competitive set has four layers: direct (same category, same buyer), indirect (different category, same job or budget), substitutes (different way of doing the job, including building in-house), and do-nothing (status quo, delay, indecision). Porter explicitly counts "doing without" and "doing it yourself" as substitutes [V].
+- Do-nothing evidence: Dixon and McKenna (The JOLT Effect, 2022): 40 to 60% of lost deals end in no decision, from about 2.5 million recorded sales conversations [V on authors' affiliated firm site]. Their split between buyer indecision and status quo preference is reported only in secondary sources [S]. JOLT: Judge the level of indecision, Offer your recommendation, Limit the exploration, Take risk off the table.
+- Porter's Five Forces as lens (Porter, HBR 1979 and 2008 update) [V]: rivalry among existing competitors, threat of new entrants, bargaining power of buyers, bargaining power of suppliers, threat of substitutes. Industry structure determines how value is split. Factors, not forces: growth rate, technology, government, complements. Pitfalls box (paraphrased): defining the industry too broadly or narrowly; making lists instead of analysis; giving every force equal attention; confusing effect (price sensitivity) with cause (buyer economics); static analysis that ignores trends; mistaking cyclical change for structural change; using the framework to label an industry good or bad instead of to guide choices.
+- PM application of Five Forces: use it to explain margin and pricing power, not to fill a slide. For AI products in 2026, supplier power includes model providers (inference cost sets gross margin); substitutes include general-purpose AI harnesses with connectors that let a buyer assemble a "good enough" agent in-house.
+- Positioning link (Dunford [S]): start competitive work with "what would the customer do if we did not exist?" Unique attributes only count relative to those alternatives.
+- Competitive landscape map: two axes chosen because buyers decide on them (not because they flatter you), for example "breadth of data sources" vs "depth of automated action." Plot direct, indirect and substitute players plus status quo. Add a third dimension with bubble size (installed base or funding) only when sourced. Date-stamp the map.
+- Competitor profile format (proposed): Snapshot (who, size, funding or segment revenue, sourced) | Target customer and segments | Product and roadmap signals (dated, sourced) | Pricing and packaging | Go-to-market and partners | Strengths | Weaknesses | Where they win against us, where we win | Likely next move | Sources and last-verified date | Confidence.
+- Battlecard format (sales-facing, one page; practitioner convention from CI vendors such as Crayon and Klue): Why we win (three points with proof) | Their pitch in their words | Landmines to set (questions that expose their gaps) | Objection handling (objection, response, proof) | Quick dismisses | Pricing guidance | Customer proof (references, logos with permission) | Do not say (claims we cannot prove) | Owner and last updated. Rule: every claim traceable to a source; no disparagement; refresh on a cadence.
+- Win/loss analysis (Clozd [V vendor]): executive sponsor; ongoing program not one-off; neutral interviewer to beat politeness bias; interviews over surveys; balanced sample of wins and losses matching the pipeline, stratified by segment and deal size. PM additions: include no-decision outcomes and churn; code reasons into a stable taxonomy (product gap, price, trust or risk, timing, relationship, competitor strength, status quo); separate stated reasons from evidence in call recordings and CRM; report themes with counts and quotes, and feed them to roadmap and positioning.
+- Win/loss analysis report format (proposed): Period and sample (wins, losses, no-decisions by segment) | Win rate trend | Top reasons won | Top reasons lost | Competitor-specific patterns | No-decision patterns | Buyer quotes (paraphrase or short) | Product implications | GTM implications | Actions with owners.
+
+### A4. The business case finance signs
+
+- Structure (proposed, consistent with standard corporate finance practice): Decision requested | Problem and opportunity | Options considered (including do nothing) | Recommended option | Assumptions register | Financial model summary (revenue, cost, margin, investment, NPV, payback, IRR if finance uses it) | Scenarios (downside, base, upside) | Sensitivity (which three assumptions move the answer most) | Risks and mitigations | Milestones and kill criteria | Ask (people, money, time).
+- Assumptions register (proposed): ID | Assumption | Value | Source or evidence | Confidence | Owner | How we will test it | Date.
+- NPV and time value of money: a dollar now is worth more than a dollar later (Gallo, HBR 2014 [V]). The discount rate (hurdle rate) is finance's call; PMs should ask FP&A for it rather than pick one. Payback period is popular with executives because it is simple, but it ignores value after payback and the time value of money; show both.
+- Scenarios vs sensitivity: scenarios change several linked assumptions together to tell a coherent story; sensitivity flexes one assumption at a time to find which ones matter. Present the sensitivity as a ranked list ("tornado" ordering) so the debate goes to the assumptions that move the answer.
+- Outside view (Kahneman and Lovallo 1993; Lovallo and Kahneman HBR 2003 [S]; Flyvbjerg's reference class forecasting): anchor estimates on outcomes of comparable past projects, then adjust. Flyvbjerg and Budzier (1,471 IT projects): average cost overrun 27%, one in six a "black swan" with average cost overrun of 200% and schedule overrun of almost 70% [V]. Implication: put the fat tail in the risk section, and show finance a downside that reflects it.
+- Premortem (Klein, HBR 2007 [S]): imagine the initiative failed and list why; use it to populate the risks section.
+- Working with FP&A: bring them in before the model is final; agree on the driver tree, the discount rate, the cost allocation rules (shared engineering, inference, support) and the revenue recognition treatment; let FP&A own the model's mechanics while the PM owns the assumptions and the evidence behind them. Track actuals against the case after launch so the next case is believed. (Practice synthesis, no single source.)
+- eCornell Business Analytics certificate (Cornell Dyson) covers descriptive, predictive and prescriptive analytics in spreadsheets [S]. The chapter should keep the decision logic (drivers, scenarios, sensitivity, forecasting, optimization framing) and drop the mechanics, per the book's AI-first rule.
+
+### A5. AI harnesses for market research and competitive monitoring (2026)
+
+- What the harness does well: gather and summarize public sources (filings, pricing pages, release notes, job posts, reviews), draft profiles and battlecards, cluster win/loss transcripts, draft sizing worksheets with cited inputs, monitor competitor changes on a schedule via connectors (CRM, call recordings, docs, chat).
+- What it does badly: citation accuracy and confidence calibration (see CJR Tow Center 2025), counting things (account counts), separating authoritative data from rumor, and staying inside your category definition.
+- Verification protocol (proposed): every number needs a source URL and date; open the source and confirm the number and its definition; reject figures with no primary source or tag them; ask the harness for the evidence table before the narrative; cross-check sizing inputs with a second method; never put a competitor claim on a battlecard that a person has not verified on a primary source; watch for "AI washing" claims in competitor marketing (SEC 2024 actions show such claims can be false).
+
+## B. Verified facts (with URL and date)
+
+1. [V] Porter's 2008 HBR article updates his 1979 article; five forces; substitutes include doing without and doing it yourself; growth rate, technology, government and complements are "factors, not forces." Porter, HBR, January 2008. https://hbr.org/2008/01/the-five-competitive-forces-that-shape-strategy
+2. [V] 40 to 60% of lost deals end in no decision; dataset of about 2.5 million recorded sales conversations. Challenger Inc, 2024-02-22. https://challengerinc.com/losing-to-customer-indecision/
+3. [V] 1,471 IT projects; average cost overrun 27%; one in six a black swan with 200% average cost overrun and almost 70% schedule overrun. Flyvbjerg and Budzier, HBR September 2011; arXiv 2013. https://arxiv.org/abs/1304.0265
+4. [V] Eight AI search tools, 1,600 queries, incorrect answers to more than 60% of queries; range 37% to 94%. CJR Tow Center, 2025-03-06. https://www.cjr.org/tow_center/we-compared-eight-ai-search-engines-theyre-all-bad-at-citing-news.php
+5. [V] Claude Research launched 2025-04-15: multiple searches building on each other, web plus Google Workspace, citations. https://claude.com/blog/research
+6. [V] Model Context Protocol announced 2024-11-25 as an open standard for connecting AI assistants to data sources and tools. https://www.anthropic.com/news/model-context-protocol
+7. [V] SEC first AI-washing enforcement, 2024-03-18: Delphia and Global Predictions, $400,000 combined penalties. https://www.sec.gov/newsroom/press-releases/2024-36
+8. [V vendor survey] Crayon 2025: competitors present in 68% of deals; 60% of compete teams use AI daily; 76% YoY rise in AI adoption; 44% lack competitor visibility in CRM. https://www.crayon.co/state-of-competitive-intelligence-2025
+9. [V vendor] Klue Compete Agent launched 2025-06-10. https://klue.com/blog/klue-launches-compete-agent
+10. [V vendor] Clozd five keys to win-loss: sponsorship, ongoing program, neutral third party, interviews over surveys, balanced sampling. https://clozd.com/blog/win-loss-analysis-keys-to-success
+11. [S] OpenAI deep research announced 2025-02-02 (some sources say Feb 3), built on o3. https://openai.com/index/introducing-deep-research/
+12. [S] Klein premortem, HBR September 2007; cites a 30% gain from prospective hindsight (Mitchell, Russo, Pennington 1989).
+
+## C. Short quotes (under 15 words)
+
+1. Porter: substitutes "are always present, but they are easy to overlook" (HBR, 2008).
+2. Porter: competition for profits "goes beyond established industry rivals" (HBR, 2008).
+3. Flyvbjerg and Budzier: "Fully one in six of the projects in the sample was a Black Swan" (arXiv abstract, 2013).
+4. Challenger on JOLT research: "around half (40-60%) of all lost deals ended in no decision" (2024). Note: book uses digits with a hyphen; render "40 to 60%" in prose.
+5. Gallo: money in hand now "is more valuable than money you collect later on" (HBR, 2014).
+
+## D. 2025 to 2026 AI-era developments
+
+- Deep research agents became mainstream: OpenAI deep research (Feb 2025 [S]), Claude Research (Apr 2025 [V]). They run multistep searches and return cited reports. For PMs this collapses desk research from days to hours but shifts the work to verification.
+- Citation reliability is the weak point: Tow Center (Mar 2025 [V]) found confident wrong answers and wrong or missing citations across eight tools. The chapter should teach a verify-before-use rule, not "trust the citations."
+- Connectors and MCP (Nov 2024 onward [V]) let a harness read CRM, call recordings, win/loss notes and docs, so competitive monitoring and win/loss coding can run continuously inside the company's own data.
+- CI vendors shipped agents: Klue Compete Agent (June 2025 [V vendor]); Crayon reports 60% of compete teams use AI daily (2025 [V vendor survey]). Vendors also market AI win-loss interviewers (Klue homepage, 2026 [S]).
+- AI changes market structure itself: AI features compress price in some categories and shift supplier power to model providers (inference cost). A 2026 business case for an AI feature must model inference cost per unit of value and its trend. (Synthesis; Beacon's 81% to 72% gross margin drop is the case illustration.)
+- Regulatory pressure on claims: SEC AI-washing actions (Mar 2024 [V]) are a reminder to verify competitor AI claims and to keep one's own battlecards free of unprovable AI claims.
+
+## E. Beacon worked example ideas (consistent with beacon-case.md)
+
+- Sizing Beacon Agents with per-resolved-incident pricing: bottom-up rows by segment (direct enterprise with SRE teams; MSP-served mid-market via partners like Leo). Inputs: accounts in ICP, incidents per month per account, share of incidents Beacon can help resolve, price per resolved incident. All numbers fictional and labeled as such in the chapter. Compare with a top-down "AIOps market" figure and show why the top-down category is the wrong boundary (it mixes observability bundles with agents).
+- The SAM fork: SAM if Beacon only works on Northlight Observe data vs SAM if tool-agnostic via connectors and MCP servers. This is the strategic tension in the bible; the sizing worksheet makes the trade concrete (larger SAM, lower win rate, higher integration cost).
+- SOM from capacity: Beacon has about 420 customers and $48M ARR (average about $114K per customer, derived) growing 38%, NRR 118%. SOM built from rep and partner capacity, win rates by segment, and expansion through NRR, not "x% of the market."
+- Competitive set for Beacon: direct (ops-agent startups); indirect (AIOps features in large observability platforms, incident-management tools adding AI); substitutes (a general AI harness plus MCP connectors assembled by the customer's own platform team, in-house scripts); do-nothing (humans plus runbooks plus chat, which the bible names as the main alternative).
+- Five Forces on the ops-agent market: buyer power high (platform consolidation, Marcus wants an ROI story); supplier power rising (model providers; inference drove gross margin from 81% to 72%); substitutes strong (do-it-yourself agents); entrants many (startups); rivalry shaped by platforms bundling AI. Lesson: the strongest forces are supplier power and substitutes, which is why per-resolved-incident pricing and evals-backed trust matter.
+- Landscape map axes: "breadth of tool coverage (single platform to tool-agnostic)" vs "depth of action (summarize, diagnose, supervised remediation, autonomous)."
+- Battlecard vs "observability platform with built-in AIOps": why we win (tool-agnostic, cited evidence, human approval gate, audit log for Sam); landmines ("Can it act on systems outside its own platform?"); do-not-say (no unverified MTTR claims).
+- Battlecard vs do-nothing: JOLT applied; take risk off the table with allowlisted low-risk actions and approval gates; offer a recommendation (start with Correlate and Diagnose).
+- Win/loss: a quarter's sample shows no-decision as the top loss reason in mid-market, and the hallucinated root-cause incident appearing as a trust objection in enterprise losses. Use the harness to code transcripts, then a human verifies a sample.
+- Business case: per-resolved-incident pricing or the Beacon Agents launch at Northlight Live. Assumptions register includes autonomous resolution rate, diagnosis acceptance rate, inference cost per incident, migration from Beacon Classic. Scenarios; sensitivity shows inference cost and acceptance rate move NPV most. Work with FP&A on inference cost allocation and revenue recognition for usage pricing. Outside view: use Northlight's own past launches (Desk, Observe features) as reference class; apply the Flyvbjerg fat-tail warning to the integration effort.
+- AI harness demo prompt shapes (no tool click-paths): "Build an evidence table of every public pricing change by these five competitors in the last 12 months, with URL, date and quote; flag anything without a primary source." "Code these 40 loss interviews against this reason taxonomy; return counts and two supporting excerpts per code."
+
+## F. Editorial flags
+
+- JOLT figures: verified only on Challenger's site (authors' affiliated firm). Some secondary sources say "40 to 60% of all deals" rather than "of lost deals"; use "of lost deals." The status-quo vs indecision split (often cited as under half, or 56% wanted to change) is [S]; do not use unless verified in the book.
+- OpenAI deep research date (Feb 2 vs Feb 3, 2025) and its stated limitations text are [S]; page returned 403.
+- Klein premortem 30% figure: commonly misquoted as accuracy; use "generated more reasons" or omit.
+- Lovallo and Kahneman 2003 HBR article not read in original [S].
+- Dunford components and quote ("lose half of our deals to do nothing") are [S] from summaries; Dunford has said her thinking on alternatives evolved after the first edition. Attribute concept only.
+- Moore's Market Development Strategy Checklist items are from memory [U].
+- Crayon and Klue numbers are vendor surveys or vendor claims; label as such or omit. Crayon's 2025 sample size not disclosed. Crayon 2026 report exists but was not read.
+- No authoritative originator for TAM/SAM/SOM; present as practitioner convention.
+- Common sizing errors list is practitioner consensus from secondary sources, not a study.
+- eCornell course detail [S]; the book should not cite it (self-contained rule) but can mirror its decision-analytics scope.
+- Search budget ran out; not covered with verified sources: Gartner data on B2B buyer time with suppliers and buyer use of genAI; Gemini Deep Research launch date; formal sensitivity or tornado method source. Present these as practice without numbers.
+- The "Beacon average ARR per customer about $114K" is a derived figure from the bible; confirm the author is happy to state it.

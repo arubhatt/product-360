@@ -1,0 +1,42 @@
+- Ries, Eric. *The Lean Startup*. Crown Business, 2011. Leap-of-faith assumptions; value and growth hypotheses.
+- Maurya, Ash. Lean Canvas. LEANSpark (leancanvas.com), 2010 (page current). <https://leanspark.ai/leancanvas> Canvas boxes and BMC adaptation.
+- Maurya, Ash. *Running Lean*, 3rd ed. O'Reilly, 2022 [U]. Fill order and problem interviews.
+- Gothelf, J. and Seiden, J. *Lean UX*, 3rd ed. O'Reilly, 2021 [U]. Hypothesis statements; Lean UX Canvas.
+- Gothelf, Jeff. Using Proto-Personas for Executive Alignment. UX Magazine, 2012. <https://uxmag.com/articles/using-proto-personas-for-executive-alignment> Proto-persona template and workshop.
+- Bland, D. J. and Osterwalder, A. *Testing Business Ideas*. Wiley, 2019. Assumption mapping; desirability, feasibility, viability.
+- Huryn, Pawel. Assumption Prioritization Canvas. Product Compass, n.d. <https://www.productcompass.pm/p/assumption-prioritization-canvas> Critique of Bland's 2x2.
+- Cagan, Marty. Assessing Product Opportunities. SVPG, 2006. <https://www.svpg.com/assessing-product-opportunities/> Ten questions.
+- Cagan, Marty. *Inspired*, 2nd ed. Wiley, 2017. Later view on opportunity assessment.
+- Christensen, C., Hall, T., Dillon, K., Duncan, D. Know Your Customers' "Jobs to Be Done". *Harvard Business Review*, 2016. <https://hbr.org/2016/09/know-your-customers-jobs-to-be-done> Canonical JTBD article; milkshake.
+- Christensen, C. et al. *Competing Against Luck*. HarperBusiness, 2016. Book-length jobs theory.
+- Moesta, B. and Spiek, C. The Four Forces. jobstobedone.org, n.d. <https://jobstobedone.org/the-four-forces/> Forces of progress.
+- Moesta, Bob. *Demand-Side Sales 101*. Lioncrest, 2020 [U]. Switch timeline; buyer-side JTBD for B2B.
+- Bettencourt, L. and Ulwick, A. The Customer-Centered Innovation Map. *HBR*, 2008. <https://hbr.org/2008/05/the-customer-centered-innovation-map> Universal job map.
+- Ulwick, Anthony. *What Customers Want*. McGraw-Hill, 2005. ODI; outcome statements; opportunity algorithm.
+- Strategyn. Quantify Your Customers' Unmet Needs. strategyn.com, n.d. <https://strategyn.com/quantify-your-customers-unmet-needs/> Opportunity algorithm.
+- Klement, Alan. Designing Features Using Job Stories. Intercom blog, 2013. <https://www.intercom.com/blog/using-job-stories-design-features-ui-ux/> Job stories vs personas and user stories.
+- Klement, Alan. *When Coffee and Kale Compete*. self-published, 2016 [U]. Progress-making JTBD.
+- Cooper, Alan. *The Inmates Are Running the Asylum*. Sams, 1998/1999 [U]. First published use of personas.
+- Pruitt, J. and Grudin, J. Personas: Practice and Theory. DUX 2003 / Microsoft Research, 2003. <https://www.microsoft.com/en-us/research/publication/personas-practice-theory/> Why personas work.
+- Pruitt, J. and Adlin, T. *The Persona Lifecycle*. Morgan Kaufmann, 2006. Five-phase lifecycle.
+- Laubheimer, Page. 3 Persona Types. NN/g, 2020. <https://www.nngroup.com/articles/persona-types/> Proto, qualitative, statistical.
+- Webster, F. and Wind, Y. A General Model for Understanding Organizational Buying Behavior. *Journal of Marketing*, 1972. Buying center roles.
+- Miller, R. and Heiman, S. *Strategic Selling*. Morrow / Warner, 1985 [U]. Economic, user, technical buyer; coach.
+- Gartner. Gartner Says the Marketing-to-Sales Handoff Should No Longer Exist. Gartner Newsroom, 2018. <https://www.gartner.com/en/newsroom/press-releases/2018-10-09-gartner-says-the-marketing-to-sales-handoff-should-no-longer-exist> Six B2B buying jobs.
+- Gartner. 61% of B2B Buyers Prefer a Rep-Free Buying Experience. Gartner Newsroom, 2025. <https://www.gartner.com/en/newsroom/press-releases/2025-06-25-gartner-sales-survey-finds-61-percent-of-b2b-buyers-prefer-a-rep-free-buying-experience> Self-serve preference.
+- Gartner. 69% of B2B Buyers Turn to Sales Reps to Validate AI-Generated Insights. Gartner Newsroom, 2026. <https://www.gartner.com/en/newsroom/press-releases/2026-05-20-gartner-survey-finds-sixty-nine-percent-of-b-two-b-buyers-turn-to-sales-reps-to-validate-ai-generated-insights> AI in the buying journey.
+- Gibbons, Sarah. Journey Mapping 101. NN/g, 2018 (rev. 2026). <https://www.nngroup.com/articles/journey-mapping-101/> Journey map anatomy.
+- Gibbons, Sarah. Service Blueprints: Definition. NN/g, 2017 (rev. 2026). <https://www.nngroup.com/articles/service-blueprints-definition/> Blueprint lines and rows.
+- Shostack, G. Lynn. Designing Services That Deliver. *HBR*, 1984. Origin of service blueprinting.
+- Fitzpatrick, Rob. *The Mom Test*. self-published, 2013. Three interview rules.
+- Torres, Teresa. *Continuous Discovery Habits*. Product Talk LLC, 2021 [U]. Weekly touchpoints; OST.
+- Torres, Teresa. Opportunity Solution Trees. ProductTalk, 2023. <https://www.producttalk.org/opportunity-solution-tree/> OST levels.
+- Torres, Teresa. Interview Snapshots. ProductTalk, 2024. <https://www.producttalk.org/interview-snapshot/> Snapshot fields.
+- Portigal, Steve. *Interviewing Users*, 2nd ed. Rosenfeld Media, 2023. <https://rosenfeldmedia.com/books/interviewing-users-second-edition/> Interview craft.
+- Rosala, M. and Moran, K. Synthetic Users: If, When, and How to Use AI-Generated "Research". NN/g, 2024. <https://www.nngroup.com/articles/synthetic-users/> Core critique and acceptable uses.
+- Banawa, Rachel. Synthetic Users vs. Human Respondents. NN/g, 2026. <https://www.nngroup.com/articles/synthetic-users-vs-human-respondents/> Empirical comparison; mode collapse.
+- Moran, K. and Rosala, M. Accelerating Research with AI. NN/g, 2024 (rev. 2026). <https://www.nngroup.com/articles/research-with-ai/> Where AI helps in research.
+- Liu, F. and Moran, K. AI-Powered Tools for UX Research: Issues and Limitations. NN/g, 2023. <https://www.nngroup.com/articles/ai-powered-tools-limitations/> Early tool evaluation.
+- User Interviews. The State of User Research 2025. userinterviews.com, 2025. <https://www.userinterviews.com/state-of-user-research-2025-report> AI adoption among researchers.
+- Park, J. S. et al. Generative Agent Simulations of 1,000 People. arXiv 2411.10109, 2024. <https://arxiv.org/abs/2411.10109> Interview-grounded agents; 85% normalized accuracy.
+- Brand, J., Israeli, A., Ngwe, D. Using GPT for Market Research. HBS Working Paper 23-062, 2023. <https://www.hbs.edu/ris/Publication%20Files/23-062_47458a4a-8be2-4b53-a3a3-9b5af20578b1.pdf> LLM WTP estimates.

@@ -1,0 +1,25 @@
+- Klau, R. Reliable Product Launches at Scale (Site Reliability Engineering, ch. 27). Google and O'Reilly, 2016. <https://sre.google/sre-book/reliable-product-launches/> Launch definition, launch coordination engineering, readiness checklist categories and staged rollout.
+- Lunney, J. and Lueder, S. Postmortem Culture: Learning from Failure (Site Reliability Engineering, ch. 15). Google and O'Reilly, 2016. <https://sre.google/sre-book/postmortem-culture/> Blameless review format and triggers, adapted for the post-launch review.
+- Bryar, C. and Carr, B. An insider look at Amazon's culture and processes (excerpt from Working Backwards). About Amazon, 2021. <https://www.aboutamazon.com/news/workplace/an-insider-look-at-amazons-culture-and-processes> PR/FAQ purpose and length limits.
+- Bryar, C. and Carr, B. Working Backwards PR/FAQ Instructions and Template. workingbackwards.com, 2021. <https://workingbackwards.com/resources/working-backwards-pr-faq/> Press release section order and external versus internal FAQ questions.
+- GitHub. Exploring early access releases with feature preview. GitHub Docs, 2026. <https://docs.github.com/en/get-started/using-github/exploring-early-access-releases-with-feature-preview> Private preview, public preview and GA definitions.
+- GitLab. Support for Experiment, Beta, and Generally Available features. GitLab Docs, 2026. <https://docs.gitlab.com/policy/development_stages_support/> Limited availability versus GA definitions, support and SLA by stage.
+- Amazon Web Services. AWS Service Terms, Section 2 Betas and Previews. AWS, 2026. <https://aws.amazon.com/service-terms/> Contractual terms of preview programs: no SLA, confidentiality, access ending at GA.
+- Microsoft. Supplemental Terms of Use for Microsoft Azure Previews. Microsoft, 2026. <https://azure.microsoft.com/en-us/support/legal/preview-supplemental-terms/> Early access preview terms and generative AI preview data handling.
+- Microsoft. Frontier program for Microsoft 365 Copilot. Microsoft, 2026. <https://www.microsoft.com/microsoft-365-copilot/frontier-program> Admin opt-in early access for AI agents.
+- Microsoft. Transparency Note for Azure OpenAI. Microsoft Learn, 2026. <https://learn.microsoft.com/en-us/azure/ai-foundry/responsible-ai/openai/transparency-note> Structure of a transparency note as an AI launch artifact.
+- Anthropic. Model deprecations. Claude Platform Docs, 2026. <https://platform.claude.com/docs/en/about-claude/model-deprecations> Model lifecycle stages and 60-day retirement notice.
+- Anthropic. Commitments on model deprecation and preservation. Anthropic, 2025. <https://www.anthropic.com/research/deprecation-commitments> Model retirement treated as a public commitment.
+- Anthropic Engineering. A postmortem of three recent issues. Anthropic, 2025. <https://www.anthropic.com/engineering/a-postmortem-of-three-recent-issues> Silent AI quality regressions and the case for production quality evals.
+- Sato, D. CanaryRelease. martinfowler.com, 2014. <https://martinfowler.com/bliki/CanaryRelease.html> Canary release definition and separation from A/B testing.
+- Hodgson, P. Feature Toggles (aka Feature Flags). martinfowler.com, 2017. <https://martinfowler.com/articles/feature-toggles.html> Four toggle types and toggle debt.
+- Leach, B. APIs as infrastructure: future-proofing Stripe with versioning. Stripe, 2017. <https://stripe.com/blog/api-versioning> Version pinning and not breaking builders in platform launches.
+- Lacan, O. Keep a Changelog 1.1.0. keepachangelog.com, 2023. <https://keepachangelog.com/en/1.1.0/> Release notes principles and change types.
+- Salesforce. Agentforce announcement. Salesforce Newsroom, 2024. <https://www.salesforce.com/news/press-releases/2024/09/12/agentforce-announcement/> Announce-then-GA pattern for a B2B agent launch, with pricing.
+- Salesforce. Agentforce general availability announcement. Salesforce Newsroom, 2024. <https://www.salesforce.com/news/press-releases/2024/10/29/agentforce-general-availability-announcement/> GA announcement following the event launch.
+- European Union. EU AI Act Article 50, Transparency obligations. artificialintelligenceact.eu, 2024. <https://artificialintelligenceact.eu/article/50/> AI disclosure duties and timing.
+- Colorado General Assembly. SB25B-004 Delay Implementation of Colorado AI Act. Colorado General Assembly, 2025. <https://leg.colorado.gov/bills/sb25b-004> Colorado AI Act effective date of June 30, 2026.
+- Wikipedia contributors. Launch status check. Wikipedia, 2026. <https://en.wikipedia.org/wiki/Launch_status_check> Origin and structure of the go/no-go poll.
+- Wikipedia contributors. GPT-5. Wikipedia, 2026. <https://en.wikipedia.org/wiki/GPT-5> Model removal and reversal as a model change communications lesson.
+- Wikipedia contributors. GPT-4o. Wikipedia, 2026. <https://en.wikipedia.org/wiki/GPT-4o> April 2025 sycophancy rollback.
+- Schneider, J. and Hall, J. Why Most Product Launches Fail. Harvard Business Review, 2011. <https://hbr.org/2011/04/why-most-product-launches-fail> Background only; body not read, not cited for claims.

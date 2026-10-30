@@ -1,0 +1,25 @@
+- Chin, Cedric. The Amazon Weekly Business Review (WBR). Commoncog, 2024. <https://commoncog.com/the-amazon-weekly-business-review/> WBR cadence, exception-driven format, input and output metric ordering and 6-12 graphs.
+- Bezos, Jeff. 2016 Letter to Shareholders. Amazon, 2017. <https://www.aboutamazon.com/news/company-news/2016-letter-to-shareholders> Resist proxies, including process and surveys as proxies.
+- dbt Labs. dbt Semantic Layer. dbt Developer Hub, 2026. <https://docs.getdbt.com/docs/use-dbt-semantic-layer/dbt-sl> Semantic layer concept and governed metrics for AI tools.
+- dbt Labs. About dbt MCP Server. dbt Developer Hub, 2026. <https://docs.getdbt.com/docs/dbt-ai/about-mcp> How an AI harness reaches governed metrics, lineage and freshness through MCP.
+- Stancil, Benn. The Missing Piece of the Modern Data Stack. benn.substack, 2021. <https://benn.substack.com/p/metrics-layer> Origin of the metrics layer argument.
+- Snowflake. Open Semantic Interchange Announcement. Snowflake blog, 2025. <https://www.snowflake.com/en/blog/open-semantic-interchange-ai-standard/> Cross-vendor standard for semantic definitions across AI and BI.
+- Dehghani, Zhamak. Data Mesh Principles and Logical Architecture. martinfowler.com, 2020. <https://martinfowler.com/articles/data-mesh-principles.html> Domain ownership and data as a product.
+- Moses, Barr. What Is Data Observability. Monte Carlo, 2026. <https://montecarlo.ai/blog-what-is-data-observability> Data downtime and the five pillars used as a trust check.
+- Bitol. Open Data Contract Standard. Bitol, 2026. <https://bitol-io.github.io/open-data-contract-standard/latest/> Sections of a data contract used for the inventory template.
+- Lei, Fangyu and others. Spider 2.0: Evaluating Language Models on Real-World Enterprise Text-to-SQL Workflows. arXiv (ICLR 2025), 2025. <https://arxiv.org/abs/2411.07763> Evidence that AI on raw enterprise schemas is unreliable.
+- Sequeda, Juan, Dean Allemang and Bryon Jacob. A Benchmark to Understand the Role of Knowledge Graphs on Large Language Model's Accuracy for Question Answering on Enterprise SQL Databases. arXiv, 2023. <https://arxiv.org/abs/2311.07509> Accuracy gain from adding business context to enterprise data.
+- Anthropic. Introducing the Model Context Protocol. Anthropic, 2024. <https://www.anthropic.com/news/model-context-protocol> MCP definition and launch date.
+- Anthropic. Claude for Financial Services. Anthropic, 2025. <https://www.anthropic.com/news/claude-for-financial-services> Example of warehouse connectors and source-cited answers.
+- OpenTelemetry. Semantic Conventions for Generative AI. OpenTelemetry, 2026. <https://github.com/open-telemetry/semantic-conventions-genai> Shared vocabulary for AI traces, agent spans and MCP.
+- Langfuse. Observability Overview. Langfuse docs, 2026. <https://langfuse.com/docs/observability/overview> Contents of an LLM trace.
+- Grace, Mikaela, Jeremy Hadfield, Rodrigo Olivares and Jiri De Jonghe. Demystifying Evals for AI Agents. Anthropic Engineering, 2026. <https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents> Eval terms, capability versus regression evals.
+- Husain, Hamel and Shreya Shankar. LLM Evals FAQ. hamel.dev, 2026. <https://hamel.dev/blog/posts/evals-faq/> Error analysis and binary judgments for the AI quality report.
+- FinOps Foundation. FinOps for AI Overview. FinOps Foundation, 2026. <https://www.finops.org/wg/finops-for-ai-overview/> AI unit cost metrics for the AI quality and cost report.
+- Marn, Michael V. and Robert L. Rosiello. Managing Price, Gaining Profit. Harvard Business Review, 1992. <https://hbr.org/1992/09/managing-price-gaining-profit> Attribution for the price waterfall idea in the pricing and discount report.
+- Bain and Company. Introducing the Net Promoter System. Bain, 2026. <https://www.bain.com/insights/introducing-the-net-promoter-system-loyalty-insights/> NPS question and calculation.
+- SaaS Capital. SaaS Retention Benchmarks for Private B2B Companies. SaaS Capital, 2025. <https://www.saas-capital.com/research/saas-retention-benchmarks-for-private-b2b-companies/> NRR and GRR definitions showing definitional choices.
+- Pendo. The 2019 Feature Adoption Report. Pendo, 2019. <https://www.pendo.io/resources/the-2019-feature-adoption-report/> Share of features rarely or never used.
+- Gainsight. Customer Health Score. Gainsight, 2026. <https://www.gainsight.com/guides/customer-health-score/> Health score inputs and validation against churn.
+- Gainsight. The Essential Guide to Quarterly Business Reviews. Gainsight, 2026. <https://www.gainsight.com/guides/the-essential-guide-to-quarterly-business-reviews/> Customer QBR structure and metrics.
+- Wikipedia contributors. Goodhart's Law. Wikipedia, 2026. <https://en.wikipedia.org/wiki/Goodhart%27s_law> Goodhart and Strathern formulations (secondary).
