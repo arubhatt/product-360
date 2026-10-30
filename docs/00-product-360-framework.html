@@ -1,0 +1,596 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The Product 360 Framework · The Product 360 Handbook</title>
+<meta name="description" content="The model, the artifact stack and the operating cadence the whole book hangs on.">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Literata:ital,opsz,wght@0,7..72,400;0,7..72,500;0,7..72,600;1,7..72,400&family=JetBrains+Mono:wght@400;500&display=swap">
+<link rel="stylesheet" href="assets/css/book.css?v=1">
+<script>try{var t=localStorage.getItem('p360-theme');if(t)document.documentElement.dataset.theme=t}catch(e){}</script>
+</head>
+<body class="has-rail">
+<div class="progress" aria-hidden="true"><span></span></div>
+<header class="top">
+  <button class="ibtn menu" id="menu-btn" aria-label="Open chapters">☰</button>
+  <a class="brand" href="index.html"><svg class="logo" viewBox="0 0 32 32" aria-hidden="true"><defs><linearGradient id="lg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="var(--a1)"/><stop offset=".5" stop-color="var(--a2)"/><stop offset="1" stop-color="var(--a3)"/></linearGradient></defs><circle cx="16" cy="16" r="12" fill="none" stroke="url(#lg)" stroke-width="4" stroke-dasharray="66 9.4" stroke-linecap="round" transform="rotate(-80 16 16)"/><circle cx="16" cy="16" r="3.2" fill="var(--a2)"/></svg><span class="brand-t">Product <b>360</b></span><span class="brand-s hide-sm">Handbook</span></a>
+  <div class="top-r">
+    <button class="ibtn search-btn" data-search-open aria-label="Search"><svg viewBox="0 0 24 24" width="15" height="15" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4-4"/></svg><span class="hide-sm">Search</span><kbd class="hide-sm">/</kbd></button>
+    
+    <button class="ibtn" id="theme-btn" aria-label="Toggle light and dark"><svg viewBox="0 0 24 24" width="15" height="15" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/></svg></button>
+  </div>
+</header>
+<div class="shell">
+  <aside class="side" id="side"><nav class="nav" aria-label="Chapters"><div class="nav-g"><a class="nav-l" href="preface.html"><span class="nav-n">·</span><span>Preface: How to Use This Book</span></a><a class="nav-l on" href="00-product-360-framework.html"><span class="nav-n">00</span><span>The Product 360 Framework</span></a></div><details class="nav-p"><summary><span class="nav-pm" aria-hidden="true"></span><span class="nav-pn">Part I</span><span class="nav-pt">Product Management</span></summary><a class="nav-l" href="01-product-hypothesis-and-personas.html"><span class="nav-n">01</span><span>Developing a Product Hypothesis and Personas</span></a><a class="nav-l soon" href="02-product-vision-and-goals.html"><span class="nav-n">02</span><span>Product Vision and Goals</span></a><a class="nav-l soon" href="03-product-strategy-and-roadmap.html"><span class="nav-n">03</span><span>Building a Product Strategy and Roadmap</span></a><a class="nav-l soon" href="04-product-prototyping.html"><span class="nav-n">04</span><span>Product Prototyping</span></a><a class="nav-l soon" href="05-product-analytics-and-iteration.html"><span class="nav-n">05</span><span>Product Analytics and Iteration</span></a><a class="nav-l soon" href="06-product-engineering-and-execution.html"><span class="nav-n">06</span><span>Product Engineering and Execution</span></a></details><details class="nav-p"><summary><span class="nav-pm" aria-hidden="true"></span><span class="nav-pn">Part II</span><span class="nav-pt">Technical Product Management</span></summary><a class="nav-l soon" href="07-navigating-technical-product-management.html"><span class="nav-n">07</span><span>Navigating Technical Product Management</span></a><a class="nav-l soon" href="08-data-driven-product-strategy.html"><span class="nav-n">08</span><span>Developing a Data-Driven Product Strategy</span></a><a class="nav-l soon" href="09-optimizing-strategy-with-analytics.html"><span class="nav-n">09</span><span>Optimizing Product Strategy Using Analytics</span></a><a class="nav-l soon" href="10-consumer-insights-and-specifications.html"><span class="nav-n">10</span><span>Consumer Insights and Product Specifications</span></a><a class="nav-l soon" href="11-delivery-methodologies.html"><span class="nav-n">11</span><span>Delivery Methodologies</span></a><a class="nav-l soon" href="12-compelling-value-offering.html"><span class="nav-n">12</span><span>Creating a Compelling Value Offering</span></a></details><details class="nav-p"><summary><span class="nav-pm" aria-hidden="true"></span><span class="nav-pn">Part III</span><span class="nav-pt">Business and Market Strategy</span></summary><a class="nav-l soon" href="13-market-sizing-competition-business-case.html"><span class="nav-n">13</span><span>Market Sizing, Competitive Analysis and the Business Case</span></a><a class="nav-l soon" href="14-digital-platform-strategy.html"><span class="nav-n">14</span><span>Digital Platform Strategy and Network Effects</span></a><a class="nav-l soon" href="15-pricing-and-packaging.html"><span class="nav-n">15</span><span>Pricing and Packaging Strategy</span></a><a class="nav-l soon" href="16-defensibility-and-moats.html"><span class="nav-n">16</span><span>Defensibility and Moats</span></a></details><details class="nav-p"><summary><span class="nav-pm" aria-hidden="true"></span><span class="nav-pn">Part IV</span><span class="nav-pt">Data-Driven Decisions in the AI Era</span></summary><a class="nav-l soon" href="17-questions-that-drive-decisions.html"><span class="nav-n">17</span><span>The Questions That Drive Product Decisions</span></a><a class="nav-l soon" href="18-product-data-landscape-and-reports.html"><span class="nav-n">18</span><span>The Product Data Landscape and the Reports That Matter</span></a><a class="nav-l soon" href="19-ai-native-analysis.html"><span class="nav-n">19</span><span>AI-Native Analysis: Collecting Data and Asking the Harness</span></a></details><details class="nav-p"><summary><span class="nav-pm" aria-hidden="true"></span><span class="nav-pn">Part V</span><span class="nav-pt">Innovation</span></summary><a class="nav-l soon" href="20-innovation-strategy.html"><span class="nav-n">20</span><span>Innovation Strategy and the Innovation Placemat</span></a><a class="nav-l soon" href="21-innovation-competencies.html"><span class="nav-n">21</span><span>Innovation Competencies: Lean Startup, Design Thinking and Maker Culture</span></a><a class="nav-l soon" href="22-innovation-toolkit.html"><span class="nav-n">22</span><span>The Innovation Toolkit</span></a><a class="nav-l soon" href="23-implementing-and-scaling-innovation.html"><span class="nav-n">23</span><span>Implementing, Evaluating and Scaling Innovation</span></a></details><details class="nav-p"><summary><span class="nav-pm" aria-hidden="true"></span><span class="nav-pn">Part VI</span><span class="nav-pt">Go-to-Market: Offers, Announcements and Events</span></summary><a class="nav-l soon" href="24-positioning-messaging-offer.html"><span class="nav-n">24</span><span>Positioning, Messaging and the Offer</span></a><a class="nav-l soon" href="25-launch-management.html"><span class="nav-n">25</span><span>Launch Management</span></a><a class="nav-l soon" href="26-events-keynotes-demos.html"><span class="nav-n">26</span><span>Events, Keynotes and Demos</span></a><a class="nav-l soon" href="27-enablement-and-customer-success.html"><span class="nav-n">27</span><span>Sales Enablement, Customer Success and the Feedback Loop</span></a></details><details class="nav-p"><summary><span class="nav-pm" aria-hidden="true"></span><span class="nav-pn">Part VII</span><span class="nav-pt">Product Operations and Lifecycle Management</span></summary><a class="nav-l soon" href="28-product-operations.html"><span class="nav-n">28</span><span>Product Operations</span></a><a class="nav-l soon" href="29-governance-and-business-reviews.html"><span class="nav-n">29</span><span>Governance and Business Reviews</span></a><a class="nav-l soon" href="30-product-lifecycle-management.html"><span class="nav-n">30</span><span>Product Lifecycle Management</span></a></details><details class="nav-p"><summary><span class="nav-pm" aria-hidden="true"></span><span class="nav-pn">Part VIII</span><span class="nav-pt">AI-Era Product Management</span></summary><a class="nav-l" href="31-building-ai-powered-products.html"><span class="nav-n">31</span><span>Building AI-Powered Products</span></a><a class="nav-l soon" href="32-ai-augmented-product-manager.html"><span class="nav-n">32</span><span>The AI-Augmented Product Manager</span></a><a class="nav-l soon" href="33-responsible-ai-and-regulation.html"><span class="nav-n">33</span><span>Responsible AI and Regulation for PMs</span></a></details><details class="nav-p"><summary><span class="nav-pm" aria-hidden="true"></span><span class="nav-pn">Part IX</span><span class="nav-pt">Influence and Leadership</span></summary><a class="nav-l soon" href="34-persuasive-writing.html"><span class="nav-n">34</span><span>Persuasive Writing for PMs</span></a><a class="nav-l soon" href="35-presentations-and-executive-communication.html"><span class="nav-n">35</span><span>Presentations and Executive Communication</span></a><a class="nav-l soon" href="36-stakeholder-management-and-leadership.html"><span class="nav-n">36</span><span>Stakeholder Management and Product Leadership</span></a></details><details class="nav-p"><summary><span class="nav-pm" aria-hidden="true"></span><span class="nav-pn">Part X</span><span class="nav-pt">Capstone</span></summary><a class="nav-l soon" href="37-building-your-product-360.html"><span class="nav-n">37</span><span>Building Your Product 360</span></a></details><details class="nav-p"><summary><span class="nav-pm" aria-hidden="true"></span><span class="nav-pn">Back</span><span class="nav-pt">Appendices</span></summary><a class="nav-l" href="appendix-a-artifact-library.html"><span class="nav-n">A</span><span>Artifact Library</span></a><a class="nav-l" href="appendix-b-prompt-library.html"><span class="nav-n">B</span><span>Prompt Library</span></a><a class="nav-l soon" href="appendix-c-maturity-model.html"><span class="nav-n">C</span><span>Product 360 Maturity Model</span></a><a class="nav-l soon" href="appendix-d-glossary.html"><span class="nav-n">D</span><span>Glossary</span></a><a class="nav-l" href="appendix-e-course-map.html"><span class="nav-n">E</span><span>Course Map</span></a></details></nav></aside>
+  <div class="scrim" id="scrim"></div>
+  <main class="main" id="main"><article class="ch"><header class="ch-head"><div class="ch-num">00</div><div class="ch-kicker">Front matter</div><h1>The Product 360 Framework</h1><p class="ch-sum">The model, the artifact stack and the operating cadence the whole book hangs on.</p><div class="ch-meta">27 min read · 3 templates · 4 prompts</div></header><div class="prose"><p class="lead">Owning a product means you can answer nine questions about it at any moment, show the artifact that holds each answer, and say when that artifact was last made true. The Product 360 is the model for those nine questions, the stack of artifacts that answers them, and the operating cadence that keeps the answers current.</p>
+
+<h2 id="why-this-matters">Why this matters</h2>
+<p>Most product managers inherit a product the same way: a handoff document, a Jira project, a roadmap slide that is two quarters stale, a Slack channel and a list of people to meet. Somewhere in there is the strategy. Some of it lives in a deck from last year&rsquo;s planning cycle, some in the head of the PM who just left, and some nowhere at all.</p>
+<p>You can run a product like that for a while. Then the questions start arriving faster than you can reconstruct the answers. Sales asks why a competitor&rsquo;s feature isn&rsquo;t on the roadmap. Finance asks why gross margin dropped four points. A customer asks when the legacy version reaches end of support. An executive asks for the three-year view by Friday. Each question gets answered from scratch, slightly differently each time, and the product drifts toward whoever asked most recently.</p>
+<p>A Product 360 fixes this by making the product legible: to you, to your team, to your executives and, in 2026, to the AI tools you work with. It isn&rsquo;t a document. It&rsquo;s a small, connected set of artifacts, each owning one part of the picture, plus a rhythm for updating them. When it works, you stop rebuilding context and start using it.</p>
+<p>This chapter defines the model. Every other chapter in the book goes deep on one part of it, and the Capstone shows you how to build your own.</p>
+<h2 id="what-a-product-manager-is-for">What a product manager is for</h2>
+<p>Before defining the 360, it&rsquo;s worth being precise about the job it serves, because &ldquo;product manager&rdquo; covers wildly different roles across companies.</p>
+<h3 id="the-four-risks">The four risks</h3>
+<p>Marty Cagan&rsquo;s framing from <em>Inspired</em> is still the cleanest starting point. Every product idea carries four risks:</p>
+<ul>
+<li><strong>Value risk</strong>: will customers buy it, or choose to use it?</li>
+<li><strong>Usability risk</strong>: can users figure out how to use it?</li>
+<li><strong>Feasibility risk</strong>: can engineering build it with the time, skills and technology available?</li>
+<li><strong>Business viability risk</strong>: does it work for the rest of the business: sales, marketing, finance, legal, support, partners?</li>
+</ul>
+<p>In Cagan&rsquo;s model, the product manager is accountable for value and viability, the designer for usability, and the tech lead for feasibility. The team owns all four together. That split matters for the 360: the artifacts a PM must own are the ones that answer value and viability questions, and the artifacts the PM must be able to read and challenge are the ones that answer usability and feasibility.</p>
+<p>Cagan&rsquo;s later books push the model up a level. <em>Empowered</em> argues that strong product teams are given problems to solve, not features to build. <em>Transformed</em> describes the &ldquo;product operating model&rdquo;: how a company changes the way it decides what to build (discovery before delivery), how it builds (small, frequent, instrumented releases) and how it chooses problems (strategy and insight rather than a stakeholder wish list). The Product 360 is, among other things, the set of artifacts that makes a product operating model visible.</p>
+<h3 id="three-intersections">Three intersections</h3>
+<p>Martin Eriksson&rsquo;s well-known diagram places product management at the intersection of business, technology and user experience. It&rsquo;s a useful reminder that a PM who lives entirely in one circle stops doing the job. A PM who only talks to engineers becomes a project manager. One who only talks to sales becomes a feature broker. One who only talks to designers loses the business case.</p>
+<p>The 360 enforces the intersection structurally. You can&rsquo;t keep it current without regularly touching all three circles.</p>
+<p>Ken Norton adds the part of the job that no diagram captures: a PM leads by influence, without direct reports, and acts as the advocate &ldquo;for whoever isn&rsquo;t currently in the room.&rdquo; Sometimes that&rsquo;s the customer. Sometimes it&rsquo;s engineering, sales or finance. The 360 is how the people who aren&rsquo;t in the room still get represented, because their part of the picture is written down.</p>
+<h3 id="how-ai-is-changing-the-role">How AI is changing the role</h3>
+<p>The PM role is shifting, and the people who defined it are still arguing about how much. In early 2025 Cagan sketched a future in which a typical product team shrinks from about eight people to about three (a PM, a designer and an engineer), with delivery largely automated and discovery becoming the main work. By mid-2026 he had tempered that. In &ldquo;The AI Productivity Paradox&rdquo; he argued that teams using AI to speed up an output-focused process ship more without getting better outcomes, while strong product organizations pull further ahead. A month later he wrote that his earlier optimism about AI turning many more people into strong &ldquo;product creators&rdquo; had been too high: the hard part was never the code, it was knowing what should exist.</p>
+<p>Practitioner data points the same way. A late-2025 survey of about 1,750 tech workers by Lenny Rachitsky and Noam Segal found PMs using AI most for writing PRDs and building prototypes, with nearly two-thirds saving four or more hours a week, and far fewer using it for upstream thinking like research or roadmap choices. Norton&rsquo;s twenty-year retrospective on his own essay makes a similar argument: the human parts of the job (judgment, influence, advocacy) are the least likely to be automated.</p>
+<p>The practical reading for this book: AI makes the artifacts cheaper to produce, so producing artifacts is no longer the job. Knowing which ones matter, making the choices inside them and keeping them true is the job. The Product 360 is built around that.</p>
+<h3 id="three-levels-of-product-work">Three levels of product work</h3>
+<p>Shreyas Doshi distinguishes three levels at which product work happens: <strong>impact</strong> (are we working on the things that will move the business?), <strong>execution</strong> (are we doing those things well?) and <strong>optics</strong> (does it look like we&rsquo;re doing them well?). Teams get into trouble when they argue at different levels. An executive asking an impact question (&ldquo;should we be in this market?&rdquo;) gets an execution answer (&ldquo;we&rsquo;re on track for the March release&rdquo;).</p>
+<p>The Product 360 is organized to keep those levels separate. Strategy artifacts answer impact questions. Plans, specs and metrics answer execution questions. Reviews and communication artifacts handle optics honestly: they&rsquo;re how you show the work without performing it.</p>
+<aside class="callout callout-onramp"><div class="callout-h"><span class="callout-k">On-ramp</span><span class=callout-t>If you&#x27;re new to product management</span></div><p>A PM&rsquo;s job is to decide, with the team, which problems are worth solving and to make sure the solution creates value for customers and the business. You don&rsquo;t need to be the smartest person on any single dimension. You need to be the person who sees all of them at once and makes the tradeoffs explicit. That &ldquo;seeing all of them at once&rdquo; is what a Product 360 is for.</p></aside>
+<h2 id="the-nine-dimensions-of-the-product-360">The nine dimensions of the Product 360</h2>
+<p>The Product 360 divides the product into nine dimensions. Each one answers a question someone will eventually ask you, and each maps to a part of this book.</p>
+<figure class="fig" markdown="0">
+<svg viewBox="0 0 720 300" role="img" aria-label="The nine dimensions of the Product 360 grouped into Direction, Delivery and Durability">
+  <rect x="10" y="10" width="220" height="250" rx="14" class="box"/>
+  <rect x="250" y="10" width="220" height="250" rx="14" class="box"/>
+  <rect x="490" y="10" width="220" height="250" rx="14" class="box"/>
+  <text x="30" y="42" class="t" style="fill:var(--a1)">DIRECTION</text>
+  <text x="30" y="60" class="s">Why and for whom</text>
+  <text x="270" y="42" class="t" style="fill:var(--a2)">DELIVERY</text>
+  <text x="270" y="60" class="s">What and how</text>
+  <text x="510" y="42" class="t" style="fill:var(--a3)">DURABILITY</text>
+  <text x="510" y="60" class="s">How it lasts</text>
+  <g>
+    <rect x="30" y="80" width="180" height="48" rx="10" fill="var(--a1)" fill-opacity=".12" stroke="var(--a1)" stroke-opacity=".5"/><text x="46" y="101" class="t">1 Customer</text><text x="46" y="118" class="s">Who it's for, what job</text>
+    <rect x="30" y="138" width="180" height="48" rx="10" fill="var(--a1)" fill-opacity=".12" stroke="var(--a1)" stroke-opacity=".5"/><text x="46" y="159" class="t">2 Strategy</text><text x="46" y="176" class="s">Where we play, how we win</text>
+    <rect x="30" y="196" width="180" height="48" rx="10" fill="var(--a1)" fill-opacity=".12" stroke="var(--a1)" stroke-opacity=".5"/><text x="46" y="217" class="t">3 Business</text><text x="46" y="234" class="s">How it makes money</text>
+  </g>
+  <g>
+    <rect x="270" y="80" width="180" height="48" rx="10" fill="var(--a2)" fill-opacity=".12" stroke="var(--a2)" stroke-opacity=".5"/><text x="286" y="101" class="t">4 Build</text><text x="286" y="118" class="s">What's next, how it's made</text>
+    <rect x="270" y="138" width="180" height="48" rx="10" fill="var(--a2)" fill-opacity=".12" stroke="var(--a2)" stroke-opacity=".5"/><text x="286" y="159" class="t">5 Measure</text><text x="286" y="176" class="s">How we know it works</text>
+    <rect x="270" y="196" width="180" height="48" rx="10" fill="var(--a2)" fill-opacity=".12" stroke="var(--a2)" stroke-opacity=".5"/><text x="286" y="217" class="t">6 Go-to-market</text><text x="286" y="234" class="s">How it reaches customers</text>
+  </g>
+  <g>
+    <rect x="510" y="80" width="180" height="48" rx="10" fill="var(--a3)" fill-opacity=".12" stroke="var(--a3)" stroke-opacity=".5"/><text x="526" y="101" class="t">7 Operate</text><text x="526" y="118" class="s">How we run it</text>
+    <rect x="510" y="138" width="180" height="48" rx="10" fill="var(--a3)" fill-opacity=".12" stroke="var(--a3)" stroke-opacity=".5"/><text x="526" y="159" class="t">8 Lifecycle</text><text x="526" y="176" class="s">Where it is in its life</text>
+    <rect x="510" y="196" width="180" height="48" rx="10" fill="var(--a3)" fill-opacity=".12" stroke="var(--a3)" stroke-opacity=".5"/><text x="526" y="217" class="t">9 Leadership</text><text x="526" y="234" class="s">Who must be aligned</text>
+  </g>
+  <rect x="10" y="272" width="700" height="24" rx="8" fill="var(--a2)" fill-opacity=".14"/>
+  <text x="360" y="289" text-anchor="middle" class="s" style="fill:var(--text)">AI runs through every dimension: what you build and how you do the work</text>
+</svg>
+<figcaption>The nine dimensions, grouped by the kind of question they answer. AI is not a tenth dimension; it changes all nine.</figcaption>
+</figure>
+
+<div class="tbl"><table>
+<thead>
+<tr>
+<th>Dimension</th>
+<th>The question it answers</th>
+<th>Core artifacts</th>
+<th>Where in this book</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1. Customer</strong></td>
+<td>Who is this for, and what job are they hiring it to do?</td>
+<td>Personas, JTBD statements, journey maps, problem hypothesis, discovery log</td>
+<td>Ch. 01, 10</td>
+</tr>
+<tr>
+<td><strong>2. Strategy</strong></td>
+<td>Where do we play, how do we win, and what will we say no to?</td>
+<td>Vision, strategy one-pager, competitive landscape, platform map</td>
+<td>Ch. 02, 03, 13, 14, 16</td>
+</tr>
+<tr>
+<td><strong>3. Business</strong></td>
+<td>How does this make money, and is the money worth it?</td>
+<td>Business case, pricing and packaging, unit economics model</td>
+<td>Ch. 12, 13, 15</td>
+</tr>
+<tr>
+<td><strong>4. Build</strong></td>
+<td>What are we building next, and how does it get made?</td>
+<td>Roadmap, PRDs and PRFAQs, backlog, release plan</td>
+<td>Ch. 03, 04, 06, 11</td>
+</tr>
+<tr>
+<td><strong>5. Measure</strong></td>
+<td>How do we know it&rsquo;s working?</td>
+<td>North Star and metric tree, OKRs, dashboards, experiment readouts, evals</td>
+<td>Ch. 02, 05, 09, 17–19</td>
+</tr>
+<tr>
+<td><strong>6. Go-to-market</strong></td>
+<td>How does it reach, convince and keep customers?</td>
+<td>Positioning, messaging, launch plans, enablement, announcements</td>
+<td>Ch. 24–27</td>
+</tr>
+<tr>
+<td><strong>7. Operate</strong></td>
+<td>How do we run it week to week?</td>
+<td>Operating cadence, business reviews, decision log, risk register</td>
+<td>Ch. 28, 29</td>
+</tr>
+<tr>
+<td><strong>8. Lifecycle</strong></td>
+<td>Where is it in its life, and what happens next?</td>
+<td>Lifecycle stage assessment, stage-gate criteria, sunset plans</td>
+<td>Ch. 30</td>
+</tr>
+<tr>
+<td><strong>9. Leadership</strong></td>
+<td>Who needs to be aligned, and are they?</td>
+<td>Stakeholder map, DACI, communication plan, team charter</td>
+<td>Ch. 34–36</td>
+</tr>
+</tbody>
+</table></div>
+<p>The nine group into three families. <strong>Direction</strong> (customer, strategy, business) answers why and for whom. <strong>Delivery</strong> (build, measure, go-to-market) answers what and how. <strong>Durability</strong> (operate, lifecycle, leadership) answers how the product keeps working as a business over years, which is the part most PM training skips entirely.</p>
+<aside class="callout callout-key"><div class="callout-h"><span class="callout-k">Key idea</span><span class=callout-t>The test of a Product 360</span></div><p>Pick any of the nine questions. If you can open one artifact, show the answer and say when it was last made true, that dimension is covered. If the answer lives in a meeting, a person or a slide from last year, it isn&rsquo;t.</p></aside>
+<h3 id="why-ai-is-not-a-tenth-dimension">Why AI is not a tenth dimension</h3>
+<p>It would be easy to add &ldquo;AI&rdquo; as a tenth box. That would be a mistake, because in 2026 AI changes every one of the nine, in two different ways.</p>
+<p><strong>AI in the product.</strong> When the product itself is AI-powered, each dimension gets new questions. Customer: how much do users trust an answer they can&rsquo;t verify? Business: what does each inference cost, and does pricing cover it? Build: what&rsquo;s the eval suite, and which model are we on? Measure: how do we measure quality when the output isn&rsquo;t deterministic? Operate: who responds when the model starts producing worse answers after a provider update? Lifecycle: what happens to customers when the underlying model is deprecated? Chapter 31 covers these in depth, and every chapter has an AI lens section for its own dimension.</p>
+<p><strong>AI in the work.</strong> Separately, AI changes how you build and maintain the 360 itself. A harness like Claude, with connectors into your docs, tickets, CRM and analytics, can draft an artifact from raw material, check one artifact against another, and answer questions across the whole set. That only works if the 360 exists in a form the harness can read. Chapter 32 covers this, and the Capstone gives you the prompts.</p>
+<h2 id="the-artifact-stack">The artifact stack</h2>
+<p>A Product 360 is built from artifacts. Not every document is an artifact. An artifact, in this book, is a document with an owner, a purpose, an audience, and an update rhythm. If any of those four is missing, the document will rot.</p>
+<h3 id="three-kinds-of-artifact">Three kinds of artifact</h3>
+<p>Artifacts change at different speeds, and treating them all the same is how teams end up with either a stale strategy or a strategy that changes every week.</p>
+<ul>
+<li><strong>Durable artifacts</strong> change rarely, usually once a year or at a major strategic shift. Vision, strategy one-pager, personas, positioning. If these change monthly, you don&rsquo;t have a strategy; you have a mood.</li>
+<li><strong>Living artifacts</strong> change on a cadence: weekly, monthly or quarterly. Roadmap, metrics dashboard, OKRs, risk register, decision log, competitive landscape. If these go a quarter without an update, they&rsquo;re lying to someone.</li>
+<li><strong>Event artifacts</strong> are created for a specific decision or moment and then archived. PRDs, PRFAQs, launch plans, experiment readouts, business cases, post-launch reviews, sunset plans. They&rsquo;re written once, used intensely, and then become the history that explains why the product looks the way it does.</li>
+</ul>
+<figure class="fig" markdown="0">
+<svg viewBox="0 0 720 250" role="img" aria-label="The artifact stack: durable, living and event artifacts">
+  <rect x="20" y="20" width="680" height="62" rx="12" fill="var(--a1)" fill-opacity=".12" stroke="var(--a1)" stroke-opacity=".5"/>
+  <text x="40" y="46" class="t">Durable · yearly</text>
+  <text x="40" y="66" class="s">Vision · strategy one-pager · personas · positioning · North Star · lifecycle stage</text>
+  <rect x="60" y="94" width="600" height="62" rx="12" fill="var(--a2)" fill-opacity=".12" stroke="var(--a2)" stroke-opacity=".5"/>
+  <text x="80" y="120" class="t">Living · weekly to quarterly</text>
+  <text x="80" y="140" class="s">Roadmap · OKRs · dashboards · competitive landscape · risk register · decision log</text>
+  <rect x="100" y="168" width="520" height="62" rx="12" fill="var(--a3)" fill-opacity=".12" stroke="var(--a3)" stroke-opacity=".5"/>
+  <text x="120" y="194" class="t">Event · per decision or moment</text>
+  <text x="120" y="214" class="s">PRD · PRFAQ · business case · launch plan · experiment readout · sunset plan</text>
+</svg>
+<figcaption>Durable artifacts constrain living ones; living artifacts decide which event artifacts get written. When an event artifact contradicts a durable one, either the event is wrong or the strategy needs to change, and that should be an explicit decision.</figcaption>
+</figure>
+
+<p>The stack has a direction. Durable artifacts constrain living ones: the roadmap should be explainable from the strategy. Living artifacts decide which event artifacts get written: a PRD exists because something made it onto the roadmap. When an event artifact contradicts a durable one (a PRD for a segment the strategy says you don&rsquo;t serve), you&rsquo;ve found either a bad PRD or a strategy that needs revisiting. Both are worth knowing, and the stack makes the conflict visible.</p>
+<h3 id="the-minimum-viable-360">The minimum viable 360</h3>
+<p>The full artifact list in this book runs to about a hundred templates. You won&rsquo;t maintain a hundred documents, and you shouldn&rsquo;t try. Most products need a spine of about twelve, with everything else created when an event calls for it.</p>
+<div class="tbl"><table>
+<thead>
+<tr>
+<th>#</th>
+<th>Artifact</th>
+<th>Kind</th>
+<th>Dimension</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Product 360 index (the home page that links everything)</td>
+<td>Living</td>
+<td>All</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Problem hypothesis and personas</td>
+<td>Durable</td>
+<td>Customer</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Vision and strategy one-pager</td>
+<td>Durable</td>
+<td>Strategy</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Competitive landscape</td>
+<td>Living, quarterly</td>
+<td>Strategy</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Business model and unit economics summary</td>
+<td>Living, quarterly</td>
+<td>Business</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Outcome roadmap (now / next / later)</td>
+<td>Living, monthly</td>
+<td>Build</td>
+</tr>
+<tr>
+<td>7</td>
+<td>North Star and metric tree, with the dashboard</td>
+<td>Living, weekly</td>
+<td>Measure</td>
+</tr>
+<tr>
+<td>8</td>
+<td>OKRs</td>
+<td>Living, quarterly</td>
+<td>Measure</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Positioning and messaging</td>
+<td>Durable</td>
+<td>Go-to-market</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Operating cadence and decision log</td>
+<td>Living, weekly</td>
+<td>Operate</td>
+</tr>
+<tr>
+<td>11</td>
+<td>Lifecycle stage assessment</td>
+<td>Durable, reviewed yearly</td>
+<td>Lifecycle</td>
+</tr>
+<tr>
+<td>12</td>
+<td>Stakeholder map and DACI</td>
+<td>Living, quarterly</td>
+<td>Leadership</td>
+</tr>
+</tbody>
+</table></div>
+<p>If you&rsquo;re building a 360 from nothing, build these twelve first, in roughly this order. The Capstone walks through it in a 30/60/90-day plan.</p>
+<aside class="callout callout-warn"><div class="callout-h"><span class="callout-k">Anti-pattern</span><span class=callout-t>Template theater</span></div><p>The fastest way to kill a Product 360 is to create all hundred templates on day one, fill them with plausible text, and never touch them again. A half-empty 360 that&rsquo;s true is worth more than a complete one that&rsquo;s fiction. Build an artifact when a question demands it, and keep it only if someone uses it.</p></aside>
+<h3 id="where-the-360-lives">Where the 360 lives</h3>
+<p>The 360 needs one home: a single page (the <strong>Product 360 index</strong>) that links every artifact, names its owner and shows when it was last updated. That page can live in Confluence, Notion, Google Drive, a SharePoint site or a Git repository. The tool matters less than three properties:</p>
+<ol>
+<li><strong>One entry point.</strong> Anyone new to the product starts at the index.</li>
+<li><strong>Visible freshness.</strong> Every artifact shows its owner and last-reviewed date. Stale artifacts are flagged, not hidden.</li>
+<li><strong>Readable by machines.</strong> In 2026 this one matters more than it used to. If your artifacts are in formats an AI harness can read through a connector (pages, docs, Markdown files), the harness can answer questions across the whole 360. If they&rsquo;re screenshots of slides, it can&rsquo;t.</li>
+</ol>
+<h2 id="the-operating-cadence">The operating cadence</h2>
+<p>Artifacts don&rsquo;t keep themselves true. People do, on a rhythm. The operating cadence is the calendar that says which artifact gets reviewed when, by whom, and what decision the review produces.</p>
+<p>The cadence below is this book&rsquo;s synthesis, and it borrows from several well-tested practices. Amazon&rsquo;s weekly business review (WBR), as Colin Bryar and Bill Carr describe it in <em>Working Backwards</em>, has metric owners walk a fixed set of metrics every week and explain the variances. The quarterly business review (QBR) is standard in enterprise software. Annual planning cycles like Amazon&rsquo;s OP1 and OP2 have teams write next year&rsquo;s plan as a narrative in the fall and revise it into the plan of record after the holiday quarter. Melissa Perri and Denise Tilles, in <em>Product Operations</em>, make the same case from the operations side: one of their three pillars of product ops is process and governance, alongside business and data insights and customer and market insights. Without dependable rituals for looking at data, customers and plans, decisions get made on anecdote.</p>
+<div class="tbl"><table>
+<thead>
+<tr>
+<th>Cadence</th>
+<th>Ritual</th>
+<th>Artifacts reviewed</th>
+<th>Decision it produces</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Weekly</strong></td>
+<td>Product team sync; metrics review</td>
+<td>Dashboard, decision log, risk register, discovery log</td>
+<td>What we adjust this week; which risks escalate</td>
+</tr>
+<tr>
+<td><strong>Biweekly</strong></td>
+<td>Sprint review and planning (with engineering)</td>
+<td>Backlog, release plan, active PRDs</td>
+<td>What ships next; what gets cut</td>
+</tr>
+<tr>
+<td><strong>Monthly</strong></td>
+<td>Product review with leadership; roadmap refresh</td>
+<td>Roadmap, OKR progress, competitive changes, customer insight summary</td>
+<td>Roadmap changes; asks for help</td>
+</tr>
+<tr>
+<td><strong>Quarterly</strong></td>
+<td>Business review (QBR); OKR reset; portfolio review</td>
+<td>Business model, OKRs, competitive landscape, stakeholder map, lifecycle stage</td>
+<td>Next quarter&rsquo;s bets; staffing; pricing changes</td>
+</tr>
+<tr>
+<td><strong>Annually</strong></td>
+<td>Strategy refresh and planning</td>
+<td>Vision, strategy one-pager, personas, positioning, business case, lifecycle assessment</td>
+<td>Where to play, how to win, what to stop</td>
+</tr>
+<tr>
+<td><strong>Per event</strong></td>
+<td>Launch readiness; go/no-go; post-launch review; sunset gate</td>
+<td>Launch plan, PRFAQ, readiness checklist, sunset plan</td>
+<td>Ship or hold; continue, pivot or retire</td>
+</tr>
+</tbody>
+</table></div>
+<p>Two rules make the cadence work. First, <strong>every ritual produces a decision or it gets cancelled</strong>. A weekly metrics review that never changes anything is theater. Second, <strong>decisions get written down</strong>, in a decision log with the date, the decision, the options considered, who decided and why. Six months later, when someone asks why you chose usage pricing, the log answers in thirty seconds. Chapter 29 covers decision logs and DACI (the Driver, Approver, Contributors, Informed model popularized by Atlassian) in detail.</p>
+<aside class="callout callout-leader"><div class="callout-h"><span class="callout-k">For product leaders</span><span class=callout-t>For product leaders: nesting the 360</span></div><p>In a portfolio, Product 360s nest. A group PM or director keeps a portfolio-level 360 whose strategy and business dimensions summarize the products beneath it, and whose operate dimension runs the portfolio review. Each product keeps its own 360. Feature-area PMs often keep a light 360 (customer, build, measure) that inherits strategy from the product level. The rule: a lower-level 360 should never contradict a higher one without a recorded decision.</p></aside>
+<h2 id="how-to-build-your-product-360">How to build your Product 360</h2>
+<p>Here is the method in six steps. The Capstone expands it into a full 30/60/90-day plan with prompts; this is the outline.</p>
+<ol>
+<li><strong>Scope the surface area.</strong> Write down, in one paragraph, exactly what you own: which product or products, which customers, which teams, which revenue. Scope disputes are the most common hidden cause of a broken 360. If two PMs both think they own pricing, neither of their 360s is true.</li>
+<li><strong>Inventory what exists.</strong> Gather every document, deck, dashboard and ticket that describes the product. Don&rsquo;t judge it yet; just collect it. An AI harness with connectors into your doc tools makes this hours of work instead of weeks.</li>
+<li><strong>Map it to the nine dimensions.</strong> Sort the inventory by dimension and kind (durable, living, event). Mark each item as current, stale or contradicted. Gaps become obvious immediately.</li>
+<li><strong>Build the spine.</strong> Create or repair the twelve spine artifacts, in order, starting with the Product 360 index. Reuse what&rsquo;s good; rewrite what&rsquo;s stale. Each artifact gets an owner and a review date.</li>
+<li><strong>Set the cadence.</strong> Put the rituals on the calendar, with the artifacts each one reviews. Start lighter than you think you need. A weekly metrics review and a monthly roadmap review beat an ambitious calendar nobody attends.</li>
+<li><strong>Publish and keep it alive.</strong> Share the index with your team, your manager and your key stakeholders. Tell them it&rsquo;s the source of truth. Then make it true: when a decision happens, it goes in the log; when a strategy changes, the one-pager changes first.</li>
+</ol>
+<h2 id="the-ai-lens">The AI lens</h2>
+<h3 id="your-360-is-your-ai-context">Your 360 is your AI context</h3>
+<p>The single biggest change AI brings to the PM job in 2026 is that a well-kept Product 360 becomes reusable context. When your artifacts are current and readable, you can hand them to a harness and ask questions that used to take a week of meetings:</p>
+<ul>
+<li>&ldquo;Does the Q3 roadmap still trace back to the strategy one-pager? List anything on the roadmap that doesn&rsquo;t.&rdquo;</li>
+<li>&ldquo;Summarize every decision in the log that touches pricing, and flag any that contradict the current packaging doc.&rdquo;</li>
+<li>&ldquo;Draft a first version of the QBR narrative from the dashboard export, the OKR tracker and this month&rsquo;s customer insight summary.&rdquo;</li>
+</ul>
+<p>None of those prompts works on a 360 that lives in people&rsquo;s heads. All of them work on a 360 that lives in a connected set of pages. That&rsquo;s a strong practical argument for building the 360 even if you never have time to read every artifact yourself: the harness will.</p>
+<aside class="callout callout-ai"><div class="callout-h"><span class="callout-k">The AI lens</span><span class=callout-t>What changes when the product is AI-powered</span></div><p>Add four artifacts to the spine for any AI-powered product: an <strong>eval plan</strong> (how quality is measured, and the current scores), an <strong>AI cost model</strong> (cost per task or per user, and its trend), a <strong>model and vendor register</strong> (which models are in use, their versions and deprecation dates), and an <strong>AI risk assessment</strong> (failure modes, guardrails, and regulatory obligations). Chapter 31 has templates for all four. They belong in the Build, Business, Operate and Lifecycle dimensions respectively, which is another way of seeing that AI changes every dimension.</p></aside>
+<h3 id="what-not-to-hand-to-ai">What not to hand to AI</h3>
+<p>The harness drafts, checks and summarizes. It doesn&rsquo;t decide, and it doesn&rsquo;t own. Three guardrails:</p>
+<ul>
+<li><strong>Data boundaries.</strong> Customer data, unreleased financials and confidential strategy go only into tools your company has approved for that data. Check before you connect.</li>
+<li><strong>Decisions stay human.</strong> An AI can lay out pricing options with their tradeoffs. You and your approvers choose. The decision log records who decided, and it shouldn&rsquo;t say &ldquo;the model.&rdquo;</li>
+<li><strong>Verify the numbers.</strong> AI-generated summaries of metrics are fast and frequently wrong in small ways: a misread column, a wrong time window, a silently dropped segment. Every number that goes into a durable artifact or an executive review gets checked against the source. Chapter 19 covers how.</li>
+</ul>
+<h2 id="the-beacon-case-a-new-principal-pms-first-inventory">The Beacon case: a new Principal PM&rsquo;s first inventory</h2>
+<aside class="callout callout-example"><div class="callout-h"><span class="callout-k">Beacon case</span><span class=callout-t>Day one on Beacon</span></div><p>You&rsquo;ve just joined Northlight Systems as Principal PM for Beacon, the AI agent platform for IT operations. Your manager, the VP of Product for the Operations portfolio, gives you two weeks to &ldquo;get your arms around it&rdquo; before the quarterly business review.</p></aside>
+<p>You start with step 1 and write the scope paragraph: <em>&ldquo;Beacon: the standalone AI incident-management product, including Beacon Classic (legacy correlation) and Beacon Agents (diagnosis and supervised remediation). Customers: about 420 enterprise accounts plus the MSP partner channel. Teams: 3 PMs, 1 designer, 5 engineering teams, 2 applied AI engineers, a PMM and shared product ops. Revenue: about $48M ARR.&rdquo;</em> You send it to your manager and to the group PM for Northlight Observe, because you suspect the boundary between Beacon and Observe is fuzzy. It is: Observe&rsquo;s PM believes alert correlation belongs to Observe. That disagreement goes into the decision log as the first open item.</p>
+<p>Step 2, the inventory, turns up 140 documents. Sorted against the nine dimensions, the picture looks like this:</p>
+<div class="tbl"><table>
+<thead>
+<tr>
+<th>Dimension</th>
+<th>What exists</th>
+<th>State</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Customer</td>
+<td>Three personas from 2024, all users, no buyer or security persona</td>
+<td>Stale; missing Marcus (economic buyer) and Sam (security reviewer)</td>
+</tr>
+<tr>
+<td>Strategy</td>
+<td>A 2025 strategy deck; no one-pager; vision statement in an all-hands slide</td>
+<td>Stale; doesn&rsquo;t mention agents</td>
+</tr>
+<tr>
+<td>Business</td>
+<td>Pricing page; a finance model owned by FP&amp;A</td>
+<td>Contradicted: gross margin dropped from 81% to 72% and the strategy deck still assumes 80%</td>
+</tr>
+<tr>
+<td>Build</td>
+<td>Jira roadmap view; 23 PRDs, 9 for features that shipped differently</td>
+<td>Living but noisy</td>
+</tr>
+<tr>
+<td>Measure</td>
+<td>A dashboard with 40 charts; no North Star</td>
+<td>No agreed definition of success</td>
+</tr>
+<tr>
+<td>Go-to-market</td>
+<td>Positioning from the Classic era; no launch tiering</td>
+<td>Stale; Beacon Agents launch at Northlight Live is in four months</td>
+</tr>
+<tr>
+<td>Operate</td>
+<td>Weekly team sync; no decision log; risk register abandoned in 2025</td>
+<td>Missing</td>
+</tr>
+<tr>
+<td>Lifecycle</td>
+<td>Nothing on Beacon Classic&rsquo;s end of life</td>
+<td>Missing, and customers are asking</td>
+</tr>
+<tr>
+<td>Leadership</td>
+<td>No stakeholder map; Observe boundary disputed</td>
+<td>Missing</td>
+</tr>
+</tbody>
+</table></div>
+<p>The gaps rank themselves. Gross margin and the missing North Star are business-critical and visible to executives within weeks. The Beacon Agents launch has a fixed date. Beacon Classic&rsquo;s end of life is creating customer escalations. So your first spine artifacts after the index are the business model summary, the North Star and metric tree, the launch plan, and a lifecycle assessment for Classic. Personas and strategy follow, but they can wait a month; the four urgent artifacts can&rsquo;t.</p>
+<p>By the QBR you have a Product 360 index with nine dimensions, twelve linked artifacts (four new, five repaired, three still marked &ldquo;stale, owner assigned&rdquo;), a decision log with six entries and a cadence on the calendar. It isn&rsquo;t complete. It&rsquo;s true, and everyone can see which parts aren&rsquo;t done yet. That&rsquo;s the state you&rsquo;re aiming for.</p>
+<h2 id="product-360-artifacts">Product 360 artifacts</h2>
+<div class="blk blk-template"><div class="blk-h"><span class="blk-tag">▤ Template</span><span class="blk-t">Product 360 index</span><span class="blk-actions"><a class="blk-dl" href="templates/product-360-index.md" download>Download .md</a><button class="blk-copy" type="button">Copy</button></span></div><pre><code># [Product name] · Product 360
+
+**Owner:** [Name, title]   **Last reviewed:** [YYYY-MM-DD]   **Lifecycle stage:** [Introduce / Grow / Mature / Decline / Retire]
+
+## Scope
+[One paragraph: which products, customers, teams and revenue this 360 covers. Name what is explicitly out of scope and who owns it.]
+
+## The 360 at a glance
+| Dimension | Key question | Artifact (link) | Owner | Kind | Last reviewed | State |
+|---|---|---|---|---|---|---|
+| Customer | Who is this for, and what job? | [Personas and problem hypothesis] | | Durable | | Current / Stale / Missing |
+| Strategy | Where we play, how we win | [Vision and strategy one-pager] | | Durable | | |
+| Strategy | Who we compete with | [Competitive landscape] | | Living (Q) | | |
+| Business | How it makes money | [Business model and unit economics] | | Living (Q) | | |
+| Build | What&#x27;s next | [Outcome roadmap] | | Living (M) | | |
+| Measure | How we know it works | [North Star, metric tree, dashboard] | | Living (W) | | |
+| Measure | What we committed to | [OKRs] | | Living (Q) | | |
+| Go-to-market | How it reaches customers | [Positioning and messaging] | | Durable | | |
+| Operate | How we run it | [Operating cadence, decision log, risk register] | | Living (W) | | |
+| Lifecycle | Where it is in its life | [Lifecycle stage assessment] | | Durable | | |
+| Leadership | Who must be aligned | [Stakeholder map and DACI] | | Living (Q) | | |
+| AI (if applicable) | Quality, cost, models, risk | [Eval plan, AI cost model, model register, AI risk assessment] | | Living (M) | | |
+
+## Current priorities
+1. [The one to three things that matter most this quarter, each linked to its artifact]
+
+## Open decisions
+[Link to the decision log, filtered to open items]
+
+## Active events
+[Links to in-flight PRDs, launch plans, business cases, sunset plans]
+
+## Key contacts
+[Engineering lead, design lead, PMM, product ops, sales lead, support lead, finance partner]</code></pre></div>
+<div class="blk blk-template"><div class="blk-h"><span class="blk-tag">▤ Template</span><span class="blk-t">Artifact inventory and gap assessment</span><span class="blk-actions"><a class="blk-dl" href="templates/artifact-inventory.md" download>Download .md</a><button class="blk-copy" type="button">Copy</button></span></div><pre><code># Artifact inventory · [Product] · [Date]
+
+## Scope statement
+[Paste the one-paragraph scope.]
+
+## Inventory
+| # | Document | Link | Dimension | Kind (durable/living/event) | Last updated | Owner | State (current/stale/contradicted) | Notes |
+|---|---|---|---|---|---|---|---|---|
+| 1 | | | | | | | | |
+
+## Gaps by dimension
+| Dimension | Spine artifact | Exists? | State | Business risk if missing (H/M/L) | Deadline driver | Priority |
+|---|---|---|---|---|---|---|
+| Customer | Problem hypothesis and personas | | | | | |
+| Strategy | Vision and strategy one-pager | | | | | |
+| Strategy | Competitive landscape | | | | | |
+| Business | Business model and unit economics | | | | | |
+| Build | Outcome roadmap | | | | | |
+| Measure | North Star and metric tree | | | | | |
+| Measure | OKRs | | | | | |
+| Go-to-market | Positioning and messaging | | | | | |
+| Operate | Cadence and decision log | | | | | |
+| Lifecycle | Lifecycle stage assessment | | | | | |
+| Leadership | Stakeholder map and DACI | | | | | |
+
+## Contradictions found
+[Each pair of artifacts that disagree, what they disagree on, and who needs to resolve it.]
+
+## Build order
+1. [Artifact] because [deadline or risk]</code></pre></div>
+<div class="blk blk-template"><div class="blk-h"><span class="blk-tag">▤ Template</span><span class="blk-t">Product operating cadence</span><span class="blk-actions"><a class="blk-dl" href="templates/operating-cadence.md" download>Download .md</a><button class="blk-copy" type="button">Copy</button></span></div><pre><code># Operating cadence · [Product] · [Quarter]
+
+| Cadence | Ritual | Day and time | Attendees | Artifacts reviewed | Output | Owner |
+|---|---|---|---|---|---|---|
+| Weekly | Metrics review | | PM, eng lead, design, analyst | Dashboard, risk register | Adjustments, escalations | |
+| Weekly | Team sync | | Product team | Decision log, discovery log | Decisions logged | |
+| Biweekly | Sprint review and planning | | Product team | Backlog, release plan | Sprint commitment | |
+| Monthly | Product review | | Leadership, PM, eng, design, PMM | Roadmap, OKRs, competitive changes, insight summary | Roadmap changes, asks | |
+| Quarterly | Business review | | Leadership, finance, sales, CS | Business model, OKRs, lifecycle stage | Bets, staffing, pricing | |
+| Annually | Strategy refresh | | Leadership | All durable artifacts | Strategy for the year | |
+| Per event | Launch go/no-go | | Launch team | Launch plan, readiness checklist | Ship or hold | |
+
+## Rules
+- Every ritual produces a decision or is cancelled after two meetings without one.
+- Decisions are written in the decision log within 24 hours.
+- Each artifact shows its owner and last-reviewed date. Anything past its review date is marked stale on the 360 index.</code></pre></div>
+<h2 id="prompts">Prompts</h2>
+<div class="blk blk-prompt"><div class="blk-h"><span class="blk-tag">✦ Prompt</span><span class="blk-t">Inventory and classify existing product documents</span><span class="blk-actions"><button class="blk-copy" type="button">Copy</button></span></div><pre><code>Goal: Turn a pile of existing documents into a first Product 360 inventory.
+Paste in (or connect the harness to): the documents, decks, pages and dashboards you&#x27;ve gathered for [product]. Use only tools approved for this data.
+
+You are helping a Principal PM build a Product 360 for [product]. The Product 360 has nine dimensions: Customer, Strategy, Business, Build, Measure, Go-to-market, Operate, Lifecycle, Leadership. Artifacts are durable (change yearly), living (change on a weekly to quarterly cadence) or event (created for one decision or moment).
+
+For every document provided:
+1. Give its title, link or file name, and last-updated date if visible.
+2. Assign one primary dimension and the artifact kind.
+3. Summarize in one sentence what question it answers.
+4. Mark it current, stale (older than its natural cadence) or contradicted (conflicts with another document), and say which document it conflicts with.
+
+Then produce:
+- A table of the twelve spine artifacts (Product 360 index, problem hypothesis and personas, vision and strategy one-pager, competitive landscape, business model and unit economics, outcome roadmap, North Star and metric tree, OKRs, positioning and messaging, operating cadence and decision log, lifecycle stage assessment, stakeholder map and DACI) showing which exist, their state and the best existing source for each.
+- A list of every contradiction you found, quoting the conflicting statements.
+
+Do not invent documents or fill gaps with guesses. If you can&#x27;t tell a document&#x27;s date or state, say so.
+
+Check the output: open three documents the model marked &quot;current&quot; and two it marked &quot;contradicted&quot; and confirm it read them correctly. Spot-check that no spine artifact was marked &quot;exists&quot; on the strength of a passing mention.</code></pre></div>
+<div class="blk blk-prompt"><div class="blk-h"><span class="blk-tag">✦ Prompt</span><span class="blk-t">Draft the Product 360 index from the inventory</span><span class="blk-actions"><button class="blk-copy" type="button">Copy</button></span></div><pre><code>Goal: Produce the first version of the Product 360 index page.
+Paste in: the scope paragraph, the completed artifact inventory and the list of open decisions.
+
+Using the inventory below, draft a Product 360 index for [product] using this structure: scope; a table of the nine dimensions with key question, linked artifact, owner, kind, last reviewed and state; current priorities (no more than three); open decisions; active events; key contacts.
+
+Rules:
+- Use only artifacts and facts that appear in the inventory. Where an artifact is missing, write &quot;Missing&quot; and leave the owner blank for me to fill.
+- Rank current priorities by business risk and deadline, and give a one-line reason for each.
+- Keep the page under 600 words. It&#x27;s a map, not a report.
+
+[inventory]
+
+Check the output: every link should resolve to a real document, every &quot;current&quot; label should match the inventory, and the priorities should be ones you&#x27;d defend to your manager.</code></pre></div>
+<div class="blk blk-prompt"><div class="blk-h"><span class="blk-tag">✦ Prompt</span><span class="blk-t">Design an operating cadence that fits the team</span><span class="blk-actions"><button class="blk-copy" type="button">Copy</button></span></div><pre><code>Goal: Get a realistic first cadence instead of an aspirational one.
+Paste in: team size and roles, existing recurring meetings, the planning calendar (QBR dates, annual planning), and upcoming events such as launches.
+
+I own [product]. Here&#x27;s my team and the meetings that already exist: [details]. Propose an operating cadence using the fewest new meetings possible. Reuse existing meetings where they can absorb a ritual. For each ritual give: frequency, attendees, the artifacts reviewed, the decision it produces and a 1-line agenda. Flag any ritual that has no clear decision output, and recommend cutting it. Finish with the total hours per week the cadence costs the PM and the engineering lead.
+
+Check the output: count the hours yourself. If the PM&#x27;s ritual load exceeds about 20% of the week, ask for a lighter version.</code></pre></div>
+<div class="blk blk-prompt"><div class="blk-h"><span class="blk-tag">✦ Prompt</span><span class="blk-t">Audit the 360 for contradictions</span><span class="blk-actions"><button class="blk-copy" type="button">Copy</button></span></div><pre><code>Goal: Find places where your artifacts disagree before an executive does.
+Paste in: your current strategy one-pager, roadmap, OKRs, business model summary and positioning doc (or point the harness to them).
+
+Compare these artifacts for [product] and list every contradiction or unsupported link. Specifically:
+1. Roadmap items that don&#x27;t trace to a strategic choice in the one-pager.
+2. OKRs that measure something the strategy doesn&#x27;t prioritize, or priorities with no OKR.
+3. Positioning claims the roadmap doesn&#x27;t support.
+4. Business-model assumptions (margin, price, growth) that conflict with the latest numbers.
+For each, quote both sources, explain the conflict in one sentence and suggest which artifact is more likely to be wrong and why.
+
+Check the output: for each contradiction, decide yourself which artifact to change, and log the decision.</code></pre></div>
+<h2 id="anti-patterns">Anti-patterns</h2>
+<aside class="callout callout-warn"><div class="callout-h"><span class="callout-k">Anti-pattern</span><span class=callout-t>The document museum</span></div><p>A wiki full of beautifully formatted pages, none touched since the launch that justified them. The tell: no artifact shows an owner or a last-reviewed date. Fix it by adding freshness to the index and archiving anything nobody claims.</p></aside>
+<aside class="callout callout-warn"><div class="callout-h"><span class="callout-k">Anti-pattern</span><span class=callout-t>The 360 in your head</span></div><p>Everything is current, and all of it lives in the PM&rsquo;s memory. The product works until the PM goes on vacation, changes teams or gets asked the same question by two executives on the same day. If it isn&rsquo;t written, it isn&rsquo;t part of the 360.</p></aside>
+<aside class="callout callout-warn"><div class="callout-h"><span class="callout-k">Anti-pattern</span><span class=callout-t>Everything is living</span></div><p>Strategy, personas and positioning get revised every sprint because a customer said something interesting. Durable artifacts are supposed to be stable. Capture the signal in the discovery log, and change durable artifacts at the strategy refresh, or with an explicit decision.</p></aside>
+<aside class="callout callout-warn"><div class="callout-h"><span class="callout-k">Anti-pattern</span><span class=callout-t>The AI-generated 360 nobody checked</span></div><p>A harness can produce a complete-looking 360 in an afternoon. If you didn&rsquo;t verify the facts and make the choices, it&rsquo;s a plausible fiction with your name on it. Use AI to draft and to check; own every claim that ships.</p></aside>
+<aside class="callout callout-warn"><div class="callout-h"><span class="callout-k">Anti-pattern</span><span class=callout-t>Scope fog</span></div><p>Two PMs each believe they own the same capability. Both 360s look complete, and both are wrong. Write the scope paragraph first and get the boundary agreed before you build anything else.</p></aside>
+<h2 id="checklist">Checklist</h2>
+<ul>
+<li class="chk"><label><input type="checkbox" data-k="00-product-360-framework-1"><span>I&rsquo;ve written a one-paragraph scope for my product, and my manager and neighboring PMs agree with it.</span></label></li>
+<li class="chk"><label><input type="checkbox" data-k="00-product-360-framework-2"><span>Every existing document is inventoried and mapped to a dimension and artifact kind.</span></label></li>
+<li class="chk"><label><input type="checkbox" data-k="00-product-360-framework-3"><span>The Product 360 index exists, links every spine artifact and shows owners and last-reviewed dates.</span></label></li>
+<li class="chk"><label><input type="checkbox" data-k="00-product-360-framework-4"><span>All twelve spine artifacts exist, or are explicitly marked missing with an owner and date.</span></label></li>
+<li class="chk"><label><input type="checkbox" data-k="00-product-360-framework-5"><span>For an AI-powered product, the eval plan, AI cost model, model register and AI risk assessment are on the index.</span></label></li>
+<li class="chk"><label><input type="checkbox" data-k="00-product-360-framework-6"><span>Contradictions between artifacts are listed, and each has a decision owner.</span></label></li>
+<li class="chk"><label><input type="checkbox" data-k="00-product-360-framework-7"><span>The operating cadence is on the calendar, and every ritual names the decision it produces.</span></label></li>
+<li class="chk"><label><input type="checkbox" data-k="00-product-360-framework-8"><span>A decision log exists and has entries from the last two weeks.</span></label></li>
+<li class="chk"><label><input type="checkbox" data-k="00-product-360-framework-9"><span>The index is shared with my team, my manager and key stakeholders as the source of truth.</span></label></li>
+<li class="chk"><label><input type="checkbox" data-k="00-product-360-framework-10"><span>The 360 lives somewhere an approved AI harness can read it.</span></label></li>
+</ul>
+<h2 id="key-takeaways">Key takeaways</h2>
+<ul>
+<li>A Product 360 is the set of artifacts and rituals that keep a product legible: nine dimensions, each answering a question someone will eventually ask you.</li>
+<li>The dimensions group into Direction (customer, strategy, business), Delivery (build, measure, go-to-market) and Durability (operate, lifecycle, leadership). Most PM training skips the third group.</li>
+<li>Artifacts come in three kinds. Durable ones change yearly, living ones change on a cadence and event ones serve a single decision. Treating them all alike produces either a stale strategy or no strategy.</li>
+<li>Start with a spine of twelve artifacts and the Product 360 index. Build everything else when a question demands it.</li>
+<li>The operating cadence keeps the 360 true. Every ritual produces a decision, and every decision gets logged.</li>
+<li>AI isn&rsquo;t a tenth dimension. It changes all nine, both in what you build and in how you maintain the 360, and a well-kept 360 is the best context you can give a harness.</li>
+</ul></div><nav class="pager"><a class="pg pg-p" href="preface.html"><span>← Previous</span><b>Preface: How to Use This Book</b></a><a class="pg pg-n" href="01-product-hypothesis-and-personas.html"><span>Next →</span><b>Developing a Product Hypothesis and Personas</b></a></nav></article></main>
+  <aside class="rail" aria-label="On this page"><div class="rail-in"><div class="rail-h">On this page</div><ul class="rail-l"><li><a href="#why-this-matters">Why this matters</a></li><li><a href="#what-a-product-manager-is-for">What a product manager is for</a></li><li class="l3"><a href="#the-four-risks">The four risks</a></li><li class="l3"><a href="#three-intersections">Three intersections</a></li><li class="l3"><a href="#how-ai-is-changing-the-role">How AI is changing the role</a></li><li class="l3"><a href="#three-levels-of-product-work">Three levels of product work</a></li><li><a href="#the-nine-dimensions-of-the-product-360">The nine dimensions of the Product 360</a></li><li class="l3"><a href="#why-ai-is-not-a-tenth-dimension">Why AI is not a tenth dimension</a></li><li><a href="#the-artifact-stack">The artifact stack</a></li><li class="l3"><a href="#three-kinds-of-artifact">Three kinds of artifact</a></li><li class="l3"><a href="#the-minimum-viable-360">The minimum viable 360</a></li><li class="l3"><a href="#where-the-360-lives">Where the 360 lives</a></li><li><a href="#the-operating-cadence">The operating cadence</a></li><li><a href="#how-to-build-your-product-360">How to build your Product 360</a></li><li><a href="#the-ai-lens">The AI lens</a></li><li class="l3"><a href="#your-360-is-your-ai-context">Your 360 is your AI context</a></li><li class="l3"><a href="#what-not-to-hand-to-ai">What not to hand to AI</a></li><li><a href="#the-beacon-case-a-new-principal-pms-first-inventory">The Beacon case: a new Principal PM&rsquo;s first inventory</a></li><li><a href="#product-360-artifacts">Product 360 artifacts</a></li><li><a href="#prompts">Prompts</a></li><li><a href="#anti-patterns">Anti-patterns</a></li><li><a href="#checklist">Checklist</a></li><li><a href="#key-takeaways">Key takeaways</a></li></ul></div></aside>
+</div>
+<div class="search-modal" id="search-modal" hidden>
+  <div class="search-box" role="dialog" aria-label="Search the handbook">
+    <input id="search-input" type="search" placeholder="Search the handbook…" autocomplete="off">
+    <div id="search-results" class="search-results"></div>
+    <div class="search-foot"><kbd>↑</kbd><kbd>↓</kbd> to move · <kbd>Enter</kbd> to open · <kbd>Esc</kbd> to close</div>
+  </div>
+</div>
+<script src="assets/js/search-index.js?v=1"></script>
+<script src="assets/js/book.js?v=1"></script>
+</body>
+</html>

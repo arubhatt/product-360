@@ -1,0 +1,710 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Developing a Product Hypothesis and Personas · The Product 360 Handbook</title>
+<meta name="description" content="Frame the problem, name the customer, and write a hypothesis you can kill.">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Literata:ital,opsz,wght@0,7..72,400;0,7..72,500;0,7..72,600;1,7..72,400&family=JetBrains+Mono:wght@400;500&display=swap">
+<link rel="stylesheet" href="assets/css/book.css?v=1">
+<script>try{var t=localStorage.getItem('p360-theme');if(t)document.documentElement.dataset.theme=t}catch(e){}</script>
+</head>
+<body class="has-rail">
+<div class="progress" aria-hidden="true"><span></span></div>
+<header class="top">
+  <button class="ibtn menu" id="menu-btn" aria-label="Open chapters">☰</button>
+  <a class="brand" href="index.html"><svg class="logo" viewBox="0 0 32 32" aria-hidden="true"><defs><linearGradient id="lg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="var(--a1)"/><stop offset=".5" stop-color="var(--a2)"/><stop offset="1" stop-color="var(--a3)"/></linearGradient></defs><circle cx="16" cy="16" r="12" fill="none" stroke="url(#lg)" stroke-width="4" stroke-dasharray="66 9.4" stroke-linecap="round" transform="rotate(-80 16 16)"/><circle cx="16" cy="16" r="3.2" fill="var(--a2)"/></svg><span class="brand-t">Product <b>360</b></span><span class="brand-s hide-sm">Handbook</span></a>
+  <div class="top-r">
+    <button class="ibtn search-btn" data-search-open aria-label="Search"><svg viewBox="0 0 24 24" width="15" height="15" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4-4"/></svg><span class="hide-sm">Search</span><kbd class="hide-sm">/</kbd></button>
+    
+    <button class="ibtn" id="theme-btn" aria-label="Toggle light and dark"><svg viewBox="0 0 24 24" width="15" height="15" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/></svg></button>
+  </div>
+</header>
+<div class="shell">
+  <aside class="side" id="side"><nav class="nav" aria-label="Chapters"><div class="nav-g"><a class="nav-l" href="preface.html"><span class="nav-n">·</span><span>Preface: How to Use This Book</span></a><a class="nav-l" href="00-product-360-framework.html"><span class="nav-n">00</span><span>The Product 360 Framework</span></a></div><details class="nav-p" open><summary><span class="nav-pm" aria-hidden="true"></span><span class="nav-pn">Part I</span><span class="nav-pt">Product Management</span></summary><a class="nav-l on" href="01-product-hypothesis-and-personas.html"><span class="nav-n">01</span><span>Developing a Product Hypothesis and Personas</span></a><a class="nav-l soon" href="02-product-vision-and-goals.html"><span class="nav-n">02</span><span>Product Vision and Goals</span></a><a class="nav-l soon" href="03-product-strategy-and-roadmap.html"><span class="nav-n">03</span><span>Building a Product Strategy and Roadmap</span></a><a class="nav-l soon" href="04-product-prototyping.html"><span class="nav-n">04</span><span>Product Prototyping</span></a><a class="nav-l soon" href="05-product-analytics-and-iteration.html"><span class="nav-n">05</span><span>Product Analytics and Iteration</span></a><a class="nav-l soon" href="06-product-engineering-and-execution.html"><span class="nav-n">06</span><span>Product Engineering and Execution</span></a></details><details class="nav-p"><summary><span class="nav-pm" aria-hidden="true"></span><span class="nav-pn">Part II</span><span class="nav-pt">Technical Product Management</span></summary><a class="nav-l soon" href="07-navigating-technical-product-management.html"><span class="nav-n">07</span><span>Navigating Technical Product Management</span></a><a class="nav-l soon" href="08-data-driven-product-strategy.html"><span class="nav-n">08</span><span>Developing a Data-Driven Product Strategy</span></a><a class="nav-l soon" href="09-optimizing-strategy-with-analytics.html"><span class="nav-n">09</span><span>Optimizing Product Strategy Using Analytics</span></a><a class="nav-l soon" href="10-consumer-insights-and-specifications.html"><span class="nav-n">10</span><span>Consumer Insights and Product Specifications</span></a><a class="nav-l soon" href="11-delivery-methodologies.html"><span class="nav-n">11</span><span>Delivery Methodologies</span></a><a class="nav-l soon" href="12-compelling-value-offering.html"><span class="nav-n">12</span><span>Creating a Compelling Value Offering</span></a></details><details class="nav-p"><summary><span class="nav-pm" aria-hidden="true"></span><span class="nav-pn">Part III</span><span class="nav-pt">Business and Market Strategy</span></summary><a class="nav-l soon" href="13-market-sizing-competition-business-case.html"><span class="nav-n">13</span><span>Market Sizing, Competitive Analysis and the Business Case</span></a><a class="nav-l soon" href="14-digital-platform-strategy.html"><span class="nav-n">14</span><span>Digital Platform Strategy and Network Effects</span></a><a class="nav-l soon" href="15-pricing-and-packaging.html"><span class="nav-n">15</span><span>Pricing and Packaging Strategy</span></a><a class="nav-l soon" href="16-defensibility-and-moats.html"><span class="nav-n">16</span><span>Defensibility and Moats</span></a></details><details class="nav-p"><summary><span class="nav-pm" aria-hidden="true"></span><span class="nav-pn">Part IV</span><span class="nav-pt">Data-Driven Decisions in the AI Era</span></summary><a class="nav-l soon" href="17-questions-that-drive-decisions.html"><span class="nav-n">17</span><span>The Questions That Drive Product Decisions</span></a><a class="nav-l soon" href="18-product-data-landscape-and-reports.html"><span class="nav-n">18</span><span>The Product Data Landscape and the Reports That Matter</span></a><a class="nav-l soon" href="19-ai-native-analysis.html"><span class="nav-n">19</span><span>AI-Native Analysis: Collecting Data and Asking the Harness</span></a></details><details class="nav-p"><summary><span class="nav-pm" aria-hidden="true"></span><span class="nav-pn">Part V</span><span class="nav-pt">Innovation</span></summary><a class="nav-l soon" href="20-innovation-strategy.html"><span class="nav-n">20</span><span>Innovation Strategy and the Innovation Placemat</span></a><a class="nav-l soon" href="21-innovation-competencies.html"><span class="nav-n">21</span><span>Innovation Competencies: Lean Startup, Design Thinking and Maker Culture</span></a><a class="nav-l soon" href="22-innovation-toolkit.html"><span class="nav-n">22</span><span>The Innovation Toolkit</span></a><a class="nav-l soon" href="23-implementing-and-scaling-innovation.html"><span class="nav-n">23</span><span>Implementing, Evaluating and Scaling Innovation</span></a></details><details class="nav-p"><summary><span class="nav-pm" aria-hidden="true"></span><span class="nav-pn">Part VI</span><span class="nav-pt">Go-to-Market: Offers, Announcements and Events</span></summary><a class="nav-l soon" href="24-positioning-messaging-offer.html"><span class="nav-n">24</span><span>Positioning, Messaging and the Offer</span></a><a class="nav-l soon" href="25-launch-management.html"><span class="nav-n">25</span><span>Launch Management</span></a><a class="nav-l soon" href="26-events-keynotes-demos.html"><span class="nav-n">26</span><span>Events, Keynotes and Demos</span></a><a class="nav-l soon" href="27-enablement-and-customer-success.html"><span class="nav-n">27</span><span>Sales Enablement, Customer Success and the Feedback Loop</span></a></details><details class="nav-p"><summary><span class="nav-pm" aria-hidden="true"></span><span class="nav-pn">Part VII</span><span class="nav-pt">Product Operations and Lifecycle Management</span></summary><a class="nav-l soon" href="28-product-operations.html"><span class="nav-n">28</span><span>Product Operations</span></a><a class="nav-l soon" href="29-governance-and-business-reviews.html"><span class="nav-n">29</span><span>Governance and Business Reviews</span></a><a class="nav-l soon" href="30-product-lifecycle-management.html"><span class="nav-n">30</span><span>Product Lifecycle Management</span></a></details><details class="nav-p"><summary><span class="nav-pm" aria-hidden="true"></span><span class="nav-pn">Part VIII</span><span class="nav-pt">AI-Era Product Management</span></summary><a class="nav-l" href="31-building-ai-powered-products.html"><span class="nav-n">31</span><span>Building AI-Powered Products</span></a><a class="nav-l soon" href="32-ai-augmented-product-manager.html"><span class="nav-n">32</span><span>The AI-Augmented Product Manager</span></a><a class="nav-l soon" href="33-responsible-ai-and-regulation.html"><span class="nav-n">33</span><span>Responsible AI and Regulation for PMs</span></a></details><details class="nav-p"><summary><span class="nav-pm" aria-hidden="true"></span><span class="nav-pn">Part IX</span><span class="nav-pt">Influence and Leadership</span></summary><a class="nav-l soon" href="34-persuasive-writing.html"><span class="nav-n">34</span><span>Persuasive Writing for PMs</span></a><a class="nav-l soon" href="35-presentations-and-executive-communication.html"><span class="nav-n">35</span><span>Presentations and Executive Communication</span></a><a class="nav-l soon" href="36-stakeholder-management-and-leadership.html"><span class="nav-n">36</span><span>Stakeholder Management and Product Leadership</span></a></details><details class="nav-p"><summary><span class="nav-pm" aria-hidden="true"></span><span class="nav-pn">Part X</span><span class="nav-pt">Capstone</span></summary><a class="nav-l soon" href="37-building-your-product-360.html"><span class="nav-n">37</span><span>Building Your Product 360</span></a></details><details class="nav-p"><summary><span class="nav-pm" aria-hidden="true"></span><span class="nav-pn">Back</span><span class="nav-pt">Appendices</span></summary><a class="nav-l" href="appendix-a-artifact-library.html"><span class="nav-n">A</span><span>Artifact Library</span></a><a class="nav-l" href="appendix-b-prompt-library.html"><span class="nav-n">B</span><span>Prompt Library</span></a><a class="nav-l soon" href="appendix-c-maturity-model.html"><span class="nav-n">C</span><span>Product 360 Maturity Model</span></a><a class="nav-l soon" href="appendix-d-glossary.html"><span class="nav-n">D</span><span>Glossary</span></a><a class="nav-l" href="appendix-e-course-map.html"><span class="nav-n">E</span><span>Course Map</span></a></details></nav></aside>
+  <div class="scrim" id="scrim"></div>
+  <main class="main" id="main"><article class="ch"><header class="ch-head"><div class="ch-num">01</div><div class="ch-kicker">Part I · Product Management</div><h1>Developing a Product Hypothesis and Personas</h1><p class="ch-sum">Frame the problem, name the customer, and write a hypothesis you can kill.</p><div class="ch-meta">35 min read · 8 templates · 6 prompts</div></header><div class="prose"><p class="lead">Every product starts as a guess about a person, a problem and a solution. The job of this chapter is to make that guess explicit, split it into parts that can each be proven wrong, and replace the parts that fail with evidence before anyone writes a line of code.</p>
+
+<h2 id="why-this-matters">Why this matters</h2>
+<p>Most failed products didn&rsquo;t fail because the team built badly. They failed because the team built something good for a problem nobody had badly enough to pay for, or for a customer who wasn&rsquo;t the one making the decision. Those are hypothesis failures, and they&rsquo;re cheap to catch early and very expensive to catch late.</p>
+<p>The trap is that a product idea feels like one thing. &ldquo;An AI agent that diagnoses incidents for SRE teams&rdquo; sounds like a single proposition. It&rsquo;s actually at least three separate bets stacked on top of each other: that SRE teams are the right customer, that slow diagnosis is a problem they&rsquo;d pay to fix, and that an AI agent is a solution they&rsquo;d trust. Any one of those can be false while the other two are true. If you test the bundle, a failure tells you nothing about which part broke.</p>
+<p>This chapter gives you four tools that work together:</p>
+<ol>
+<li><strong>The product hypothesis</strong>, which splits the bet into customer, problem and solution, so each can fail on its own.</li>
+<li><strong>Jobs to be done</strong>, which tells you what progress the customer is really trying to make, and what they&rsquo;d fire to hire you.</li>
+<li><strong>Personas</strong>, which turn &ldquo;the customer&rdquo; into specific people with specific goals, including the people who buy rather than use.</li>
+<li><strong>Journey maps and discovery interviews</strong>, which put the hypothesis in front of reality on a weekly rhythm.</li>
+</ol>
+<p>These are the Customer dimension of your Product 360. Everything downstream (vision, strategy, roadmap, positioning, pricing) assumes they&rsquo;re right, so they&rsquo;re the first durable artifacts worth getting right.</p>
+<h2 id="the-product-hypothesis">The product hypothesis</h2>
+<h3 id="three-parts-that-fail-separately">Three parts that fail separately</h3>
+<p>A good product hypothesis has three parts, written so each one can be tested independently:</p>
+<ul>
+<li><strong>Customer hypothesis</strong>: who specifically has the problem, in what role and context.</li>
+<li><strong>Problem hypothesis</strong>: what hurts, in what situation, and what it costs them.</li>
+<li><strong>Solution hypothesis</strong>: what you propose, and what observable signal will tell you it works.</li>
+</ul>
+<p>The order matters, and it&rsquo;s the most common mistake teams make. If the customer and problem hypotheses fail, the solution hypothesis is moot, so you test them first. Most discovery interviews should test only the first two. Showing someone your solution before you&rsquo;ve confirmed their problem invites them to be polite about it, and polite feedback is worthless.</p>
+<aside class="callout callout-key"><div class="callout-h"><span class="callout-k">Key idea</span><span class=callout-t>Test the problem before the solution</span></div><p>A solution can only be as right as the problem it solves. Spend your first interviews proving the customer and problem hypotheses. Bring the solution in once you have evidence the problem is real, frequent and costly.</p></aside>
+<p>This three-part shape draws on Eric Ries&rsquo;s <em>The Lean Startup</em>, which treats every new venture as resting on <strong>leap-of-faith assumptions</strong>. Ries names two that matter most: the <strong>value hypothesis</strong> (does the product deliver value once people use it?) and the <strong>growth hypothesis</strong> (how will new customers discover and adopt it?). In consumer products the growth hypothesis is often about virality. In B2B it&rsquo;s almost always about the buying process: &ldquo;security teams will approve a self-serve trial,&rdquo; or &ldquo;the champion can get budget without a new line item.&rdquo; Write that assumption down too, because in enterprise products it kills more ideas than value does.</p>
+<h3 id="the-lean-ux-hypothesis-statement">The Lean UX hypothesis statement</h3>
+<p>When you move from problem to solution, Jeff Gothelf and Josh Seiden&rsquo;s <em>Lean UX</em> offers a compact format that links a feature to two outcomes at once. It&rsquo;s commonly written as:</p>
+<blockquote>
+<p>We believe that <strong>[business outcome]</strong> will be achieved if <strong>[user]</strong> attains <strong>[benefit]</strong> with <strong>[feature]</strong>.</p>
+</blockquote>
+<p>The value of this format is that it forces you to name both the user&rsquo;s outcome and the business&rsquo;s outcome. In enterprise products, name the customer&rsquo;s outcome and your own separately. &ldquo;Reduced audit-prep time for the customer&rdquo; and &ldquo;expansion revenue for us&rdquo; are different outcomes, and a feature can deliver one without the other.</p>
+<p>Pair each hypothesis with the smallest test that could falsify it and the signal you&rsquo;ll watch. A hypothesis without a falsifying signal is a wish.</p>
+<h3 id="assumption-mapping">Assumption mapping</h3>
+<p>Once you&rsquo;ve written the hypothesis, list every assumption underneath it. There are always more than you think. David Bland&rsquo;s assumption-mapping technique, described in <em>Testing Business Ideas</em> (with Alex Osterwalder), sorts them two ways.</p>
+<p>First, by type of risk:</p>
+<ul>
+<li><strong>Desirability</strong>: do customers want this?</li>
+<li><strong>Feasibility</strong>: can we deliver it?</li>
+<li><strong>Viability</strong>: should we, financially?</li>
+</ul>
+<p>Then, on a 2x2: how <strong>important</strong> the assumption is to success, against how much <strong>evidence</strong> you already have. The top-right quadrant (important, little evidence) is where you test first. Everything else can wait.</p>
+<p>For B2B products, this book adds a fourth lens that the standard three tend to hide: <strong>adoptability</strong>. Will the buying group, the security review and procurement let this through? A product can be desirable to users, feasible to build and viable on paper, and still never get past a security questionnaire. If your product touches production systems, customer data or AI decision-making, adoptability assumptions usually belong in the top-right quadrant.</p>
+<figure class="fig" markdown="0">
+<svg viewBox="0 0 640 340" role="img" aria-label="Assumption map: importance against evidence, with the test-first quadrant highlighted">
+  <rect x="80" y="20" width="260" height="140" rx="10" class="box"/>
+  <rect x="350" y="20" width="260" height="140" rx="10" fill="var(--a4)" fill-opacity=".14" stroke="var(--a4)" stroke-opacity=".6"/>
+  <rect x="80" y="170" width="260" height="140" rx="10" class="box"/>
+  <rect x="350" y="170" width="260" height="140" rx="10" class="box"/>
+  <text x="100" y="48" class="t">Important, well evidenced</text><text x="100" y="68" class="s">Monitor. Plan around it.</text>
+  <text x="370" y="48" class="t" style="fill:var(--a4)">Important, little evidence</text><text x="370" y="68" class="s">Test first. These kill products.</text>
+  <text x="100" y="198" class="t">Less important, well evidenced</text><text x="100" y="218" class="s">Ignore for now.</text>
+  <text x="370" y="198" class="t">Less important, little evidence</text><text x="370" y="218" class="s">Park. Revisit if importance rises.</text>
+  <text x="370" y="104" class="s">• Security will approve agent write access</text>
+  <text x="370" y="122" class="s">• Responders accept AI root causes</text>
+  <text x="370" y="140" class="s">• Buyers will pay per resolved incident</text>
+  <line x1="80" y1="325" x2="610" y2="325" class="ln"/>
+  <text x="345" y="338" text-anchor="middle" class="s">Evidence: strong ← → weak</text>
+  <text x="30" y="165" text-anchor="middle" class="s" transform="rotate(-90 30 165)">Importance: high ↑</text>
+</svg>
+<figcaption>An assumption map for Beacon Agents. The top-right quadrant gets tested first. Two of the three assumptions there are adoptability and trust assumptions, not feature assumptions.</figcaption>
+</figure>
+
+<h3 id="the-opportunity-assessment">The opportunity assessment</h3>
+<p>Before a team commits real discovery time, it&rsquo;s worth a one-page gate. Marty Cagan&rsquo;s opportunity assessment, first published on SVPG in 2006, asks ten questions:</p>
+<ol>
+<li>Exactly what problem will this solve?</li>
+<li>For whom do we solve that problem?</li>
+<li>How big is the opportunity?</li>
+<li>What alternatives are out there?</li>
+<li>Why are we best suited to pursue this?</li>
+<li>Why now?</li>
+<li>How will we get this product to market?</li>
+<li>How will we measure success and make money from it?</li>
+<li>What factors are critical to success?</li>
+<li>Given the above, what&rsquo;s the recommendation?</li>
+</ol>
+<p>Cagan has since argued, in <em>Inspired</em>, that most product work needs lighter framing than a full assessment. Treat the ten questions as a gate for new products and major bets, and use the hypothesis and assumption map for everything smaller. The useful discipline is question 4. Teams that can&rsquo;t name the alternatives (including &ldquo;do nothing&rdquo; and &ldquo;build it ourselves&rdquo;) haven&rsquo;t understood the problem yet.</p>
+<h2 id="jobs-to-be-done">Jobs to be done</h2>
+<p>A persona tells you who the customer is. Jobs to be done (JTBD) tells you why they&rsquo;d buy anything at all. It&rsquo;s the most useful idea in customer understanding, and it comes in two distinct schools that are worth keeping separate.</p>
+<h3 id="the-core-idea">The core idea</h3>
+<p>Clayton Christensen and his co-authors, in <em>Competing Against Luck</em> and the 2016 HBR article &ldquo;Know Your Customers&rsquo; &lsquo;Jobs to Be Done&rsquo;,&rdquo; define a job as <strong>the progress a customer is trying to make in a particular circumstance</strong>. Jobs have functional, social and emotional dimensions. Customers &ldquo;hire&rdquo; a product to do the job and &ldquo;fire&rdquo; whatever they were using before.</p>
+<p>The famous example is a fast-food chain&rsquo;s milkshake. Researchers found that many morning buyers were hiring a milkshake to make a long, boring commute bearable and keep them full until mid-morning. The real competition wasn&rsquo;t other milkshakes. It was bagels, bananas and boredom. The lesson: segment by job and circumstance, not by demographics or product category.</p>
+<p>In enterprise software, asking &ldquo;what did the customer fire to hire us?&rdquo; is often revealing. The fired option is usually not a competitor. It&rsquo;s a spreadsheet, a services contract, an internal script or a person&rsquo;s evenings.</p>
+<h3 id="school-one-progress-and-switching-moesta-spiek-klement">School one: progress and switching (Moesta, Spiek, Klement)</h3>
+<p>Bob Moesta and Chris Spiek developed the <strong>four forces of progress</strong>, which explain when a customer actually switches:</p>
+<ul>
+<li><strong>Push</strong> of the current situation: the friction that starts the search.</li>
+<li><strong>Pull</strong> of the new solution: the better future they imagine.</li>
+<li><strong>Anxiety</strong> about the new solution: fear it won&rsquo;t work or will cause new problems.</li>
+<li><strong>Habit</strong> of the present: the comfort of the way things are.</li>
+</ul>
+<p>A switch happens only when push and pull together outweigh anxiety and habit. That&rsquo;s a remarkably practical model. Most product teams spend all their energy on pull (features) and almost none on reducing anxiety, which in B2B is often the force that decides the deal.</p>
+<p>Moesta&rsquo;s <strong>switch interview</strong> reconstructs the timeline of a real, recent purchase, from the first thought that something had to change through looking, deciding and using, attaching each force to dated moments. Interview customers who switched to you in the last 90 days and customers who switched away. In enterprise, interview the champion and at least one other member of the buying group, because the anxiety usually sits with security or procurement, not with the user.</p>
+<p>Alan Klement, in a 2013 post on the Intercom blog (crediting Intercom&rsquo;s Paul Adams with the idea), proposed <strong>job stories</strong> as an alternative to persona-based user stories. A job story separates the situation and motivation from the solution:</p>
+<blockquote>
+<p><strong>When</strong> [situation], <strong>I want to</strong> [motivation], <strong>so I can</strong> [expected outcome].</p>
+</blockquote>
+<p>Klement&rsquo;s argument is that a user story (&ldquo;As an SRE, I want an AI root cause&hellip;&rdquo;) ties the implementation to the motivation, so when a feature fails you can&rsquo;t tell whether the build or the assumption was wrong. Write the job story first to define the problem. Then write user stories beneath it as candidate solutions.</p>
+<h3 id="school-two-the-job-as-a-process-ulwick">School two: the job as a process (Ulwick)</h3>
+<p>Tony Ulwick&rsquo;s <strong>Outcome-Driven Innovation</strong> treats the job as a process with measurable steps. Lance Bettencourt and Ulwick&rsquo;s 2008 HBR article &ldquo;The Customer-Centered Innovation Map&rdquo; lays out a universal job map that any job can be broken into: defining what&rsquo;s needed, locating inputs, preparing, confirming readiness, executing, monitoring, modifying and concluding.</p>
+<p>At each step, customers have <strong>desired outcomes</strong>, written in a precise format: a direction of improvement, a metric, the object of control and a contextual clarifier. For example: &ldquo;Minimize the time it takes to identify which recent change caused an outage.&rdquo; Because the statements are precise and solution-free, you can survey customers on them at scale. Ulwick&rsquo;s <strong>opportunity score</strong> then ranks them:</p>
+<blockquote>
+<p>Opportunity = Importance + max(Importance − Satisfaction, 0)</p>
+</blockquote>
+<p>Importance and satisfaction are the share of respondents rating an outcome as very or extremely important, or very or extremely satisfied, usually scaled to 0 to 10. The <code>max()</code> keeps over-served outcomes (high satisfaction) from dragging the score below their importance. High scores mean important and underserved: that&rsquo;s where to build.</p>
+<h3 id="which-school-to-use">Which school to use</h3>
+<p>The two schools have publicly disagreed, and a Principal PM should be explicit about which lens they&rsquo;re using. In practice they fit different questions:</p>
+<div class="tbl"><table>
+<thead>
+<tr>
+<th>Question</th>
+<th>Use</th>
+<th>Why</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Why do customers switch to us, or away?</td>
+<td>Switch interviews and four forces</td>
+<td>Reveals the anxiety and habit your features don&rsquo;t address</td>
+</tr>
+<tr>
+<td>What problem should this feature solve?</td>
+<td>Job stories</td>
+<td>Keeps the motivation separate from the implementation</td>
+</tr>
+<tr>
+<td>Which unmet needs matter most across a large market?</td>
+<td>ODI job map and opportunity scores</td>
+<td>Quantifies importance and satisfaction at scale</td>
+</tr>
+<tr>
+<td>Where in a workflow are we losing customers?</td>
+<td>Job map plus journey map</td>
+<td>Shows which step fails and what it costs</td>
+</tr>
+</tbody>
+</table></div>
+<aside class="callout callout-onramp"><div class="callout-h"><span class="callout-k">On-ramp</span><span class=callout-t>If JTBD is new to you</span></div><p>Start with one habit: before any feature discussion, write the job story. &ldquo;When [situation], I want to [motivation], so I can [outcome].&rdquo; If the team can&rsquo;t agree on the job story, they&rsquo;re not ready to debate the feature.</p></aside>
+<h2 id="personas">Personas</h2>
+<h3 id="where-personas-came-from-and-why-they-go-wrong">Where personas came from, and why they go wrong</h3>
+<p>Alan Cooper introduced personas to software design in <em>The Inmates Are Running the Asylum</em> (1999). His point was simple: design for a specific person, not an elastic &ldquo;user&rdquo; who can be stretched to justify any feature. John Pruitt and Jonathan Grudin later described persona practice at Microsoft and why it works: teams engage with a specific, named person far more than with an abstract user segment. Pruitt and Tamara Adlin&rsquo;s <em>The Persona Lifecycle</em> added the idea that personas are born, used and eventually retired, like any other artifact.</p>
+<p>Personas go wrong in predictable ways. They get made once, printed on a poster and never updated. They describe demographics (&ldquo;Priya, 34, likes hiking&rdquo;) instead of goals and behaviors. And they get invented in a conference room, then treated as research.</p>
+<h3 id="three-kinds-of-persona">Three kinds of persona</h3>
+<p>The Nielsen Norman Group distinguishes three kinds, and knowing which one you have is most of the battle:</p>
+<div class="tbl"><table>
+<thead>
+<tr>
+<th>Type</th>
+<th>Basis</th>
+<th>Effort</th>
+<th>Use it for</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Proto-persona</strong></td>
+<td>The team&rsquo;s assumptions, no new research</td>
+<td>2 to 4 hour workshop</td>
+<td>Exposing disagreement and creating hypotheses to test</td>
+</tr>
+<tr>
+<td><strong>Qualitative persona</strong></td>
+<td>5 to 30 interviews, coded into themes</td>
+<td>Weeks</td>
+<td>Most product decisions. NN/g calls this the best fit for most teams.</td>
+</tr>
+<tr>
+<td><strong>Statistical persona</strong></td>
+<td>Qualitative research plus a survey of 100+ (ideally 500+) respondents, clustered</td>
+<td>Months</td>
+<td>Pricing, packaging and sizing decisions where segment size matters</td>
+</tr>
+</tbody>
+</table></div>
+<p>Jeff Gothelf&rsquo;s <strong>proto-persona</strong> technique, described in UX Magazine in 2012, is especially useful in enterprise companies. Executives and team members each sketch the customer they&rsquo;re picturing on a four-quadrant sheet (a sketch and name; behaviors and beliefs; demographics; needs and goals), present them, and consolidate to three to five. The exercise rarely produces accurate personas. What it reliably produces is the discovery that sales, product and the executive team are picturing three different customers. That&rsquo;s worth knowing on day one.</p>
+<p>The practical path: start with proto-personas, label them as hypotheses, and graduate to qualitative personas within a quarter. Save statistical personas for decisions that need segment sizes.</p>
+<h3 id="personas-in-b2b-the-buying-group">Personas in B2B: the buying group</h3>
+<p>Consumer products often have one persona who discovers, buys and uses the product. Enterprise products almost never do. The user, the person who signs, the person who can veto and the person who championed the deal internally are different people with different jobs and different anxieties.</p>
+<p>Marketing researchers have studied this for fifty years. Frederick Webster and Yoram Wind&rsquo;s 1972 model of the <strong>buying center</strong> identified the roles of users, influencers, buyers, deciders and gatekeepers. Robert Miller and Stephen Heiman&rsquo;s <em>Strategic Selling</em> popularized the economic buyer, user buyer, technical buyer and coach, and the MEDDIC sales method renamed the coach as the <strong>champion</strong>. Gartner&rsquo;s research on B2B buying describes six buying jobs that the buying group has to complete, in no fixed order: problem identification, solution exploration, requirements building, supplier selection, validation and consensus creation.</p>
+<p>For product work, this book recommends a standard B2B persona set. Every enterprise product should have at least these, each with a job story and its main anxiety:</p>
+<div class="tbl"><table>
+<thead>
+<tr>
+<th>Persona</th>
+<th>Role in the deal</th>
+<th>Typical job</th>
+<th>Typical anxiety</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>End user</strong></td>
+<td>Uses the product daily</td>
+<td>Get their own work done faster or better</td>
+<td>&ldquo;This will make my job harder before it makes it easier.&rdquo;</td>
+</tr>
+<tr>
+<td><strong>Champion</strong></td>
+<td>Advocates internally and builds the case</td>
+<td>Solve a team problem and look good doing it</td>
+<td>&ldquo;If this fails, it&rsquo;s my reputation.&rdquo;</td>
+</tr>
+<tr>
+<td><strong>Economic buyer</strong></td>
+<td>Owns the budget and signs</td>
+<td>Hit a business target within budget</td>
+<td>&ldquo;I can&rsquo;t prove the ROI to my CFO.&rdquo;</td>
+</tr>
+<tr>
+<td><strong>Technical evaluator</strong></td>
+<td>Security, IT or architecture review</td>
+<td>Keep the environment safe and supportable</td>
+<td>&ldquo;This creates a risk I&rsquo;ll be blamed for.&rdquo;</td>
+</tr>
+<tr>
+<td><strong>Procurement or legal</strong> (gatekeeper)</td>
+<td>Contract and vendor approval</td>
+<td>Reduce commercial and legal risk</td>
+<td>&ldquo;These terms expose us.&rdquo;</td>
+</tr>
+</tbody>
+</table></div>
+<p>Map each of Gartner&rsquo;s buying jobs to the persona who owns it. Consensus creation is where enterprise deals stall, so the champion needs artifacts that help them sell internally: an ROI model, a security pack, a reference customer. Those artifacts are product decisions as much as sales ones.</p>
+<aside class="callout callout-leader"><div class="callout-h"><span class="callout-k">For product leaders</span></div><p>Persona sets should be shared across a portfolio, not reinvented by every PM. If three products sell to the same economic buyer, they should agree on who that buyer is and what they need. Make the portfolio&rsquo;s persona set a durable artifact owned at the group level, and let each product extend it with its own end users.</p></aside>
+<h2 id="journey-maps">Journey maps</h2>
+<p>A persona tells you who. A job tells you why. A <strong>journey map</strong> tells you what happens, step by step, as that person tries to make progress, and where it goes wrong.</p>
+<p>NN/g&rsquo;s Sarah Gibbons defines a journey map as a visualization of the process a person goes through to accomplish a goal, and lays out its anatomy in three zones:</p>
+<ul>
+<li><strong>The lens</strong>: one actor (one persona per map) and the scenario, with their expectations.</li>
+<li><strong>The experience</strong>: the phases of the journey, and for each phase the person&rsquo;s actions, thoughts and emotions (usually drawn as a line of highs and lows).</li>
+<li><strong>The insights</strong>: the opportunities the map reveals, each with an internal owner and a metric.</li>
+</ul>
+<p>Journey maps sit in a family of related tools. An <strong>experience map</strong> is broader and product-agnostic. A <strong>service blueprint</strong>, a technique G. Lynn Shostack introduced in HBR in 1984, extends the journey into the company: the frontstage actions customers see, the backstage actions they don&rsquo;t and the support processes underneath, separated by lines of interaction, visibility and internal interaction. A <strong>user story map</strong> is a planning tool for delivery, covered in Chapter 06.</p>
+<p>For B2B products, draw the journey at two levels:</p>
+<ol>
+<li><strong>The buying journey</strong>: the buying group working through the six buying jobs, with one swimlane per persona. This is where you discover that the security review takes eleven weeks.</li>
+<li><strong>The usage journey</strong>: one end user, one scenario, the classic NN/g map. This is where you discover that time-to-value is lost in onboarding.</li>
+</ol>
+<p>Connect the two at the <strong>first value</strong> moment: the point where the customer first gets the outcome they bought. In enterprise products, a service blueprint of onboarding often shows that the time to first value is lost in handoffs between sales, provisioning, support and customer success, not in the product&rsquo;s interface.</p>
+<h2 id="discovery-interviews">Discovery interviews</h2>
+<p>Hypotheses, jobs, personas and journeys are all guesses until you talk to customers. Three bodies of work define how to do that well.</p>
+<h3 id="the-mom-test">The Mom Test</h3>
+<p>Rob Fitzpatrick&rsquo;s <em>The Mom Test</em> is named for the idea that you should be able to ask your mother about your business idea and get useful answers, even though she loves you and wants to be supportive. It has three rules:</p>
+<ol>
+<li>Talk about their life instead of your idea.</li>
+<li>Ask about specifics in the past instead of generics or opinions about the future.</li>
+<li>Talk less and listen more.</li>
+</ol>
+<p>Fitzpatrick identifies three kinds of bad data: <strong>compliments</strong> (&ldquo;that sounds great&rdquo;), <strong>fluff</strong> (generic claims, hypotheticals and promises about the future) and <strong>ideas</strong> (feature requests, which you should dig behind to find the problem). The real signal is <strong>commitment</strong>: time, reputation or money. In enterprise products, a pilot, a security-review slot or an introduction to an executive counts as commitment. &ldquo;We&rsquo;d definitely use that&rdquo; doesn&rsquo;t.</p>
+<p>The single most useful substitution in discovery: replace &ldquo;Would you use X?&rdquo; with &ldquo;Tell me about the last time you had to do Y. What did you use? What did it cost you?&rdquo;</p>
+<h3 id="continuous-discovery">Continuous discovery</h3>
+<p>Teresa Torres, in <em>Continuous Discovery Habits</em>, argues that discovery shouldn&rsquo;t be a phase. It should be a habit: weekly touchpoints with customers, by the team building the product, in pursuit of a desired outcome. She recommends the <strong>product trio</strong> (PM, designer and tech lead) interview at least one customer a week.</p>
+<p>Torres&rsquo;s <strong>opportunity solution tree</strong> organizes what you learn:</p>
+<ul>
+<li>The <strong>desired outcome</strong> is the root: the metric the team is trying to move.</li>
+<li><strong>Opportunities</strong> branch from it: unmet customer needs, pain points and desires, discovered in interviews.</li>
+<li><strong>Solutions</strong> branch from opportunities.</li>
+<li><strong>Assumption tests</strong> sit under each solution.</li>
+</ul>
+<p>The tree keeps teams from jumping from outcome straight to solution. Revisit the opportunity space every three or four interviews.</p>
+<p>Torres&rsquo;s <strong>story-based interviews</strong> collect specific past stories (&ldquo;Tell me about a time when&hellip;&rdquo;), and her <strong>interview snapshot</strong> captures each one on a single page: the participant, quick facts for context, a memorable quote, the opportunities heard, insights not yet actionable, and a small experience map of the story&rsquo;s key moments.</p>
+<p>For a Principal PM, the habit is the point. Automate recruiting (in-product intercepts, customer success referrals, a standing research panel) so the trio talks to a customer every week without anyone having to kick off a project.</p>
+<h3 id="interviewing-craft">Interviewing craft</h3>
+<p>Steve Portigal&rsquo;s <em>Interviewing Users</em> covers the craft that the other two assume: building rapport, embracing how the participant sees the world, using silence and follow-up questions, and moving from interviewing to sense-making. Use Portigal for how to run the conversation, Fitzpatrick for what to ask, and Torres for cadence and synthesis.</p>
+<h2 id="how-to-apply-it">How to apply it</h2>
+<p>Here&rsquo;s a six-week method for building the Customer dimension of a Product 360 from scratch, or for testing a major new bet within an existing product.</p>
+<p><strong>Week 1: Write it down.</strong></p>
+<ol>
+<li>Draft the three-part product hypothesis: customer, problem, solution. Include the growth (buying-process) assumption.</li>
+<li>Run a 90-minute proto-persona workshop with the product trio, a sales leader and a customer success leader. Consolidate to three to five personas, including the B2B roles. Label every persona &ldquo;hypothesis.&rdquo;</li>
+<li>Write a job story for each persona.</li>
+<li>List every assumption and map them: desirability, feasibility, viability, adoptability; importance against evidence.</li>
+</ol>
+<p><strong>Week 2: Recruit and prepare.</strong></p>
+<ol start="5">
+<li>Write an interview guide that tests the customer and problem hypotheses only. Use the Mom Test rules: past behavior, specifics, no pitching.</li>
+<li>Recruit 12 to 15 interviews across personas: at least five end users, three champions, two economic buyers and two technical evaluators. Include recent switchers to you and away from you.</li>
+</ol>
+<p><strong>Weeks 3 to 5: Interview continuously.</strong></p>
+<ol start="7">
+<li>Run two to five interviews a week as a trio. Write an interview snapshot within 24 hours of each.</li>
+<li>Every three or four interviews, update the opportunity solution tree and the assumption map. Move assumptions as evidence arrives.</li>
+<li>For switchers, run the four-forces analysis. Pay special attention to anxiety.</li>
+</ol>
+<p><strong>Week 6: Decide.</strong></p>
+<ol start="10">
+<li>Revise the personas from proto to qualitative, based on what you heard. Retire any that didn&rsquo;t show up in reality.</li>
+<li>Draw the buying and usage journey maps, and mark the opportunities.</li>
+<li>Rewrite the hypothesis. For each of the three parts, state whether it&rsquo;s confirmed, revised or killed, with the evidence.</li>
+<li>Make a decision with your manager: proceed to vision and strategy (Chapter 02), pivot the hypothesis and run another cycle, or stop.</li>
+</ol>
+<p>Then keep the weekly interview habit going. The Customer dimension is durable, but the discovery log behind it is living.</p>
+<h2 id="the-ai-lens">The AI lens</h2>
+<h3 id="building-ai-powered-products">Building AI-powered products</h3>
+<p>When the product is AI-powered, the customer hypothesis needs a few things that classic hypotheses leave out.</p>
+<ul>
+<li><strong>The trust threshold.</strong> For any AI output, there&rsquo;s a level of accuracy below which users won&rsquo;t rely on it and a level of consequence above which they won&rsquo;t let it act. Make both part of the problem hypothesis. &ldquo;SRE leads will accept an AI-proposed root cause if it&rsquo;s right at least [x]% of the time and shows its evidence&rdquo; is testable. &ldquo;Users want AI diagnosis&rdquo; isn&rsquo;t.</li>
+<li><strong>The delegation job.</strong> AI products, especially agents, change the job from &ldquo;help me do this&rdquo; to &ldquo;do this for me.&rdquo; Those are different jobs with different anxieties. Write both job stories and test which one customers are hiring for. Often it&rsquo;s the first for now and the second later.</li>
+<li><strong>The technical evaluator&rsquo;s new questions.</strong> For AI products, the technical evaluator persona has a growing list of concerns: where data goes, whether it trains models, what the agent can access, how decisions are logged, and what regulation applies. Chapter 33 covers the regulatory side. In discovery, the point is to interview this persona early, because their anxiety decides adoptability.</li>
+<li><strong>The persona&rsquo;s AI posture.</strong> Add one field to every persona in an AI product: how they feel about AI doing their work today. Enthusiasts, pragmatists and skeptics behave very differently, and the mix shifts from one segment to the next.</li>
+</ul>
+<h3 id="doing-the-work-with-ai">Doing the work with AI</h3>
+<p>AI changes discovery work dramatically, mostly in synthesis. User Interviews&rsquo; <em>State of User Research 2025</em> found that 80% of researchers were using AI, up sharply from the prior year, while 91% worried about accuracy and hallucinations. Both numbers are right, and the practical rules follow from them.</p>
+<p><strong>Where AI helps.</strong> NN/g&rsquo;s Kate Moran and Maria Rosala, in &ldquo;Accelerating Research with AI,&rdquo; find the biggest gains in planning and analysis: drafting interview guides, transcribing, first-pass coding and clustering of themes, drafting snapshots and summarizing across many interviews. A harness with access to your interview transcripts, support tickets, CRM notes and sales call recordings can draft an opportunity solution tree in an hour that would take a team a week.</p>
+<p><strong>Where AI doesn&rsquo;t help.</strong> AI can&rsquo;t observe behavior, so it shouldn&rsquo;t moderate or analyze usability tests. It can&rsquo;t decide what a story means for your strategy. And it tends to smooth over exactly the things that matter most in discovery: the rare, surprising remark and the subgroup that behaves differently.</p>
+<p><strong>Keep the evidence attached.</strong> Every AI-generated insight should link back to the source quote or clip. If you can&rsquo;t trace a theme to at least two real customers, it&rsquo;s the model&rsquo;s opinion, not a finding.</p>
+<h3 id="the-synthetic-users-debate">The synthetic users debate</h3>
+<p>The most contested AI practice in discovery is the <strong>synthetic user</strong>: an AI-generated respondent meant to stand in for a real customer. The evidence is now strong enough to give clear guidance.</p>
+<p>NN/g&rsquo;s 2024 analysis by Rosala and Moran found synthetic users to be sycophantic and idealized. They &ldquo;care about everything,&rdquo; so they can&rsquo;t prioritize; they can&rsquo;t report real past behavior because they don&rsquo;t have any; and they&rsquo;re weakest for niche groups. In October 2026, NN/g published an empirical comparison of 120 synthetic respondents against 604 human respondents to the same survey. The headline conclusions roughly matched, but humans produced more than fifty distinct labels for their own field where the synthetic respondents produced about a dozen: a collapse in variety that hides exactly the edge cases discovery exists to find.</p>
+<p>The strongest evidence for AI respondents comes with an important caveat. A 2024 Stanford-led study (Park and colleagues) built AI agents from two-hour interviews with 1,052 real people, and those agents replicated each person&rsquo;s survey answers about 85% as well as the people replicated their own answers two weeks later. But each agent was grounded in an interview with one specific, real person. That&rsquo;s a digital twin of a participant you already researched, not a persona invented from a prompt.</p>
+<p>The rules for an enterprise PM:</p>
+<ul>
+<li><strong>Use synthetic users to prepare.</strong> Pilot an interview guide, explore an unfamiliar domain, or generate a first set of proto-personas to test.</li>
+<li><strong>Never present synthetic output as research.</strong> Label it hypothesis, and validate it with real customers.</li>
+<li><strong>Be most skeptical where B2B insight matters most.</strong> Niche roles, buying-group politics and long-tail edge cases are exactly where synthetic users are weakest.</li>
+</ul>
+<aside class="callout callout-ai"><div class="callout-h"><span class="callout-k">The AI lens</span><span class=callout-t>The one-line rule</span></div><p>AI can draft, cluster and summarize what customers said. It can&rsquo;t tell you what customers would say, and it can&rsquo;t decide what it means. Supplement human research with AI; don&rsquo;t substitute for it.</p></aside>
+<h2 id="the-beacon-case-testing-the-beacon-agents-hypothesis">The Beacon case: testing the Beacon Agents hypothesis</h2>
+<aside class="callout callout-example"><div class="callout-h"><span class="callout-k">Beacon case</span><span class=callout-t>Where Beacon starts</span></div><p>Beacon&rsquo;s leadership wants to move from &ldquo;correlate and summarize&rdquo; to Beacon Agents: AI agents that diagnose incidents and run approved remediation steps. The strategy deck assumes SRE teams want it. Your Product 360 inventory (Chapter 00) showed that the existing personas are all end users from 2024, with no economic buyer or security reviewer. Before the Agents roadmap gets committed, you test the hypothesis.</p></aside>
+<p><strong>The hypothesis.</strong> You write it in three parts:</p>
+<ul>
+<li><em>Customer:</em> We believe SRE and platform teams of 20 to 100 engineers at enterprises already using Beacon for alert correlation&hellip;</li>
+<li><em>Problem:</em> &hellip;lose most of each incident to diagnosis (finding which change, service or dependency caused it), which costs them [time to resolve, on-call burnout and SLA penalties].</li>
+<li><em>Solution:</em> We believe an agent that proposes a root cause with cited evidence, and runs allowlisted remediation steps after human approval, will cut diagnosis time by at least half. We&rsquo;ll know we&rsquo;re right when responders accept the agent&rsquo;s diagnosis in at least 60% of incidents during a 30-day pilot.</li>
+<li><em>Growth (buying process):</em> Security teams will approve agent write access to production for allowlisted actions.</li>
+</ul>
+<p><strong>The assumption map.</strong> The trio maps 22 assumptions. Three land in the top-right quadrant: security will approve write access; responders will accept AI root causes; and buyers will pay per resolved incident. None of them is a feature assumption.</p>
+<p><strong>The proto-personas.</strong> The workshop produces five personas, and an immediate surprise. The sales leader pictures the buyer as a VP of IT Operations; the CTO pictures an SRE lead. Both exist: Marcus (VP of IT Operations) is the economic buyer and Priya (SRE lead) is the champion. Dana (on-call engineer) is the end user, Sam (security and compliance reviewer) is the technical evaluator and Leo (MSP operations manager) is the partner persona. Nobody had previously written down Sam.</p>
+<p><strong>The interviews.</strong> Over three weeks the trio runs 14 interviews: six on-call engineers, three SRE leads, two VPs, two security reviewers and one MSP. They include two customers who left Beacon for a competitor&rsquo;s AIOps feature.</p>
+<p>What they hear:</p>
+<ul>
+<li><strong>The problem is confirmed, with a twist.</strong> Diagnosis really is most of the incident. But the most-cited cost is not MTTR. It&rsquo;s on-call burnout and attrition. Marcus cares about MTTR because his CFO does; Priya cares about keeping her team. That changes the positioning conversation in Chapter 24.</li>
+<li><strong>The solution is half-confirmed.</strong> Engineers want the diagnosis badly (&ldquo;just tell me which deploy did it&rdquo;). They are far more cautious about the agent acting. Several describe a specific incident where an automated remediation script made an outage worse.</li>
+<li><strong>Anxiety lives with Sam.</strong> Both security reviewers say they&rsquo;d block agent write access without per-action audit logs, scoped credentials and a kill switch. One says they&rsquo;d also need documentation for EU AI Act obligations, because their company sells in Europe.</li>
+<li><strong>The two switchers</strong> left because the competitor&rsquo;s feature was bundled into a platform they already paid for. The push was price and procurement simplicity, not capability. That&rsquo;s a strategy signal for Chapter 03.</li>
+</ul>
+<p><strong>The decision.</strong> You rewrite the hypothesis. The customer hypothesis holds. The problem hypothesis is revised: burnout joins MTTR as a primary cost. The solution hypothesis is split in two. Diagnosis ships first, aiming at a 60% acceptance rate. Supervised action follows, gated on security features (audit logs, scoped credentials, a kill switch) that move from &ldquo;later&rdquo; to &ldquo;now&rdquo; on the roadmap. The growth assumption is replaced: security will approve write access <em>if</em> those controls exist, which becomes the next assumption to test with a design partner.</p>
+<p>Sam is now a formal persona in the Product 360, with a job story: <em>&ldquo;When a new tool asks for production access, I want to see exactly what it can do and how to revoke it, so I can approve it without becoming the person who gets blamed for the next outage.&rdquo;</em></p>
+<h2 id="product-360-artifacts">Product 360 artifacts</h2>
+<div class="blk blk-template"><div class="blk-h"><span class="blk-tag">▤ Template</span><span class="blk-t">Product hypothesis</span><span class="blk-actions"><a class="blk-dl" href="templates/product-hypothesis.md" download>Download .md</a><button class="blk-copy" type="button">Copy</button></span></div><pre><code># Product hypothesis · [Product or initiative] · v[n] · [Date]
+
+**Owner:** [PM]   **Status:** Draft / Testing / Confirmed / Revised / Killed
+
+## Customer hypothesis
+We believe [specific segment, role and context]...
+
+## Problem hypothesis
+...experience [problem] when [situation], which costs them [measurable consequence].
+
+## Solution hypothesis
+We believe [solution concept] will solve this.
+We will know we are right when [observable signal] reaches [threshold] within [timeframe].
+
+## Growth or buying-process hypothesis
+We believe customers will discover and adopt this by [channel or buying process], and that [buying-group gate, such as security or procurement] will approve it because [reason].
+
+## Business outcome
+If the hypothesis holds, the business outcome is [metric and target]. The customer outcome is [metric and target].
+
+## Riskiest assumptions (from the assumption map)
+1. [Assumption] · Type: desirability / feasibility / viability / adoptability · Test: [smallest test] · Signal: [what would falsify it]
+2.
+3.
+
+## Evidence log
+| Date | Source (interview, data, test) | What we learned | Effect on hypothesis |
+|---|---|---|---|
+| | | | |
+
+## Decision
+[Proceed / pivot / stop], decided by [name] on [date]. Reason: [one paragraph].</code></pre></div>
+<div class="blk blk-template"><div class="blk-h"><span class="blk-tag">▤ Template</span><span class="blk-t">Assumption map</span><span class="blk-actions"><a class="blk-dl" href="templates/assumption-map.md" download>Download .md</a><button class="blk-copy" type="button">Copy</button></span></div><pre><code># Assumption map · [Product or initiative] · [Date]
+
+| # | Assumption | Type (D/F/V/A) | Importance (H/M/L) | Evidence today (strong/some/none) | Quadrant | Test | Owner | Status |
+|---|---|---|---|---|---|---|---|---|
+| 1 | | | | | | | | |
+
+Types: D = desirability (do they want it?), F = feasibility (can we build it?), V = viability (should we, financially?), A = adoptability (will the buying group, security and procurement let it through?).
+
+## Test first (important, little evidence)
+1.
+2.
+3.
+
+## Review rhythm
+Update after every three or four interviews or tests. Move assumptions between quadrants as evidence arrives, and note why.</code></pre></div>
+<div class="blk blk-template"><div class="blk-h"><span class="blk-tag">▤ Template</span><span class="blk-t">Opportunity assessment</span><span class="blk-actions"><a class="blk-dl" href="templates/opportunity-assessment.md" download>Download .md</a><button class="blk-copy" type="button">Copy</button></span></div><pre><code># Opportunity assessment · [Opportunity] · [Date]
+
+**Owner:** [PM]   **Decision needed by:** [Date]   **Decision maker:** [Name]
+
+1. **Exactly what problem will this solve?** (value proposition)
+2. **For whom do we solve that problem?** (target personas and segments)
+3. **How big is the opportunity?** (market size and how it was estimated)
+4. **What alternatives are out there?** (competitors, substitutes, build-it-yourself, do nothing)
+5. **Why are we best suited to pursue this?** (our differentiator)
+6. **Why now?** (market window)
+7. **How will we get this product to market?** (go-to-market approach)
+8. **How will we measure success and make money?** (metrics and revenue model)
+9. **What factors are critical to success?** (solution requirements and riskiest assumptions)
+10. **Recommendation:** go, no-go or investigate further, with the next decision point.
+
+Adapted from Marty Cagan&#x27;s ten opportunity-assessment questions.</code></pre></div>
+<div class="blk blk-template"><div class="blk-h"><span class="blk-tag">▤ Template</span><span class="blk-t">B2B persona</span><span class="blk-actions"><a class="blk-dl" href="templates/b2b-persona.md" download>Download .md</a><button class="blk-copy" type="button">Copy</button></span></div><pre><code># Persona · [Name], [Role]
+
+**Type:** Proto (hypothesis) / Qualitative / Statistical   **Evidence:** [number of interviews, sources]   **Owner:** [PM]   **Last validated:** [Date]   **Retire by:** [Date or condition]
+
+## Role in the deal
+End user / Champion / Economic buyer / Technical evaluator / Procurement or legal / Partner
+
+## Context
+- Organization type and size:
+- Team and reporting line:
+- Tools they use today:
+- What they&#x27;re measured on:
+
+## Job story
+When [situation], I want to [motivation], so I can [expected outcome].
+
+## Goals
+1.
+2.
+
+## Pains (in their words)
+- &quot;[Quote]&quot; (interview #, date)
+- &quot;[Quote]&quot;
+
+## Four forces
+- Push (what&#x27;s wrong today):
+- Pull (the better future they imagine):
+- Anxiety (what worries them about switching):
+- Habit (what keeps them where they are):
+
+## AI posture (AI products only)
+Enthusiast / Pragmatist / Skeptic, with evidence:
+
+## What they need from us to say yes
+[Proof points, artifacts, controls, references]
+
+## Buying jobs they own
+Problem identification / Solution exploration / Requirements building / Supplier selection / Validation / Consensus creation</code></pre></div>
+<div class="blk blk-template"><div class="blk-h"><span class="blk-tag">▤ Template</span><span class="blk-t">Job stories and desired outcomes</span><span class="blk-actions"><a class="blk-dl" href="templates/job-statements.md" download>Download .md</a><button class="blk-copy" type="button">Copy</button></span></div><pre><code># Jobs · [Product] · [Date]
+
+## Job stories (one per persona and situation)
+| Persona | When (situation) | I want to (motivation) | So I can (outcome) | Evidence |
+|---|---|---|---|---|
+| | | | | |
+
+## Job map (for one core job)
+| Step | What the customer is doing | Desired outcomes (direction + metric + object + context) |
+|---|---|---|
+| Define | | |
+| Locate | | |
+| Prepare | | |
+| Confirm | | |
+| Execute | | |
+| Monitor | | |
+| Modify | | |
+| Conclude | | |
+
+## Opportunity scoring (if surveyed)
+| Desired outcome | Importance (0 to 10) | Satisfaction (0 to 10) | Opportunity = I + max(I − S, 0) |
+|---|---|---|---|
+| | | | |</code></pre></div>
+<div class="blk blk-template"><div class="blk-h"><span class="blk-tag">▤ Template</span><span class="blk-t">Customer journey map</span><span class="blk-actions"><a class="blk-dl" href="templates/journey-map.md" download>Download .md</a><button class="blk-copy" type="button">Copy</button></span></div><pre><code># Journey map · [Persona] · [Scenario] · [Date]
+
+**Journey type:** Buying journey / Usage journey   **Evidence:** [sources]
+
+## Lens
+- Actor:
+- Scenario:
+- Expectations:
+
+## Experience
+| Phase | [Phase 1] | [Phase 2] | [Phase 3] | [Phase 4] | [Phase 5] |
+|---|---|---|---|---|---|
+| Actions | | | | | |
+| Thoughts | | | | | |
+| Emotion (−2 to +2) | | | | | |
+| Touchpoints | | | | | |
+| Backstage (who at our company is involved) | | | | | |
+| Pain points | | | | | |
+
+## First value
+The moment the customer first gets the outcome they bought: [describe]. Median time to reach it today: [time].
+
+## Opportunities
+| Opportunity | Phase | Owner | Metric | Priority |
+|---|---|---|---|---|
+| | | | | |</code></pre></div>
+<div class="blk blk-template"><div class="blk-h"><span class="blk-tag">▤ Template</span><span class="blk-t">Discovery interview guide</span><span class="blk-actions"><a class="blk-dl" href="templates/discovery-interview-guide.md" download>Download .md</a><button class="blk-copy" type="button">Copy</button></span></div><pre><code># Discovery interview guide · [Topic] · [Date]
+
+**Hypothesis under test:** customer / problem (not solution)   **Persona:** [persona]   **Length:** 45 minutes
+
+## Before the call
+- Learning goals (max three):
+  1.
+  2.
+  3.
+- What would change our mind:
+
+## Opening (5 min)
+- Thank them, explain we&#x27;re learning, not selling. Ask permission to record.
+- &quot;Tell me about your role and what a typical week looks like.&quot;
+
+## The story (25 min)
+- &quot;Tell me about the last time [the situation] happened.&quot;
+- &quot;What happened first? Then what?&quot;
+- &quot;Who else was involved?&quot;
+- &quot;What did you use to deal with it? Why that?&quot;
+- &quot;What did it cost you: time, money, stress, reputation?&quot;
+- &quot;What have you tried to fix it? What happened?&quot;
+- &quot;If it happened again tomorrow, what would you do?&quot;
+
+## Switching (if they recently changed tools) (10 min)
+- &quot;When did you first think something had to change?&quot;
+- &quot;What made you start looking? What did you look at?&quot;
+- &quot;What almost stopped you?&quot;
+- &quot;What would make you switch away?&quot;
+
+## Close (5 min)
+- &quot;Is there anything I should have asked?&quot;
+- &quot;Who else should I talk to?&quot;
+- Ask for a commitment: a follow-up, an intro, a pilot.
+
+## Rules
+Ask about past specifics, not future hypotheticals. Don&#x27;t pitch. Dig behind feature requests to the problem. Silence is a tool.</code></pre></div>
+<div class="blk blk-template"><div class="blk-h"><span class="blk-tag">▤ Template</span><span class="blk-t">Interview snapshot</span><span class="blk-actions"><a class="blk-dl" href="templates/interview-snapshot.md" download>Download .md</a><button class="blk-copy" type="button">Copy</button></span></div><pre><code># Interview snapshot · [Participant] · [Date]
+
+**Persona:** [persona]   **Interviewers:** [trio]   **Recording:** [link]
+
+## Quick facts
+[Context that matters: company, team size, tools, role]
+
+## Memorable quote
+&quot;[Quote]&quot;
+
+## The story in five moments
+1.
+2.
+3.
+4.
+5.
+
+## Opportunities heard (needs, pains, desires)
+-
+-
+
+## Insights (notable, not yet actionable)
+-
+
+## Evidence for or against the hypothesis
+| Assumption | For / Against / Neutral | Evidence |
+|---|---|---|
+| | | |
+
+## Commitment offered
+[None / follow-up / intro / pilot / other]</code></pre></div>
+<h2 id="prompts">Prompts</h2>
+<div class="blk blk-prompt"><div class="blk-h"><span class="blk-tag">✦ Prompt</span><span class="blk-t">Pressure-test a product hypothesis</span><span class="blk-actions"><button class="blk-copy" type="button">Copy</button></span></div><pre><code>Goal: Find the weakest part of your hypothesis before customers do.
+Paste in: your three-part product hypothesis, growth assumption and any evidence you already have.
+
+Act as a skeptical product leader reviewing this hypothesis for [product]. 
+
+1. Rewrite it so the customer, problem and solution parts can each be proven false on their own. Flag any part that&#x27;s untestable as written.
+2. List at least 15 assumptions underneath it. Classify each as desirability, feasibility, viability or adoptability (will the buying group, security and procurement let it through?).
+3. Rate each assumption&#x27;s importance (H/M/L) and the evidence I&#x27;ve provided (strong/some/none). Show the top-right quadrant: important, little evidence.
+4. For the top three, propose the smallest, fastest test and the result that would falsify it.
+5. Name the two customer alternatives I seem to be underestimating, including &quot;do nothing.&quot;
+
+Don&#x27;t soften the critique. Don&#x27;t invent evidence I haven&#x27;t given you.
+
+[hypothesis and evidence]
+
+Check the output: are the top-three assumptions really the ones that would kill the product? If the model ranked a feature preference above a buying-process or trust assumption, push back.</code></pre></div>
+<div class="blk blk-prompt"><div class="blk-h"><span class="blk-tag">✦ Prompt</span><span class="blk-t">Draft proto-personas from existing company data</span><span class="blk-actions"><button class="blk-copy" type="button">Copy</button></span></div><pre><code>Goal: Get a first set of proto-personas to test, built from what the company already knows.
+Paste in (or connect the harness to): CRM opportunity notes, win/loss notes, sales call summaries, support tickets and any existing personas. Use only tools approved for customer data, and remove personal identifiers first.
+
+From the material provided for [product], draft proto-personas for an enterprise buying group: end user, champion, economic buyer, technical evaluator and procurement or legal, plus any role that appears repeatedly.
+
+For each persona give: role in the deal, context, a job story (&quot;When..., I want to..., so I can...&quot;), goals, pains quoted from the material with source references, the four forces (push, pull, anxiety, habit) and what they need to say yes.
+
+Rules:
+- Every claim must cite the source document. If the material doesn&#x27;t support a field, write &quot;No evidence yet.&quot;
+- Mark every persona &quot;Proto-persona: hypothesis to test.&quot;
+- Note where different sources seem to describe different people in the same role.
+
+Check the output: read three of the cited sources and confirm the quotes and paraphrases are accurate. Treat the personas as the starting point for interviews, not their conclusion.</code></pre></div>
+<div class="blk blk-prompt"><div class="blk-h"><span class="blk-tag">✦ Prompt</span><span class="blk-t">Write a Mom Test interview guide</span><span class="blk-actions"><button class="blk-copy" type="button">Copy</button></span></div><pre><code>Goal: Produce an interview guide that tests the problem, not your solution.
+Paste in: the customer and problem hypotheses, the persona you&#x27;ll interview and your three learning goals.
+
+Write a 45-minute discovery interview guide for [persona] to test this customer and problem hypothesis: [hypothesis]. 
+
+Follow the Mom Test rules: ask about specific past events, not future hypotheticals or opinions; never describe our solution; dig behind any feature request to the underlying problem. Include an opening, a story section built around &quot;Tell me about the last time...&quot;, a switching section for people who recently changed tools, and a close that asks for a concrete commitment.
+
+After the guide, list five questions I might be tempted to ask that would produce bad data (compliments, fluff or ideas), and rewrite each one.
+
+Check the output: delete any question that mentions our product or asks &quot;would you.&quot; Read the guide aloud; if it sounds like a sales call, rewrite it.</code></pre></div>
+<div class="blk blk-prompt"><div class="blk-h"><span class="blk-tag">✦ Prompt</span><span class="blk-t">Turn an interview transcript into a snapshot</span><span class="blk-actions"><button class="blk-copy" type="button">Copy</button></span></div><pre><code>Goal: Capture each interview on one page within a day.
+Paste in: one interview transcript, the persona and the current list of assumptions under test. Use an approved tool for customer recordings.
+
+Create an interview snapshot from this transcript with these sections: quick facts, one memorable quote (verbatim), the story in five key moments, opportunities heard (needs, pains and desires, phrased from the customer&#x27;s point of view and free of solutions), insights not yet actionable, evidence for or against each assumption listed, and any commitment offered.
+
+Rules:
+- Quote verbatim, with timestamps. Never paraphrase inside quotation marks.
+- If the participant talked about the future or gave an opinion rather than a past example, label it &quot;opinion&quot; and weight it lower.
+- Don&#x27;t infer things the participant didn&#x27;t say.
+
+[assumptions]
+[transcript]
+
+Check the output: play the clip at two of the timestamps and confirm the quotes. Make sure the opportunities are problems, not features.</code></pre></div>
+<div class="blk blk-prompt"><div class="blk-h"><span class="blk-tag">✦ Prompt</span><span class="blk-t">Synthesize interviews into an opportunity solution tree</span><span class="blk-actions"><button class="blk-copy" type="button">Copy</button></span></div><pre><code>Goal: Find the patterns across many interviews without losing the evidence.
+Paste in: all interview snapshots so far, the desired outcome (the metric the team is trying to move) and the current assumption map.
+
+Using these interview snapshots for [product], build an opportunity solution tree with this desired outcome at the root: [outcome].
+
+1. Cluster the opportunities heard into parent and child opportunities. Name each from the customer&#x27;s point of view.
+2. For each opportunity, list the participants who raised it (by snapshot ID), with a representative quote, and how many personas it spans.
+3. Flag any opportunity raised by only one participant as &quot;single source,&quot; and any that appears only in one persona.
+4. Identify surprises: opportunities that contradict our hypothesis or appear in an unexpected persona.
+5. Update the assumption map: which assumptions gained or lost evidence?
+
+Don&#x27;t propose solutions yet.
+
+Check the output: every opportunity should trace to at least one real quote. Read the single-source and surprise items yourself; they&#x27;re where models are most likely to over-generalize, and also where the best insights often hide.</code></pre></div>
+<div class="blk blk-prompt"><div class="blk-h"><span class="blk-tag">✦ Prompt</span><span class="blk-t">Pilot an interview guide with a synthetic respondent</span><span class="blk-actions"><button class="blk-copy" type="button">Copy</button></span></div><pre><code>Goal: Find confusing or leading questions before you spend a real customer&#x27;s time.
+Paste in: your interview guide and a short description of the persona.
+
+Role-play as a [persona description] being interviewed with this guide. Answer each question in character, briefly. Then step out of character and tell me:
+1. Which questions were confusing, leading or likely to produce opinions rather than past stories.
+2. Which questions a real person in this role might refuse or be unable to answer, and why.
+3. What important topic the guide doesn&#x27;t cover.
+
+Important: your in-character answers are not research and will not be used as evidence. I only want feedback on the guide.
+
+[guide]
+
+Check the output: use only the guide feedback. Discard the in-character answers entirely.</code></pre></div>
+<h2 id="anti-patterns">Anti-patterns</h2>
+<aside class="callout callout-warn"><div class="callout-h"><span class="callout-k">Anti-pattern</span><span class=callout-t>The bundled hypothesis</span></div><p>&ldquo;Enterprises want an AI agent for incidents&rdquo; gets tested as one bet. When the pilot disappoints, nobody can tell whether the customer, the problem or the solution was wrong. Split the hypothesis, and test the customer and problem before the solution.</p></aside>
+<aside class="callout callout-warn"><div class="callout-h"><span class="callout-k">Anti-pattern</span><span class=callout-t>Personas as posters</span></div><p>Beautifully designed personas with stock photos and hobbies, made once and never updated. Personas are artifacts with owners, evidence and retirement dates. If a persona hasn&rsquo;t been validated against a real conversation in six months, mark it stale.</p></aside>
+<aside class="callout callout-warn"><div class="callout-h"><span class="callout-k">Anti-pattern</span><span class=callout-t>The user-only persona set</span></div><p>Every persona is a user. Nobody wrote down the economic buyer, the security reviewer or procurement, so the product delights users and dies in the buying process. Every enterprise product needs the buying group.</p></aside>
+<aside class="callout callout-warn"><div class="callout-h"><span class="callout-k">Anti-pattern</span><span class=callout-t>Asking about the future</span></div><p>&ldquo;Would you use this?&rdquo; &ldquo;How much would you pay?&rdquo; &ldquo;Is this a problem for you?&rdquo; Each produces polite, useless answers. Ask about the last time it happened, what they did and what it cost.</p></aside>
+<aside class="callout callout-warn"><div class="callout-h"><span class="callout-k">Anti-pattern</span><span class=callout-t>Synthetic research presented as real</span></div><p>An AI-generated survey of &ldquo;500 enterprise buyers&rdquo; appears in a strategy deck. It&rsquo;s fluent, confident and fictional. Synthetic output is for preparing research, never for replacing it.</p></aside>
+<aside class="callout callout-warn"><div class="callout-h"><span class="callout-k">Anti-pattern</span><span class=callout-t>Discovery as a phase</span></div><p>The team does six weeks of research before a big build, then stops talking to customers for a year. Make discovery a weekly habit with automated recruiting, so the evidence keeps arriving after the strategy is set.</p></aside>
+<h2 id="checklist">Checklist</h2>
+<ul>
+<li class="chk"><label><input type="checkbox" data-k="01-product-hypothesis-and-personas-1"><span>The product hypothesis is written in three parts (customer, problem, solution) plus a growth or buying-process assumption, and each part can be falsified on its own.</span></label></li>
+<li class="chk"><label><input type="checkbox" data-k="01-product-hypothesis-and-personas-2"><span>Every assumption is on an assumption map, classified as desirability, feasibility, viability or adoptability, and the top-right quadrant has tests assigned.</span></label></li>
+<li class="chk"><label><input type="checkbox" data-k="01-product-hypothesis-and-personas-3"><span>Major bets have a one-page opportunity assessment with a recommendation and a decision maker.</span></label></li>
+<li class="chk"><label><input type="checkbox" data-k="01-product-hypothesis-and-personas-4"><span>Each persona has a job story, and the core job has a job map with desired outcomes.</span></label></li>
+<li class="chk"><label><input type="checkbox" data-k="01-product-hypothesis-and-personas-5"><span>The persona set includes the full B2B buying group: end user, champion, economic buyer, technical evaluator and procurement or legal.</span></label></li>
+<li class="chk"><label><input type="checkbox" data-k="01-product-hypothesis-and-personas-6"><span>Every persona is labeled proto, qualitative or statistical, with its evidence and last-validated date.</span></label></li>
+<li class="chk"><label><input type="checkbox" data-k="01-product-hypothesis-and-personas-7"><span>Buying and usage journey maps exist and connect at the first-value moment.</span></label></li>
+<li class="chk"><label><input type="checkbox" data-k="01-product-hypothesis-and-personas-8"><span>The interview guide tests the problem, not the solution, and follows the Mom Test rules.</span></label></li>
+<li class="chk"><label><input type="checkbox" data-k="01-product-hypothesis-and-personas-9"><span>At least 12 interviews across personas are complete, each with a snapshot, including recent switchers.</span></label></li>
+<li class="chk"><label><input type="checkbox" data-k="01-product-hypothesis-and-personas-10"><span>The opportunity solution tree traces every opportunity to real quotes.</span></label></li>
+<li class="chk"><label><input type="checkbox" data-k="01-product-hypothesis-and-personas-11"><span>For AI products, the hypothesis states trust thresholds and the personas record AI posture.</span></label></li>
+<li class="chk"><label><input type="checkbox" data-k="01-product-hypothesis-and-personas-12"><span>No synthetic or AI-generated output is presented as customer evidence.</span></label></li>
+<li class="chk"><label><input type="checkbox" data-k="01-product-hypothesis-and-personas-13"><span>The hypothesis has been revised with evidence, and a proceed, pivot or stop decision is in the decision log.</span></label></li>
+<li class="chk"><label><input type="checkbox" data-k="01-product-hypothesis-and-personas-14"><span>A weekly interview habit with automated recruiting is running.</span></label></li>
+</ul>
+<h2 id="key-takeaways">Key takeaways</h2>
+<ul>
+<li>A product idea is several bets stacked together. Split it into customer, problem and solution hypotheses, and test the first two before showing anyone the third.</li>
+<li>Map every assumption by type and by importance against evidence. In B2B, add adoptability: the security review and the buying group kill more products than features do.</li>
+<li>Jobs to be done tells you why customers would buy anything. Use switch interviews and the four forces to understand switching, job stories to frame features and Ulwick&rsquo;s outcome scores to prioritize at scale.</li>
+<li>Enterprise personas must include the buying group. The economic buyer, champion, technical evaluator and procurement each have a different job and a different anxiety.</li>
+<li>Discovery is a weekly habit, not a phase. Ask about the past, talk less and treat commitment as the only real signal.</li>
+<li>AI is excellent at drafting guides and synthesizing transcripts, and unreliable at standing in for customers. Keep every insight linked to a real quote, and label synthetic output as hypothesis.</li>
+</ul></div><nav class="pager"><a class="pg pg-p" href="00-product-360-framework.html"><span>← Previous</span><b>The Product 360 Framework</b></a><a class="pg pg-n" href="02-product-vision-and-goals.html"><span>Next →</span><b>Product Vision and Goals</b></a></nav></article></main>
+  <aside class="rail" aria-label="On this page"><div class="rail-in"><div class="rail-h">On this page</div><ul class="rail-l"><li><a href="#why-this-matters">Why this matters</a></li><li><a href="#the-product-hypothesis">The product hypothesis</a></li><li class="l3"><a href="#three-parts-that-fail-separately">Three parts that fail separately</a></li><li class="l3"><a href="#the-lean-ux-hypothesis-statement">The Lean UX hypothesis statement</a></li><li class="l3"><a href="#assumption-mapping">Assumption mapping</a></li><li class="l3"><a href="#the-opportunity-assessment">The opportunity assessment</a></li><li><a href="#jobs-to-be-done">Jobs to be done</a></li><li class="l3"><a href="#the-core-idea">The core idea</a></li><li class="l3"><a href="#school-one-progress-and-switching-moesta-spiek-klement">School one: progress and switching (Moesta, Spiek, Klement)</a></li><li class="l3"><a href="#school-two-the-job-as-a-process-ulwick">School two: the job as a process (Ulwick)</a></li><li class="l3"><a href="#which-school-to-use">Which school to use</a></li><li><a href="#personas">Personas</a></li><li class="l3"><a href="#where-personas-came-from-and-why-they-go-wrong">Where personas came from, and why they go wrong</a></li><li class="l3"><a href="#three-kinds-of-persona">Three kinds of persona</a></li><li class="l3"><a href="#personas-in-b2b-the-buying-group">Personas in B2B: the buying group</a></li><li><a href="#journey-maps">Journey maps</a></li><li><a href="#discovery-interviews">Discovery interviews</a></li><li class="l3"><a href="#the-mom-test">The Mom Test</a></li><li class="l3"><a href="#continuous-discovery">Continuous discovery</a></li><li class="l3"><a href="#interviewing-craft">Interviewing craft</a></li><li><a href="#how-to-apply-it">How to apply it</a></li><li><a href="#the-ai-lens">The AI lens</a></li><li class="l3"><a href="#building-ai-powered-products">Building AI-powered products</a></li><li class="l3"><a href="#doing-the-work-with-ai">Doing the work with AI</a></li><li class="l3"><a href="#the-synthetic-users-debate">The synthetic users debate</a></li><li><a href="#the-beacon-case-testing-the-beacon-agents-hypothesis">The Beacon case: testing the Beacon Agents hypothesis</a></li><li><a href="#product-360-artifacts">Product 360 artifacts</a></li><li><a href="#prompts">Prompts</a></li><li><a href="#anti-patterns">Anti-patterns</a></li><li><a href="#checklist">Checklist</a></li><li><a href="#key-takeaways">Key takeaways</a></li></ul></div></aside>
+</div>
+<div class="search-modal" id="search-modal" hidden>
+  <div class="search-box" role="dialog" aria-label="Search the handbook">
+    <input id="search-input" type="search" placeholder="Search the handbook…" autocomplete="off">
+    <div id="search-results" class="search-results"></div>
+    <div class="search-foot"><kbd>↑</kbd><kbd>↓</kbd> to move · <kbd>Enter</kbd> to open · <kbd>Esc</kbd> to close</div>
+  </div>
+</div>
+<script src="assets/js/search-index.js?v=1"></script>
+<script src="assets/js/book.js?v=1"></script>
+</body>
+</html>

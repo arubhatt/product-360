@@ -1,0 +1,109 @@
+{
+  "title": "The Product 360 Handbook",
+  "subtitle": "Building, Running and Governing Products in the AI Era",
+  "tagline": "A field guide and operating system for product leaders, 2026 edition",
+  "series": "Product Leadership Series",
+  "author": "Arunabh Bhattacharjee",
+  "github": "https://github.com/arubhatt",
+  "edition": "2026 edition",
+  "front": [
+    {"num": "", "slug": "preface", "title": "Preface: How to Use This Book", "summary": "Who this book is for, how it is organized, and how to turn it into your own Product 360.", "file": "preface.md"},
+    {"num": "00", "slug": "00-product-360-framework", "title": "The Product 360 Framework", "summary": "The model, the artifact stack and the operating cadence the whole book hangs on.", "file": "00-product-360-framework.md"}
+  ],
+  "parts": [
+    {
+      "num": "I", "title": "Product Management", "blurb": "The core craft, in the order you practice it: hypothesis, vision, strategy, prototype, measure, ship.",
+      "chapters": [
+        {"num": "01", "slug": "01-product-hypothesis-and-personas", "title": "Developing a Product Hypothesis and Personas", "summary": "Frame the problem, name the customer, and write a hypothesis you can kill.", "file": "01-product-hypothesis-and-personas.md", "cornell": "Developing a Product Hypothesis and Personas"},
+        {"num": "02", "slug": "02-product-vision-and-goals", "title": "Product Vision and Goals", "summary": "Vision, North Star, metric trees and OKRs that actually steer the work.", "cornell": "Product Vision and Goals", "outline": ["Vision, mission and the vision narrative", "Decomposing the business into parts", "North Star metrics and input metric trees", "OKRs that drive outcomes, not output", "AI lens: goals for probabilistic products"]},
+        {"num": "03", "slug": "03-product-strategy-and-roadmap", "title": "Building a Product Strategy and Roadmap", "summary": "Strategy kernels, prioritization frameworks, backlogs and outcome roadmaps.", "cornell": "Building a Product Strategy and Roadmap", "outline": ["What strategy is and is not", "The strategy kernel and Playing to Win", "Prioritization frameworks compared", "Building and grooming the backlog", "Now/next/later and theme roadmaps", "AI lens: roadmapping when capabilities shift every quarter"]},
+        {"num": "04", "slug": "04-product-prototyping", "title": "Product Prototyping", "summary": "The fidelity ladder, AI prototyping, usability testing, staffing and the PRD.", "cornell": "Product Prototyping", "outline": ["The fidelity ladder", "Prototyping with AI builders in 2026", "Usability testing that changes decisions", "Staffing the team", "Writing the PRD"]},
+        {"num": "05", "slug": "05-product-analytics-and-iteration", "title": "Product Analytics and Iteration", "summary": "Instrumentation, funnels, retention, experiments and the iteration loop.", "cornell": "Product Analytics and Iteration", "outline": ["Instrumentation and event design", "Funnels, cohorts and retention", "Validating the hypothesis after launch", "Experiments and readouts", "Planning the next iteration"]},
+        {"num": "06", "slug": "06-product-engineering-and-execution", "title": "Product Engineering and Execution", "summary": "Working with engineering: sprints, stories, issues and technical debt.", "cornell": "Product Engineering and Execution", "outline": ["The PM and engineering partnership", "Sprint planning and cadence", "User stories and acceptance criteria", "Issue and bug management", "Technical debt as a product decision"]}
+      ]
+    },
+    {
+      "num": "II", "title": "Technical Product Management", "blurb": "The technical and quantitative depth that separates a good PM from a trusted one.",
+      "chapters": [
+        {"num": "07", "slug": "07-navigating-technical-product-management", "title": "Navigating Technical Product Management", "summary": "Why products fail, how they get built, and AI-assisted analysis and A/B testing.", "cornell": "Navigating Technical Product Management"},
+        {"num": "08", "slug": "08-data-driven-product-strategy", "title": "Developing a Data-Driven Product Strategy", "summary": "Marketing metrics, journey design and attribution for product leaders.", "cornell": "Developing a Data-Driven Product Strategy"},
+        {"num": "09", "slug": "09-optimizing-strategy-with-analytics", "title": "Optimizing Product Strategy Using Analytics", "summary": "Survival analysis, customer lifetime value and sentiment, without the math homework.", "cornell": "Optimizing Product Strategy Using Analytics"},
+        {"num": "10", "slug": "10-consumer-insights-and-specifications", "title": "Consumer Insights and Product Specifications", "summary": "How customers decide, how to specify for it, and how to relaunch.", "cornell": "Analyzing and Communicating Consumer Insights"},
+        {"num": "11", "slug": "11-delivery-methodologies", "title": "Delivery Methodologies", "summary": "Waterfall, Agile, Scrum, Kanban, Shape Up and dual-track, and when each fits.", "cornell": "Applying Project Methodologies to Technical Products"},
+        {"num": "12", "slug": "12-compelling-value-offering", "title": "Creating a Compelling Value Offering", "summary": "Value-based and behavioral pricing across the lifecycle, and the DCF view.", "cornell": "Creating a Compelling Value Offering"}
+      ]
+    },
+    {
+      "num": "III", "title": "Business and Market Strategy", "blurb": "Where you play, how you win, and how the business case holds up.",
+      "chapters": [
+        {"num": "13", "slug": "13-market-sizing-competition-business-case", "title": "Market Sizing, Competitive Analysis and the Business Case", "summary": "TAM/SAM/SOM, the competitive map and a business case finance will sign.", "cornell": "Getting Started with Spreadsheet Modeling and Business Analytics"},
+        {"num": "14", "slug": "14-digital-platform-strategy", "title": "Digital Platform Strategy and Network Effects", "summary": "Platforms, ecosystems and the network effects that compound.", "cornell": "Digital Platform Strategy"},
+        {"num": "15", "slug": "15-pricing-and-packaging", "title": "Pricing and Packaging Strategy", "summary": "Value metrics, tiers, AI usage pricing and measuring price changes.", "cornell": "Pricing Strategy"},
+        {"num": "16", "slug": "16-defensibility-and-moats", "title": "Defensibility and Moats", "summary": "The seven powers and what still defends a product when AI commoditizes features."}
+      ]
+    },
+    {
+      "num": "IV", "title": "Data-Driven Decisions in the AI Era", "blurb": "The right questions, the right data and the right reports. The harness does the querying.",
+      "chapters": [
+        {"num": "17", "slug": "17-questions-that-drive-decisions", "title": "The Questions That Drive Product Decisions", "summary": "A question bank for every product decision, and the evidence that answers each.", "cornell": "Harvesting Spreadsheet Data", "outline": ["Decision types across the lifecycle", "A question bank per decision", "What evidence answers each question", "Good questions versus vanity questions"]},
+        {"num": "18", "slug": "18-product-data-landscape-and-reports", "title": "The Product Data Landscape and the Reports That Matter", "summary": "Where product data lives and the standard reports every product leader should own.", "cornell": "Querying Relational Databases; Exploring Data Visualization Techniques", "outline": ["Data sources: telemetry, CRM, billing, support, surveys, market", "The standard report set", "The questions each report must answer", "Worked examples"]},
+        {"num": "19", "slug": "19-ai-native-analysis", "title": "AI-Native Analysis: Collecting Data and Asking the Harness", "summary": "Connectors, MCP, context and prompts: analysis by conversation, verified.", "cornell": "Creating Professional Data Visualizations", "outline": ["Collecting and permissioning the data", "Connectors and MCP servers", "Passing context into Claude or another harness", "Analysis and report prompts", "Checking AI-generated numbers", "From answer to decision"]}
+      ]
+    },
+    {
+      "num": "V", "title": "Innovation", "blurb": "How established product orgs keep inventing, and how ideas survive contact with the company.",
+      "chapters": [
+        {"num": "20", "slug": "20-innovation-strategy", "title": "Innovation Strategy and the Innovation Placemat", "summary": "Align goals, win an executive champion, and plan for risk.", "cornell": "Developing Innovation Strategy"},
+        {"num": "21", "slug": "21-innovation-competencies", "title": "Innovation Competencies: Lean Startup, Design Thinking and Maker Culture", "summary": "The three habits that turn ideas into evidence.", "cornell": "Building Innovation Competencies"},
+        {"num": "22", "slug": "22-innovation-toolkit", "title": "The Innovation Toolkit", "summary": "Hackathons, incubators, partnerships, venture and M&A, and when to use each.", "cornell": "Innovation Tools"},
+        {"num": "23", "slug": "23-implementing-and-scaling-innovation", "title": "Implementing, Evaluating and Scaling Innovation", "summary": "Stakeholders, dedicated teams, portfolios and getting to scale.", "cornell": "Implementing Innovation; Evaluating and Scaling Innovation"}
+      ]
+    },
+    {
+      "num": "VI", "title": "Go-to-Market: Offers, Announcements and Events", "blurb": "Turning a built product into a bought one.",
+      "chapters": [
+        {"num": "24", "slug": "24-positioning-messaging-offer", "title": "Positioning, Messaging and the Offer", "summary": "Competitive alternatives, unique value and an offer customers can buy."},
+        {"num": "25", "slug": "25-launch-management", "title": "Launch Management", "summary": "Launch tiers, readiness, beta and early access, and announcements."},
+        {"num": "26", "slug": "26-events-keynotes-demos", "title": "Events, Keynotes and Demos", "summary": "Plan the moment, script the demo, and make it land."},
+        {"num": "27", "slug": "27-enablement-and-customer-success", "title": "Sales Enablement, Customer Success and the Feedback Loop", "summary": "Arm the field, keep customers, and close the loop back to the roadmap."}
+      ]
+    },
+    {
+      "num": "VII", "title": "Product Operations and Lifecycle Management", "blurb": "The machinery that keeps a portfolio healthy from first release to last.",
+      "chapters": [
+        {"num": "28", "slug": "28-product-operations", "title": "Product Operations", "summary": "Cadences, rituals, decision rights, tooling and data."},
+        {"num": "29", "slug": "29-governance-and-business-reviews", "title": "Governance and Business Reviews", "summary": "Portfolio reviews, QBRs, metric reviews and decision logs."},
+        {"num": "30", "slug": "30-product-lifecycle-management", "title": "Product Lifecycle Management", "summary": "Stage gates, maturity, sunsetting, end-of-sale and end-of-life."}
+      ]
+    },
+    {
+      "num": "VIII", "title": "AI-Era Product Management", "blurb": "Building AI products, and doing the job with AI.",
+      "chapters": [
+        {"num": "31", "slug": "31-building-ai-powered-products", "title": "Building AI-Powered Products", "summary": "AI PRDs, evals, agents, cost, latency, trust and UX.", "file": "31-building-ai-powered-products.md"},
+        {"num": "32", "slug": "32-ai-augmented-product-manager", "title": "The AI-Augmented Product Manager", "summary": "AI workflows across every PM task, with the guardrails."},
+        {"num": "33", "slug": "33-responsible-ai-and-regulation", "title": "Responsible AI and Regulation for PMs", "summary": "The EU AI Act, NIST AI RMF and ISO/IEC 42001 in product terms."}
+      ]
+    },
+    {
+      "num": "IX", "title": "Influence and Leadership", "blurb": "Writing, presenting and leading without authority.",
+      "chapters": [
+        {"num": "34", "slug": "34-persuasive-writing", "title": "Persuasive Writing for PMs", "summary": "Narratives, PRFAQs, one-pagers, proposals and email.", "cornell": "Persuasive Writing"},
+        {"num": "35", "slug": "35-presentations-and-executive-communication", "title": "Presentations and Executive Communication", "summary": "Plan, structure and deliver for the room you are in.", "cornell": "Planning and Delivering Effective Presentations"},
+        {"num": "36", "slug": "36-stakeholder-management-and-leadership", "title": "Stakeholder Management and Product Leadership", "summary": "Maps, alignment, conflict and building a product team."}
+      ]
+    },
+    {
+      "num": "X", "title": "Capstone", "blurb": "Put the whole book to work on your own product.",
+      "chapters": [
+        {"num": "37", "slug": "37-building-your-product-360", "title": "Building Your Product 360", "summary": "The end-to-end playbook for a new surface area, with grilling prompts for your harness."}
+      ]
+    }
+  ],
+  "appendices": [
+    {"num": "A", "slug": "appendix-a-artifact-library", "title": "Artifact Library", "summary": "Every template in the book, ready to copy or download.", "generated": "artifacts"},
+    {"num": "B", "slug": "appendix-b-prompt-library", "title": "Prompt Library", "summary": "Every prompt in the book, grouped by chapter.", "generated": "prompts"},
+    {"num": "C", "slug": "appendix-c-maturity-model", "title": "Product 360 Maturity Model", "summary": "Score your product's 360 and find the weakest dimension."},
+    {"num": "D", "slug": "appendix-d-glossary", "title": "Glossary", "summary": "The vocabulary of product management, defined plainly."},
+    {"num": "E", "slug": "appendix-e-course-map", "title": "Course Map", "summary": "How each chapter maps to the Product Management 360 certificate courses.", "generated": "coursemap"}
+  ]
+}

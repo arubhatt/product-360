@@ -1,0 +1,233 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Prompt Library · The Product 360 Handbook</title>
+<meta name="description" content="Every prompt in the book, grouped by chapter.">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Literata:ital,opsz,wght@0,7..72,400;0,7..72,500;0,7..72,600;1,7..72,400&family=JetBrains+Mono:wght@400;500&display=swap">
+<link rel="stylesheet" href="assets/css/book.css?v=1">
+<script>try{var t=localStorage.getItem('p360-theme');if(t)document.documentElement.dataset.theme=t}catch(e){}</script>
+</head>
+<body class="">
+<div class="progress" aria-hidden="true"><span></span></div>
+<header class="top">
+  <button class="ibtn menu" id="menu-btn" aria-label="Open chapters">☰</button>
+  <a class="brand" href="index.html"><svg class="logo" viewBox="0 0 32 32" aria-hidden="true"><defs><linearGradient id="lg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="var(--a1)"/><stop offset=".5" stop-color="var(--a2)"/><stop offset="1" stop-color="var(--a3)"/></linearGradient></defs><circle cx="16" cy="16" r="12" fill="none" stroke="url(#lg)" stroke-width="4" stroke-dasharray="66 9.4" stroke-linecap="round" transform="rotate(-80 16 16)"/><circle cx="16" cy="16" r="3.2" fill="var(--a2)"/></svg><span class="brand-t">Product <b>360</b></span><span class="brand-s hide-sm">Handbook</span></a>
+  <div class="top-r">
+    <button class="ibtn search-btn" data-search-open aria-label="Search"><svg viewBox="0 0 24 24" width="15" height="15" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4-4"/></svg><span class="hide-sm">Search</span><kbd class="hide-sm">/</kbd></button>
+    
+    <button class="ibtn" id="theme-btn" aria-label="Toggle light and dark"><svg viewBox="0 0 24 24" width="15" height="15" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/></svg></button>
+  </div>
+</header>
+<div class="shell">
+  <aside class="side" id="side"><nav class="nav" aria-label="Chapters"><div class="nav-g"><a class="nav-l" href="preface.html"><span class="nav-n">·</span><span>Preface: How to Use This Book</span></a><a class="nav-l" href="00-product-360-framework.html"><span class="nav-n">00</span><span>The Product 360 Framework</span></a></div><details class="nav-p"><summary><span class="nav-pm" aria-hidden="true"></span><span class="nav-pn">Part I</span><span class="nav-pt">Product Management</span></summary><a class="nav-l" href="01-product-hypothesis-and-personas.html"><span class="nav-n">01</span><span>Developing a Product Hypothesis and Personas</span></a><a class="nav-l soon" href="02-product-vision-and-goals.html"><span class="nav-n">02</span><span>Product Vision and Goals</span></a><a class="nav-l soon" href="03-product-strategy-and-roadmap.html"><span class="nav-n">03</span><span>Building a Product Strategy and Roadmap</span></a><a class="nav-l soon" href="04-product-prototyping.html"><span class="nav-n">04</span><span>Product Prototyping</span></a><a class="nav-l soon" href="05-product-analytics-and-iteration.html"><span class="nav-n">05</span><span>Product Analytics and Iteration</span></a><a class="nav-l soon" href="06-product-engineering-and-execution.html"><span class="nav-n">06</span><span>Product Engineering and Execution</span></a></details><details class="nav-p"><summary><span class="nav-pm" aria-hidden="true"></span><span class="nav-pn">Part II</span><span class="nav-pt">Technical Product Management</span></summary><a class="nav-l soon" href="07-navigating-technical-product-management.html"><span class="nav-n">07</span><span>Navigating Technical Product Management</span></a><a class="nav-l soon" href="08-data-driven-product-strategy.html"><span class="nav-n">08</span><span>Developing a Data-Driven Product Strategy</span></a><a class="nav-l soon" href="09-optimizing-strategy-with-analytics.html"><span class="nav-n">09</span><span>Optimizing Product Strategy Using Analytics</span></a><a class="nav-l soon" href="10-consumer-insights-and-specifications.html"><span class="nav-n">10</span><span>Consumer Insights and Product Specifications</span></a><a class="nav-l soon" href="11-delivery-methodologies.html"><span class="nav-n">11</span><span>Delivery Methodologies</span></a><a class="nav-l soon" href="12-compelling-value-offering.html"><span class="nav-n">12</span><span>Creating a Compelling Value Offering</span></a></details><details class="nav-p"><summary><span class="nav-pm" aria-hidden="true"></span><span class="nav-pn">Part III</span><span class="nav-pt">Business and Market Strategy</span></summary><a class="nav-l soon" href="13-market-sizing-competition-business-case.html"><span class="nav-n">13</span><span>Market Sizing, Competitive Analysis and the Business Case</span></a><a class="nav-l soon" href="14-digital-platform-strategy.html"><span class="nav-n">14</span><span>Digital Platform Strategy and Network Effects</span></a><a class="nav-l soon" href="15-pricing-and-packaging.html"><span class="nav-n">15</span><span>Pricing and Packaging Strategy</span></a><a class="nav-l soon" href="16-defensibility-and-moats.html"><span class="nav-n">16</span><span>Defensibility and Moats</span></a></details><details class="nav-p"><summary><span class="nav-pm" aria-hidden="true"></span><span class="nav-pn">Part IV</span><span class="nav-pt">Data-Driven Decisions in the AI Era</span></summary><a class="nav-l soon" href="17-questions-that-drive-decisions.html"><span class="nav-n">17</span><span>The Questions That Drive Product Decisions</span></a><a class="nav-l soon" href="18-product-data-landscape-and-reports.html"><span class="nav-n">18</span><span>The Product Data Landscape and the Reports That Matter</span></a><a class="nav-l soon" href="19-ai-native-analysis.html"><span class="nav-n">19</span><span>AI-Native Analysis: Collecting Data and Asking the Harness</span></a></details><details class="nav-p"><summary><span class="nav-pm" aria-hidden="true"></span><span class="nav-pn">Part V</span><span class="nav-pt">Innovation</span></summary><a class="nav-l soon" href="20-innovation-strategy.html"><span class="nav-n">20</span><span>Innovation Strategy and the Innovation Placemat</span></a><a class="nav-l soon" href="21-innovation-competencies.html"><span class="nav-n">21</span><span>Innovation Competencies: Lean Startup, Design Thinking and Maker Culture</span></a><a class="nav-l soon" href="22-innovation-toolkit.html"><span class="nav-n">22</span><span>The Innovation Toolkit</span></a><a class="nav-l soon" href="23-implementing-and-scaling-innovation.html"><span class="nav-n">23</span><span>Implementing, Evaluating and Scaling Innovation</span></a></details><details class="nav-p"><summary><span class="nav-pm" aria-hidden="true"></span><span class="nav-pn">Part VI</span><span class="nav-pt">Go-to-Market: Offers, Announcements and Events</span></summary><a class="nav-l soon" href="24-positioning-messaging-offer.html"><span class="nav-n">24</span><span>Positioning, Messaging and the Offer</span></a><a class="nav-l soon" href="25-launch-management.html"><span class="nav-n">25</span><span>Launch Management</span></a><a class="nav-l soon" href="26-events-keynotes-demos.html"><span class="nav-n">26</span><span>Events, Keynotes and Demos</span></a><a class="nav-l soon" href="27-enablement-and-customer-success.html"><span class="nav-n">27</span><span>Sales Enablement, Customer Success and the Feedback Loop</span></a></details><details class="nav-p"><summary><span class="nav-pm" aria-hidden="true"></span><span class="nav-pn">Part VII</span><span class="nav-pt">Product Operations and Lifecycle Management</span></summary><a class="nav-l soon" href="28-product-operations.html"><span class="nav-n">28</span><span>Product Operations</span></a><a class="nav-l soon" href="29-governance-and-business-reviews.html"><span class="nav-n">29</span><span>Governance and Business Reviews</span></a><a class="nav-l soon" href="30-product-lifecycle-management.html"><span class="nav-n">30</span><span>Product Lifecycle Management</span></a></details><details class="nav-p"><summary><span class="nav-pm" aria-hidden="true"></span><span class="nav-pn">Part VIII</span><span class="nav-pt">AI-Era Product Management</span></summary><a class="nav-l" href="31-building-ai-powered-products.html"><span class="nav-n">31</span><span>Building AI-Powered Products</span></a><a class="nav-l soon" href="32-ai-augmented-product-manager.html"><span class="nav-n">32</span><span>The AI-Augmented Product Manager</span></a><a class="nav-l soon" href="33-responsible-ai-and-regulation.html"><span class="nav-n">33</span><span>Responsible AI and Regulation for PMs</span></a></details><details class="nav-p"><summary><span class="nav-pm" aria-hidden="true"></span><span class="nav-pn">Part IX</span><span class="nav-pt">Influence and Leadership</span></summary><a class="nav-l soon" href="34-persuasive-writing.html"><span class="nav-n">34</span><span>Persuasive Writing for PMs</span></a><a class="nav-l soon" href="35-presentations-and-executive-communication.html"><span class="nav-n">35</span><span>Presentations and Executive Communication</span></a><a class="nav-l soon" href="36-stakeholder-management-and-leadership.html"><span class="nav-n">36</span><span>Stakeholder Management and Product Leadership</span></a></details><details class="nav-p"><summary><span class="nav-pm" aria-hidden="true"></span><span class="nav-pn">Part X</span><span class="nav-pt">Capstone</span></summary><a class="nav-l soon" href="37-building-your-product-360.html"><span class="nav-n">37</span><span>Building Your Product 360</span></a></details><details class="nav-p" open><summary><span class="nav-pm" aria-hidden="true"></span><span class="nav-pn">Back</span><span class="nav-pt">Appendices</span></summary><a class="nav-l" href="appendix-a-artifact-library.html"><span class="nav-n">A</span><span>Artifact Library</span></a><a class="nav-l on" href="appendix-b-prompt-library.html"><span class="nav-n">B</span><span>Prompt Library</span></a><a class="nav-l soon" href="appendix-c-maturity-model.html"><span class="nav-n">C</span><span>Product 360 Maturity Model</span></a><a class="nav-l soon" href="appendix-d-glossary.html"><span class="nav-n">D</span><span>Glossary</span></a><a class="nav-l" href="appendix-e-course-map.html"><span class="nav-n">E</span><span>Course Map</span></a></details></nav></aside>
+  <div class="scrim" id="scrim"></div>
+  <main class="main" id="main"><article class="ch"><header class="ch-head"><div class="ch-num">B</div><div class="ch-kicker">Appendices</div><h1>Prompt Library</h1><p class="ch-sum">Every prompt in the book, grouped by chapter.</p></header><div class="prose"><p>Every prompt in the handbook, grouped by chapter. The prompts are model-agnostic: they work in Claude, ChatGPT, Gemini or Copilot. Replace anything in <code>[square brackets]</code> with your own context before you run them.</p><h2 id="00-product-360-framework">Chapter 00: The Product 360 Framework</h2><div class="blk blk-prompt blk-fold"><div class="blk-h"><span class="blk-tag">✦ Prompt</span><span class="blk-t">Inventory and classify existing product documents</span><span class="blk-actions"><a class="blk-src" href="00-product-360-framework.html">from Chapter 00</a><button class="blk-copy" type="button">Copy</button><button class="blk-toggle" type="button">Show</button></span></div><pre><code>Goal: Turn a pile of existing documents into a first Product 360 inventory.
+Paste in (or connect the harness to): the documents, decks, pages and dashboards you&#x27;ve gathered for [product]. Use only tools approved for this data.
+
+You are helping a Principal PM build a Product 360 for [product]. The Product 360 has nine dimensions: Customer, Strategy, Business, Build, Measure, Go-to-market, Operate, Lifecycle, Leadership. Artifacts are durable (change yearly), living (change on a weekly to quarterly cadence) or event (created for one decision or moment).
+
+For every document provided:
+1. Give its title, link or file name, and last-updated date if visible.
+2. Assign one primary dimension and the artifact kind.
+3. Summarize in one sentence what question it answers.
+4. Mark it current, stale (older than its natural cadence) or contradicted (conflicts with another document), and say which document it conflicts with.
+
+Then produce:
+- A table of the twelve spine artifacts (Product 360 index, problem hypothesis and personas, vision and strategy one-pager, competitive landscape, business model and unit economics, outcome roadmap, North Star and metric tree, OKRs, positioning and messaging, operating cadence and decision log, lifecycle stage assessment, stakeholder map and DACI) showing which exist, their state and the best existing source for each.
+- A list of every contradiction you found, quoting the conflicting statements.
+
+Do not invent documents or fill gaps with guesses. If you can&#x27;t tell a document&#x27;s date or state, say so.
+
+Check the output: open three documents the model marked &quot;current&quot; and two it marked &quot;contradicted&quot; and confirm it read them correctly. Spot-check that no spine artifact was marked &quot;exists&quot; on the strength of a passing mention.</code></pre></div><div class="blk blk-prompt blk-fold"><div class="blk-h"><span class="blk-tag">✦ Prompt</span><span class="blk-t">Draft the Product 360 index from the inventory</span><span class="blk-actions"><a class="blk-src" href="00-product-360-framework.html">from Chapter 00</a><button class="blk-copy" type="button">Copy</button><button class="blk-toggle" type="button">Show</button></span></div><pre><code>Goal: Produce the first version of the Product 360 index page.
+Paste in: the scope paragraph, the completed artifact inventory and the list of open decisions.
+
+Using the inventory below, draft a Product 360 index for [product] using this structure: scope; a table of the nine dimensions with key question, linked artifact, owner, kind, last reviewed and state; current priorities (no more than three); open decisions; active events; key contacts.
+
+Rules:
+- Use only artifacts and facts that appear in the inventory. Where an artifact is missing, write &quot;Missing&quot; and leave the owner blank for me to fill.
+- Rank current priorities by business risk and deadline, and give a one-line reason for each.
+- Keep the page under 600 words. It&#x27;s a map, not a report.
+
+[inventory]
+
+Check the output: every link should resolve to a real document, every &quot;current&quot; label should match the inventory, and the priorities should be ones you&#x27;d defend to your manager.</code></pre></div><div class="blk blk-prompt blk-fold"><div class="blk-h"><span class="blk-tag">✦ Prompt</span><span class="blk-t">Design an operating cadence that fits the team</span><span class="blk-actions"><a class="blk-src" href="00-product-360-framework.html">from Chapter 00</a><button class="blk-copy" type="button">Copy</button><button class="blk-toggle" type="button">Show</button></span></div><pre><code>Goal: Get a realistic first cadence instead of an aspirational one.
+Paste in: team size and roles, existing recurring meetings, the planning calendar (QBR dates, annual planning), and upcoming events such as launches.
+
+I own [product]. Here&#x27;s my team and the meetings that already exist: [details]. Propose an operating cadence using the fewest new meetings possible. Reuse existing meetings where they can absorb a ritual. For each ritual give: frequency, attendees, the artifacts reviewed, the decision it produces and a 1-line agenda. Flag any ritual that has no clear decision output, and recommend cutting it. Finish with the total hours per week the cadence costs the PM and the engineering lead.
+
+Check the output: count the hours yourself. If the PM&#x27;s ritual load exceeds about 20% of the week, ask for a lighter version.</code></pre></div><div class="blk blk-prompt blk-fold"><div class="blk-h"><span class="blk-tag">✦ Prompt</span><span class="blk-t">Audit the 360 for contradictions</span><span class="blk-actions"><a class="blk-src" href="00-product-360-framework.html">from Chapter 00</a><button class="blk-copy" type="button">Copy</button><button class="blk-toggle" type="button">Show</button></span></div><pre><code>Goal: Find places where your artifacts disagree before an executive does.
+Paste in: your current strategy one-pager, roadmap, OKRs, business model summary and positioning doc (or point the harness to them).
+
+Compare these artifacts for [product] and list every contradiction or unsupported link. Specifically:
+1. Roadmap items that don&#x27;t trace to a strategic choice in the one-pager.
+2. OKRs that measure something the strategy doesn&#x27;t prioritize, or priorities with no OKR.
+3. Positioning claims the roadmap doesn&#x27;t support.
+4. Business-model assumptions (margin, price, growth) that conflict with the latest numbers.
+For each, quote both sources, explain the conflict in one sentence and suggest which artifact is more likely to be wrong and why.
+
+Check the output: for each contradiction, decide yourself which artifact to change, and log the decision.</code></pre></div><h2 id="01-product-hypothesis-and-personas">Chapter 01: Developing a Product Hypothesis and Personas</h2><div class="blk blk-prompt blk-fold"><div class="blk-h"><span class="blk-tag">✦ Prompt</span><span class="blk-t">Pressure-test a product hypothesis</span><span class="blk-actions"><a class="blk-src" href="01-product-hypothesis-and-personas.html">from Chapter 01</a><button class="blk-copy" type="button">Copy</button><button class="blk-toggle" type="button">Show</button></span></div><pre><code>Goal: Find the weakest part of your hypothesis before customers do.
+Paste in: your three-part product hypothesis, growth assumption and any evidence you already have.
+
+Act as a skeptical product leader reviewing this hypothesis for [product]. 
+
+1. Rewrite it so the customer, problem and solution parts can each be proven false on their own. Flag any part that&#x27;s untestable as written.
+2. List at least 15 assumptions underneath it. Classify each as desirability, feasibility, viability or adoptability (will the buying group, security and procurement let it through?).
+3. Rate each assumption&#x27;s importance (H/M/L) and the evidence I&#x27;ve provided (strong/some/none). Show the top-right quadrant: important, little evidence.
+4. For the top three, propose the smallest, fastest test and the result that would falsify it.
+5. Name the two customer alternatives I seem to be underestimating, including &quot;do nothing.&quot;
+
+Don&#x27;t soften the critique. Don&#x27;t invent evidence I haven&#x27;t given you.
+
+[hypothesis and evidence]
+
+Check the output: are the top-three assumptions really the ones that would kill the product? If the model ranked a feature preference above a buying-process or trust assumption, push back.</code></pre></div><div class="blk blk-prompt blk-fold"><div class="blk-h"><span class="blk-tag">✦ Prompt</span><span class="blk-t">Draft proto-personas from existing company data</span><span class="blk-actions"><a class="blk-src" href="01-product-hypothesis-and-personas.html">from Chapter 01</a><button class="blk-copy" type="button">Copy</button><button class="blk-toggle" type="button">Show</button></span></div><pre><code>Goal: Get a first set of proto-personas to test, built from what the company already knows.
+Paste in (or connect the harness to): CRM opportunity notes, win/loss notes, sales call summaries, support tickets and any existing personas. Use only tools approved for customer data, and remove personal identifiers first.
+
+From the material provided for [product], draft proto-personas for an enterprise buying group: end user, champion, economic buyer, technical evaluator and procurement or legal, plus any role that appears repeatedly.
+
+For each persona give: role in the deal, context, a job story (&quot;When..., I want to..., so I can...&quot;), goals, pains quoted from the material with source references, the four forces (push, pull, anxiety, habit) and what they need to say yes.
+
+Rules:
+- Every claim must cite the source document. If the material doesn&#x27;t support a field, write &quot;No evidence yet.&quot;
+- Mark every persona &quot;Proto-persona: hypothesis to test.&quot;
+- Note where different sources seem to describe different people in the same role.
+
+Check the output: read three of the cited sources and confirm the quotes and paraphrases are accurate. Treat the personas as the starting point for interviews, not their conclusion.</code></pre></div><div class="blk blk-prompt blk-fold"><div class="blk-h"><span class="blk-tag">✦ Prompt</span><span class="blk-t">Write a Mom Test interview guide</span><span class="blk-actions"><a class="blk-src" href="01-product-hypothesis-and-personas.html">from Chapter 01</a><button class="blk-copy" type="button">Copy</button><button class="blk-toggle" type="button">Show</button></span></div><pre><code>Goal: Produce an interview guide that tests the problem, not your solution.
+Paste in: the customer and problem hypotheses, the persona you&#x27;ll interview and your three learning goals.
+
+Write a 45-minute discovery interview guide for [persona] to test this customer and problem hypothesis: [hypothesis]. 
+
+Follow the Mom Test rules: ask about specific past events, not future hypotheticals or opinions; never describe our solution; dig behind any feature request to the underlying problem. Include an opening, a story section built around &quot;Tell me about the last time...&quot;, a switching section for people who recently changed tools, and a close that asks for a concrete commitment.
+
+After the guide, list five questions I might be tempted to ask that would produce bad data (compliments, fluff or ideas), and rewrite each one.
+
+Check the output: delete any question that mentions our product or asks &quot;would you.&quot; Read the guide aloud; if it sounds like a sales call, rewrite it.</code></pre></div><div class="blk blk-prompt blk-fold"><div class="blk-h"><span class="blk-tag">✦ Prompt</span><span class="blk-t">Turn an interview transcript into a snapshot</span><span class="blk-actions"><a class="blk-src" href="01-product-hypothesis-and-personas.html">from Chapter 01</a><button class="blk-copy" type="button">Copy</button><button class="blk-toggle" type="button">Show</button></span></div><pre><code>Goal: Capture each interview on one page within a day.
+Paste in: one interview transcript, the persona and the current list of assumptions under test. Use an approved tool for customer recordings.
+
+Create an interview snapshot from this transcript with these sections: quick facts, one memorable quote (verbatim), the story in five key moments, opportunities heard (needs, pains and desires, phrased from the customer&#x27;s point of view and free of solutions), insights not yet actionable, evidence for or against each assumption listed, and any commitment offered.
+
+Rules:
+- Quote verbatim, with timestamps. Never paraphrase inside quotation marks.
+- If the participant talked about the future or gave an opinion rather than a past example, label it &quot;opinion&quot; and weight it lower.
+- Don&#x27;t infer things the participant didn&#x27;t say.
+
+[assumptions]
+[transcript]
+
+Check the output: play the clip at two of the timestamps and confirm the quotes. Make sure the opportunities are problems, not features.</code></pre></div><div class="blk blk-prompt blk-fold"><div class="blk-h"><span class="blk-tag">✦ Prompt</span><span class="blk-t">Synthesize interviews into an opportunity solution tree</span><span class="blk-actions"><a class="blk-src" href="01-product-hypothesis-and-personas.html">from Chapter 01</a><button class="blk-copy" type="button">Copy</button><button class="blk-toggle" type="button">Show</button></span></div><pre><code>Goal: Find the patterns across many interviews without losing the evidence.
+Paste in: all interview snapshots so far, the desired outcome (the metric the team is trying to move) and the current assumption map.
+
+Using these interview snapshots for [product], build an opportunity solution tree with this desired outcome at the root: [outcome].
+
+1. Cluster the opportunities heard into parent and child opportunities. Name each from the customer&#x27;s point of view.
+2. For each opportunity, list the participants who raised it (by snapshot ID), with a representative quote, and how many personas it spans.
+3. Flag any opportunity raised by only one participant as &quot;single source,&quot; and any that appears only in one persona.
+4. Identify surprises: opportunities that contradict our hypothesis or appear in an unexpected persona.
+5. Update the assumption map: which assumptions gained or lost evidence?
+
+Don&#x27;t propose solutions yet.
+
+Check the output: every opportunity should trace to at least one real quote. Read the single-source and surprise items yourself; they&#x27;re where models are most likely to over-generalize, and also where the best insights often hide.</code></pre></div><div class="blk blk-prompt blk-fold"><div class="blk-h"><span class="blk-tag">✦ Prompt</span><span class="blk-t">Pilot an interview guide with a synthetic respondent</span><span class="blk-actions"><a class="blk-src" href="01-product-hypothesis-and-personas.html">from Chapter 01</a><button class="blk-copy" type="button">Copy</button><button class="blk-toggle" type="button">Show</button></span></div><pre><code>Goal: Find confusing or leading questions before you spend a real customer&#x27;s time.
+Paste in: your interview guide and a short description of the persona.
+
+Role-play as a [persona description] being interviewed with this guide. Answer each question in character, briefly. Then step out of character and tell me:
+1. Which questions were confusing, leading or likely to produce opinions rather than past stories.
+2. Which questions a real person in this role might refuse or be unable to answer, and why.
+3. What important topic the guide doesn&#x27;t cover.
+
+Important: your in-character answers are not research and will not be used as evidence. I only want feedback on the guide.
+
+[guide]
+
+Check the output: use only the guide feedback. Discard the in-character answers entirely.</code></pre></div><h2 id="31-building-ai-powered-products">Chapter 31: Building AI-Powered Products</h2><div class="blk blk-prompt blk-fold"><div class="blk-h"><span class="blk-tag">✦ Prompt</span><span class="blk-t">Open-code a batch of AI traces</span><span class="blk-actions"><a class="blk-src" href="31-building-ai-powered-products.html">from Chapter 31</a><button class="blk-copy" type="button">Copy</button><button class="blk-toggle" type="button">Show</button></span></div><pre><code>Goal: Get a fast first pass of error notes on real traces, to speed up (not replace) your own error analysis.
+Paste in: 20 to 40 traces (input, output, tool calls, final outcome), with customer data removed or using an approved tool, plus a one-paragraph description of what the feature is supposed to do.
+
+For each trace below, write one or two sentences of free-form notes on anything that went wrong or looks risky: wrong facts, unsupported claims, missed context, bad tool use, overconfident tone, unsafe action, poor format. If nothing went wrong, write &quot;OK.&quot; Don&#x27;t score with a rating scale. Don&#x27;t group the notes yet.
+
+Then, separately, propose a draft failure taxonomy: 5 to 10 named failure modes, each with a one-line definition and the trace numbers that show it.
+
+[feature description]
+[traces]
+
+Check the output: read at least 15 traces yourself before you look at the model&#x27;s notes, then compare. Expect the model to miss domain-specific failures and to merge modes you&#x27;d keep separate. The final taxonomy is yours.</code></pre></div><div class="blk blk-prompt blk-fold"><div class="blk-h"><span class="blk-tag">✦ Prompt</span><span class="blk-t">Generate eval cases for one failure mode</span><span class="blk-actions"><a class="blk-src" href="31-building-ai-powered-products.html">from Chapter 31</a><button class="blk-copy" type="button">Copy</button><button class="blk-toggle" type="button">Show</button></span></div><pre><code>Goal: Build a balanced set of test cases quickly.
+Paste in: the failure mode&#x27;s name and definition, three real example traces that show it, and three that show correct behavior.
+
+Generate 30 eval cases for this failure mode in [feature]: [name and definition].
+- 15 cases where a correct system should succeed or act, and 15 where it should refuse, ask for more information, or say it isn&#x27;t sure.
+- Vary difficulty: include obvious cases and subtle ones.
+- Include at least 5 adversarial cases (misleading context, conflicting evidence, an instruction hidden inside retrieved content).
+- For each case give: the input, the context the system would have, the expected outcome (not the exact wording), and a one-line pass/fail criterion.
+
+Base the cases on the real examples; don&#x27;t invent product capabilities the examples don&#x27;t show.
+
+[examples]
+
+Check the output: have your domain expert review every case. Delete any whose expected outcome you&#x27;d argue about; ambiguous cases poison an eval.</code></pre></div><div class="blk blk-prompt blk-fold"><div class="blk-h"><span class="blk-tag">✦ Prompt</span><span class="blk-t">Draft and validate a model judge</span><span class="blk-actions"><a class="blk-src" href="31-building-ai-powered-products.html">from Chapter 31</a><button class="blk-copy" type="button">Copy</button><button class="blk-toggle" type="button">Show</button></span></div><pre><code>Goal: Create a narrow LLM-as-judge for one failure mode, plus a plan to validate it.
+Paste in: the failure mode&#x27;s definition, 10 labeled examples (5 pass, 5 fail) with the reason for each label.
+
+Write a judge prompt that checks one thing only: [failure mode]. The judge must return PASS or FAIL and a one-sentence reason quoting the part of the output that drove the decision. Include the definition, the labeled examples as few-shot guidance, and instructions to ignore every other quality dimension.
+
+Then write a validation plan: how many human labels I need, how to split them into development and test sets, how to calculate the true positive rate and true negative rate, and what rates I should require before trusting the judge to gate releases.
+
+[definition and examples]
+
+Check the output: run the judge on a held-out set you labeled yourself. Don&#x27;t use it to gate releases until you&#x27;ve measured both rates on data it hasn&#x27;t seen.</code></pre></div><div class="blk blk-prompt blk-fold"><div class="blk-h"><span class="blk-tag">✦ Prompt</span><span class="blk-t">Build a first AI cost model</span><span class="blk-actions"><a class="blk-src" href="31-building-ai-powered-products.html">from Chapter 31</a><button class="blk-copy" type="button">Copy</button><button class="blk-toggle" type="button">Show</button></span></div><pre><code>Goal: See the gross-margin effect of an AI feature before it ships.
+Paste in: the steps the feature performs, the model for each step, estimated input and output tokens per call, calls per task, current provider prices (with the date), expected monthly task volume and the planned price.
+
+Build a cost model for [feature] with:
+1. A per-task cost table by step, including caching assumptions.
+2. Monthly cost, revenue and gross margin at low, expected and high volume.
+3. The cost per task at which gross margin falls below [floor]%.
+4. Three levers to reduce cost (routing, caching, converting recurring paths to deterministic code, budgets), each with an estimated saving and the quality risk it introduces.
+5. Sensitivity to tokens per task rising 50% and prices rising 20%.
+
+Show your formulas. Don&#x27;t invent prices; use only the ones I gave you, and flag any input you had to assume.
+
+[inputs]
+
+Check the output: recompute one scenario by hand. Confirm prices against the provider&#x27;s current pricing page before sharing the model with finance.</code></pre></div><div class="blk blk-prompt blk-fold"><div class="blk-h"><span class="blk-tag">✦ Prompt</span><span class="blk-t">Review an agent&#x27;s autonomy design</span><span class="blk-actions"><a class="blk-src" href="31-building-ai-powered-products.html">from Chapter 31</a><button class="blk-copy" type="button">Copy</button><button class="blk-toggle" type="button">Show</button></span></div><pre><code>Goal: Find autonomy and permission gaps before a customer does.
+Paste in: the agent&#x27;s list of actions and tools, the permissions each tool has, the proposed autonomy level per action, and the approval UX.
+
+Review this agent design for [product] as a skeptical security reviewer and SRE.
+1. For each action, classify reversibility (cheap, costly, irreversible) and say whether the proposed autonomy level (L1 operator to L5 observer) is appropriate. Recommend changes.
+2. Identify any tool with broader permissions than its actions need.
+3. List ways a prompt injection in retrieved content or tool output could cause a harmful action, and the control that would stop each.
+4. Check stopping conditions and budgets. What happens when a limit is hit?
+5. Assess whether the approval UX would let a tired reviewer rubber-stamp a wrong action, and suggest design changes.
+Finish with the five changes you&#x27;d require before production.
+
+[design]
+
+Check the output: walk through the riskiest action end to end with your engineering lead and confirm the model&#x27;s reading of the permissions is correct.</code></pre></div><div class="blk blk-prompt blk-fold"><div class="blk-h"><span class="blk-tag">✦ Prompt</span><span class="blk-t">Red-team an AI feature</span><span class="blk-actions"><a class="blk-src" href="31-building-ai-powered-products.html">from Chapter 31</a><button class="blk-copy" type="button">Copy</button><button class="blk-toggle" type="button">Show</button></span></div><pre><code>Goal: Find failure modes your team hasn&#x27;t imagined.
+Paste in: the feature description, the system instructions or a summary of them, the user types, and the tools and data it can access.
+
+Act as a red team for [feature]. Generate 25 test scenarios across these categories: confused or mistaken users, adversarial users, prompt injection through documents or tool outputs, requests outside the intended scope, high-stakes situations where a wrong answer causes harm, attempts to extract other customers&#x27; data, and situations where the right answer is &quot;I don&#x27;t know.&quot; For each, give the scenario, what a safe response looks like and what failure would look like.
+
+Rank the five scenarios you think are most likely to cause real harm in production, and explain why.
+
+[feature details]
+
+Check the output: run the top-ranked scenarios against the real system. Add every failure you find to the eval suite.</code></pre></div><div class="blk blk-prompt blk-fold"><div class="blk-h"><span class="blk-tag">✦ Prompt</span><span class="blk-t">Review an AI PRD for gaps</span><span class="blk-actions"><a class="blk-src" href="31-building-ai-powered-products.html">from Chapter 31</a><button class="blk-copy" type="button">Copy</button><button class="blk-toggle" type="button">Show</button></span></div><pre><code>Goal: Make sure an AI PRD covers what classic PRDs miss.
+Paste in: the PRD and its AI addendum.
+
+Review this PRD for an AI-powered feature. For each of these areas, say whether it&#x27;s covered well, covered weakly or missing, and quote the relevant text: cost of error; choice of pattern and autonomy; failure taxonomy and eval targets; consistency targets; model, fallback and data requirements; cost per task and margin floor; latency budget; trust and failure UX; regulatory classification; staged rollout and kill switch. Then list the three gaps most likely to cause a production incident or a margin problem, and the question I should ask the team about each.
+
+[PRD]
+
+Check the output: confirm each &quot;covered well&quot; against the PRD yourself. Bring the three questions to your next review.</code></pre></div></div><nav class="pager"><a class="pg pg-p" href="appendix-a-artifact-library.html"><span>← Previous</span><b>Artifact Library</b></a><a class="pg pg-n" href="appendix-c-maturity-model.html"><span>Next →</span><b>Product 360 Maturity Model</b></a></nav></article></main>
+  
+</div>
+<div class="search-modal" id="search-modal" hidden>
+  <div class="search-box" role="dialog" aria-label="Search the handbook">
+    <input id="search-input" type="search" placeholder="Search the handbook…" autocomplete="off">
+    <div id="search-results" class="search-results"></div>
+    <div class="search-foot"><kbd>↑</kbd><kbd>↓</kbd> to move · <kbd>Enter</kbd> to open · <kbd>Esc</kbd> to close</div>
+  </div>
+</div>
+<script src="assets/js/search-index.js?v=1"></script>
+<script src="assets/js/book.js?v=1"></script>
+</body>
+</html>
