@@ -351,6 +351,7 @@ kbd {
   .print-ch { break-before: page; }
   .print-cover { display: flex !important; flex-direction: column; justify-content: center; min-height: 230mm; }
   .print-cover .logo { width: 64px; height: 64px; margin-bottom: 28px; }
+  .print-cover .logo circle:first-of-type { stroke: #11897f; }
   .print-cover h1 { font: 750 52px/1.05 Inter, sans-serif; letter-spacing: -.035em; margin: 0 0 18px; }
   .cover-by { margin-top: 60px; color: #555; font-size: 14px; }
   .ch-num { color: #e3e3e3; background: none; -webkit-text-fill-color: #e8e8e8; }
