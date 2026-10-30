@@ -18,12 +18,12 @@ The examples lean enterprise and platform, because that is where the Product 360
 
 ## How the book is organized
 
-The book starts where the craft starts and widens from there.
+The book starts with the core craft and widens from there.
 
 - **Part I, Product Management**, covers the core loop in the order you practice it: hypothesis and personas, vision and goals, strategy and roadmap, prototyping, analytics and iteration, engineering and execution.
 - **Part II, Technical Product Management**, adds the technical and quantitative depth: how products fail, data-driven strategy, analytics for retention and lifetime value, consumer insight, delivery methods and value-based pricing.
 - **Part III, Business and Market Strategy**, covers market sizing, business cases, platforms and network effects, pricing and packaging, and defensibility.
-- **Part IV, Data-Driven Decisions in the AI Era**, teaches what to ask, which data answers it and which reports a product leader should own. It deliberately teaches no syntax. In 2026 the harness writes the query; your job is to ask the right question and check the answer.
+- **Part IV, Data-Driven Decisions in the AI Era**, teaches what to ask, which data answers it and which reports a product leader should own. It teaches no query syntax, on purpose: in 2026 the harness writes the query, and your job is to ask the right question and check the answer.
 - **Part V, Innovation**, covers how established companies keep inventing.
 - **Part VI, Go-to-Market**, covers positioning, the offer, launches, announcements, events, enablement and customer success.
 - **Part VII, Product Operations and Lifecycle Management**, covers the operating cadence, governance, business reviews, stage gates and end-of-life.
@@ -31,7 +31,7 @@ The book starts where the craft starts and widens from there.
 - **Part IX, Influence and Leadership**, covers writing, presenting and stakeholder leadership.
 - **The Capstone** turns the whole book into a playbook for building your own Product 360, including a set of grilling prompts you can run with Claude or any AI harness.
 
-The book is self-contained. Where a topic shows up in more than one part (evals, pricing, AI risk), each chapter covers what its reader needs and points to the other chapter inside this book.
+The book is self-contained. Where a topic shows up in more than one part (evals, pricing, AI risk), each chapter covers what its reader needs and points to the other chapters that cover it.
 
 ## How every chapter works
 
@@ -46,12 +46,13 @@ Each chapter follows the same shape, so you can use it as a reference as well as
 7. **Prompts**: copy-ready prompts for the chapter's tasks.
 8. **Anti-patterns**: how this usually goes wrong.
 9. **Checklist**: what "done" looks like. Tick the boxes; your browser remembers them.
+10. **Key takeaways**: the points to carry into your own Product 360.
 
 ## The running case: Beacon
 
 Every chapter works through the same fictional product so you can watch a Product 360 come together. **Beacon** is an AI agent platform from a fictional company, Northlight Systems, that helps IT operations and SRE teams detect, diagnose and resolve incidents. It started as an alert-correlation feature, became a standalone product, and in 2026 is moving into agentic diagnosis and supervised remediation. You play its newly appointed Principal PM.
 
-Beacon was chosen because it has every hard problem a product leader faces: multiple buyer personas, a platform-versus-standalone strategy question, AI cost eating gross margin, a pricing model in transition, a big launch at a customer event, a legacy product to sunset and EU customers asking for AI Act documentation. Beacon, Northlight and every number attached to them are invented.
+Beacon was chosen because it has most of the hard problems a product leader faces: multiple buyer personas, a platform-versus-standalone strategy question, AI cost eating gross margin, a pricing model in transition, a big launch at a customer event, a legacy product to sunset and EU customers asking for AI Act documentation. Beacon, Northlight and every number attached to them are invented.
 
 ## Conventions
 

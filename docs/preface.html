@@ -17,7 +17,7 @@
   <a class="brand" href="index.html"><svg class="logo" viewBox="0 0 32 32" aria-hidden="true"><defs><linearGradient id="lg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="var(--a1)"/><stop offset=".5" stop-color="var(--a2)"/><stop offset="1" stop-color="var(--a3)"/></linearGradient></defs><circle cx="16" cy="16" r="12" fill="none" stroke="url(#lg)" stroke-width="4" stroke-dasharray="66 9.4" stroke-linecap="round" transform="rotate(-80 16 16)"/><circle cx="16" cy="16" r="3.2" fill="var(--a2)"/></svg><span class="brand-t">Product <b>360</b></span><span class="brand-s hide-sm">Handbook</span></a>
   <div class="top-r">
     <button class="ibtn search-btn" data-search-open aria-label="Search"><svg viewBox="0 0 24 24" width="15" height="15" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4-4"/></svg><span class="hide-sm">Search</span><kbd class="hide-sm">/</kbd></button>
-    
+    <a class="ibtn hide-sm" href="product-360-handbook.pdf">PDF</a>
     <button class="ibtn" id="theme-btn" aria-label="Toggle light and dark"><svg viewBox="0 0 24 24" width="15" height="15" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/></svg></button>
   </div>
 </header>
@@ -35,12 +35,12 @@
 <p>The primary reader is a Senior to Principal product manager in a B2B, enterprise or platform business. Newer PMs will find <strong>On-ramp</strong> boxes that cover the basics a chapter assumes. Directors and VPs will find <strong>For product leaders</strong> boxes on portfolio, org and governance questions.</p>
 <p>The examples lean enterprise and platform, because that is where the Product 360 problem is hardest: long sales cycles, many stakeholders, partner channels, compliance reviews and products that live for a decade. Consumer examples show up where a concept is clearer in consumer.</p>
 <h2 id="how-the-book-is-organized">How the book is organized</h2>
-<p>The book starts where the craft starts and widens from there.</p>
+<p>The book starts with the core craft and widens from there.</p>
 <ul>
 <li><strong>Part I, Product Management</strong>, covers the core loop in the order you practice it: hypothesis and personas, vision and goals, strategy and roadmap, prototyping, analytics and iteration, engineering and execution.</li>
 <li><strong>Part II, Technical Product Management</strong>, adds the technical and quantitative depth: how products fail, data-driven strategy, analytics for retention and lifetime value, consumer insight, delivery methods and value-based pricing.</li>
 <li><strong>Part III, Business and Market Strategy</strong>, covers market sizing, business cases, platforms and network effects, pricing and packaging, and defensibility.</li>
-<li><strong>Part IV, Data-Driven Decisions in the AI Era</strong>, teaches what to ask, which data answers it and which reports a product leader should own. It deliberately teaches no syntax. In 2026 the harness writes the query; your job is to ask the right question and check the answer.</li>
+<li><strong>Part IV, Data-Driven Decisions in the AI Era</strong>, teaches what to ask, which data answers it and which reports a product leader should own. It teaches no query syntax, on purpose: in 2026 the harness writes the query, and your job is to ask the right question and check the answer.</li>
 <li><strong>Part V, Innovation</strong>, covers how established companies keep inventing.</li>
 <li><strong>Part VI, Go-to-Market</strong>, covers positioning, the offer, launches, announcements, events, enablement and customer success.</li>
 <li><strong>Part VII, Product Operations and Lifecycle Management</strong>, covers the operating cadence, governance, business reviews, stage gates and end-of-life.</li>
@@ -48,7 +48,7 @@
 <li><strong>Part IX, Influence and Leadership</strong>, covers writing, presenting and stakeholder leadership.</li>
 <li><strong>The Capstone</strong> turns the whole book into a playbook for building your own Product 360, including a set of grilling prompts you can run with Claude or any AI harness.</li>
 </ul>
-<p>The book is self-contained. Where a topic shows up in more than one part (evals, pricing, AI risk), each chapter covers what its reader needs and points to the other chapter inside this book.</p>
+<p>The book is self-contained. Where a topic shows up in more than one part (evals, pricing, AI risk), each chapter covers what its reader needs and points to the other chapters that cover it.</p>
 <h2 id="how-every-chapter-works">How every chapter works</h2>
 <p>Each chapter follows the same shape, so you can use it as a reference as well as read it straight through:</p>
 <ol>
@@ -61,10 +61,11 @@
 <li><strong>Prompts</strong>: copy-ready prompts for the chapter&rsquo;s tasks.</li>
 <li><strong>Anti-patterns</strong>: how this usually goes wrong.</li>
 <li><strong>Checklist</strong>: what &ldquo;done&rdquo; looks like. Tick the boxes; your browser remembers them.</li>
+<li><strong>Key takeaways</strong>: the points to carry into your own Product 360.</li>
 </ol>
 <h2 id="the-running-case-beacon">The running case: Beacon</h2>
 <p>Every chapter works through the same fictional product so you can watch a Product 360 come together. <strong>Beacon</strong> is an AI agent platform from a fictional company, Northlight Systems, that helps IT operations and SRE teams detect, diagnose and resolve incidents. It started as an alert-correlation feature, became a standalone product, and in 2026 is moving into agentic diagnosis and supervised remediation. You play its newly appointed Principal PM.</p>
-<p>Beacon was chosen because it has every hard problem a product leader faces: multiple buyer personas, a platform-versus-standalone strategy question, AI cost eating gross margin, a pricing model in transition, a big launch at a customer event, a legacy product to sunset and EU customers asking for AI Act documentation. Beacon, Northlight and every number attached to them are invented.</p>
+<p>Beacon was chosen because it has most of the hard problems a product leader faces: multiple buyer personas, a platform-versus-standalone strategy question, AI cost eating gross margin, a pricing model in transition, a big launch at a customer event, a legacy product to sunset and EU customers asking for AI Act documentation. Beacon, Northlight and every number attached to them are invented.</p>
 <h2 id="conventions">Conventions</h2>
 <aside class="callout callout-note"><div class="callout-h"><span class="callout-k">Note</span><span class=callout-t>How to read the boxes</span></div><p><strong>Key idea</strong> boxes hold the one thing to remember. <strong>The AI lens</strong> boxes cover AI-specific implications. <strong>Beacon case</strong> boxes carry the running example. <strong>Anti-pattern</strong> boxes describe common failures. <strong>On-ramp</strong> and <strong>For product leaders</strong> boxes adjust the depth up or down.</p></aside>
 <p><strong>Prompts</strong> are model-agnostic. They work in Claude, ChatGPT, Gemini, Copilot or an internal harness. Anything in <code>[square brackets]</code> is a placeholder for your own context. Every prompt says what to paste in and how to check what comes back, because an AI answer you didn&rsquo;t check is a guess with good formatting.</p>

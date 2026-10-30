@@ -6,13 +6,13 @@ Most product managers inherit a product the same way: a handoff document, a Jira
 
 You can run a product like that for a while. Then the questions start arriving faster than you can reconstruct the answers. Sales asks why a competitor's feature isn't on the roadmap. Finance asks why gross margin dropped four points. A customer asks when the legacy version reaches end of support. An executive asks for the three-year view by Friday. Each question gets answered from scratch, slightly differently each time, and the product drifts toward whoever asked most recently.
 
-A Product 360 fixes this by making the product legible: to you, to your team, to your executives and, in 2026, to the AI tools you work with. It isn't a document. It's a small, connected set of artifacts, each owning one part of the picture, plus a rhythm for updating them. When it works, you stop rebuilding context and start using it.
+A Product 360 fixes this by making the product legible: to you, to your team, to your executives and, in 2026, to the AI tools you work with. Rather than one big document, it's a small, connected set of artifacts, each owning one part of the picture, plus a rhythm for updating them. When it works, you stop rebuilding context and start using it.
 
 This chapter defines the model. Every other chapter in the book goes deep on one part of it, and the Capstone shows you how to build your own.
 
 ## What a product manager is for
 
-Before defining the 360, it's worth being precise about the job it serves, because "product manager" covers wildly different roles across companies.
+Before defining the 360, be precise about the job it serves, because "product manager" covers wildly different roles across companies.
 
 ### The four risks
 
@@ -37,11 +37,11 @@ Ken Norton adds the part of the job that no diagram captures: a PM leads by infl
 
 ### How AI is changing the role
 
-The PM role is shifting, and the people who defined it are still arguing about how much. In early 2025 Cagan sketched a future in which a typical product team shrinks from about eight people to about three (a PM, a designer and an engineer), with delivery largely automated and discovery becoming the main work. By mid-2026 he had tempered that. In "The AI Productivity Paradox" he argued that teams using AI to speed up an output-focused process ship more without getting better outcomes, while strong product organizations pull further ahead. A month later he wrote that his earlier optimism about AI turning many more people into strong "product creators" had been too high: the hard part was never the code, it was knowing what should exist.
+The PM role is shifting, and the people who defined it are still arguing about how much. In early 2025 Cagan sketched a future in which a typical product team shrinks from about eight people to about three (a PM, a designer and an engineer), with delivery largely automated and discovery becoming the main work. By mid-2026 he had tempered that. In "The AI Productivity Paradox" he argued that teams using AI to speed up an output-focused process ship more without getting better outcomes, while strong product organizations pull further ahead. A month later he wrote that his earlier optimism about AI turning many more people into strong "product creators" had been too high, because the hard part was never the code but knowing what should exist.
 
 Practitioner data points the same way. A late-2025 survey of about 1,750 tech workers by Lenny Rachitsky and Noam Segal found PMs using AI most for writing PRDs and building prototypes, with nearly two-thirds saving four or more hours a week, and far fewer using it for upstream thinking like research or roadmap choices. Norton's twenty-year retrospective on his own essay makes a similar argument: the human parts of the job (judgment, influence, advocacy) are the least likely to be automated.
 
-The practical reading for this book: AI makes the artifacts cheaper to produce, so producing artifacts is no longer the job. Knowing which ones matter, making the choices inside them and keeping them true is the job. The Product 360 is built around that.
+The practical reading for this book: AI makes artifacts cheaper to produce, so producing them is no longer the hard part. The job is knowing which ones matter, making the choices inside them and keeping them true. The Product 360 is built around that.
 
 ### Three levels of product work
 
@@ -101,7 +101,7 @@ The Product 360 divides the product into nine dimensions. Each one answers a que
 | **8. Lifecycle** | Where is it in its life, and what happens next? | Lifecycle stage assessment, stage-gate criteria, sunset plans | Ch. 30 |
 | **9. Leadership** | Who needs to be aligned, and are they? | Stakeholder map, DACI, communication plan, team charter | Ch. 34 to 36 |
 
-The nine group into three families. **Direction** (customer, strategy, business) answers why and for whom. **Delivery** (build, measure, go-to-market) answers what and how. **Durability** (operate, lifecycle, leadership) answers how the product keeps working as a business over years, which is the part most PM training skips entirely.
+The nine group into three families. **Direction** (customer, strategy, business) answers why and for whom. **Delivery** (build, measure, go-to-market) answers what and how. **Durability** (operate, lifecycle, leadership) answers how the product keeps working as a business over years, which is the part PM training often skips.
 
 :::key The test of a Product 360
 Pick any of the nine questions. If you can open one artifact, show the answer and say when it was last made true, that dimension is covered. If the answer lives in a meeting, a person or a slide from last year, it isn't.
@@ -181,7 +181,7 @@ The 360 needs one home: a single page (the **Product 360 index**) that links eve
 
 Artifacts don't keep themselves true. People do, on a rhythm. The operating cadence is the calendar that says which artifact gets reviewed when, by whom, and what decision the review produces.
 
-The cadence below is this book's synthesis, and it borrows from several well-tested practices. Amazon's weekly business review (WBR), as Colin Bryar and Bill Carr describe it in *Working Backwards*, has metric owners walk a fixed set of metrics every week and explain the variances. The quarterly business review (QBR) is standard in enterprise software. Annual planning cycles like Amazon's OP1 and OP2 have teams write next year's plan as a narrative in the fall and revise it into the plan of record after the holiday quarter. Melissa Perri and Denise Tilles, in *Product Operations*, make the same case from the operations side: one of their three pillars of product ops is process and governance, alongside business and data insights and customer and market insights. Without dependable rituals for looking at data, customers and plans, decisions get made on anecdote.
+The cadence below is this book's synthesis, and it borrows from several established practices. Amazon's weekly business review (WBR), as Colin Bryar and Bill Carr describe it in *Working Backwards*, has metric owners walk a fixed set of metrics every week and explain the variances. The quarterly business review (QBR) is standard in enterprise software. Annual planning cycles like Amazon's OP1 and OP2 have teams write next year's plan as a narrative in the fall and revise it into the plan of record after the holiday quarter. Melissa Perri and Denise Tilles, in *Product Operations*, make the same case from the operations side: one of their three pillars of product ops is process and governance, alongside business and data insights and customer and market insights. Without dependable rituals for looking at data, customers and plans, decisions get made on anecdote.
 
 | Cadence | Ritual | Artifacts reviewed | Decision it produces |
 |---|---|---|---|
@@ -200,10 +200,10 @@ In a portfolio, Product 360s nest. A group PM or director keeps a portfolio-leve
 
 ## How to build your Product 360
 
-Here is the method in six steps. The Capstone expands it into a full 30/60/90-day plan with prompts; this is the outline.
+The method has six steps. The Capstone expands them into a full 30/60/90-day plan with prompts.
 
-1. **Scope the surface area.** Write down, in one paragraph, exactly what you own: which product or products, which customers, which teams, which revenue. Scope disputes are the most common hidden cause of a broken 360. If two PMs both think they own pricing, neither of their 360s is true.
-2. **Inventory what exists.** Gather every document, deck, dashboard and ticket that describes the product. Don't judge it yet; just collect it. An AI harness with connectors into your doc tools makes this hours of work instead of weeks.
+1. **Scope the surface area.** Write down, in one paragraph, exactly what you own: which product or products, which customers, which teams, which revenue. Scope disputes are a common hidden cause of a broken 360. If two PMs both think they own pricing, neither of their 360s is true.
+2. **Inventory what exists.** Gather every document, deck, dashboard and ticket that describes the product. Don't judge it yet; just collect it. An AI harness with connectors into your doc tools makes this much faster.
 3. **Map it to the nine dimensions.** Sort the inventory by dimension and kind (durable, living, event). Mark each item as current, stale or contradicted. Gaps become obvious immediately.
 4. **Build the spine.** Create or repair the twelve spine artifacts, in order, starting with the Product 360 index. Reuse what's good; rewrite what's stale. Each artifact gets an owner and a review date.
 5. **Set the cadence.** Put the rituals on the calendar, with the artifacts each one reviews. Start lighter than you think you need. A weekly metrics review and a monthly roadmap review beat an ambitious calendar nobody attends.
@@ -213,7 +213,7 @@ Here is the method in six steps. The Capstone expands it into a full 30/60/90-da
 
 ### Your 360 is your AI context
 
-The single biggest change AI brings to the PM job in 2026 is that a well-kept Product 360 becomes reusable context. When your artifacts are current and readable, you can hand them to a harness and ask questions that used to take a week of meetings:
+In 2026, AI turns a well-kept Product 360 into reusable context. When your artifacts are current and readable, you can hand them to a harness and ask questions that used to take a week of meetings:
 
 - "Does the Q3 roadmap still trace back to the strategy one-pager? List anything on the roadmap that doesn't."
 - "Summarize every decision in the log that touches pricing, and flag any that contradict the current packaging doc."
@@ -222,7 +222,7 @@ The single biggest change AI brings to the PM job in 2026 is that a well-kept Pr
 None of those prompts works on a 360 that lives in people's heads. All of them work on a 360 that lives in a connected set of pages. That's a strong practical argument for building the 360 even if you never have time to read every artifact yourself: the harness will.
 
 :::ai What changes when the product is AI-powered
-Add four artifacts to the spine for any AI-powered product: an **eval plan** (how quality is measured, and the current scores), an **AI cost model** (cost per task or per user, and its trend), a **model and vendor register** (which models are in use, their versions and deprecation dates), and an **AI risk assessment** (failure modes, guardrails, and regulatory obligations). Chapter 31 has templates for all four. They belong in the Build, Business, Operate and Lifecycle dimensions respectively, which is another way of seeing that AI changes every dimension.
+Add four artifacts to the spine for any AI-powered product: an **eval plan** (how quality is measured, and the current scores), an **AI cost model** (cost per task or per user, and its trend), a **model and vendor register** (which models are in use, their versions and deprecation dates), and an **AI risk assessment** (failure modes, guardrails, and regulatory obligations). Chapter 31 has templates for all four. They belong in the Measure, Business, Lifecycle and Operate dimensions respectively, which shows how far AI reaches across the dimensions.
 :::
 
 ### What not to hand to AI
@@ -450,7 +450,7 @@ Two PMs each believe they own the same capability. Both 360s look complete, and 
 ## Key takeaways
 
 - A Product 360 is the set of artifacts and rituals that keep a product legible: nine dimensions, each answering a question someone will eventually ask you.
-- The dimensions group into Direction (customer, strategy, business), Delivery (build, measure, go-to-market) and Durability (operate, lifecycle, leadership). Most PM training skips the third group.
+- The dimensions group into Direction (customer, strategy, business), Delivery (build, measure, go-to-market) and Durability (operate, lifecycle, leadership). PM training often skips the third group.
 - Artifacts come in three kinds. Durable ones change yearly, living ones change on a cadence and event ones serve a single decision. Treating them all alike produces either a stale strategy or no strategy.
 - Start with a spine of twelve artifacts and the Product 360 index. Build everything else when a question demands it.
 - The operating cadence keeps the 360 true. Every ritual produces a decision, and every decision gets logged.

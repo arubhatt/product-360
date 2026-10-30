@@ -2,7 +2,7 @@
 
 ## Why this matters
 
-Most failed products didn't fail because the team built badly. They failed because the team built something good for a problem nobody had badly enough to pay for, or for a customer who wasn't the one making the decision. Those are hypothesis failures, and they're cheap to catch early and very expensive to catch late.
+Plenty of failed products were built well. They failed because the team built something good for a problem nobody had badly enough to pay for, or for a customer who wasn't the one making the decision. Those are hypothesis failures, and they're cheap to catch early and very expensive to catch late.
 
 The trap is that a product idea feels like one thing. "An AI agent that diagnoses incidents for SRE teams" sounds like a single proposition. It's actually at least three separate bets stacked on top of each other: that SRE teams are the right customer, that slow diagnosis is a problem they'd pay to fix, and that an AI agent is a solution they'd trust. Any one of those can be false while the other two are true. If you test the bundle, a failure tells you nothing about which part broke.
 
@@ -25,13 +25,13 @@ A good product hypothesis has three parts, written so each one can be tested ind
 - **Problem hypothesis**: what hurts, in what situation, and what it costs them.
 - **Solution hypothesis**: what you propose, and what observable signal will tell you it works.
 
-The order matters, and it's the most common mistake teams make. If the customer and problem hypotheses fail, the solution hypothesis is moot, so you test them first. Most discovery interviews should test only the first two. Showing someone your solution before you've confirmed their problem invites them to be polite about it, and polite feedback is worthless.
+The order matters, and teams often get it wrong. If the customer and problem hypotheses fail, the solution hypothesis is moot, so you test them first. Most discovery interviews should test only the first two. Showing someone your solution before you've confirmed their problem invites them to be polite about it, and polite feedback is worthless.
 
 :::key Test the problem before the solution
 A solution can only be as right as the problem it solves. Spend your first interviews proving the customer and problem hypotheses. Bring the solution in once you have evidence the problem is real, frequent and costly.
 :::
 
-This three-part shape draws on Eric Ries's *The Lean Startup*, which treats every new venture as resting on **leap-of-faith assumptions**. Ries names two that matter most: the **value hypothesis** (does the product deliver value once people use it?) and the **growth hypothesis** (how will new customers discover and adopt it?). In consumer products the growth hypothesis is often about virality. In B2B it's almost always about the buying process: "security teams will approve a self-serve trial," or "the champion can get budget without a new line item." Write that assumption down too, because in enterprise products it kills more ideas than value does.
+This three-part shape draws on Eric Ries's *The Lean Startup*, which treats every new venture as resting on **leap-of-faith assumptions**. Ries names two that matter most: the **value hypothesis** (does the product deliver value once people use it?) and the **growth hypothesis** (how will new customers discover and adopt it?). In consumer products the growth hypothesis is often about virality. In B2B it's almost always about the buying process: "security teams will approve a self-serve trial," or "the champion can get budget without a new line item." Write that assumption down too, because in enterprise products it often kills ideas that customers value.
 
 ### The Lean UX hypothesis statement
 
@@ -96,7 +96,7 @@ Cagan has since argued, in *Inspired*, that most product work needs lighter fram
 
 ## Jobs to be done
 
-A persona tells you who the customer is. Jobs to be done (JTBD) tells you why they'd buy anything at all. It's the most useful idea in customer understanding, and it comes in two distinct schools that are worth keeping separate.
+A persona tells you who the customer is. Jobs to be done (JTBD) tells you why they'd buy anything at all. It's one of the most useful ideas in customer understanding, and it comes in two distinct schools that are worth keeping separate.
 
 ### The core idea
 
@@ -104,7 +104,7 @@ Clayton Christensen and his co-authors, in *Competing Against Luck* and the 2016
 
 The famous example is a fast-food chain's milkshake. Researchers found that many morning buyers were hiring a milkshake to make a long, boring commute bearable and keep them full until mid-morning. The real competition wasn't other milkshakes. It was bagels, bananas and boredom. The lesson: segment by job and circumstance, not by demographics or product category.
 
-In enterprise software, asking "what did the customer fire to hire us?" is often revealing. The fired option is usually not a competitor. It's a spreadsheet, a services contract, an internal script or a person's evenings.
+In enterprise software, asking "what did the customer fire to hire us?" is often revealing. The fired option is more often a spreadsheet, a services contract, an internal script or a person's evenings than a competitor.
 
 ### School one: progress and switching (Moesta, Spiek, Klement)
 
@@ -115,7 +115,7 @@ Bob Moesta and Chris Spiek developed the **four forces of progress**, which expl
 - **Anxiety** about the new solution: fear it won't work or will cause new problems.
 - **Habit** of the present: the comfort of the way things are.
 
-A switch happens only when push and pull together outweigh anxiety and habit. That's a remarkably practical model. Most product teams spend all their energy on pull (features) and almost none on reducing anxiety, which in B2B is often the force that decides the deal.
+A switch happens only when push and pull together outweigh anxiety and habit. The model is practical because it shows where effort goes missing. Product teams tend to spend most of their energy on pull (features) and little on reducing anxiety, which in B2B is often the force that decides the deal.
 
 Moesta's **switch interview** reconstructs the timeline of a real, recent purchase, from the first thought that something had to change through looking, deciding and using, attaching each force to dated moments. Interview customers who switched to you in the last 90 days and customers who switched away. In enterprise, interview the champion and at least one other member of the buying group, because the anxiety usually sits with security or procurement, not with the user.
 
@@ -176,7 +176,7 @@ The practical path: start with proto-personas, label them as hypotheses, and gra
 
 Consumer products often have one persona who discovers, buys and uses the product. Enterprise products almost never do. The user, the person who signs, the person who can veto and the person who championed the deal internally are different people with different jobs and different anxieties.
 
-Marketing researchers have studied this for fifty years. Frederick Webster and Yoram Wind's 1972 model of the **buying center** identified the roles of users, influencers, buyers, deciders and gatekeepers. Robert Miller and Stephen Heiman's *Strategic Selling* popularized the economic buyer, user buyer, technical buyer and coach, and the MEDDIC sales method renamed the coach as the **champion**. Gartner's research on B2B buying describes six buying jobs that the buying group has to complete, in no fixed order: problem identification, solution exploration, requirements building, supplier selection, validation and consensus creation.
+Marketing researchers have studied this for more than fifty years. Frederick Webster and Yoram Wind's 1972 model of the **buying center** identified the roles of users, influencers, buyers, deciders and gatekeepers. Robert Miller and Stephen Heiman's *Strategic Selling* popularized the economic buyer, user buyer, technical buyer and coach, and the MEDDIC sales method renamed the coach as the **champion**. Gartner's research on B2B buying describes six buying jobs that the buying group has to complete, in no fixed order: problem identification, solution exploration, requirements building, supplier selection, validation and consensus creation.
 
 For product work, this book recommends a standard B2B persona set. Every enterprise product should have at least these, each with a job story and its main anxiety:
 
@@ -294,9 +294,9 @@ When the product is AI-powered, the customer hypothesis needs a few things that 
 
 ### Doing the work with AI
 
-AI changes discovery work dramatically, mostly in synthesis. User Interviews' *State of User Research 2025* found that 80% of researchers were using AI, up sharply from the prior year, while 91% worried about accuracy and hallucinations. Both numbers are right, and the practical rules follow from them.
+AI changes discovery work dramatically, mostly in synthesis. User Interviews' *State of User Research 2025* found that 80% of researchers were using AI, up sharply from the prior year, while 91% worried about accuracy and hallucinations. Both findings hold at once, and the practical rules follow from them.
 
-**Where AI helps.** NN/g's Kate Moran and Maria Rosala, in "Accelerating Research with AI," find the biggest gains in planning and analysis: drafting interview guides, transcribing, first-pass coding and clustering of themes, drafting snapshots and summarizing across many interviews. A harness with access to your interview transcripts, support tickets, CRM notes and sales call recordings can draft an opportunity solution tree in an hour that would take a team a week.
+**Where AI helps.** NN/g's Kate Moran and Maria Rosala, in "Accelerating Research with AI," find the biggest gains in planning and analysis: drafting interview guides, transcribing, first-pass coding and clustering of themes, drafting snapshots and summarizing across many interviews. A harness with access to your interview transcripts, support tickets, CRM notes and sales call recordings can draft a first opportunity solution tree far faster than a team working by hand.
 
 **Where AI doesn't help.** AI can't observe behavior, so it shouldn't moderate or analyze usability tests. It can't decide what a story means for your strategy. And it tends to smooth over exactly the things that matter most in discovery: the rare, surprising remark and the subgroup that behaves differently.
 
@@ -341,7 +341,7 @@ Beacon's leadership wants to move from "correlate and summarize" to Beacon Agent
 
 What they hear:
 
-- **The problem is confirmed, with a twist.** Diagnosis really is most of the incident. But the most-cited cost is not MTTR. It's on-call burnout and attrition. Marcus cares about MTTR because his CFO does; Priya cares about keeping her team. That changes the positioning conversation in Chapter 24.
+- **The problem is confirmed, with a twist.** Diagnosis really is most of the incident. But the most-cited cost is on-call burnout and attrition, ahead of MTTR. Marcus cares about MTTR because his CFO does; Priya cares about keeping her team. That changes the positioning conversation in Chapter 24.
 - **The solution is half-confirmed.** Engineers want the diagnosis badly ("just tell me which deploy did it"). They are far more cautious about the agent acting. Several describe a specific incident where an automated remediation script made an outage worse.
 - **Anxiety lives with Sam.** Both security reviewers say they'd block agent write access without per-action audit logs, scoped credentials and a kill switch. One says they'd also need documentation for EU AI Act obligations, because their company sells in Europe.
 - **The two switchers** left because the competitor's feature was bundled into a platform they already paid for. The push was price and procurement simplicity, not capability. That's a strategy signal for Chapter 03.
@@ -740,8 +740,8 @@ The team does six weeks of research before a big build, then stops talking to cu
 ## Key takeaways
 
 - A product idea is several bets stacked together. Split it into customer, problem and solution hypotheses, and test the first two before showing anyone the third.
-- Map every assumption by type and by importance against evidence. In B2B, add adoptability: the security review and the buying group kill more products than features do.
+- Map every assumption by type and by importance against evidence. In B2B, add adoptability: the security review and the buying group often kill products that users want.
 - Jobs to be done tells you why customers would buy anything. Use switch interviews and the four forces to understand switching, job stories to frame features and Ulwick's outcome scores to prioritize at scale.
 - Enterprise personas must include the buying group. The economic buyer, champion, technical evaluator and procurement each have a different job and a different anxiety.
 - Discovery is a weekly habit, not a phase. Ask about the past, talk less and treat commitment as the only real signal.
-- AI is excellent at drafting guides and synthesizing transcripts, and unreliable at standing in for customers. Keep every insight linked to a real quote, and label synthetic output as hypothesis.
+- AI is good at drafting guides and synthesizing transcripts, and unreliable at standing in for customers. Keep every insight linked to a real quote, and label synthetic output as hypothesis.

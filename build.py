@@ -504,7 +504,12 @@ def build(make_pdf=False):
         "window.P360_INDEX=" + json.dumps(search, ensure_ascii=False, separators=(",", ":")) + ";\n"
     )
     (OUT / ".nojekyll").write_text("")
-    print_html = page(book, entries, None, book["title"], "".join(print_parts)).replace('<body class="', '<body class="print-all ')
+    cover = (
+        f'<section class="print-cover">{LOGO}<div class="eyebrow">{html.escape(book["series"])} · {html.escape(book["edition"])}</div>'
+        f'<h1>{html.escape(book["title"])}</h1><p class="hero-sub">{html.escape(book["subtitle"])}</p>'
+        f'<p class="hero-tag">{html.escape(book["tagline"])}.</p><p class="cover-by">Curated by {html.escape(book["author"])}</p></section>'
+    )
+    print_html = page(book, entries, None, book["title"], cover + "".join(print_parts)).replace('<body class="', '<body class="print-all ')
     (OUT / "print.html").write_text(print_html.replace('data-theme="dark"', 'data-theme="light"'))
     print(f"Built {len(entries)} pages, {len(rendered)} written chapters, "
           f"{len(store['templates'])} templates, {len(store['prompts'])} prompts -> {OUT}")

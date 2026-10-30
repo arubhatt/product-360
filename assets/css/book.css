@@ -290,6 +290,8 @@ kbd {
 .toc-i .badge { vertical-align: 2px; font-size: 9px; padding: 2px 6px; }
 .foot { max-width: 1080px; margin: 40px auto 0; padding-top: 24px; border-top: 1px solid var(--border); color: var(--muted); font-size: 13.5px; text-align: center; }
 
+.print-cover { display: none; }
+
 /* ---------- search ---------- */
 .search-modal { position: fixed; inset: 0; z-index: 100; background: rgba(5, 6, 10, .6); backdrop-filter: blur(4px); display: flex; justify-content: center; align-items: flex-start; padding: 10vh 16px 16px; }
 .search-modal[hidden] { display: none; }
@@ -347,6 +349,10 @@ kbd {
   .main { padding: 0; }
   .ch { max-width: none; }
   .print-ch { break-before: page; }
+  .print-cover { display: flex !important; flex-direction: column; justify-content: center; min-height: 230mm; }
+  .print-cover .logo { width: 64px; height: 64px; margin-bottom: 28px; }
+  .print-cover h1 { font: 750 52px/1.05 Inter, sans-serif; letter-spacing: -.035em; margin: 0 0 18px; }
+  .cover-by { margin-top: 60px; color: #555; font-size: 14px; }
   .ch-num { color: #e3e3e3; background: none; -webkit-text-fill-color: #e8e8e8; }
   .blk pre { max-height: none; overflow: visible; }
   .blk-fold pre { display: block; }

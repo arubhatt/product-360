@@ -1,4 +1,4 @@
-<p class="lead">An AI-powered product doesn't behave the same way twice, costs money every time someone uses it, and has to earn the user's trust one answer at a time. Those three facts change how you specify it, measure it, price it and run it. This chapter is the product manager's guide to all of that.</p>
+<p class="lead">An AI-powered product doesn't behave the same way twice, costs money every time someone uses it, and has to earn the user's trust one answer at a time. Those three facts change how you specify it, measure it, price it and run it. This chapter shows the product manager what changes in each.</p>
 
 ## Why this matters
 
@@ -30,7 +30,7 @@ Before choosing a model or a pattern, write down what each kind of error costs t
 
 ### Workflows versus agents
 
-Anthropic's widely cited essay "Building effective agents," by Erik Schluntz and Barry Zhang, draws the line that every AI PM needs. **Workflows** orchestrate models and tools through predefined code paths. **Agents** let the model direct its own process and tool use, in a loop, based on what it observes. Both are "agentic systems," and they sit on a spectrum of patterns, from simple to complex:
+Anthropic's widely cited essay "Building effective agents," by Erik Schluntz and Barry Zhang, draws a distinction every AI PM needs. **Workflows** orchestrate models and tools through predefined code paths. **Agents** let the model direct its own process and tool use, in a loop, based on what it observes. Both are "agentic systems," and they sit on a spectrum of patterns, from simple to complex:
 
 | Pattern | What it does | Use it when |
 |---|---|---|
@@ -86,11 +86,11 @@ For a B2B platform PM, the practical implication is that an **MCP server is now 
 
 In a deterministic product, QA checks whether a feature works. In an AI product, the question is how often it works, on which kinds of input, and how badly it fails when it doesn't. The tool for answering that is an **eval**: a set of test cases, run automatically, each graded pass or fail, producing a quality score you can track over time and gate releases on.
 
-Evals are where the PM's definition of quality becomes executable. That's why so many product leaders now describe eval-writing as a core PM skill, and why the PM (or a domain expert the PM designates) must own the eval's definition of "good" rather than leaving it to engineering.
+Evals are where the PM's definition of quality becomes executable. That's why Lenny Rachitsky's 2025 podcast with Hamel Husain and Shreya Shankar billed evals as the hottest new skill for product builders, and why the PM (or a domain expert the PM designates) must own the eval's definition of "good" rather than leaving it to engineering.
 
 ### Start with error analysis
 
-Hamel Husain and Shreya Shankar, whose evals course and FAQ are the most complete practitioner reference, put it bluntly: error analysis is "the most important activity in evals." Their method:
+Hamel Husain and Shreya Shankar, whose evals course and FAQ are a widely used practitioner reference, put it bluntly: error analysis is "the most important activity in evals." Their method:
 
 1. **Read real traces.** Pull about 30 real interactions (inputs, model outputs, tool calls). Read every one.
 2. **Write free-form notes** on what went wrong in each. Don't use a rubric yet; rubrics written in advance narrow what you notice.
@@ -112,7 +112,7 @@ Anthropic's January 2026 guide "Demystifying evals for AI agents" adds vocabular
 
 **Capability evals** measure what the product can't yet do well. They should start with a low pass rate: they're the hill you're climbing. **Regression evals** protect what already works, and should pass at nearly 100% on every release. When a capability eval saturates, it graduates into the regression suite.
 
-The guide also distinguishes two ways of counting success over several attempts, and the difference matters enormously for customer-facing products:
+The guide also distinguishes two ways of counting success over several attempts, and for customer-facing products the difference is large:
 
 - **pass@k** is the probability that at least one of k attempts succeeds. It's the right measure when a user can pick the best of several options.
 - **pass^k** is the probability that all k attempts succeed. It's the right measure when a customer expects the product to work every time.
@@ -129,7 +129,7 @@ This book's position sits between them. **Evals don't replace the PRD; they beco
 
 ## The AI PRD
 
-An AI PRD keeps everything a classic PRD has and adds a set of sections that classic PRDs never needed. Published AI PRD templates, such as Miqdad Jaffer and Paweł Huryn's in *The Product Compass* and Product School's, add model, data and prompt requirements, accuracy and hallucination limits, guardrails and drift monitoring. Most underweight cost. Here's the full set of differences.
+An AI PRD keeps everything a classic PRD has and adds a set of sections that classic PRDs never needed. Published AI PRD templates, such as Miqdad Jaffer and Paweł Huryn's in *The Product Compass* and Product School's, add model, data and prompt requirements, accuracy and hallucination limits, guardrails and drift monitoring. Jaffer and Huryn's says little about inference cost or unit economics. Here's the full set of differences.
 
 | Classic PRD | What the AI PRD adds or changes |
 |---|---|
@@ -149,13 +149,13 @@ The AI PRD addendum template at the end of this chapter covers every row.
 
 ### The cost curve is falling, and your bill may still rise
 
-The price of AI capability has fallen at a startling rate. Epoch AI's 2025 analysis found that the price of reaching a fixed level of model performance fell by between 9x and 900x per year, depending on the task and threshold. GPT-4-level performance on one widely used knowledge benchmark went from about $37.50 per million tokens in March 2023 to about $0.18 by early 2025. Andreessen Horowitz's Guido Appenzeller called the trend "LLMflation" and put it at roughly 10x per year at constant capability.
+The price of AI capability has fallen fast. Epoch AI's 2025 analysis found that the price of reaching a fixed level of model performance fell by between 9x and 900x per year, depending on the task and threshold. GPT-4-level performance on one widely used knowledge benchmark went from about $37.50 per million tokens in March 2023 to about $0.18 by early 2025. Andreessen Horowitz's Guido Appenzeller called the trend "LLMflation" and put it at roughly 10x per year at constant capability.
 
 But a falling price per token doesn't guarantee a falling cost per task. The steepest cuts apply to models that are no longer the frontier. Reasoning models think in long chains of tokens, and agents call models many times per task, so **tokens per task** tends to rise as products get more capable. Budget and price per task, not per token.
 
 ### Gross margin is the number to watch
 
-Classic SaaS businesses run gross margins of roughly 75 to 80% or more. AI products run much lower. ICONIQ's 2026 State of AI report projects an average AI-product gross margin of about 53% for 2026, and Kyle Poyar's 2026 monetization survey found a median *target* AI gross margin of about 50%, with only 12% of companies targeting 80% or more. Your finance team will notice before you do.
+Classic SaaS businesses run gross margins of roughly 75 to 80% or more. AI products run much lower. ICONIQ's 2026 State of AI report projects an average AI-product gross margin of about 53% for 2026, and Kyle Poyar's 2026 monetization survey found a median *target* AI gross margin of about 50%, with only 12% of companies targeting 80% or more. If your margin slides toward those numbers, your finance team will notice before you do.
 
 The levers a PM controls:
 
@@ -182,7 +182,7 @@ The market is moving toward hybrids. Poyar's 2026 survey of more than 230 B2B so
 
 ### Calibrated trust
 
-The goal isn't maximum trust. It's **calibrated trust**: users trusting the system as much as its reliability warrants, and no more. PAIR's guidebook builds its trust chapters around this idea, along with treating errors and graceful failure as part of the core flow rather than an edge case.
+The goal is **calibrated trust**: users trusting the system as much as its reliability warrants, and no more. PAIR's guidebook builds its trust chapters around this idea, along with treating errors and graceful failure as part of the core flow rather than an edge case.
 
 Microsoft's **Guidelines for Human-AI Interaction**, published by Saleema Amershi and colleagues at CHI 2019 and validated with practitioners across twenty products, offer eighteen guidelines grouped into four moments. Paraphrased:
 
@@ -191,7 +191,7 @@ Microsoft's **Guidelines for Human-AI Interaction**, published by Saleema Amersh
 - **When it's wrong**: make it easy to invoke, dismiss and correct; scope down when uncertain; and explain why it did what it did.
 - **Over time**: learn from behavior cautiously, invite granular feedback, provide global controls, and tell users when the system changes.
 
-Use them as a launch-review checklist. Most AI trust failures map to one of them, usually "make clear how well it can do it" or "scope services when in doubt."
+Use them as a launch-review checklist. Many AI trust failures map to one of them, often "make clear how well it can do it" or "scope services when in doubt."
 
 ### Patterns that work
 
@@ -282,7 +282,7 @@ None of these was in the original PRD, which defined quality as "accurate root c
 
 **The eval suite.** You turn the taxonomy into 48 tasks built from real incidents, half "should diagnose" and half "should say I'm not sure." Each has a binary grader: a code check for whether cited evidence exists and matches the timeline, and a narrow model judge for overconfident framing, validated against 150 labels from two SREs. Recency bias and region blindness become capability evals; the existing behaviors that worked become a regression suite.
 
-**The targets.** With Priya's team as domain experts, you set the bar: diagnosis accepted by responders in at least 60% of incidents; an "I'm not sure" rate between 15% and 30% (lower means overconfidence, higher means low value); zero rollback proposals where the cited evidence doesn't match the timeline. Because responders see the agent every incident, you track pass^3 on the regression suite, not just single-run accuracy.
+**The targets.** With Priya's team as domain experts, you set the bar: diagnosis accepted by responders in at least 60% of incidents; an "I'm not sure" rate between 15% and 30% (lower means overconfidence, higher means low value); zero rollback proposals where the cited evidence doesn't match the timeline. Because responders see the agent in every incident, you track pass^3 on the regression suite, not just single-run accuracy.
 
 **Autonomy and UX.** Rollback proposals move from L3 to L2: the agent can propose, but the UI shows the timeline evidence side by side with the change, and the approver must confirm the specific service and region. Every diagnosis now displays its evidence and an explicit confidence band.
 
@@ -650,7 +650,7 @@ The product is built, and then legal asks for logging, documentation and human-o
 
 ## Key takeaways
 
-- AI products behave like distributions, cost money per use and earn trust one answer at a time. Specifying, measuring, pricing and running them is different from classic software.
+- AI products behave like distributions, cost money per use and earn trust one answer at a time. Specifying, measuring, pricing and running them works differently than it does for classic software.
 - Start with the cost of being wrong. It sets your eval targets, autonomy levels and UX, and often your pricing.
 - Use the simplest pattern that works. Reserve agents for open-ended tasks, and set autonomy per action class based on how reversible each action is.
 - Evals are the PRD's acceptance criteria in executable form. Build them from error analysis on real traces, use binary graders and validated judges, and track consistency, not just best-case accuracy.
