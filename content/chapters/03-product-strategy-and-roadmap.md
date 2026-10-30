@@ -325,7 +325,7 @@ AI-powered products face a problem conventional products don't: the ground under
 
 **Models retire on someone else's schedule.** Anthropic commits to at least 60 days' notice before retiring a publicly released model; its published table shows Claude Sonnet 4.5 deprecated on 30 September 2026 and retiring on 30 November 2026. An externally dated retirement makes model migration a commitment-class item whether you planned for it or not.
 
-**Regulatory dates move too.** The EU AI Act entered into force on 1 August 2024 and became generally applicable on 2 August 2026. The AI Omnibus, in force from 27 July 2026, moved obligations for Annex III high-risk systems from 2 August 2026 to 2 December 2027, six days before the original date arrived. Treat regulatory deadlines as commitments whose date can change: track the source and replan when it moves (Chapter 33).
+**Regulatory dates move too.** The EU AI Act entered into force on 1 August 2024 and became generally applicable on 2 August 2026. The Digital Omnibus on AI (Regulation (EU) 2026/1744), in force from 27 July 2026, moved obligations for Annex III high-risk systems from 2 August 2026 to 2 December 2027, six days before the original date arrived. Treat regulatory deadlines as commitments whose date can change: track the source and replan when it moves (Chapter 33).
 
 The practical rules:
 
@@ -367,7 +367,7 @@ Discovery (Chapter 01) confirmed that diagnosis is most of every incident, that 
 
 **Two frameworks, two answers.** You score five candidates: (a) an EU AI Act documentation pack, (b) multi-tenant billing for MSPs, (c) autonomous rollback for allowlisted actions, (d) Beacon Classic migration tooling and (e) a connector for a widely used ticketing system. RICE, with reach in accounts, puts MSP billing and the ticketing connector on top because they touch the most accounts. WSJF puts the AI Act pack and the migration tooling on top: the first is time-critical and unblocks stalled EU deals, and the second enables the sunset that frees a team. The guiding policy breaks the tie. Supervised action depends on gatekeeper trust, so time criticality and enablement matter most this half. You choose WSJF and write that choice at the top of the scorecard.
 
-Then the AI Omnibus moves the Annex III dates to December 2027. You re-score the AI Act pack: its cost of delay drops but not to zero, because EU customers are still asking and Sam's needs haven't changed. It moves from Now to Next, and the changelog says why.
+Then the Digital Omnibus moves the Annex III dates to December 2027. You re-score the AI Act pack: its cost of delay drops but not to zero, because EU customers are still asking and Sam's needs haven't changed. It moves from Now to Next, and the changelog says why.
 
 **The roadmap.** Now: Beacon Agents supervised remediation, generally available at Northlight Live (commitment); Beacon Classic sunset with dated migration milestones (commitment); diagnosis citation quality (bet). Next: a per-resolved-incident pricing pilot, MSP multi-tenant views and the AI Act documentation pack (all bets). Later: broader autonomous resolution for low-risk incident classes, gated by eval thresholds on future models (exploration, on the capability watchlist). The capacity split across the five teams is 50% new value, 20% platform and connectors, 15% quality, evals and model migration, and 15% commitments and the Classic migration.
 

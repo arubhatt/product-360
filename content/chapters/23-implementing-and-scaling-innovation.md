@@ -325,7 +325,7 @@ Two guardrails apply. First, the harness cites where every number came from, and
 ## The Beacon case: from design partners to the core
 
 :::example Where Beacon starts
-In Chapter 20 the CFO signed Beacon's FY2027 placemat: Beacon Agents with per-resolved-incident pricing, an adjacent bet piloted with 10 design partners, at least two of them MSP-led. Chapter 21's experiments narrowed Act to allowlisted low-risk actions after the hallucinated root cause, and Chapter 22 set up the MSP design partner program and the other mechanisms. Now the bet has to survive the company. General availability is planned for Northlight Live, gross margin sits at 72% against 81% before the agentic features, and the sales organization is paid on per-environment pricing. Your VP asks for a plan to get Agents through the gate to scale.
+In Chapter 20 the CFO signed Beacon's FY2027 placemat: Beacon Agents with per-resolved-incident pricing, an adjacent bet piloted with 10 design partners, at least two of them MSP-led. Chapter 21's experiments narrowed Act to allowlisted low-risk actions after the hallucinated root cause, and Chapter 22 set up the MSP design partner program and the other mechanisms. Now the bet has to survive the company. The launch is planned for Northlight Live, gross margin sits at 72% against 81% before the agentic features, and the sales organization is paid on per-environment pricing. Your VP asks for a plan to get Agents through the gate to scale.
 :::
 
 The tranche sizes, dates and targets in this section are illustrative numbers created for this chapter. They are not part of the Beacon case facts.

@@ -92,16 +92,16 @@ The Product 360 divides the product into nine dimensions. Each one answers a que
 | Dimension | The question it answers | Core artifacts | Where in this book |
 |---|---|---|---|
 | **1. Customer** | Who is this for, and what job are they hiring it to do? | Personas, JTBD statements, journey maps, problem hypothesis, discovery log | Ch. 01, 10 |
-| **2. Strategy** | Where do we play, how do we win, and what will we say no to? | Vision, strategy one-pager, competitive landscape, platform map | Ch. 02, 03, 13, 14, 16 |
-| **3. Business** | How does this make money, and is the money worth it? | Business case, pricing and packaging, unit economics model | Ch. 12, 13, 15 |
-| **4. Build** | What are we building next, and how does it get made? | Roadmap, PRDs and PRFAQs, backlog, release plan | Ch. 03, 04, 06, 11 |
+| **2. Strategy** | Where do we play, how do we win, and what will we say no to? | Vision, strategy one-pager, competitive landscape, platform map | Ch. 02, 03, 13, 14, 16, 20 to 23 |
+| **3. Business** | How does this make money, and is the money worth it? | Business case, pricing and packaging, unit economics model | Ch. 08, 12, 13, 15 |
+| **4. Build** | What are we building next, and how does it get made? | Roadmap, PRDs and PR/FAQs, backlog, release plan | Ch. 03, 04, 06, 07, 11 |
 | **5. Measure** | How do we know it's working? | North Star and metric tree, OKRs, dashboards, experiment readouts, evals | Ch. 02, 05, 09, 17 to 19 |
 | **6. Go-to-market** | How does it reach, convince and keep customers? | Positioning, messaging, launch plans, enablement, announcements | Ch. 24 to 27 |
 | **7. Operate** | How do we run it week to week? | Operating cadence, business reviews, decision log, risk register | Ch. 28, 29 |
 | **8. Lifecycle** | Where is it in its life, and what happens next? | Lifecycle stage assessment, stage-gate criteria, sunset plans | Ch. 30 |
 | **9. Leadership** | Who needs to be aligned, and are they? | Stakeholder map, DACI, communication plan, team charter | Ch. 34 to 36 |
 
-The nine group into three families. **Direction** (customer, strategy, business) answers why and for whom. **Delivery** (build, measure, go-to-market) answers what and how. **Durability** (operate, lifecycle, leadership) answers how the product keeps working as a business over years, which is the part PM training often skips.
+The nine group into three families. **Direction** (customer, strategy, business) answers why and for whom. **Delivery** (build, measure, go-to-market) answers what and how. **Durability** (operate, lifecycle, leadership) answers how the product keeps working as a business over years, which is the part PM training often skips. Part VIII (Chapters 31 to 33) covers AI across all nine dimensions, and the Capstone (Chapter 37) shows how to build each one.
 
 :::key The test of a Product 360
 Pick any of the nine questions. If you can open one artifact, show the answer and say when it was last made true, that dimension is covered. If the answer lives in a meeting, a person or a slide from last year, it isn't.
@@ -125,7 +125,7 @@ Artifacts change at different speeds, and treating them all the same is how team
 
 - **Durable artifacts** change rarely, usually once a year or at a major strategic shift. Vision, strategy one-pager, personas, positioning. If these change monthly, you don't have a strategy; you have a mood.
 - **Living artifacts** change on a cadence: weekly, monthly or quarterly. Roadmap, metrics dashboard, OKRs, risk register, decision log, competitive landscape. If these go a quarter without an update, they're lying to someone.
-- **Event artifacts** are created for a specific decision or moment and then archived. PRDs, PRFAQs, launch plans, experiment readouts, business cases, post-launch reviews, sunset plans. They're written once, used intensely, and then become the history that explains why the product looks the way it does.
+- **Event artifacts** are created for a specific decision or moment and then archived. PRDs, PR/FAQs, launch plans, experiment readouts, business cases, post-launch reviews, sunset plans. They're written once, used intensely, and then become the history that explains why the product looks the way it does.
 
 <figure class="fig" markdown="0">
 <svg viewBox="0 0 720 250" role="img" aria-label="The artifact stack: durable, living and event artifacts">
@@ -137,7 +137,7 @@ Artifacts change at different speeds, and treating them all the same is how team
   <text x="80" y="140" class="s">Roadmap · OKRs · dashboards · competitive landscape · risk register · decision log</text>
   <rect x="100" y="168" width="520" height="62" rx="12" fill="var(--a3)" fill-opacity=".12" stroke="var(--a3)" stroke-opacity=".5"/>
   <text x="120" y="194" class="t">Event · per decision or moment</text>
-  <text x="120" y="214" class="s">PRD · PRFAQ · business case · launch plan · experiment readout · sunset plan</text>
+  <text x="120" y="214" class="s">PRD · PR/FAQ · business case · launch plan · experiment readout · sunset plan</text>
 </svg>
 <figcaption>Durable artifacts constrain living ones; living artifacts decide which event artifacts get written. When an event artifact contradicts a durable one, either the event is wrong or the strategy needs to change, and that should be an explicit decision.</figcaption>
 </figure>
@@ -190,7 +190,7 @@ The cadence below is this book's synthesis, and it borrows from several establis
 | **Monthly** | Product review with leadership; roadmap refresh | Roadmap, OKR progress, competitive changes, customer insight summary | Roadmap changes; asks for help |
 | **Quarterly** | Business review (QBR); OKR reset; portfolio review | Business model, OKRs, competitive landscape, stakeholder map, lifecycle stage | Next quarter's bets; staffing; pricing changes |
 | **Annually** | Strategy refresh and planning | Vision, strategy one-pager, personas, positioning, business case, lifecycle assessment | Where to play, how to win, what to stop |
-| **Per event** | Launch readiness; go/no-go; post-launch review; sunset gate | Launch plan, PRFAQ, readiness checklist, sunset plan | Ship or hold; continue, pivot or retire |
+| **Per event** | Launch readiness; go/no-go; post-launch review; sunset gate | Launch plan, PR/FAQ, readiness checklist, sunset plan | Ship or hold; continue, pivot or retire |
 
 Two rules make the cadence work. First, **every ritual produces a decision or it gets cancelled**. A weekly metrics review that never changes anything is theater. Second, **decisions get written down**, in a decision log with the date, the decision, the options considered, who decided and why. Six months later, when someone asks why you chose usage pricing, the log answers in thirty seconds. Chapter 29 covers decision logs and DACI (the Driver, Approver, Contributors, Informed model popularized by Atlassian) in detail.
 

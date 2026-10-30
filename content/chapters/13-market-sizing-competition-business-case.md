@@ -12,7 +12,7 @@ Three ideas run through everything that follows.
 2. **Compete against what the customer would actually do.** In B2B, a large share of lost deals end with the buyer doing nothing, and building in-house is a live option in many categories. Neither appears on most competitor grids.
 3. **Make the business case argue about assumptions, not arithmetic.** A case that finance signs shows every assumption, its source and its owner, and points the debate at the two or three assumptions that move the answer.
 
-These artifacts belong to the Market and Business dimensions of your Product 360. They feed strategy (Chapter 03), pricing (Chapter 15), defensibility (Chapter 16) and positioning (Chapter 24).
+These artifacts belong to the Strategy and Business dimensions of your Product 360. They feed strategy (Chapter 03), pricing (Chapter 15), defensibility (Chapter 16) and positioning (Chapter 24).
 
 :::onramp If you've never built a business case
 Start with the assumptions register, not the revenue chart. Write down every number the case depends on, where it came from and who owns it. Most of the work, and most of the credibility, lives there.

@@ -14,7 +14,7 @@ This shows up in three places in your work:
 2. **Pricing and margin.** A real moat shows up as pricing power or lower cost. If gross margin is falling and discounts are growing, the moat is narrowing, whatever the deck says. Chapter 15 covers pricing; this chapter tells you whether you have the power to price.
 3. **Credibility.** Boards have heard "data moat" and "network effects" from every team. A PM who can separate a real barrier from a hopeful one, and say which way it's trending, earns trust that carries into other decisions.
 
-This chapter belongs to the Business and Market dimension of your Product 360. Chapter 13 maps the competitors; Chapter 14 tests network effects and platform plays. This chapter asks which of your advantages will still be standing when those competitors respond.
+This chapter belongs to the Strategy dimension of your Product 360. Chapter 13 maps the competitors; Chapter 14 tests network effects and platform plays. This chapter asks which of your advantages will still be standing when those competitors respond.
 
 ## The frameworks: what makes an advantage last
 

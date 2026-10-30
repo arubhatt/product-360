@@ -172,7 +172,7 @@ Chapter 00 lists twelve spine artifacts and says to build them in roughly that o
 | | Eval plan, AI cost model, model register, AI risk assessment | AI four | Measure, Business, Lifecycle, Operate | 31, 33 | `eval-plan`, `ai-cost-model`, `model-register`, `ai-risk-assessment` |
 | Days 61 to 90 | Operating cadence (formalized) | 10 | Operate | 00, 28, 29 | `operating-cadence` |
 | | Lifecycle stage assessment | 11 | Lifecycle | 30 | `30-lifecycle-stage-assessment` |
-| | Event artifacts: PRD, PRFAQ, launch plan, event plan, sunset plan, AI PRD addendum | Event | Varies | 04, 25, 26, 30, 31, 34 | `04-prd`, `34-pr-faq`, `25-launch-plan`, `26-event-plan`, `30-end-of-life-plan`, `ai-prd-addendum` |
+| | Event artifacts: PRD, PR/FAQ, launch plan, event plan, sunset plan, AI PRD addendum | Event | Varies | 04, 25, 26, 30, 31, 34 | `04-prd`, `34-pr-faq`, `25-launch-plan`, `26-event-plan`, `30-end-of-life-plan`, `ai-prd-addendum` |
 | | Product 360 health review and maturity score | Review | All | 37, Appendix C | `37-health-review` |
 
 Three details differ from Chapter 00's list. The stakeholder map moves to the front, because you need to know whom to grill. The decision log opens on day 1, though the full cadence (spine 10) waits for the third phase; the first scope dispute needs somewhere to go. And the roadmap follows the North Star and OKRs, because a roadmap you can't trace to a measure of success is a list of features.
@@ -226,7 +226,7 @@ The plan assumes you've taken over an existing product. For a new product the or
 
 15. **Formalize the cadence** (spine 10). Put the weekly metrics review, monthly roadmap refresh and quarterly business review on the calendar, each with the artifacts it reviews and the decision it produces (Chapters 00 and 29). Start the weekly exception brief with the maintenance prompt and run at least four cycles before day 90.
 16. **Assess the lifecycle stage** (spine 11, Chapter 30) of each offering in scope, legacy ones included. That's where inherited products hide their liabilities.
-17. **Produce the event artifacts the calendar demands**: PRDs and PRFAQs (Chapters 04 and 34), launch plans (Chapter 25), event plans (Chapter 26), sunset plans (Chapter 30), AI PRD addenda (Chapter 31). Generate them from the spine. When an event artifact contradicts the spine, take the conflict to the decision log.
+17. **Produce the event artifacts the calendar demands**: PRDs and PR/FAQs (Chapters 04 and 34), launch plans (Chapter 25), event plans (Chapter 26), sunset plans (Chapter 30), AI PRD addenda (Chapter 31). Generate them from the spine. When an event artifact contradicts the spine, take the conflict to the decision log.
 18. **Hold the business review on the 360.** Present from the index and spine artifacts rather than a deck built for the occasion (Chapter 35). A slide the 360 can't support marks a gap.
 19. **Run the Product 360 health review**: each dimension's freshness, open grilling items and maturity score against Appendix C. Pick the weakest dimension as next quarter's focus.
 20. **Run a premortem on the next quarter**, write the next 90-day plan and close this one.
@@ -601,51 +601,126 @@ Start with step 1.
 Check the output: before you approve the log, scan the status column. If every item is "agreed," the harness probably went easy on you; rerun the challenge step on your three most important answers. Make sure no "agreed" answer is a fact that nobody actually confirmed.
 ```
 
-```prompt title="Grilling modules for each dimension"
-Goal: Give the master grilling session the right seed questions, chapters and challenges for each dimension.
-Paste in: the master grilling session prompt, followed by the one module below for the dimension you're grilling. The harness extends the seed questions from the gap list, so treat the seeds as a minimum. The Business, Customer and AI modules draw on finance, customer and incident data; use only approved tools.
+The ten grilling modules below (one per dimension, plus the AI module) each plug into the master grilling session. Paste the master prompt, then the one module for the dimension you're grilling. The seed questions are a minimum: the harness extends them from your gap list.
 
-Module: Customer (Chapters 01, 10). Produces: problem hypothesis, personas, job stories.
-Seeds: Who is the user, the champion, the economic buyer, the technical evaluator and the gatekeeper? What job are they hiring the product for, and what's the current alternative, including doing nothing? Which persona would we disappoint to serve another? What did the last ten customer conversations say, with sources? What evidence would kill the problem hypothesis?
-Extra challenge: reject "customers" or "users" without a named role and segment.
+```prompt title="Grilling module: Customer"
+Goal: Seed the master grilling session with the questions, chapters and challenge for the Customer dimension.
+Paste in: the master grilling session prompt, then this module, plus the gap list items for Customer. Use only approved tools for the finance, customer and incident data this module draws on.
 
-Module: Strategy (Chapters 02, 03, 13, 14, 16, 20 to 23). Produces: vision and strategy one-pager, competitive landscape.
-Seeds: What's the diagnosis in one sentence? Where do we play, and where do we refuse to play? How do we win, and what would a competitor have to do to beat us? Product or platform? What's the moat, and how fast is it eroding? How is the innovation portfolio balanced across horizons?
-Extra challenge: every strategic choice must name what we give up.
+Grill me on the Customer dimension using the master session rules. The handbook chapters behind this dimension are Chapters 01, 10; if I've provided them as context, use their frameworks and templates.
+This session produces: problem hypothesis, personas, job stories..
+Start from these seed questions and add any the gap list requires: Who is the user, the champion, the economic buyer, the technical evaluator and the gatekeeper? What job are they hiring the product for, and what's the current alternative, including doing nothing? Which persona would we disappoint to serve another? What did the last ten customer conversations say, with sources? What evidence would kill the problem hypothesis?
+Extra challenge for this dimension: reject "customers" or "users" without a named role and segment.
 
-Module: Business (Chapters 12, 13, 15). Produces: business model and unit economics summary.
-Seeds: How do we make money, by segment and channel? What are the unit economics and the margin trend? What's the pricing metric and how does it track customer value? What would make the business case false? What does finance believe that the product team doesn't?
-Extra challenge: every number must cite the finance source and date.
+Check the output: compare the finished grilling log against the "produces" line. Each artifact listed needs enough agreed or overridden answers to fill its template; if one doesn't, schedule a short follow-up session rather than letting generation fill the gap.
+```
 
-Module: Build (Chapters 03, 04, 06, 07, 11). Produces: outcome roadmap, backlog policy.
-Seeds: What's in now, next and later, and which outcome does each item serve? What did we stop doing, and who was told? Which delivery model fits each team? Which technical debt is a product bet? Which dependencies on other teams could break the plan?
-Extra challenge: any roadmap item that doesn't trace to an outcome or a strategy choice is flagged.
+```prompt title="Grilling module: Strategy"
+Goal: Seed the master grilling session with the questions, chapters and challenge for the Strategy dimension.
+Paste in: the master grilling session prompt, then this module, plus the gap list items for Strategy.
 
-Module: Measure (Chapters 02, 05, 08, 09, 17, 18, 19). Produces: North Star and metric tree, OKRs, dashboard spec.
-Seeds: What's the North Star and why does it reflect customer value rather than usage? Which input metrics can teams move? What decision does each metric inform? Where are the definitions disputed or the data untrusted? Which OKRs are outcomes rather than outputs?
-Extra challenge: every metric needs an exact definition, an owner and the decision it informs.
+Grill me on the Strategy dimension using the master session rules. The handbook chapters behind this dimension are Chapters 02, 03, 13, 14, 16, 20 to 23; if I've provided them as context, use their frameworks and templates.
+This session produces: vision and strategy one-pager, competitive landscape..
+Start from these seed questions and add any the gap list requires: What's the diagnosis in one sentence? Where do we play, and where do we refuse to play? How do we win, and what would a competitor have to do to beat us? Product or platform? What's the moat, and how fast is it eroding? How is the innovation portfolio balanced across horizons?
+Extra challenge for this dimension: every strategic choice must name what we give up.
 
-Module: Go-to-market (Chapters 24 to 27). Produces: positioning and messaging, launch tiers, enablement plan.
-Seeds: What's the positioning statement, category and proof? What's in the next launch and at which tier? What do sales and customer success need that they don't have? How does field feedback reach the roadmap, and how fast?
-Extra challenge: every claim in positioning must be supported by the product's current capability and risk assessment.
+Check the output: compare the finished grilling log against the "produces" line. Each artifact listed needs enough agreed or overridden answers to fill its template; if one doesn't, schedule a short follow-up session rather than letting generation fill the gap.
+```
 
-Module: Operate (Chapters 28, 29). Produces: operating cadence, decision log, risk register.
-Seeds: Which rituals exist, and what decision does each produce? Who holds decision rights for pricing, roadmap, launches and sunsets? What's on the risk register, with owners? Which ritual should be cancelled?
-Extra challenge: a ritual with no decision output is proposed for cancellation.
+```prompt title="Grilling module: Business"
+Goal: Seed the master grilling session with the questions, chapters and challenge for the Business dimension.
+Paste in: the master grilling session prompt, then this module, plus the gap list items for Business. Use only approved tools for the finance, customer and incident data this module draws on.
 
-Module: Lifecycle (Chapter 30). Produces: lifecycle stage assessment, sunset candidates.
-Seeds: What stage is each offering in, with evidence? Which offerings or features are sunset candidates? What migration obligations, contracts or notice periods apply? What would it cost to keep a declining offering another year?
-Extra challenge: no offering is "growth" without trend evidence.
+Grill me on the Business dimension using the master session rules. The handbook chapters behind this dimension are Chapters 08, 12, 13, 15; if I've provided them as context, use their frameworks and templates.
+This session produces: business model and unit economics summary..
+Start from these seed questions and add any the gap list requires: How do we make money, by segment and channel? What are the unit economics and the margin trend? What's the pricing metric and how does it track customer value? What would make the business case false? What does finance believe that the product team doesn't?
+Extra challenge for this dimension: every number must cite the finance source and date.
 
-Module: Leadership (Chapters 34, 35, 36). Produces: stakeholder map and DACI, communication plan.
-Seeds: Who can say no to the top three decisions this quarter? What's the DACI for each? Which stakeholder relationship is weakest, and why? What does each audience need to hear, how often and in what format?
-Extra challenge: every DACI names one approver.
+Check the output: compare the finished grilling log against the "produces" line. Each artifact listed needs enough agreed or overridden answers to fill its template; if one doesn't, schedule a short follow-up session rather than letting generation fill the gap.
+```
 
-Module: AI (Chapters 31, 32, 33). Produces: eval plan, AI cost model, model and vendor register, AI risk assessment.
-Seeds: What does "good" mean for each AI feature, who decided, and what are the current eval scores? What score blocks a release? What does one task or outcome cost in inference, and what's the trend? Which models and versions are in use, with deprecation dates? What's the worst thing the product has done, and what changed afterward? Which regulatory duties apply in which markets? How does the team itself use the harness, and with which data?
-Extra challenge: run the premortem as "the AI caused an incident at a customer."
+```prompt title="Grilling module: Build"
+Goal: Seed the master grilling session with the questions, chapters and challenge for the Build dimension.
+Paste in: the master grilling session prompt, then this module, plus the gap list items for Build.
 
-Check the output: after the session, compare the log against the module's "Produces" line. Every listed artifact should have enough agreed or overridden answers to fill its template; if one doesn't, schedule a short follow-up session rather than letting generation fill the gap.
+Grill me on the Build dimension using the master session rules. The handbook chapters behind this dimension are Chapters 03, 04, 06, 07, 11; if I've provided them as context, use their frameworks and templates.
+This session produces: outcome roadmap, backlog policy..
+Start from these seed questions and add any the gap list requires: What's in now, next and later, and which outcome does each item serve? What did we stop doing, and who was told? Which delivery model fits each team? Which technical debt is a product bet? Which dependencies on other teams could break the plan?
+Extra challenge for this dimension: any roadmap item that doesn't trace to an outcome or a strategy choice is flagged.
+
+Check the output: compare the finished grilling log against the "produces" line. Each artifact listed needs enough agreed or overridden answers to fill its template; if one doesn't, schedule a short follow-up session rather than letting generation fill the gap.
+```
+
+```prompt title="Grilling module: Measure"
+Goal: Seed the master grilling session with the questions, chapters and challenge for the Measure dimension.
+Paste in: the master grilling session prompt, then this module, plus the gap list items for Measure.
+
+Grill me on the Measure dimension using the master session rules. The handbook chapters behind this dimension are Chapters 02, 05, 09, 17, 18, 19; if I've provided them as context, use their frameworks and templates.
+This session produces: North Star and metric tree, OKRs, dashboard spec..
+Start from these seed questions and add any the gap list requires: What's the North Star and why does it reflect customer value rather than usage? Which input metrics can teams move? What decision does each metric inform? Where are the definitions disputed or the data untrusted? Which OKRs are outcomes rather than outputs?
+Extra challenge for this dimension: every metric needs an exact definition, an owner and the decision it informs.
+
+Check the output: compare the finished grilling log against the "produces" line. Each artifact listed needs enough agreed or overridden answers to fill its template; if one doesn't, schedule a short follow-up session rather than letting generation fill the gap.
+```
+
+```prompt title="Grilling module: Go-to-market"
+Goal: Seed the master grilling session with the questions, chapters and challenge for the Go-to-market dimension.
+Paste in: the master grilling session prompt, then this module, plus the gap list items for Go-to-market.
+
+Grill me on the Go-to-market dimension using the master session rules. The handbook chapters behind this dimension are Chapters 24 to 27; if I've provided them as context, use their frameworks and templates.
+This session produces: positioning and messaging, launch tiers, enablement plan..
+Start from these seed questions and add any the gap list requires: What's the positioning statement, category and proof? What's in the next launch and at which tier? What do sales and customer success need that they don't have? How does field feedback reach the roadmap, and how fast?
+Extra challenge for this dimension: every claim in positioning must be supported by the product's current capability and risk assessment.
+
+Check the output: compare the finished grilling log against the "produces" line. Each artifact listed needs enough agreed or overridden answers to fill its template; if one doesn't, schedule a short follow-up session rather than letting generation fill the gap.
+```
+
+```prompt title="Grilling module: Operate"
+Goal: Seed the master grilling session with the questions, chapters and challenge for the Operate dimension.
+Paste in: the master grilling session prompt, then this module, plus the gap list items for Operate.
+
+Grill me on the Operate dimension using the master session rules. The handbook chapters behind this dimension are Chapters 28, 29; if I've provided them as context, use their frameworks and templates.
+This session produces: operating cadence, decision log, risk register..
+Start from these seed questions and add any the gap list requires: Which rituals exist, and what decision does each produce? Who holds decision rights for pricing, roadmap, launches and sunsets? What's on the risk register, with owners? Which ritual should be cancelled?
+Extra challenge for this dimension: a ritual with no decision output is proposed for cancellation.
+
+Check the output: compare the finished grilling log against the "produces" line. Each artifact listed needs enough agreed or overridden answers to fill its template; if one doesn't, schedule a short follow-up session rather than letting generation fill the gap.
+```
+
+```prompt title="Grilling module: Lifecycle"
+Goal: Seed the master grilling session with the questions, chapters and challenge for the Lifecycle dimension.
+Paste in: the master grilling session prompt, then this module, plus the gap list items for Lifecycle.
+
+Grill me on the Lifecycle dimension using the master session rules. The handbook chapters behind this dimension are Chapter 30; if I've provided them as context, use their frameworks and templates.
+This session produces: lifecycle stage assessment, sunset candidates..
+Start from these seed questions and add any the gap list requires: What stage is each offering in, with evidence? Which offerings or features are sunset candidates? What migration obligations, contracts or notice periods apply? What would it cost to keep a declining offering another year?
+Extra challenge for this dimension: no offering is "growth" without trend evidence.
+
+Check the output: compare the finished grilling log against the "produces" line. Each artifact listed needs enough agreed or overridden answers to fill its template; if one doesn't, schedule a short follow-up session rather than letting generation fill the gap.
+```
+
+```prompt title="Grilling module: Leadership"
+Goal: Seed the master grilling session with the questions, chapters and challenge for the Leadership dimension.
+Paste in: the master grilling session prompt, then this module, plus the gap list items for Leadership.
+
+Grill me on the Leadership dimension using the master session rules. The handbook chapters behind this dimension are Chapters 34, 35, 36; if I've provided them as context, use their frameworks and templates.
+This session produces: stakeholder map and DACI, communication plan..
+Start from these seed questions and add any the gap list requires: Who can say no to the top three decisions this quarter? What's the DACI for each? Which stakeholder relationship is weakest, and why? What does each audience need to hear, how often and in what format?
+Extra challenge for this dimension: every DACI names one approver.
+
+Check the output: compare the finished grilling log against the "produces" line. Each artifact listed needs enough agreed or overridden answers to fill its template; if one doesn't, schedule a short follow-up session rather than letting generation fill the gap.
+```
+
+```prompt title="Grilling module: AI"
+Goal: Seed the master grilling session with the questions, chapters and challenge for the AI module.
+Paste in: the master grilling session prompt, then this module, plus the gap list items for AI. Use only approved tools for the finance, customer and incident data this module draws on.
+
+Grill me on AI across all nine dimensions using the master session rules. The handbook chapters behind this module are Chapters 31, 32, 33; if I've provided them as context, use their frameworks and templates.
+This session produces: eval plan, AI cost model, model and vendor register, AI risk assessment..
+Start from these seed questions and add any the gap list requires: What does "good" mean for each AI feature, who decided, and what are the current eval scores? What score blocks a release? What does one task or outcome cost in inference, and what's the trend? Which models and versions are in use, with deprecation dates? What's the worst thing the product has done, and what changed afterward? Which regulatory duties apply in which markets? How does the team itself use the harness, and with which data?
+Extra challenge for this dimension: run the premortem as "the AI caused an incident at a customer."
+
+Check the output: compare the finished grilling log against the "produces" line. Each artifact listed needs enough agreed or overridden answers to fill its template; if one doesn't, schedule a short follow-up session rather than letting generation fill the gap.
 ```
 
 ```prompt title="Generate a Product 360 artifact from grilling logs"

@@ -335,6 +335,8 @@ kbd {
   .prose { font-size: 17px; }
   .prose h2 { font-size: 24px; }
   .pager { grid-template-columns: 1fr; }
+  .prose td, .prose th { min-width: 150px; }
+  .prose td:first-child, .prose th:first-child { min-width: 90px; }
   .pg-n { grid-column: 1; }
   .brand-s { display: none; }
 }

@@ -14,7 +14,7 @@ The fix is a chain of artifacts, each answering one question:
 4. **OKRs**: what behavior change are we committing to this quarter, and how will we know?
 5. **Goal review**: is the chain still holding, and what do we change?
 
-These are the Goals dimension of your Product 360 (Chapter 00). They sit on top of the Customer dimension from Chapter 01: the vision describes a change for the personas you validated, and the North Star counts the job those personas hire you to do. Strategy and the roadmap (Chapter 03) then describe how you get there.
+These artifacts anchor the Strategy and Measure dimensions of your Product 360 (Chapter 00). They sit on top of the Customer dimension from Chapter 01: the vision describes a change for the personas you validated, and the North Star counts the job those personas hire you to do. Strategy and the roadmap (Chapter 03) then describe how you get there.
 
 ## Vision, goals and the layers between
 
@@ -277,7 +277,7 @@ Quality, trust and cost usually act as guardrails while the value goal is pushed
 
 **Decide what to automate before setting autonomy goals.** The guidebook distinguishes automation, suited to tedious, hard or risky tasks, from augmentation, suited to tasks people enjoy or feel responsible for. An autonomy goal is legitimate only for tasks customers want automated. Elsewhere, the goal is a better human decision, measured by acceptance and outcome.
 
-**Make cost a first-class goal.** Inference cost scales with use, so the most successful AI feature can also be the most expensive. Stripe's 2025 framework for pricing AI products names three kinds of charge metric: **consumption** (per unit of usage, loosely tied to value), **workflow** (per completed task) and **outcome** (only when a defined result happens, closest to value and riskiest for the seller). When the price meter is an outcome, the North Star, the revenue metric and the customer's value become one number, and cost per outcome decides the margin. Intercom's Fin charges $0.99 per resolution and publishes what counts as one: the customer asks for no further help after Fin's last answer. If your North Star may become a price meter, its definition has to be one a customer can audit. Chapter 15 covers pricing.
+**Make cost a first-class goal.** Inference cost scales with use, so the most successful AI feature can also be the most expensive. Stripe's 2025 framework for pricing AI products names three kinds of charge metric: **consumption** (per unit of usage, loosely tied to value), **workflow** (per completed task) and **outcome** (only when a defined result happens, closest to value and riskiest for the seller). When the price meter is an outcome, the North Star, the revenue metric and the customer's value become one number, and cost per outcome decides the margin. Intercom's Fin charges $0.99 per outcome and publishes what counts as one, for example a customer who asks for no further help after Fin's last answer. If your North Star may become a price meter, its definition has to be one a customer can audit. Chapter 15 covers pricing.
 
 **Expect reviewers to read your trust goals.** Wrong-action rate, override rate and audit completeness are what a customer's security reviewer, and increasingly a regulator, will ask about. NIST's AI Risk Management Framework, released in January 2023 and extended with a Generative AI Profile in July 2024, organizes the work into four functions: govern, map, measure and manage. Your trust guardrails are evidence for "measure." Chapter 33 covers regulation.
 
