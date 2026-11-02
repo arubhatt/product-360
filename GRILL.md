@@ -411,7 +411,7 @@ You said "private for now, available on github.com eventually." Your `gh` CLI is
 
 GitHub can't make a single branch private. Privacy is set at the repo level.
 
-**Recommended:** A private repo named `product-360-handbook`, with the site on `main`. When you're ready to publish, you flip the repo to public and turn on GitHub Pages from `main`. Note that GitHub Pages on a private repo needs a paid GitHub plan, so on a free plan the site goes live only after the repo is public.
+**Recommended:** A private repo named `product-360` (renamed from `product-360-handbook` on 2026-11-02), with the site on `main`. When you're ready to publish, you flip the repo to public and turn on GitHub Pages from `main`. Note that GitHub Pages on a private repo needs a paid GitHub plan, so on a free plan the site goes live only after the repo is public.
 
 **Your answer:** As recommended
 
