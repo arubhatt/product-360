@@ -1,6 +1,6 @@
 # The Product 360 Handbook
 
-*Building, Running and Governing Products in the AI Era.* A field guide and operating system for product leaders, 2026 edition. Curated by Arunabh Bhattacharjee.
+*Building, Running and Governing Products in the AI Era.* Read it at <https://arubhatt.github.io/product-360/>. A field guide and operating system for product leaders, 2026 edition. Curated by Arunabh Bhattacharjee.
 
 The handbook is a self-contained textbook for product managers and a framework for building a "Product 360" (the complete set of artifacts, rituals and decisions that make a product legible) for any product surface area. It covers the topics of the Product Management 360 certificate, plus go-to-market, product operations, lifecycle management and AI-era product management. It is independent of Cornell University and eCornell.
 
@@ -44,9 +44,9 @@ Add `--pdf` to also print the full book to `docs/product-360-handbook.pdf` (uses
 | `REFERENCES.md` | Every source used, grouped by chapter |
 | `GRILL.md` | The scoping decisions behind the book |
 
-## Publish with GitHub Pages
+## Read it online
 
-The repository is private. To publish, make it public (or use a GitHub plan that allows Pages on private repositories), then in **Settings → Pages** choose **Deploy from a branch**, branch `main`, folder `/docs`.
+Live at <https://arubhatt.github.io/product-360/>, published with GitHub Pages from the `/docs` folder on `main`. Pushing a rebuilt `docs/` to `main` updates the site.
 
 ## License
 
