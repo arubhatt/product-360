@@ -5,6 +5,7 @@
   "series": "Product Leadership Series",
   "author": "Arunabh Bhattacharjee",
   "github": "https://github.com/arubhatt",
+  "linkedin": "https://www.linkedin.com/in/arubhatt",
   "edition": "2026 edition",
   "front": [
     {"num": "", "slug": "preface", "title": "Preface: How to Use This Book", "summary": "Who this book is for, how it is organized, and how to turn it into your own Product 360.", "file": "preface.md"},

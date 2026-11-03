@@ -36,7 +36,7 @@ CONTENT = ROOT / "content"
 CHAPTERS = CONTENT / "chapters"
 ASSETS = ROOT / "assets"
 OUT = ROOT / "docs"
-VERSION = "2"
+VERSION = "4"
 
 CALLOUT_LABELS = {
     "note": "Note",
@@ -197,6 +197,13 @@ def sidebar(book, entries, current):
     return "".join(rows)
 
 
+GITHUB = (
+    '<svg viewBox="0 0 16 16" width="16" height="16" fill="currentColor" aria-hidden="true"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82a7.6 7.6 0 012-.27c.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.01 8.01 0 0016 8c0-4.42-3.58-8-8-8z"/></svg>'
+)
+LINKEDIN = (
+    '<svg viewBox="0 0 16 16" width="16" height="16" fill="currentColor" aria-hidden="true"><path d="M0 1.146C0 .513.526 0 1.175 0h13.65C15.474 0 16 .513 16 1.146v13.708c0 .633-.526 1.146-1.175 1.146H1.175C.526 16 0 15.487 0 14.854V1.146zm4.943 12.248V6.169H2.542v7.225h2.401zm-1.2-8.212c.837 0 1.358-.554 1.358-1.248-.015-.709-.52-1.248-1.342-1.248-.822 0-1.359.54-1.359 1.248 0 .694.521 1.248 1.327 1.248h.016zm4.908 8.212V9.359c0-.216.016-.432.08-.586.173-.431.568-.878 1.232-.878.869 0 1.216.662 1.216 1.634v3.865h2.401V9.25c0-2.22-1.184-3.252-2.764-3.252-1.274 0-1.845.7-2.165 1.193v.025h-.016a5.54 5.54 0 0 1 .016-.025V6.169h-2.4c.03.678 0 7.225 0 7.225h2.4z"/></svg>'
+)
+
 LOGO = (
     '<svg class="logo" viewBox="0 0 32 32" aria-hidden="true"><defs><linearGradient id="lg" x1="0" y1="0" x2="1" y2="1">'
     '<stop offset="0" stop-color="var(--a1)"/><stop offset=".5" stop-color="var(--a2)"/><stop offset="1" stop-color="var(--a3)"/>'
@@ -232,13 +239,14 @@ def page(book, entries, current, title, body, toc_html="", description=""):
     <button class="ibtn search-btn" data-search-open aria-label="Search"><svg viewBox="0 0 24 24" width="15" height="15" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4-4"/></svg><span class="hide-sm">Search</span><kbd class="hide-sm">/</kbd></button>
     {pdf}
     <a class="ibtn" href="{book['github']}" target="_blank" rel="noopener" aria-label="{html.escape(book['author'])} on GitHub" title="GitHub"><svg viewBox="0 0 16 16" width="16" height="16" fill="currentColor" aria-hidden="true"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82a7.6 7.6 0 012-.27c.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.01 8.01 0 0016 8c0-4.42-3.58-8-8-8z"/></svg></a>
+    <a class="ibtn" href="{book['linkedin']}" target="_blank" rel="noopener" aria-label="{html.escape(book['author'])} on LinkedIn" title="LinkedIn">{LINKEDIN}</a>
     <button class="ibtn" id="theme-btn" aria-label="Toggle light and dark"><svg viewBox="0 0 24 24" width="15" height="15" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/></svg></button>
   </div>
 </header>
 <div class="shell">
   <aside class="side" id="side">{side}</aside>
   <div class="scrim" id="scrim"></div>
-  <main class="main" id="main">{body}</main>
+  <main class="main" id="main">{body}{site_footer(book)}</main>
   {rail}
 </div>
 <div class="search-modal" id="search-modal" hidden>
@@ -253,6 +261,19 @@ def page(book, entries, current, title, body, toc_html="", description=""):
 </body>
 </html>
 """
+
+
+def site_footer(book):
+    pdf = '<a class="foot-u" href="product-360-handbook.pdf">Download PDF</a>' if (OUT / "product-360-handbook.pdf").exists() else ""
+    return (
+        '<footer class="site-foot"><div class="foot-in">'
+        f'<span class="foot-cur">Curated by <a class="foot-u" href="{book["github"]}" target="_blank" rel="noopener">{html.escape(book["author"])}</a>'
+        f' <span class="foot-dot">·</span> {html.escape(book["series"])}</span>'
+        f'<span class="foot-r">{pdf}'
+        f'<a class="foot-ic" href="{book["github"]}" target="_blank" rel="noopener">{GITHUB} github.com/arubhatt</a>'
+        f'<a class="foot-ic" href="{book["linkedin"]}" target="_blank" rel="noopener">{LINKEDIN} linkedin.com/in/arubhatt</a>'
+        "</span></div></footer>"
+    )
 
 
 def toc_list(tokens):
@@ -446,7 +467,6 @@ def home(book, entries):
 <section class="part-card"><div class="part-h"><span class="part-n">Front</span><h3>Start here</h3><p>The model the rest of the book builds on.</p></div><div class="toc-g">{front}</div></section>
 {''.join(cards)}
 <section class="part-card"><div class="part-h"><span class="part-n">Back</span><h3>Appendices</h3><p>The libraries you will keep open in a tab.</p></div><div class="toc-g">{back}</div></section>
-<footer class="foot">Curated by <a href="{book['github']}">{html.escape(book['author'])}</a> · {html.escape(book['series'])}</footer>
 """
 
 
